@@ -1,0 +1,46 @@
+{
+  "tenantId": "ch",
+  "moduleName": "tenant",
+  "tenants": [
+    {
+      "code": "ch.tcp",
+      "ulbCode": "TCP",
+      "districtCode": "STATE",
+      "name": "Town and Country Planning",
+      "description": "Town and Country Planning Department, Chhattisgarh",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://tcp.chhattisgarh.gov.in/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "tcp.cg@gov.in",
+      "OfficeTimings": {
+        "Mon - Fri": "10.00 AM - 5.30 PM"
+      },
+      "city": {
+        "name": "Chhattisgarh TCP",
+        "localName": "Chhattisgarh TCP",
+        "districtCode": "00",
+        "districtName": "State Level",
+        "districtTenantCode": "ch",
+        "regionName": "Chhattisgarh",
+        "ulbGrade": "STATE_DEPARTMENT",
+        "ulbType": "TOWN_AND_COUNTRY_PLANNING",
+        "longitude": 81.6296,
+        "latitude": 21.2514,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "000",
+        "regionCode": "CG",
+        "municipalityName": "Town and Country Planning Department",
+        "ddrName": "Raipur",
+        "pwssb": false,
+        "pwssbGrade": null
+      },
+      "address": "Town and Country Planning Department, Nava Raipur, Chhattisgarh",
+      "contactNumber": "0771-0000000",
+      "PGRMasterContact": "9999999999"
+    }
+  ]
+}

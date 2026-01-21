@@ -1,0 +1,94 @@
+{
+  "documentObj": [
+      {
+          "allowedDocs": [
+              {
+                  "applicationType": [
+                      "NEW",
+                      "RENEWAL"
+                  ],
+                  "documentType": "OWNERIDPROOF",
+                  "required": true
+              },
+              {
+                  "applicationType": [
+                      "NEW",
+                      "RENEWAL"
+                  ],
+                  "documentType": "OWNERSHIPPROOF",
+                  "required": true
+              },
+              {
+                  "applicationType": [
+                      "NEW",
+                      "RENEWAL"
+                  ],
+                  "documentType": "OWNERPHOTO",
+                  "required": false
+              },
+              {
+                  "applicationType": [
+                      "NEW",
+                      "RENEWAL"
+                  ],
+                  "documentType": "OWNERSELF",
+                  "required": true
+              },
+              {
+                  "applicationType": [
+                      "RENEWAL"
+                  ],
+                  "documentType": "OLDLICENCENO",
+                  "required": false
+              }
+          ],
+          "tradeType": "GOODS"
+      },
+      {
+          "allowedDocs": [
+              {
+                  "applicationType": [
+                      "NEW",
+                      "RENEWAL"
+                  ],
+                  "documentType": "OWNERIDPROOF",
+                  "required": true
+              },
+              {
+                  "applicationType": [
+                      "NEW",
+                      "RENEWAL"
+                  ],
+                  "documentType": "OWNERSHIPPROOF",
+                  "required": true
+              },
+              {
+                  "applicationType": [
+                      "NEW",
+                      "RENEWAL"
+                  ],
+                  "documentType": "OWNERPHOTO",
+                  "required": false
+              },
+              {
+                  "applicationType": [
+                      "NEW",
+                      "RENEWAL"
+                  ],
+                  "documentType": "OWNERSELF",
+                  "required": true
+              },
+              {
+                  "applicationType": [
+                      "RENEWAL"
+                  ],
+                  "documentType": "OLDLICENCENO",
+                  "required": false
+              }
+          ],
+          "tradeType": "SERVICES"
+      }
+  ],
+  "moduleName": "TradeLicense",
+  "tenantId": "ch"
+}

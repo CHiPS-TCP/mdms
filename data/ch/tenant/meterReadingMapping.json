@@ -1,0 +1,14 @@
+{
+  "tenantId": "ch",
+  "moduleName": "tenant",
+  "meterReadingMapping": [
+    {
+      "tenantId": "ch.amritsar",
+      "status": "Active",
+      "usageCategory": [
+        "NONRESIDENTIAL.COMMERCIAL",
+        "MIXED"
+      ]
+    }
+  ]
+}

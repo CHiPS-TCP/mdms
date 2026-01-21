@@ -1,0 +1,2572 @@
+{
+    "tenantId": "ch",
+    "moduleName": "Chatbot",
+    "CityLocaleMasterData": [
+        {
+            "cityName": "Abohar",
+            "locale": "in_en",
+            "tenantId": "ch.abohar"
+        },
+        {
+            "cityName": "अबोहर",
+            "locale": "in_hi",
+            "tenantId": "ch.abohar"
+        },
+        {
+            "cityName": "ਅਬੋਹਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.abohar"
+        },
+        {
+            "cityName": "Adampur",
+            "locale": "in_en",
+            "tenantId": "ch.adampur"
+        },
+        {
+            "cityName": "आदमपुर",
+            "locale": "in_hi",
+            "tenantId": "ch.adampur"
+        },
+        {
+            "cityName": "ਆਦਮਪੁਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.adampur"
+        },
+        {
+            "cityName": "Ahmedgarh",
+            "locale": "in_en",
+            "tenantId": "ch.ahmedgarh"
+        },
+        {
+            "cityName": "अहमदगढ़",
+            "locale": "in_hi",
+            "tenantId": "ch.ahmedgarh"
+        },
+        {
+            "cityName": "ਅਹਿਮਦਗੜ",
+            "locale": "in_pb",
+            "tenantId": "ch.ahmedgarh"
+        },
+        {
+            "cityName": "Ajnala",
+            "locale": "in_en",
+            "tenantId": "ch.ajnala"
+        },
+        {
+            "cityName": "अजनाला",
+            "locale": "in_hi",
+            "tenantId": "ch.ajnala"
+        },
+        {
+            "cityName": "ਅਜਨਾਲਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.ajnala"
+        },
+        {
+            "cityName": "Alawalpur",
+            "locale": "in_en",
+            "tenantId": "ch.alawalpur"
+        },
+        {
+            "cityName": "अलावलपुर",
+            "locale": "in_hi",
+            "tenantId": "ch.alawalpur"
+        },
+        {
+            "cityName": "ਅਲਾਵਲਪੁਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.alawalpur"
+        },
+        {
+            "cityName": "Amargarh",
+            "locale": "in_en",
+            "tenantId": "ch.amargarh"
+        },
+        {
+            "cityName": "अमरगढ़",
+            "locale": "in_hi",
+            "tenantId": "ch.amargarh"
+        },
+        {
+            "cityName": "ਅਮਰਗੜ",
+            "locale": "in_pb",
+            "tenantId": "ch.amargarh"
+        },
+        {
+            "cityName": "Amloh",
+            "locale": "in_en",
+            "tenantId": "ch.amloh"
+        },
+        {
+            "cityName": "अमलोह",
+            "locale": "in_hi",
+            "tenantId": "ch.amloh"
+        },
+        {
+            "cityName": "ਅਮਲੋਹ",
+            "locale": "in_pb",
+            "tenantId": "ch.amloh"
+        },
+        {
+            "cityName": "Amritsar",
+            "locale": "in_en",
+            "tenantId": "ch.amritsar"
+        },
+        {
+            "cityName": "अमृतसर",
+            "locale": "in_hi",
+            "tenantId": "ch.amritsar"
+        },
+        {
+            "cityName": "ਅੰੰਮਿ੍ਤਸਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.amritsar"
+        },
+        {
+            "cityName": "anandpursahib",
+            "locale": "in_en",
+            "tenantId": "ch.anandpursahib"
+        },
+        {
+            "cityName": "आनन्दपुर साहिब",
+            "locale": "in_hi",
+            "tenantId": "ch.anandpursahib"
+        },
+        {
+            "cityName": "anandpursahib",
+            "locale": "in_pb",
+            "tenantId": "ch.anandpursahib"
+        },
+        {
+            "cityName": "Arniwala",
+            "locale": "in_en",
+            "tenantId": "ch.arniwala"
+        },
+        {
+            "cityName": "अरनीवाला",
+            "locale": "in_hi",
+            "tenantId": "ch.arniwala"
+        },
+        {
+            "cityName": "ਅਰਨੀਵਾਲਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.arniwala"
+        },
+        {
+            "cityName": "BadhniKalan",
+            "locale": "in_en",
+            "tenantId": "ch.badhnikalan"
+        },
+        {
+            "cityName": "बधनीकला",
+            "locale": "in_hi",
+            "tenantId": "ch.badhnikalan"
+        },
+        {
+            "cityName": "ਬੱਧਨੀਕਲਾਂ",
+            "locale": "in_pb",
+            "tenantId": "ch.badhnikalan"
+        },
+        {
+            "cityName": "Baghapurana",
+            "locale": "in_en",
+            "tenantId": "ch.baghapurana"
+        },
+        {
+            "cityName": "बाघापुराना",
+            "locale": "in_hi",
+            "tenantId": "ch.baghapurana"
+        },
+        {
+            "cityName": "ਬਾਘਾਪੁਰਾਣਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.baghapurana"
+        },
+        {
+            "cityName": "Balachaur",
+            "locale": "in_en",
+            "tenantId": "ch.balachaur"
+        },
+        {
+            "cityName": "बलाचौर",
+            "locale": "in_hi",
+            "tenantId": "ch.balachaur"
+        },
+        {
+            "cityName": "ਬਲਾਚੌਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.balachaur"
+        },
+        {
+            "cityName": "Ballianwala",
+            "locale": "in_en",
+            "tenantId": "ch.ballianwala"
+        },
+        {
+            "cityName": "बल्लिया वाला",
+            "locale": "in_hi",
+            "tenantId": "ch.ballianwala"
+        },
+        {
+            "cityName": "ਬਾਲੀਆਂਵਾਲਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.ballianwala"
+        },
+        {
+            "cityName": "Banga",
+            "locale": "in_en",
+            "tenantId": "ch.banga"
+        },
+        {
+            "cityName": "बंगा",
+            "locale": "in_hi",
+            "tenantId": "ch.banga"
+        },
+        {
+            "cityName": "ਬੰਗਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.banga"
+        },
+        {
+            "cityName": "Banur",
+            "locale": "in_en",
+            "tenantId": "ch.banur"
+        },
+        {
+            "cityName": "बनूर",
+            "locale": "in_hi",
+            "tenantId": "ch.banur"
+        },
+        {
+            "cityName": "ਬਨੂੜ",
+            "locale": "in_pb",
+            "tenantId": "ch.banur"
+        },
+        {
+            "cityName": "Bareta",
+            "locale": "in_en",
+            "tenantId": "ch.bareta"
+        },
+        {
+            "cityName": "बरेटा",
+            "locale": "in_hi",
+            "tenantId": "ch.bareta"
+        },
+        {
+            "cityName": "ਬਰੇਟਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.bareta"
+        },
+        {
+            "cityName": "Bariwala",
+            "locale": "in_en",
+            "tenantId": "ch.bariwala"
+        },
+        {
+            "cityName": "बरीवाला",
+            "locale": "in_hi",
+            "tenantId": "ch.bariwala"
+        },
+        {
+            "cityName": "ਬਰੀਵਾਲਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.bariwala"
+        },
+        {
+            "cityName": "Barnala",
+            "locale": "in_en",
+            "tenantId": "ch.barnala"
+        },
+        {
+            "cityName": "बरनाला",
+            "locale": "in_hi",
+            "tenantId": "ch.barnala"
+        },
+        {
+            "cityName": "ਬਰਨਾਲਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.barnala"
+        },
+        {
+            "cityName": "BassiPathana",
+            "locale": "in_en",
+            "tenantId": "ch.bassipathana"
+        },
+        {
+            "cityName": "बस्सीपठाना",
+            "locale": "in_hi",
+            "tenantId": "ch.bassipathana"
+        },
+        {
+            "cityName": "ਬਾਸੀਪਾਥਾਨਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.bassipathana"
+        },
+        {
+            "cityName": "Batala",
+            "locale": "in_en",
+            "tenantId": "ch.batala"
+        },
+        {
+            "cityName": "बटाला",
+            "locale": "in_hi",
+            "tenantId": "ch.batala"
+        },
+        {
+            "cityName": "ਬਟਾਲਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.batala"
+        },
+        {
+            "cityName": "Bathinda",
+            "locale": "in_en",
+            "tenantId": "ch.bathinda"
+        },
+        {
+            "cityName": "बठिंडा",
+            "locale": "in_hi",
+            "tenantId": "ch.bathinda"
+        },
+        {
+            "cityName": "ਬਠਿੰਡਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.bathinda"
+        },
+        {
+            "cityName": "Begowal",
+            "locale": "in_en",
+            "tenantId": "ch.begowal"
+        },
+        {
+            "cityName": "बेगोवाल",
+            "locale": "in_hi",
+            "tenantId": "ch.begowal"
+        },
+        {
+            "cityName": "ਬੇਗੋਵਾਲ",
+            "locale": "in_pb",
+            "tenantId": "ch.begowal"
+        },
+        {
+            "cityName": "Bhadaur",
+            "locale": "in_en",
+            "tenantId": "ch.bhadaur"
+        },
+        {
+            "cityName": "भदौर",
+            "locale": "in_hi",
+            "tenantId": "ch.bhadaur"
+        },
+        {
+            "cityName": "ਭਦੌੜ",
+            "locale": "in_pb",
+            "tenantId": "ch.bhadaur"
+        },
+        {
+            "cityName": "Bhadson",
+            "locale": "in_en",
+            "tenantId": "ch.bhadson"
+        },
+        {
+            "cityName": "भादसों",
+            "locale": "in_hi",
+            "tenantId": "ch.bhadson"
+        },
+        {
+            "cityName": "ਭਾਦਸਨ",
+            "locale": "in_pb",
+            "tenantId": "ch.bhadson"
+        },
+        {
+            "cityName": "Bhagta Bhai",
+            "locale": "in_en",
+            "tenantId": "ch.bhagta bhai"
+        },
+        {
+            "cityName": "भगत भाई",
+            "locale": "in_hi",
+            "tenantId": "ch.bhagta bhai"
+        },
+        {
+            "cityName": "ਭਗਤਾ ਭਾਈ",
+            "locale": "in_pb",
+            "tenantId": "ch.bhagta bhai"
+        },
+        {
+            "cityName": "Bhai Roopa",
+            "locale": "in_en",
+            "tenantId": "ch.bhai roopa"
+        },
+        {
+            "cityName": "भाई रूपा",
+            "locale": "in_hi",
+            "tenantId": "ch.bhai roopa"
+        },
+        {
+            "cityName": "ਭਾਈ ਰੂਪਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.bhai roopa"
+        },
+        {
+            "cityName": "Bhawanigarh",
+            "locale": "in_en",
+            "tenantId": "ch.bhawanigarh"
+        },
+        {
+            "cityName": "भवानीगढ़",
+            "locale": "in_hi",
+            "tenantId": "ch.bhawanigarh"
+        },
+        {
+            "cityName": "ਭਵਾਨੀਗੜ",
+            "locale": "in_pb",
+            "tenantId": "ch.bhawanigarh"
+        },
+        {
+            "cityName": "Bhikhi",
+            "locale": "in_en",
+            "tenantId": "ch.bhikhi"
+        },
+        {
+            "cityName": "भिखी",
+            "locale": "in_hi",
+            "tenantId": "ch.bhikhi"
+        },
+        {
+            "cityName": "ਭੀਖੀ",
+            "locale": "in_pb",
+            "tenantId": "ch.bhikhi"
+        },
+        {
+            "cityName": "Bhikhi Wind",
+            "locale": "in_en",
+            "tenantId": "ch.bhikhi wind"
+        },
+        {
+            "cityName": "भीखी हवा",
+            "locale": "in_hi",
+            "tenantId": "ch.bhikhi wind"
+        },
+        {
+            "cityName": "ਭੀਖੀ ਹਵਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.bhikhi wind"
+        },
+        {
+            "cityName": "Bhogpur",
+            "locale": "in_en",
+            "tenantId": "ch.bhogpur"
+        },
+        {
+            "cityName": "भोगपुर",
+            "locale": "in_hi",
+            "tenantId": "ch.bhogpur"
+        },
+        {
+            "cityName": "ਭੋਗਪੁਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.bhogpur"
+        },
+        {
+            "cityName": "BhuchoMandi",
+            "locale": "in_en",
+            "tenantId": "ch.bhuchomandi"
+        },
+        {
+            "cityName": "भुच्चोमंडी",
+            "locale": "in_hi",
+            "tenantId": "ch.bhuchomandi"
+        },
+        {
+            "cityName": "ਭੁੱਚੋਮੰਦੀ",
+            "locale": "in_pb",
+            "tenantId": "ch.bhuchomandi"
+        },
+        {
+            "cityName": "Bhulath",
+            "locale": "in_en",
+            "tenantId": "ch.bhulath"
+        },
+        {
+            "cityName": "भुलैथ",
+            "locale": "in_hi",
+            "tenantId": "ch.bhulath"
+        },
+        {
+            "cityName": "ਭੁਲੱਥ",
+            "locale": "in_pb",
+            "tenantId": "ch.bhulath"
+        },
+        {
+            "cityName": "Bilga",
+            "locale": "in_en",
+            "tenantId": "ch.bilga"
+        },
+        {
+            "cityName": "बिलगा",
+            "locale": "in_hi",
+            "tenantId": "ch.bilga"
+        },
+        {
+            "cityName": "ਬਿਲਗਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.bilga"
+        },
+        {
+            "cityName": "Boha",
+            "locale": "in_en",
+            "tenantId": "ch.boha"
+        },
+        {
+            "cityName": "बोहा",
+            "locale": "in_hi",
+            "tenantId": "ch.boha"
+        },
+        {
+            "cityName": "ਬੋਹਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.boha"
+        },
+        {
+            "cityName": "Budhlada",
+            "locale": "in_en",
+            "tenantId": "ch.budhlada"
+        },
+        {
+            "cityName": "बुढलाडा",
+            "locale": "in_hi",
+            "tenantId": "ch.budhlada"
+        },
+        {
+            "cityName": "ਬੁladਲਾਡਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.budhlada"
+        },
+        {
+            "cityName": "chamkaursahib",
+            "locale": "in_en",
+            "tenantId": "ch.chamkaursahib"
+        },
+        {
+            "cityName": "चमकौरसाहिब",
+            "locale": "in_hi",
+            "tenantId": "ch.chamkaursahib"
+        },
+        {
+            "cityName": "ਚਮਕੌਰਸਹਿਬ",
+            "locale": "in_pb",
+            "tenantId": "ch.chamkaursahib"
+        },
+        {
+            "cityName": "Chaunke",
+            "locale": "in_en",
+            "tenantId": "ch.chaunke"
+        },
+        {
+            "cityName": "चौंके",
+            "locale": "in_hi",
+            "tenantId": "ch.chaunke"
+        },
+        {
+            "cityName": "ਚੌਂਕੇ",
+            "locale": "in_pb",
+            "tenantId": "ch.chaunke"
+        },
+        {
+            "cityName": "Cheema",
+            "locale": "in_en",
+            "tenantId": "ch.cheema"
+        },
+        {
+            "cityName": "चीमा",
+            "locale": "in_hi",
+            "tenantId": "ch.cheema"
+        },
+        {
+            "cityName": "ਚੀਮਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.cheema"
+        },
+        {
+            "cityName": "Dasuya",
+            "locale": "in_en",
+            "tenantId": "ch.dasuya"
+        },
+        {
+            "cityName": "दसुया",
+            "locale": "in_hi",
+            "tenantId": "ch.dasuya"
+        },
+        {
+            "cityName": "ਦਸੂਹਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.dasuya"
+        },
+        {
+            "cityName": "Dera Baba Nanak",
+            "locale": "in_en",
+            "tenantId": "ch.dera baba nanak"
+        },
+        {
+            "cityName": "डेरा बाबा नानक",
+            "locale": "in_hi",
+            "tenantId": "ch.dera baba nanak"
+        },
+        {
+            "cityName": "ਡੇਰਾ ਬਾਬਾ ਨਾਨਕ",
+            "locale": "in_pb",
+            "tenantId": "ch.dera baba nanak"
+        },
+        {
+            "cityName": "DeraBassi",
+            "locale": "in_en",
+            "tenantId": "ch.derabassi"
+        },
+        {
+            "cityName": "डेराबस्सी",
+            "locale": "in_hi",
+            "tenantId": "ch.derabassi"
+        },
+        {
+            "cityName": "ਡੇਰਾਬੱਸੀ",
+            "locale": "in_pb",
+            "tenantId": "ch.derabassi"
+        },
+        {
+            "cityName": "Dharamkot",
+            "locale": "in_en",
+            "tenantId": "ch.dharamkot"
+        },
+        {
+            "cityName": "धर्मकोट",
+            "locale": "in_hi",
+            "tenantId": "ch.dharamkot"
+        },
+        {
+            "cityName": "ਧਰਮਕੋਟ",
+            "locale": "in_pb",
+            "tenantId": "ch.dharamkot"
+        },
+        {
+            "cityName": "Dhariwal",
+            "locale": "in_en",
+            "tenantId": "ch.dhariwal"
+        },
+        {
+            "cityName": "धारीवाल",
+            "locale": "in_hi",
+            "tenantId": "ch.dhariwal"
+        },
+        {
+            "cityName": "ਧਾਰੀਵਾਲ",
+            "locale": "in_pb",
+            "tenantId": "ch.dhariwal"
+        },
+        {
+            "cityName": "Dhilwan",
+            "locale": "in_en",
+            "tenantId": "ch.dhilwan"
+        },
+        {
+            "cityName": "ढिलवां",
+            "locale": "in_hi",
+            "tenantId": "ch.dhilwan"
+        },
+        {
+            "cityName": "Ilਿਲਵਾਂ",
+            "locale": "in_pb",
+            "tenantId": "ch.dhilwan"
+        },
+        {
+            "cityName": "Dhuri",
+            "locale": "in_en",
+            "tenantId": "ch.dhuri"
+        },
+        {
+            "cityName": "धुरी",
+            "locale": "in_hi",
+            "tenantId": "ch.dhuri"
+        },
+        {
+            "cityName": "ਧੂਰੀ",
+            "locale": "in_pb",
+            "tenantId": "ch.dhuri"
+        },
+        {
+            "cityName": "dinanagar",
+            "locale": "in_en",
+            "tenantId": "ch.dinanagar"
+        },
+        {
+            "cityName": "दीनानगर",
+            "locale": "in_hi",
+            "tenantId": "ch.dinanagar"
+        },
+        {
+            "cityName": "ਦੀਨਾਨਗਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.dinanagar"
+        },
+        {
+            "cityName": "Dirba",
+            "locale": "in_en",
+            "tenantId": "ch.dirba"
+        },
+        {
+            "cityName": "दिर्बा",
+            "locale": "in_hi",
+            "tenantId": "ch.dirba"
+        },
+        {
+            "cityName": "ਦਿੜਬਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.dirba"
+        },
+        {
+            "cityName": "Doraha",
+            "locale": "in_en",
+            "tenantId": "ch.doraha"
+        },
+        {
+            "cityName": "दोराहा",
+            "locale": "in_hi",
+            "tenantId": "ch.doraha"
+        },
+        {
+            "cityName": "ਦੋਰਾਹਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.doraha"
+        },
+        {
+            "cityName": "Faridkot",
+            "locale": "in_en",
+            "tenantId": "ch.faridkot"
+        },
+        {
+            "cityName": "फरीदकोट",
+            "locale": "in_hi",
+            "tenantId": "ch.faridkot"
+        },
+        {
+            "cityName": "ਫਰੀਦਕੋਟ",
+            "locale": "in_pb",
+            "tenantId": "ch.faridkot"
+        },
+        {
+            "cityName": "Fatehgarh Panjtoor",
+            "locale": "in_en",
+            "tenantId": "ch.fatehgarh panjtoor"
+        },
+        {
+            "cityName": "फतेहगढ़ पंजतूर",
+            "locale": "in_hi",
+            "tenantId": "ch.fatehgarh panjtoor"
+        },
+        {
+            "cityName": "ਫਤਹਿਗੜ੍ਹ ਪੰਜਤੂਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.fatehgarh panjtoor"
+        },
+        {
+            "cityName": "FatehgarhChurian",
+            "locale": "in_en",
+            "tenantId": "ch.fatehgarhchurian"
+        },
+        {
+            "cityName": "फतेहगढ़चूरिऑन",
+            "locale": "in_hi",
+            "tenantId": "ch.fatehgarhchurian"
+        },
+        {
+            "cityName": "ਫਤਿਹਗੜਚੂਰੀਆ",
+            "locale": "in_pb",
+            "tenantId": "ch.fatehgarhchurian"
+        },
+        {
+            "cityName": "Fazilka",
+            "locale": "in_en",
+            "tenantId": "ch.fazilka"
+        },
+        {
+            "cityName": "फाजिल्का",
+            "locale": "in_hi",
+            "tenantId": "ch.fazilka"
+        },
+        {
+            "cityName": "ਫਾਜ਼ਿਲਕਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.fazilka"
+        },
+        {
+            "cityName": "Ferozepur",
+            "locale": "in_en",
+            "tenantId": "ch.ferozepur"
+        },
+        {
+            "cityName": "फिरोजपुर",
+            "locale": "in_hi",
+            "tenantId": "ch.ferozepur"
+        },
+        {
+            "cityName": "ਫਿਰੋਜ਼ਪੁਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.ferozepur"
+        },
+        {
+            "cityName": "Garhdiwala",
+            "locale": "in_en",
+            "tenantId": "ch.garhdiwala"
+        },
+        {
+            "cityName": "गढ़दीवाला",
+            "locale": "in_hi",
+            "tenantId": "ch.garhdiwala"
+        },
+        {
+            "cityName": "ਗੜ੍ਹਦੀਵਾਲਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.garhdiwala"
+        },
+        {
+            "cityName": "Garhshankar",
+            "locale": "in_en",
+            "tenantId": "ch.garhshankar"
+        },
+        {
+            "cityName": "गढ़शंकर",
+            "locale": "in_hi",
+            "tenantId": "ch.garhshankar"
+        },
+        {
+            "cityName": "ਗੜ੍ਹਸ਼ੰਕਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.garhshankar"
+        },
+        {
+            "cityName": "Ghagga",
+            "locale": "in_en",
+            "tenantId": "ch.ghagga"
+        },
+        {
+            "cityName": "घग्गा",
+            "locale": "in_hi",
+            "tenantId": "ch.ghagga"
+        },
+        {
+            "cityName": "ਘੱਗਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.ghagga"
+        },
+        {
+            "cityName": "Ghanaur",
+            "locale": "in_en",
+            "tenantId": "ch.ghanaur"
+        },
+        {
+            "cityName": "घनौर",
+            "locale": "in_hi",
+            "tenantId": "ch.ghanaur"
+        },
+        {
+            "cityName": "ਘਨੌਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.ghanaur"
+        },
+        {
+            "cityName": "gidderbaha",
+            "locale": "in_en",
+            "tenantId": "ch.gidderbaha"
+        },
+        {
+            "cityName": "गिद्दड़बाहा",
+            "locale": "in_hi",
+            "tenantId": "ch.gidderbaha"
+        },
+        {
+            "cityName": "ਗਿੱਦੜਬਾਹਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.gidderbaha"
+        },
+        {
+            "cityName": "Goniana",
+            "locale": "in_en",
+            "tenantId": "ch.goniana"
+        },
+        {
+            "cityName": "गोनिआँ",
+            "locale": "in_hi",
+            "tenantId": "ch.goniana"
+        },
+        {
+            "cityName": "ਗੋਨਿਨਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.goniana"
+        },
+        {
+            "cityName": "Goraya",
+            "locale": "in_en",
+            "tenantId": "ch.goraya"
+        },
+        {
+            "cityName": "गोराया",
+            "locale": "in_hi",
+            "tenantId": "ch.goraya"
+        },
+        {
+            "cityName": "ਗੁਰਾਇਆ",
+            "locale": "in_pb",
+            "tenantId": "ch.goraya"
+        },
+        {
+            "cityName": "Gurdaspur",
+            "locale": "in_en",
+            "tenantId": "ch.gurdaspur"
+        },
+        {
+            "cityName": "गुरदासपुर",
+            "locale": "in_hi",
+            "tenantId": "ch.gurdaspur"
+        },
+        {
+            "cityName": "ਗੁਰਦਾਸਪੁਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.gurdaspur"
+        },
+        {
+            "cityName": "guruharsahai",
+            "locale": "in_en",
+            "tenantId": "ch.guruharsahai"
+        },
+        {
+            "cityName": "गुरुहरसहाय",
+            "locale": "in_hi",
+            "tenantId": "ch.guruharsahai"
+        },
+        {
+            "cityName": "ਗੁਰੂਹਰਸਹਾਏ",
+            "locale": "in_pb",
+            "tenantId": "ch.guruharsahai"
+        },
+        {
+            "cityName": "Handiaya",
+            "locale": "in_en",
+            "tenantId": "ch.handiaya"
+        },
+        {
+            "cityName": "हंडिया",
+            "locale": "in_hi",
+            "tenantId": "ch.handiaya"
+        },
+        {
+            "cityName": "ਹੰਡਿਆਇਆ",
+            "locale": "in_pb",
+            "tenantId": "ch.handiaya"
+        },
+        {
+            "cityName": "Hariana",
+            "locale": "in_en",
+            "tenantId": "ch.hariana"
+        },
+        {
+            "cityName": "हरयाणा",
+            "locale": "in_hi",
+            "tenantId": "ch.hariana"
+        },
+        {
+            "cityName": "ਹਰਿਆਨਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.hariana"
+        },
+        {
+            "cityName": "Hoshiarpur",
+            "locale": "in_en",
+            "tenantId": "ch.hoshiarpur"
+        },
+        {
+            "cityName": "होशियारपुर",
+            "locale": "in_hi",
+            "tenantId": "ch.hoshiarpur"
+        },
+        {
+            "cityName": "ਹੁਸ਼ਿਆਰਪੁਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.hoshiarpur"
+        },
+        {
+            "cityName": "Jagraon",
+            "locale": "in_en",
+            "tenantId": "ch.jagraon"
+        },
+        {
+            "cityName": "जगराओं",
+            "locale": "in_hi",
+            "tenantId": "ch.jagraon"
+        },
+        {
+            "cityName": "ਜਗਰਾਉਂ",
+            "locale": "in_pb",
+            "tenantId": "ch.jagraon"
+        },
+        {
+            "cityName": "Jaitu",
+            "locale": "in_en",
+            "tenantId": "ch.jaitu"
+        },
+        {
+            "cityName": "जैतु",
+            "locale": "in_hi",
+            "tenantId": "ch.jaitu"
+        },
+        {
+            "cityName": "ਜੈਤੁ",
+            "locale": "in_pb",
+            "tenantId": "ch.jaitu"
+        },
+        {
+            "cityName": "Jalalabad",
+            "locale": "in_en",
+            "tenantId": "ch.jalalabad"
+        },
+        {
+            "cityName": "जलालाबाद",
+            "locale": "in_hi",
+            "tenantId": "ch.jalalabad"
+        },
+        {
+            "cityName": "ਜਲਾਲਾਬਾਦ",
+            "locale": "in_pb",
+            "tenantId": "ch.jalalabad"
+        },
+        {
+            "cityName": "Jalandhar",
+            "locale": "in_en",
+            "tenantId": "ch.jalandhar"
+        },
+        {
+            "cityName": "जालंधर",
+            "locale": "in_hi",
+            "tenantId": "ch.jalandhar"
+        },
+        {
+            "cityName": "ਜਲੰਧਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.jalandhar"
+        },
+        {
+            "cityName": "jandialaguru",
+            "locale": "in_en",
+            "tenantId": "ch.jandialaguru"
+        },
+        {
+            "cityName": "जांडियाला गुरु",
+            "locale": "in_hi",
+            "tenantId": "ch.jandialaguru"
+        },
+        {
+            "cityName": "ਜੰਡਿਆਲਗੁਰੂ",
+            "locale": "in_pb",
+            "tenantId": "ch.jandialaguru"
+        },
+        {
+            "cityName": "Joga",
+            "locale": "in_en",
+            "tenantId": "ch.joga"
+        },
+        {
+            "cityName": "जोगा",
+            "locale": "in_hi",
+            "tenantId": "ch.joga"
+        },
+        {
+            "cityName": "ਜੋਗਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.joga"
+        },
+        {
+            "cityName": "Kapurthala",
+            "locale": "in_en",
+            "tenantId": "ch.kapurthala"
+        },
+        {
+            "cityName": "कपूरथला",
+            "locale": "in_hi",
+            "tenantId": "ch.kapurthala"
+        },
+        {
+            "cityName": "ਕਪੂਰਥਲਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.kapurthala"
+        },
+        {
+            "cityName": "Kartarpur",
+            "locale": "in_en",
+            "tenantId": "ch.kartarpur"
+        },
+        {
+            "cityName": "करतारपुर",
+            "locale": "in_hi",
+            "tenantId": "ch.kartarpur"
+        },
+        {
+            "cityName": "ਕਰਤਾਰਪੁਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.kartarpur"
+        },
+        {
+            "cityName": "Khamano",
+            "locale": "in_en",
+            "tenantId": "ch.khamano"
+        },
+        {
+            "cityName": "खमणो",
+            "locale": "in_hi",
+            "tenantId": "ch.khamano"
+        },
+        {
+            "cityName": "ਖਮਾਣੋ",
+            "locale": "in_pb",
+            "tenantId": "ch.khamano"
+        },
+        {
+            "cityName": "Khanauri",
+            "locale": "in_en",
+            "tenantId": "ch.khanauri"
+        },
+        {
+            "cityName": "खनौरी",
+            "locale": "in_hi",
+            "tenantId": "ch.khanauri"
+        },
+        {
+            "cityName": "ਖਨੌਰੀ",
+            "locale": "in_pb",
+            "tenantId": "ch.khanauri"
+        },
+        {
+            "cityName": "Khanna",
+            "locale": "in_en",
+            "tenantId": "ch.khanna"
+        },
+        {
+            "cityName": "खन्ना",
+            "locale": "in_hi",
+            "tenantId": "ch.khanna"
+        },
+        {
+            "cityName": "ਖੰਨਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.khanna"
+        },
+        {
+            "cityName": "Kharar",
+            "locale": "in_en",
+            "tenantId": "ch.kharar"
+        },
+        {
+            "cityName": "खरड़",
+            "locale": "in_hi",
+            "tenantId": "ch.kharar"
+        },
+        {
+            "cityName": "ਖਰੜ",
+            "locale": "in_pb",
+            "tenantId": "ch.kharar"
+        },
+        {
+            "cityName": "Khemkaran",
+            "locale": "in_en",
+            "tenantId": "ch.khemkaran"
+        },
+        {
+            "cityName": "खेमकरण",
+            "locale": "in_hi",
+            "tenantId": "ch.khemkaran"
+        },
+        {
+            "cityName": "ਖੇਮਕਰਨ",
+            "locale": "in_pb",
+            "tenantId": "ch.khemkaran"
+        },
+        {
+            "cityName": "Kiratpur",
+            "locale": "in_en",
+            "tenantId": "ch.kiratpur"
+        },
+        {
+            "cityName": "कीरतपुर",
+            "locale": "in_hi",
+            "tenantId": "ch.kiratpur"
+        },
+        {
+            "cityName": "ਕੀਰਤਪੁਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.kiratpur"
+        },
+        {
+            "cityName": "Kot isse khan",
+            "locale": "in_en",
+            "tenantId": "ch.kot isse khan"
+        },
+        {
+            "cityName": "कोट तो खन है",
+            "locale": "in_hi",
+            "tenantId": "ch.kot isse khan"
+        },
+        {
+            "cityName": "ਕੋਟ ਈਸੇ ਖਾਂ",
+            "locale": "in_pb",
+            "tenantId": "ch.kot isse khan"
+        },
+        {
+            "cityName": "Kotfatta",
+            "locale": "in_en",
+            "tenantId": "ch.kotfatta"
+        },
+        {
+            "cityName": "कोटफत्ता",
+            "locale": "in_hi",
+            "tenantId": "ch.kotfatta"
+        },
+        {
+            "cityName": "ਕੋਟਫੱਤਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.kotfatta"
+        },
+        {
+            "cityName": "Kotha Guru",
+            "locale": "in_en",
+            "tenantId": "ch.kotha guru"
+        },
+        {
+            "cityName": "कोठा गुरु",
+            "locale": "in_hi",
+            "tenantId": "ch.kotha guru"
+        },
+        {
+            "cityName": "ਕੋਠੇ ਗੁਰੂ",
+            "locale": "in_pb",
+            "tenantId": "ch.kotha guru"
+        },
+        {
+            "cityName": "Kotkapura",
+            "locale": "in_en",
+            "tenantId": "ch.kotkapura"
+        },
+        {
+            "cityName": "कोटकपूरा",
+            "locale": "in_hi",
+            "tenantId": "ch.kotkapura"
+        },
+        {
+            "cityName": "ਕੋਟਕਪੂਰਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.kotkapura"
+        },
+        {
+            "cityName": "KotShamir",
+            "locale": "in_en",
+            "tenantId": "ch.kotshamir"
+        },
+        {
+            "cityName": "कोटशमीर",
+            "locale": "in_hi",
+            "tenantId": "ch.kotshamir"
+        },
+        {
+            "cityName": "ਕੋਟਸ਼ਮੀਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.kotshamir"
+        },
+        {
+            "cityName": "Kurali",
+            "locale": "in_en",
+            "tenantId": "ch.kurali"
+        },
+        {
+            "cityName": "कुराली",
+            "locale": "in_hi",
+            "tenantId": "ch.kurali"
+        },
+        {
+            "cityName": "ਕੁਰਾਲੀ",
+            "locale": "in_pb",
+            "tenantId": "ch.kurali"
+        },
+        {
+            "cityName": "Lalru",
+            "locale": "in_en",
+            "tenantId": "ch.lalru"
+        },
+        {
+            "cityName": "लालडू",
+            "locale": "in_hi",
+            "tenantId": "ch.lalru"
+        },
+        {
+            "cityName": "ਲਾਲੜੂ",
+            "locale": "in_pb",
+            "tenantId": "ch.lalru"
+        },
+        {
+            "cityName": "Lehra Mohabbat",
+            "locale": "in_en",
+            "tenantId": "ch.lehra mohabbat"
+        },
+        {
+            "cityName": "लेहरा मोहब्बत",
+            "locale": "in_hi",
+            "tenantId": "ch.lehra mohabbat"
+        },
+        {
+            "cityName": "ਲਹਿਰਾ ਮੁਹੱਬਤ",
+            "locale": "in_pb",
+            "tenantId": "ch.lehra mohabbat"
+        },
+        {
+            "cityName": "Lehragaga",
+            "locale": "in_en",
+            "tenantId": "ch.lehragaga"
+        },
+        {
+            "cityName": "लहरागागा",
+            "locale": "in_hi",
+            "tenantId": "ch.lehragaga"
+        },
+        {
+            "cityName": "ਲਹਿਰਾਗਾਗਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.lehragaga"
+        },
+        {
+            "cityName": "LohianKhas",
+            "locale": "in_en",
+            "tenantId": "ch.lohiankhas"
+        },
+        {
+            "cityName": "लोहिआ खास",
+            "locale": "in_hi",
+            "tenantId": "ch.lohiankhas"
+        },
+        {
+            "cityName": "ਲੋਹੀਆਂਖਾਸ",
+            "locale": "in_pb",
+            "tenantId": "ch.lohiankhas"
+        },
+        {
+            "cityName": "Longowal",
+            "locale": "in_en",
+            "tenantId": "ch.longowal"
+        },
+        {
+            "cityName": "लोंगोवाल",
+            "locale": "in_hi",
+            "tenantId": "ch.longowal"
+        },
+        {
+            "cityName": "ਲੌਂਗੋਵਾਲ",
+            "locale": "in_pb",
+            "tenantId": "ch.longowal"
+        },
+        {
+            "cityName": "Ludhiana",
+            "locale": "in_en",
+            "tenantId": "ch.ludhiana"
+        },
+        {
+            "cityName": "लुधियाना",
+            "locale": "in_hi",
+            "tenantId": "ch.ludhiana"
+        },
+        {
+            "cityName": "ਲੁਧਿਆਣਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.ludhiana"
+        },
+        {
+            "cityName": "Machiwara",
+            "locale": "in_en",
+            "tenantId": "ch.machiwara"
+        },
+        {
+            "cityName": "माछीवाड़ा",
+            "locale": "in_hi",
+            "tenantId": "ch.machiwara"
+        },
+        {
+            "cityName": "ਮਾਛੀਵਾੜਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.machiwara"
+        },
+        {
+            "cityName": "Mahilpur",
+            "locale": "in_en",
+            "tenantId": "ch.mahilpur"
+        },
+        {
+            "cityName": "माहिलपुर",
+            "locale": "in_hi",
+            "tenantId": "ch.mahilpur"
+        },
+        {
+            "cityName": "ਮਾਹਿਲਪੁਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.mahilpur"
+        },
+        {
+            "cityName": "Majitha",
+            "locale": "in_en",
+            "tenantId": "ch.majitha"
+        },
+        {
+            "cityName": "मजीठा",
+            "locale": "in_hi",
+            "tenantId": "ch.majitha"
+        },
+        {
+            "cityName": "ਮਜੀਠਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.majitha"
+        },
+        {
+            "cityName": "Makhu",
+            "locale": "in_en",
+            "tenantId": "ch.makhu"
+        },
+        {
+            "cityName": "मखु",
+            "locale": "in_hi",
+            "tenantId": "ch.makhu"
+        },
+        {
+            "cityName": "ਮਖੂ",
+            "locale": "in_pb",
+            "tenantId": "ch.makhu"
+        },
+        {
+            "cityName": "Malerkotla",
+            "locale": "in_en",
+            "tenantId": "ch.malerkotla"
+        },
+        {
+            "cityName": "मलेरकोटला",
+            "locale": "in_hi",
+            "tenantId": "ch.malerkotla"
+        },
+        {
+            "cityName": "ਮਾਲੇਰਕੋਟਲਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.malerkotla"
+        },
+        {
+            "cityName": "Mallanwala",
+            "locale": "in_en",
+            "tenantId": "ch.mallanwala"
+        },
+        {
+            "cityName": "मल्लांवाला",
+            "locale": "in_hi",
+            "tenantId": "ch.mallanwala"
+        },
+        {
+            "cityName": "ਮੱਲਾਂਵਾਲਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.mallanwala"
+        },
+        {
+            "cityName": "Maloud",
+            "locale": "in_en",
+            "tenantId": "ch.maloud"
+        },
+        {
+            "cityName": "मलौद",
+            "locale": "in_hi",
+            "tenantId": "ch.maloud"
+        },
+        {
+            "cityName": "ਮਲੌਦ",
+            "locale": "in_pb",
+            "tenantId": "ch.maloud"
+        },
+        {
+            "cityName": "Malout",
+            "locale": "in_en",
+            "tenantId": "ch.malout"
+        },
+        {
+            "cityName": "मलोट",
+            "locale": "in_hi",
+            "tenantId": "ch.malout"
+        },
+        {
+            "cityName": "ਮਲੋਟ",
+            "locale": "in_pb",
+            "tenantId": "ch.malout"
+        },
+        {
+            "cityName": "Maluka",
+            "locale": "in_en",
+            "tenantId": "ch.maluka"
+        },
+        {
+            "cityName": "मलूका",
+            "locale": "in_hi",
+            "tenantId": "ch.maluka"
+        },
+        {
+            "cityName": "ਮਲੂਕਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.maluka"
+        },
+        {
+            "cityName": "Mamdot",
+            "locale": "in_en",
+            "tenantId": "ch.mamdot"
+        },
+        {
+            "cityName": "ममदोट",
+            "locale": "in_hi",
+            "tenantId": "ch.mamdot"
+        },
+        {
+            "cityName": "ਮਮਦੋਟ",
+            "locale": "in_pb",
+            "tenantId": "ch.mamdot"
+        },
+        {
+            "cityName": "mandigobindgarh",
+            "locale": "in_en",
+            "tenantId": "ch.mandigobindgarh"
+        },
+        {
+            "cityName": "मंदिगोबिंदगढ़",
+            "locale": "in_hi",
+            "tenantId": "ch.mandigobindgarh"
+        },
+        {
+            "cityName": "ਮੈਂਡੀਗੋਬਿੰਦਗੜ",
+            "locale": "in_pb",
+            "tenantId": "ch.mandigobindgarh"
+        },
+        {
+            "cityName": "Mansa",
+            "locale": "in_en",
+            "tenantId": "ch.mansa"
+        },
+        {
+            "cityName": "मनसा",
+            "locale": "in_hi",
+            "tenantId": "ch.mansa"
+        },
+        {
+            "cityName": "ਮਾਨਸਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.mansa"
+        },
+        {
+            "cityName": "Maur",
+            "locale": "in_en",
+            "tenantId": "ch.maur"
+        },
+        {
+            "cityName": "मौर",
+            "locale": "in_hi",
+            "tenantId": "ch.maur"
+        },
+        {
+            "cityName": "ਮੌੜ",
+            "locale": "in_pb",
+            "tenantId": "ch.maur"
+        },
+        {
+            "cityName": "Mehatpur",
+            "locale": "in_en",
+            "tenantId": "ch.mehatpur"
+        },
+        {
+            "cityName": "मेहतपुर",
+            "locale": "in_hi",
+            "tenantId": "ch.mehatpur"
+        },
+        {
+            "cityName": "ਮਹਿਤਪੁਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.mehatpur"
+        },
+        {
+            "cityName": "Mehraj",
+            "locale": "in_en",
+            "tenantId": "ch.mehraj"
+        },
+        {
+            "cityName": "मेहराज",
+            "locale": "in_hi",
+            "tenantId": "ch.mehraj"
+        },
+        {
+            "cityName": "ਮਹਿਰਾਜ",
+            "locale": "in_pb",
+            "tenantId": "ch.mehraj"
+        },
+        {
+            "cityName": "Moga",
+            "locale": "in_en",
+            "tenantId": "ch.moga"
+        },
+        {
+            "cityName": "मोगा",
+            "locale": "in_hi",
+            "tenantId": "ch.moga"
+        },
+        {
+            "cityName": "ਮੋਗਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.moga"
+        },
+        {
+            "cityName": "Mohali",
+            "locale": "in_en",
+            "tenantId": "ch.mohali"
+        },
+        {
+            "cityName": "मोहाली",
+            "locale": "in_hi",
+            "tenantId": "ch.mohali"
+        },
+        {
+            "cityName": "ਮੁਹਾਲੀ",
+            "locale": "in_pb",
+            "tenantId": "ch.mohali"
+        },
+        {
+            "cityName": "Moonak",
+            "locale": "in_en",
+            "tenantId": "ch.moonak"
+        },
+        {
+            "cityName": "मूनक",
+            "locale": "in_hi",
+            "tenantId": "ch.moonak"
+        },
+        {
+            "cityName": "ਮੂਨਕ",
+            "locale": "in_pb",
+            "tenantId": "ch.moonak"
+        },
+        {
+            "cityName": "Morinda",
+            "locale": "in_en",
+            "tenantId": "ch.morinda"
+        },
+        {
+            "cityName": "मोरिंडा",
+            "locale": "in_hi",
+            "tenantId": "ch.morinda"
+        },
+        {
+            "cityName": "ਮੋਰਿੰਡਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.morinda"
+        },
+        {
+            "cityName": "Mudki",
+            "locale": "in_en",
+            "tenantId": "ch.mudki"
+        },
+        {
+            "cityName": "मुदकी",
+            "locale": "in_hi",
+            "tenantId": "ch.mudki"
+        },
+        {
+            "cityName": "ਮੁੱਦਕੀ",
+            "locale": "in_pb",
+            "tenantId": "ch.mudki"
+        },
+        {
+            "cityName": "Mukerian",
+            "locale": "in_en",
+            "tenantId": "ch.mukerian"
+        },
+        {
+            "cityName": "मुकेरियां",
+            "locale": "in_hi",
+            "tenantId": "ch.mukerian"
+        },
+        {
+            "cityName": "ਮੁਕੇਰੀਆਂ",
+            "locale": "in_pb",
+            "tenantId": "ch.mukerian"
+        },
+        {
+            "cityName": "Muktsar",
+            "locale": "in_en",
+            "tenantId": "ch.muktsar"
+        },
+        {
+            "cityName": "मुक्तसर",
+            "locale": "in_hi",
+            "tenantId": "ch.muktsar"
+        },
+        {
+            "cityName": "ਮੁਕਤਸਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.muktsar"
+        },
+        {
+            "cityName": "Mullanpur",
+            "locale": "in_en",
+            "tenantId": "ch.mullanpur"
+        },
+        {
+            "cityName": "मुल्लनपुर",
+            "locale": "in_hi",
+            "tenantId": "ch.mullanpur"
+        },
+        {
+            "cityName": "ਮੁੱਲਾਂਪੁਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.mullanpur"
+        },
+        {
+            "cityName": "Mundia kalan",
+            "locale": "in_en",
+            "tenantId": "ch.mundia kalan"
+        },
+        {
+            "cityName": "मुंडिया कलां",
+            "locale": "in_hi",
+            "tenantId": "ch.mundia kalan"
+        },
+        {
+            "cityName": "ਮੁੰਡੀਆ ਕਲਾਂ",
+            "locale": "in_pb",
+            "tenantId": "ch.mundia kalan"
+        },
+        {
+            "cityName": "Nabha",
+            "locale": "in_en",
+            "tenantId": "ch.nabha"
+        },
+        {
+            "cityName": "नाभा",
+            "locale": "in_hi",
+            "tenantId": "ch.nabha"
+        },
+        {
+            "cityName": "ਨਾਭਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.nabha"
+        },
+        {
+            "cityName": "Nadala",
+            "locale": "in_en",
+            "tenantId": "ch.nadala"
+        },
+        {
+            "cityName": "नडाला",
+            "locale": "in_hi",
+            "tenantId": "ch.nadala"
+        },
+        {
+            "cityName": "ਨਡਾਲਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.nadala"
+        },
+        {
+            "cityName": "Nakodar",
+            "locale": "in_en",
+            "tenantId": "ch.nakodar"
+        },
+        {
+            "cityName": "नकोदर",
+            "locale": "in_hi",
+            "tenantId": "ch.nakodar"
+        },
+        {
+            "cityName": "ਨਕੋਦਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.nakodar"
+        },
+        {
+            "cityName": "Nangal",
+            "locale": "in_en",
+            "tenantId": "ch.nangal"
+        },
+        {
+            "cityName": "नांगल",
+            "locale": "in_hi",
+            "tenantId": "ch.nangal"
+        },
+        {
+            "cityName": "ਨੰਗਲ",
+            "locale": "in_pb",
+            "tenantId": "ch.nangal"
+        },
+        {
+            "cityName": "Narot Jaimal singh",
+            "locale": "in_en",
+            "tenantId": "ch.narot jaimal singh"
+        },
+        {
+            "cityName": "नरोट जयमल सिंह",
+            "locale": "in_hi",
+            "tenantId": "ch.narot jaimal singh"
+        },
+        {
+            "cityName": "ਨਰੋਟ ਜੈਮਲ ਸਿੰਘ",
+            "locale": "in_pb",
+            "tenantId": "ch.narot jaimal singh"
+        },
+        {
+            "cityName": "Nathana",
+            "locale": "in_en",
+            "tenantId": "ch.nathana"
+        },
+        {
+            "cityName": "नथाना",
+            "locale": "in_hi",
+            "tenantId": "ch.nathana"
+        },
+        {
+            "cityName": "ਨਥਾਣਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.nathana"
+        },
+        {
+            "cityName": "Nawanshahr",
+            "locale": "in_en",
+            "tenantId": "ch.nawanshahr"
+        },
+        {
+            "cityName": "नवांशहर",
+            "locale": "in_hi",
+            "tenantId": "ch.nawanshahr"
+        },
+        {
+            "cityName": "ਨਵਾਂਸ਼ਹਿਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.nawanshahr"
+        },
+        {
+            "cityName": "NayaGaon",
+            "locale": "in_en",
+            "tenantId": "ch.nayagaon"
+        },
+        {
+            "cityName": "नया गाँव",
+            "locale": "in_hi",
+            "tenantId": "ch.nayagaon"
+        },
+        {
+            "cityName": "ਨਯਾਗਾਂ",
+            "locale": "in_pb",
+            "tenantId": "ch.nayagaon"
+        },
+        {
+            "cityName": "nihalsinghwala",
+            "locale": "in_en",
+            "tenantId": "ch.nihalsinghwala"
+        },
+        {
+            "cityName": "निहालसिंघवाला",
+            "locale": "in_hi",
+            "tenantId": "ch.nihalsinghwala"
+        },
+        {
+            "cityName": "ਨਿਹਾਲਸਿੰਘਵਾਲਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.nihalsinghwala"
+        },
+        {
+            "cityName": "Nurmahal",
+            "locale": "in_en",
+            "tenantId": "ch.nurmahal"
+        },
+        {
+            "cityName": "नूरमहल",
+            "locale": "in_hi",
+            "tenantId": "ch.nurmahal"
+        },
+        {
+            "cityName": "ਨੂਰਮਹਿਲ",
+            "locale": "in_pb",
+            "tenantId": "ch.nurmahal"
+        },
+        {
+            "cityName": "Pathankot",
+            "locale": "in_en",
+            "tenantId": "ch.pathankot"
+        },
+        {
+            "cityName": "पठानकोट",
+            "locale": "in_hi",
+            "tenantId": "ch.pathankot"
+        },
+        {
+            "cityName": "ਪਠਾਨਕੋਟ",
+            "locale": "in_pb",
+            "tenantId": "ch.pathankot"
+        },
+        {
+            "cityName": "Patiala",
+            "locale": "in_en",
+            "tenantId": "ch.patiala"
+        },
+        {
+            "cityName": "पटियाला",
+            "locale": "in_hi",
+            "tenantId": "ch.patiala"
+        },
+        {
+            "cityName": "ਪਟਿਆਲਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.patiala"
+        },
+        {
+            "cityName": "Patran",
+            "locale": "in_en",
+            "tenantId": "ch.patran"
+        },
+        {
+            "cityName": "पातरा",
+            "locale": "in_hi",
+            "tenantId": "ch.patran"
+        },
+        {
+            "cityName": "ਪਾਤੜਾਂ",
+            "locale": "in_pb",
+            "tenantId": "ch.patran"
+        },
+        {
+            "cityName": "Patti",
+            "locale": "in_en",
+            "tenantId": "ch.patti"
+        },
+        {
+            "cityName": "पट्टी",
+            "locale": "in_hi",
+            "tenantId": "ch.patti"
+        },
+        {
+            "cityName": "ਪੱਟੀ",
+            "locale": "in_pb",
+            "tenantId": "ch.patti"
+        },
+        {
+            "cityName": "Payal",
+            "locale": "in_en",
+            "tenantId": "ch.payal"
+        },
+        {
+            "cityName": "पायल",
+            "locale": "in_hi",
+            "tenantId": "ch.payal"
+        },
+        {
+            "cityName": "ਪਾਇਲ",
+            "locale": "in_pb",
+            "tenantId": "ch.payal"
+        },
+        {
+            "cityName": "Phagwara",
+            "locale": "in_en",
+            "tenantId": "ch.phagwara"
+        },
+        {
+            "cityName": "फगवाड़ा",
+            "locale": "in_hi",
+            "tenantId": "ch.phagwara"
+        },
+        {
+            "cityName": "ਫਗਵਾੜਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.phagwara"
+        },
+        {
+            "cityName": "Phillaur",
+            "locale": "in_en",
+            "tenantId": "ch.phillaur"
+        },
+        {
+            "cityName": "फिल्लौर",
+            "locale": "in_hi",
+            "tenantId": "ch.phillaur"
+        },
+        {
+            "cityName": "ਫਿਲੌਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.phillaur"
+        },
+        {
+            "cityName": "Quadian",
+            "locale": "in_en",
+            "tenantId": "ch.quadian"
+        },
+        {
+            "cityName": "क्वादिअण",
+            "locale": "in_hi",
+            "tenantId": "ch.quadian"
+        },
+        {
+            "cityName": "ਕਿਆਡੀਅਨ",
+            "locale": "in_pb",
+            "tenantId": "ch.quadian"
+        },
+        {
+            "cityName": "Rahon",
+            "locale": "in_en",
+            "tenantId": "ch.rahon"
+        },
+        {
+            "cityName": "राहों",
+            "locale": "in_hi",
+            "tenantId": "ch.rahon"
+        },
+        {
+            "cityName": "ਰਾਹੋਂ",
+            "locale": "in_pb",
+            "tenantId": "ch.rahon"
+        },
+        {
+            "cityName": "Raikot",
+            "locale": "in_en",
+            "tenantId": "ch.raikot"
+        },
+        {
+            "cityName": "रायकोट",
+            "locale": "in_hi",
+            "tenantId": "ch.raikot"
+        },
+        {
+            "cityName": "ਰਾਏਕੋਟ",
+            "locale": "in_pb",
+            "tenantId": "ch.raikot"
+        },
+        {
+            "cityName": "rajasansi",
+            "locale": "in_en",
+            "tenantId": "ch.rajasansi"
+        },
+        {
+            "cityName": "राजासांसी",
+            "locale": "in_hi",
+            "tenantId": "ch.rajasansi"
+        },
+        {
+            "cityName": "ਰਾਜਸਾਂਸੀ",
+            "locale": "in_pb",
+            "tenantId": "ch.rajasansi"
+        },
+        {
+            "cityName": "Rajpura",
+            "locale": "in_en",
+            "tenantId": "ch.rajpura"
+        },
+        {
+            "cityName": "राजपुरा",
+            "locale": "in_hi",
+            "tenantId": "ch.rajpura"
+        },
+        {
+            "cityName": "ਰਾਜਪੁਰਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.rajpura"
+        },
+        {
+            "cityName": "Raman",
+            "locale": "in_en",
+            "tenantId": "ch.raman"
+        },
+        {
+            "cityName": "रमन",
+            "locale": "in_hi",
+            "tenantId": "ch.raman"
+        },
+        {
+            "cityName": "ਰਮਨ",
+            "locale": "in_pb",
+            "tenantId": "ch.raman"
+        },
+        {
+            "cityName": "Ramdass",
+            "locale": "in_en",
+            "tenantId": "ch.ramdass"
+        },
+        {
+            "cityName": "रामदास",
+            "locale": "in_hi",
+            "tenantId": "ch.ramdass"
+        },
+        {
+            "cityName": "ਰਮਦਾਸ",
+            "locale": "in_pb",
+            "tenantId": "ch.ramdass"
+        },
+        {
+            "cityName": "Rampura",
+            "locale": "in_en",
+            "tenantId": "ch.rampura"
+        },
+        {
+            "cityName": "रामपुरा",
+            "locale": "in_hi",
+            "tenantId": "ch.rampura"
+        },
+        {
+            "cityName": "ਰਾਮਪੁਰਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.rampura"
+        },
+        {
+            "cityName": "rampuraphul",
+            "locale": "in_en",
+            "tenantId": "ch.rampuraphul"
+        },
+        {
+            "cityName": "रामपुराफूल",
+            "locale": "in_hi",
+            "tenantId": "ch.rampuraphul"
+        },
+        {
+            "cityName": "rampuraphul",
+            "locale": "in_pb",
+            "tenantId": "ch.rampuraphul"
+        },
+        {
+            "cityName": "Rayya",
+            "locale": "in_en",
+            "tenantId": "ch.rayya"
+        },
+        {
+            "cityName": "रय्या",
+            "locale": "in_hi",
+            "tenantId": "ch.rayya"
+        },
+        {
+            "cityName": "ਰਈਆ",
+            "locale": "in_pb",
+            "tenantId": "ch.rayya"
+        },
+        {
+            "cityName": "Ropar",
+            "locale": "in_en",
+            "tenantId": "ch.ropar"
+        },
+        {
+            "cityName": "रोपड़",
+            "locale": "in_hi",
+            "tenantId": "ch.ropar"
+        },
+        {
+            "cityName": "ਰੋਪੜ",
+            "locale": "in_pb",
+            "tenantId": "ch.ropar"
+        },
+        {
+            "cityName": "Sahnewal",
+            "locale": "in_en",
+            "tenantId": "ch.sahnewal"
+        },
+        {
+            "cityName": "साहनेवाल",
+            "locale": "in_hi",
+            "tenantId": "ch.sahnewal"
+        },
+        {
+            "cityName": "ਸਾਹਨੇਵਾਲ",
+            "locale": "in_pb",
+            "tenantId": "ch.sahnewal"
+        },
+        {
+            "cityName": "Samana",
+            "locale": "in_en",
+            "tenantId": "ch.samana"
+        },
+        {
+            "cityName": "समाना",
+            "locale": "in_hi",
+            "tenantId": "ch.samana"
+        },
+        {
+            "cityName": "ਸਮਾਣਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.samana"
+        },
+        {
+            "cityName": "Samrala",
+            "locale": "in_en",
+            "tenantId": "ch.samrala"
+        },
+        {
+            "cityName": "समराला",
+            "locale": "in_hi",
+            "tenantId": "ch.samrala"
+        },
+        {
+            "cityName": "ਸਮਰਾਲਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.samrala"
+        },
+        {
+            "cityName": "Sanaur",
+            "locale": "in_en",
+            "tenantId": "ch.sanaur"
+        },
+        {
+            "cityName": "सनौर",
+            "locale": "in_hi",
+            "tenantId": "ch.sanaur"
+        },
+        {
+            "cityName": "ਸਨੌਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.sanaur"
+        },
+        {
+            "cityName": "Sangatmandi",
+            "locale": "in_en",
+            "tenantId": "ch.sangatmandi"
+        },
+        {
+            "cityName": "संगतमंदि",
+            "locale": "in_hi",
+            "tenantId": "ch.sangatmandi"
+        },
+        {
+            "cityName": "ਸੰਗਤਮੰਡੀ",
+            "locale": "in_pb",
+            "tenantId": "ch.sangatmandi"
+        },
+        {
+            "cityName": "Sangrur",
+            "locale": "in_en",
+            "tenantId": "ch.sangrur"
+        },
+        {
+            "cityName": "संगरूर",
+            "locale": "in_hi",
+            "tenantId": "ch.sangrur"
+        },
+        {
+            "cityName": "ਸੰਗਰੂਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.sangrur"
+        },
+        {
+            "cityName": "Sardulgarh",
+            "locale": "in_en",
+            "tenantId": "ch.sardulgarh"
+        },
+        {
+            "cityName": "सरदूलगढ़",
+            "locale": "in_hi",
+            "tenantId": "ch.sardulgarh"
+        },
+        {
+            "cityName": "ਸਰਦੂਲਗੜ",
+            "locale": "in_pb",
+            "tenantId": "ch.sardulgarh"
+        },
+        {
+            "cityName": "Shahkot",
+            "locale": "in_en",
+            "tenantId": "ch.shahkot"
+        },
+        {
+            "cityName": "शाहकोट",
+            "locale": "in_hi",
+            "tenantId": "ch.shahkot"
+        },
+        {
+            "cityName": "ਸ਼ਾਹਕੋਟ",
+            "locale": "in_pb",
+            "tenantId": "ch.shahkot"
+        },
+        {
+            "cityName": "Shamchurasi",
+            "locale": "in_en",
+            "tenantId": "ch.shamchurasi"
+        },
+        {
+            "cityName": "शामचुरासी",
+            "locale": "in_hi",
+            "tenantId": "ch.shamchurasi"
+        },
+        {
+            "cityName": "ਸ਼ਾਮਚੁਰਾਸੀ",
+            "locale": "in_pb",
+            "tenantId": "ch.shamchurasi"
+        },
+        {
+            "cityName": "Sirhind",
+            "locale": "in_en",
+            "tenantId": "ch.sirhind"
+        },
+        {
+            "cityName": "सरहिंद",
+            "locale": "in_hi",
+            "tenantId": "ch.sirhind"
+        },
+        {
+            "cityName": "ਸਰਹਿੰਦ",
+            "locale": "in_pb",
+            "tenantId": "ch.sirhind"
+        },
+        {
+            "cityName": "srihargobindpur",
+            "locale": "in_en",
+            "tenantId": "ch.srihargobindpur"
+        },
+        {
+            "cityName": "श्रीहरगोबिंदपुर",
+            "locale": "in_hi",
+            "tenantId": "ch.srihargobindpur"
+        },
+        {
+            "cityName": "ਸ਼੍ਰੀਹਰਗੋਬਿੰਦਪੁਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.srihargobindpur"
+        },
+        {
+            "cityName": "Sujanpur",
+            "locale": "in_en",
+            "tenantId": "ch.sujanpur"
+        },
+        {
+            "cityName": "सुजानपुर",
+            "locale": "in_hi",
+            "tenantId": "ch.sujanpur"
+        },
+        {
+            "cityName": "ਸੁਜਾਨਪੁਰ",
+            "locale": "in_pb",
+            "tenantId": "ch.sujanpur"
+        },
+        {
+            "cityName": "sultanpurlodhi",
+            "locale": "in_en",
+            "tenantId": "ch.sultanpurlodhi"
+        },
+        {
+            "cityName": "सुल्तानपुरलोधी",
+            "locale": "in_hi",
+            "tenantId": "ch.sultanpurlodhi"
+        },
+        {
+            "cityName": "ਸੁਲਤਾਨਪੁਰਲੋਧੀ",
+            "locale": "in_pb",
+            "tenantId": "ch.sultanpurlodhi"
+        },
+        {
+            "cityName": "Sunam",
+            "locale": "in_en",
+            "tenantId": "ch.sunam"
+        },
+        {
+            "cityName": "सुनाम",
+            "locale": "in_hi",
+            "tenantId": "ch.sunam"
+        },
+        {
+            "cityName": "ਸੁਨਾਮ",
+            "locale": "in_pb",
+            "tenantId": "ch.sunam"
+        },
+        {
+            "cityName": "talwandisabo",
+            "locale": "in_en",
+            "tenantId": "ch.talwandisabo"
+        },
+        {
+            "cityName": "तलवन्डिसाबो",
+            "locale": "in_hi",
+            "tenantId": "ch.talwandisabo"
+        },
+        {
+            "cityName": "ਟੇਲਵੈਂਡਿਸਬੋ",
+            "locale": "in_pb",
+            "tenantId": "ch.talwandisabo"
+        },
+        {
+            "cityName": "TalwandiBhai",
+            "locale": "in_en",
+            "tenantId": "ch.talwandibhai"
+        },
+        {
+            "cityName": "तलवण्डीभाई",
+            "locale": "in_hi",
+            "tenantId": "ch.talwandibhai"
+        },
+        {
+            "cityName": "ਤਲਵੰਡੀਭਾਈ",
+            "locale": "in_pb",
+            "tenantId": "ch.talwandibhai"
+        },
+        {
+            "cityName": "Talwara",
+            "locale": "in_en",
+            "tenantId": "ch.talwara"
+        },
+        {
+            "cityName": "तलवाड़ा",
+            "locale": "in_hi",
+            "tenantId": "ch.talwara"
+        },
+        {
+            "cityName": "ਤਲਵਾੜਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.talwara"
+        },
+        {
+            "cityName": "Tapa",
+            "locale": "in_en",
+            "tenantId": "ch.tapa"
+        },
+        {
+            "cityName": "तप",
+            "locale": "in_hi",
+            "tenantId": "ch.tapa"
+        },
+        {
+            "cityName": "ਤਪਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.tapa"
+        },
+        {
+            "cityName": "TarnTaran",
+            "locale": "in_en",
+            "tenantId": "ch.tarntaran"
+        },
+        {
+            "cityName": "तरनतारन",
+            "locale": "in_hi",
+            "tenantId": "ch.tarntaran"
+        },
+        {
+            "cityName": "ਤਰਨਤਾਰਨ",
+            "locale": "in_pb",
+            "tenantId": "ch.tarntaran"
+        },
+        {
+            "cityName": "UrmarTanda",
+            "locale": "in_en",
+            "tenantId": "ch.urmartanda"
+        },
+        {
+            "cityName": "ऊरमारटांडा",
+            "locale": "in_hi",
+            "tenantId": "ch.urmartanda"
+        },
+        {
+            "cityName": "ਉਮਰਟੰਡਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.urmartanda"
+        },
+        {
+            "cityName": "Zira",
+            "locale": "in_en",
+            "tenantId": "ch.zira"
+        },
+        {
+            "cityName": "ज़ीरा",
+            "locale": "in_hi",
+            "tenantId": "ch.zira"
+        },
+        {
+            "cityName": "ਜ਼ੀਰਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.zira"
+        },
+        {
+            "cityName": "Zirakpur",
+            "locale": "in_en",
+            "tenantId": "ch.zirakpur"
+        },
+        {
+            "cityName": "जीरकपुर",
+            "locale": "in_hi",
+            "tenantId": "ch.zirakpur"
+        },
+        {
+            "cityName": "ਜ਼ੀਰਕਪੁ",
+            "locale": "in_pb",
+            "tenantId": "ch.zirakpur"
+        },
+        {
+            "cityName": "Testing",
+            "locale": "in_en",
+            "tenantId": "ch.testing"
+        },
+        {
+            "cityName": "तेस्तीङ्",
+            "locale": "in_hi",
+            "tenantId": "ch.testing"
+        },
+        {
+            "cityName": "ਟੈਸਟਿੰਗ",
+            "locale": "in_pb",
+            "tenantId": "ch.testing"
+        },
+        {
+            "cityName": "Gharuan",
+            "locale": "in_en",
+            "tenantId": "ch.gharuan"
+        },
+        {
+            "cityName": "घरुआं",
+            "locale": "in_hi",
+            "tenantId": "ch.gharuan"
+        },
+        {
+            "cityName": "ਘਰੂਆਂ",
+            "locale": "in_pb",
+            "tenantId": "ch.gharuan"
+        },
+
+         {
+            "cityName": "Baba Bakala Sahib",
+            "locale": "in_en",
+            "tenantId": "ch.bababakalasahib"
+        },
+        {
+            "cityName": "बाबा बकाला साहिब",
+            "locale": "in_hi",
+            "tenantId": "ch.bababakalasahib"
+        },
+        {
+            "cityName": "ਬਾਬਾ ਬਕਾਲਾ ਸਾਹਿਬ",
+            "locale": "in_pb",
+            "tenantId": "ch.bababakalasahib"
+        },
+        {
+            "cityName": "Devigarh",
+            "locale": "in_en",
+            "tenantId": "ch.devigarh"
+        },
+        {
+            "cityName": "देवीगढ़",
+            "locale": "in_hi",
+            "tenantId": "ch.devigarh"
+        },
+        {
+            "cityName": "ਦੇਵੀਗੜ੍ਹ",
+            "locale": "in_pb",
+            "tenantId": "ch.devigarh"
+        },
+          {
+            "cityName": "Dhanaula",
+            "locale": "in_en",
+            "tenantId": "ch.dhanaula"
+        },
+        {
+            "cityName": "धनौला",
+            "locale": "in_hi",
+            "tenantId": "ch.dhanaula"
+        },
+        {
+            "cityName": "ਧਨੌਲਾ",
+            "locale": "in_pb",
+            "tenantId": "ch.dhanaula"
+        }
+    ]
+}
