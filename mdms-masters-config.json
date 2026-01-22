@@ -375,7 +375,7 @@
     },
     "FireCess": {
       "masterName": "FireCess",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "Floor": {
@@ -477,6 +477,23 @@
       "masterName": "MutationPenalty",
       "isStateLevel": true,
       "uniqueKeys": ["$.fromFY"]
+    }
+  },
+  "StakeholderRegistraition": {
+    "TradeType": {
+      "masterName": "TradeType",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code"]
+    },
+    "AccessoriesCategory": {
+      "masterName": "AccessoriesCategory",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code"]
+    },
+    "ReminderPeriods": {
+      "masterName": "ReminderPeriods",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
   "TradeLicense": {
@@ -585,12 +602,12 @@
   "ws-services-masters": {
     "connectionCategory": {
       "masterName": "connectionCategory",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.code"]
     },
     "connectionType": {
       "masterName": "connectionType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.code"]
     },
     "waterSource": {
@@ -600,13 +617,13 @@
     },
     "billingPeriod": {
       "masterName": "billingPeriod",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.billingCycle"]
     },
     "subUsageType": {
       "masterName": "subUsageType",
       "moduleDefinition": null,
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.code"]
     },
     "billingType": {
@@ -634,7 +651,7 @@
     },
     "Interest": {
       "masterName": "Interest",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.fromFY"]
     },
     "Rebate": {
@@ -644,12 +661,12 @@
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.fromFY"]
     },
     "WCBillingSlab": {
       "masterName": "WCBillingSlab",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "WS_CHARGE": {
@@ -659,7 +676,7 @@
     },
     "WS_TIME_PENALTY": {
       "masterName": "WS_TIME_PENALTY",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "WS_WATER_CESS": {
@@ -679,27 +696,27 @@
     },
     "PlotSizeSlab": {
       "masterName": "PlotSizeSlab",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "PropertyUsageType": {
       "masterName": "PropertyUsageType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "FeeSlab": {
       "masterName": "FeeSlab",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "RoadType": {
       "masterName": "RoadType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "PipeSize": {
@@ -711,7 +728,7 @@
   "sw-services-calculation": {
     "Interest": {
       "masterName": "Interest",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.fromFY"]
     },
     "Rebate": {
@@ -721,17 +738,17 @@
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.fromFY"]
     },
     "SCBillingSlab": {
       "masterName": "SCBillingSlab",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "billingPeriod": {
       "masterName": "billingPeriod",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.billingCycle"]
     },
     "SW_CHARGE": {
@@ -751,27 +768,27 @@
     },
     "PlotSizeSlab": {
       "masterName": "PlotSizeSlab",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "PropertyUsageType": {
       "masterName": "PropertyUsageType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "FeeSlab": {
       "masterName": "FeeSlab",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "RoadType": {
       "masterName": "RoadType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     }
   },
@@ -810,7 +827,7 @@
   "ndc": {
     "NdcFee": {
       "masterName": "NdcFee",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     }
   },
@@ -844,37 +861,37 @@
   "CHB": {
     "CommunityHalls": {
       "masterName": "CommunityHalls",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.communityHallId"]
     },
     "HallCode": {
       "masterName": "HallCode",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.hallId"]
     },
     "Location": {
       "masterName": "Location",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.code"]
     },
     "CalculationType": {
       "masterName": "CalculationType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.sector"]
     },
     "SpecialCategory": {
       "masterName": "SpecialCategory",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.code"]
     },
     "ResidentType": {
       "masterName": "ResidentType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.code"]
     },
     "Purpose": {
       "masterName": "Purpose",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.code"]
     },
     "Documents": {
@@ -884,14 +901,14 @@
     },
     "TaxRates": {
       "masterName": "TaxAmount",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.applicationType", "$.serviceType", "$.feeType"]
     }
   },
   "PetService": {
     "CalculationType": {
       "masterName": "BreedType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.code"]
     },
     "ApplicationType": {
@@ -901,17 +918,17 @@
     },
     "ServiceCharge": {
       "masterName": "ServiceCharge",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.fromFY"]
     },
     "PenaltyFee": {
       "masterName": "PenaltyFee",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.fromFY"]
     },
     "InterestAmount": {
       "masterName": "InterestAmount",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.fromFY"]
     }
   },
