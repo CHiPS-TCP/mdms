@@ -729,6 +729,36 @@
       "groupId": "025"
     },
     {
+      "code": "BPA_QUALITY_AUDITOR",
+      "name": "BPA Quality Auditor",
+      "description": "BPA Supervisor",
+      "groupId": "025"
+    },
+    {
+      "code": "BPA_GEO_HYDROLOGIST",
+      "name": "BPA Geo Hydrologist",
+      "description": "BPA Supervisor",
+      "groupId": "025"
+    },
+    {
+      "code": "BPA_GEO_TECHNICAL_ENGINEER",
+      "name": "BPA Geo Technical Engineer",
+      "description": "BPA Supervisor",
+      "groupId": "025"
+    },
+    {
+      "code": "BPA_FIRE_OFFICER",
+      "name": "BPA Fire Officer",
+      "description": "BPA Supervisor",
+      "groupId": "025"
+    },
+    {
+      "code": "BPA_CONSTRUCTION_ENGINEER",
+      "name": "BPA Construction Engineer",
+      "description": "BPA Supervisor",
+      "groupId": "025"
+    },
+    {
       "code": "BPA_FIELD_INSPECTOR",
       "name": "BPA Field Inspector",
       "description": "BPA Service field inspector",

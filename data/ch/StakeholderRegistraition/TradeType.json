@@ -6649,18 +6649,70 @@
 	    "maxFloors":2
 	  }
 	},
-	 {
-	  "code": "DESIGNER.CLASSA",
-	  "uom": null,
-	  "applicationDocument": [
-	    "OWNERIDPROOF",
-	    "OWNERSHIPPROOF",
-	    "EXPERIENCEPROOF"
-	  ],
-	  "verificationDocument": [],
-	  "active": true,
-	  "type": "BPA",
-	  "validityPeriod": 3
-	}
+    {
+      "code": "QUALITY_AUDITOR.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 3
+    },
+    {
+      "code": "GEO_TECHNICAL_ENGINEER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 3
+    },
+    {
+      "code": "CONSTRUCTION_ENGINEER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 3
+    },
+    {
+      "code": "FIRE_OFFICER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 3
+    },
+    {
+      "code": "GEO_HYDROLOGIST.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 3
+    }
   ]
 }
