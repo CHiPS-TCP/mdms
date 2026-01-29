@@ -1,0 +1,430 @@
+{
+  "tenantId": "ch.ambikapur",
+  "moduleName": "StakeholderRegistraition",
+  "TradeTypetoRoleMapping": [
+    {
+      "id": "313bbadb-c0d7-49b5-b021-77a608f13a31",
+      "tradeType": "ARCHITECT.CLASSA",
+      "code": "Architect",
+      "role": ["BPA_ARCHITECT"],
+      "endstate": "APPROVED",
+      "isActive": "true",
+      "applicationFee": 1500,
+	  "renewalFee": 0,
+      "docTypes": [
+        {
+          "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EDC_CERTIFICATE",
+          "info": "",
+          "required": false
+        },
+        {
+          "code": "APPL.BPAREG_EXP_CERTIFICATE",
+          "info": "",
+          "required": false
+        },
+        {
+          "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+          "info": "",
+          "required": true
+        }, 
+        {
+          "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_OTHERS",
+          "info": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "7f26d283-cc52-4684-9bbc-f87ade6f2228",
+      "tradeType": "ENGINEER.CLASSA",
+      "code": "Engineer",
+      "role": ["BPA_ENGINEER"],
+      "endstate": "APPROVED",
+      "isActive": "true",
+      "applicationFee": 1500,
+	  "renewalFee": 0,
+      "docTypes": [
+        {
+          "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EDC_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EXP_CERTIFICATE",
+          "info": "",
+          "required": false
+        },
+        {
+          "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+          "info": "",
+          "required": false
+        }, 
+        {
+          "code": "APPL.BPAREG_OTHERS",
+          "info": "",
+          "required": false
+        }
+      ]
+    },
+
+    {
+      "id": "91d278e9-0bcd-4436-978e-793af58e325f",
+      "tradeType": "STRUCTURALENGINEER.CLASSA",
+      "code": "Structural Engineer",
+      "role": ["BPA_STRUCTURALENGINEER"],
+      "endstate": "APPROVED",
+      "isActive": "false",
+      "applicationFee": 1500,
+	  "renewalFee": 0,
+      "docTypes": [
+        {
+          "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EDC_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EXP_CERTIFICATE",
+          "info": "",
+          "required": false
+        },
+        {
+          "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+          "info": "",
+          "required": false
+        }, 
+        {
+          "code": "APPL.BPAREG_OTHERS",
+          "info": "",
+          "required": false
+        }
+      ]
+    },
+
+    {
+      "id": "57b66c2a-0033-4875-a3bd-856e5cf82427",
+      "tradeType": "TOWNPLANNER.CLASSA",
+      "code": "Town Planner",
+      "role": ["BPA_TOWNPLANNER"],
+      "endstate": "APPROVED",
+      "isActive": "true",
+      "applicationFee": 1500,
+	  "renewalFee": 0,
+      "docTypes": [
+        {
+          "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EDC_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EXP_CERTIFICATE",
+          "info": "",
+          "required": false
+        },
+        {
+          "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+          "info": "",
+          "required": false
+        }, 
+        {
+          "code": "APPL.BPAREG_OTHERS",
+          "info": "",
+          "required": false
+        }
+      ]
+    },
+
+    {
+      "id": "57b66c2a-0033-4875-a3bd-856e5cf82430",
+      "tradeType": "SUPERVISOR.CLASSA",
+      "code": "Building Designer and Supervisor",
+      "role": ["BPA_SUPERVISOR"],
+      "endstate": "APPROVED",
+      "isActive": "true",
+      "applicationFee": 750,
+	  "renewalFee": 0,
+      "docTypes": [
+        {
+          "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EDC_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EXP_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+          "info": "",
+          "required": false
+        }, 
+        {
+          "code": "APPL.BPAREG_OTHERS",
+          "info": "",
+          "required": false
+        }
+      ]
+    },
+
+    {
+      "id": "421bbadb-c0d7-49b5-b021-77a608f13a32",
+      "tradeType": "GEO_HYDROLOGIST.CLASSA",
+      "code": "Geo_Hydrologist",
+      "role": ["BPA_GEO_HYDROLOGIST"],
+      "endstate": "APPROVED",
+      "isActive": "false",
+      "applicationFee": 1500,
+      "renewalFee": 0,
+      "docTypes": [
+        {
+          "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EDC_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EXP_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_OTHERS",
+          "info": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "421bbadb-c0d7-49b5-b021-77a608f13a38",
+      "tradeType": "FIRE_OFFICER.CLASSA",
+      "code": "Fire_Officer",
+      "role": ["BPA_FIRE_OFFICER"],
+      "endstate": "APPROVED",
+      "isActive": "false",
+      "applicationFee": 1500,
+      "renewalFee": 0,
+      "docTypes": [
+        {
+          "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EDC_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EXP_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_OTHERS",
+          "info": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "421bbadb-c0d7-49b5-b021-77a608f13a36",
+      "tradeType": "CONSTRUCTION_ENGINEER.CLASSA",
+      "code": "Construction_Engineer",
+      "role": ["BPA_CONSTRUCTION_ENGINEER"],
+      "endstate": "APPROVED",
+      "isActive": "false",
+      "applicationFee": 1500,
+      "renewalFee": 0,
+      "docTypes": [
+        {
+          "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EDC_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EXP_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_OTHERS",
+          "info": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "421bbadb-c0d7-49b5-b021-77a608f13a37",
+      "tradeType": "GEO_TECHNICAL_ENGINEER.CLASSA",
+      "code": "Geo_Technical_Engineer",
+      "role": ["BPA_GEO_TECHNICAL_ENGINEER"],
+      "endstate": "APPROVED",
+      "isActive": "false",
+      "applicationFee": 1500,
+      "renewalFee": 0,
+      "docTypes": [
+        {
+          "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EDC_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EXP_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_OTHERS",
+          "info": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "421bbadb-c0d7-49b5-b021-77a608f13a34",
+      "tradeType": "QUALITY_AUDITOR.CLASSA",
+      "code": "Quality_Auditor",
+      "role": ["BPA_QUALITY_AUDITOR"],
+      "endstate": "APPROVED",
+      "isActive": "false",
+      "applicationFee": 1500,
+      "renewalFee": 0,
+      "docTypes": [
+        {
+          "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EDC_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EXP_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_OTHERS",
+          "info": "",
+          "required": false
+        }
+      ]
+    }
+  ]
+}

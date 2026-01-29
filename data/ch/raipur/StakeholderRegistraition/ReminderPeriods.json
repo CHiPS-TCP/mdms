@@ -1,0 +1,9 @@
+{
+    "tenantId": "ch.raipur",
+    "moduleName": "StakeholderRegistraition",
+    "ReminderPeriods": [
+        {
+            "reminderPeriods": 1296000000
+        }
+    ]
+}
