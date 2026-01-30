@@ -789,6 +789,24 @@
       "groupId": "025"
     },
     {
+      "code": "BPA_QUALITY_AUDIT_AGENCY",
+      "name": "Bpa Quality Audit Agency",
+      "description": "BPA Services workflow document & field inspection verifier",
+      "groupId": "025"
+    },
+    {
+      "code": "BPA_CONSTRUCTION_MANAGEMENT_AGENCY",
+      "name": "Bpa Construction Management Agency",
+      "description": "BPA Services workflow document & field inspection verifier",
+      "groupId": "025"
+    },
+    {
+      "code": "BPA_GROUP_OR_AGENCY",
+      "name": "Bpa Group or Agency",
+      "description": "BPA Services workflow document & field inspection verifier",
+      "groupId": "025"
+    },
+    {
       "code": "VIEW_OBPS_CARD",
       "name": "View OBPS Card",
       "description": "For OBPS Card Display in Dashboard",

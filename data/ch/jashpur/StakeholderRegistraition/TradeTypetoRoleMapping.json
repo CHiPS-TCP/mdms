@@ -1,7 +1,7 @@
 {
   "tenantId": "ch.jashpur",
   "moduleName": "StakeholderRegistraition",
-  "TradeTypetoRoleMapping": [
+  "TradeTypetoRoleMapping":  [
     {
       "id": "313bbadb-c0d7-49b5-b021-77a608f13a31",
       "tradeType": "ARCHITECT.CLASSA",
@@ -10,7 +10,7 @@
       "endstate": "APPROVED",
       "isActive": "true",
       "applicationFee": 1500,
-	  "renewalFee": 0,
+      "renewalFee": 1500,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -31,7 +31,7 @@
           "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
           "info": "",
           "required": true
-        }, 
+        },
         {
           "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
           "info": "",
@@ -52,7 +52,7 @@
       "endstate": "APPROVED",
       "isActive": "true",
       "applicationFee": 1500,
-	  "renewalFee": 0,
+      "renewalFee": 1500,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -78,7 +78,7 @@
           "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
           "info": "",
           "required": false
-        }, 
+        },
         {
           "code": "APPL.BPAREG_OTHERS",
           "info": "",
@@ -95,7 +95,7 @@
       "endstate": "APPROVED",
       "isActive": "false",
       "applicationFee": 1500,
-	  "renewalFee": 0,
+      "renewalFee": 1500,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -121,7 +121,7 @@
           "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
           "info": "",
           "required": false
-        }, 
+        },
         {
           "code": "APPL.BPAREG_OTHERS",
           "info": "",
@@ -138,7 +138,7 @@
       "endstate": "APPROVED",
       "isActive": "true",
       "applicationFee": 1500,
-	  "renewalFee": 0,
+      "renewalFee": 1500,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -164,7 +164,7 @@
           "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
           "info": "",
           "required": false
-        }, 
+        },
         {
           "code": "APPL.BPAREG_OTHERS",
           "info": "",
@@ -181,7 +181,7 @@
       "endstate": "APPROVED",
       "isActive": "true",
       "applicationFee": 750,
-	  "renewalFee": 0,
+      "renewalFee": 750,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -207,7 +207,7 @@
           "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
           "info": "",
           "required": false
-        }, 
+        },
         {
           "code": "APPL.BPAREG_OTHERS",
           "info": "",
@@ -224,7 +224,7 @@
       "endstate": "APPROVED",
       "isActive": "false",
       "applicationFee": 1500,
-      "renewalFee": 0,
+      "renewalFee": 1500,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -266,7 +266,7 @@
       "endstate": "APPROVED",
       "isActive": "false",
       "applicationFee": 1500,
-      "renewalFee": 0,
+      "renewalFee": 1500,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -308,7 +308,7 @@
       "endstate": "APPROVED",
       "isActive": "false",
       "applicationFee": 1500,
-      "renewalFee": 0,
+      "renewalFee": 1500,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -350,7 +350,7 @@
       "endstate": "APPROVED",
       "isActive": "false",
       "applicationFee": 1500,
-      "renewalFee": 0,
+      "renewalFee": 1500,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -392,7 +392,133 @@
       "endstate": "APPROVED",
       "isActive": "false",
       "applicationFee": 1500,
-      "renewalFee": 0,
+      "renewalFee": 1500,
+      "docTypes": [
+        {
+          "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EDC_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EXP_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_OTHERS",
+          "info": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "421bbadb-c0d7-49b5-b021-77a608f13a39",
+      "tradeType": "QUALITY_AUDIT_AGENCY.CLASSA",
+      "code": "Quality_Audit_Agency",
+      "role": ["BPA_QUALITY_AUDIT_AGENCY"],
+      "endstate": "APPROVED",
+      "isActive": "false",
+      "applicationFee": 3750,
+      "renewalFee": 3750,
+      "docTypes": [
+        {
+          "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EDC_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EXP_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_OTHERS",
+          "info": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "421bbadb-c0d7-49b5-b021-77a608f13a30",
+      "tradeType": "CONSTRUCTION_MANAGEMENT_AGENCY.CLASSA",
+      "code": "Construction_Management_Agency",
+      "role": ["BPA_CONSTRUCTION_MANAGEMENT_AGENCY"],
+      "endstate": "APPROVED",
+      "isActive": "false",
+      "applicationFee": 3750,
+      "renewalFee": 3750,
+      "docTypes": [
+        {
+          "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EDC_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EXP_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_OTHERS",
+          "info": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "421bbadb-c0d7-49b5-b021-77a608f13a35",
+      "tradeType": "GROUP_OR_AGENCY.CLASSA",
+      "code": "Group_Or_Agency",
+      "role": ["BPA_GROUP_OR_AGENCY"],
+      "endstate": "APPROVED",
+      "isActive": "false",
+      "applicationFee": 3750,
+      "renewalFee": 3750,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
