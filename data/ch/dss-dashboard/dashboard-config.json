@@ -1,5 +1,5 @@
 {
-  "tenantId": "ch",
+  "tenantId": "cg",
   "moduleName": "dss-dashboard",
   "dashboard-config": [
     {
@@ -330,7 +330,7 @@
                 },
                 {
                   "type": "Polygon",
-                  "id": "CH",
+                  "id": "cg",
                   "properties": {
                     "name": "Punjab"
                   },
@@ -423,7 +423,7 @@
                 },
                 {
                   "type": "Polygon",
-                  "id": "CH",
+                  "id": "cg",
                   "properties": {
                     "name": "Chandigarh"
                   },

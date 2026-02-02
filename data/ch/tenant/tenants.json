@@ -1,9 +1,9 @@
 {
-  "tenantId": "ch",
+  "tenantId": "cg",
   "moduleName": "tenant",
   "tenants": [
     {
-      "code": "ch.tcp",
+      "code": "cg.tcp",
       "ulbCode": "TCP",
       "districtCode": "STATE",
       "name": "Town and Country Planning",
@@ -23,7 +23,7 @@
         "localName": "Chhattisgarh TCP",
         "districtCode": "00",
         "districtName": "State Level",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "STATE_DEPARTMENT",
         "ulbType": "TOWN_AND_COUNTRY_PLANNING",
@@ -43,7 +43,7 @@
       "PGRMasterContact": "9999999999"
     },
     {
-      "code": "ch.ambikapur",
+      "code": "cg.ambikapur",
       "ulbCode": "AMB",
       "districtCode": "AMBIKAPUR",
       "name": "Ambikapur",
@@ -63,7 +63,7 @@
         "localName": "Ambikapur",
         "districtCode": "CG",
         "districtName": "Ambikapur",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Municipal Corporation",
         "ulbType": "CITY",
@@ -83,7 +83,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.balodabazar",
+      "code": "cg.balodabazar",
       "ulbCode": "BBA",
       "districtCode": "BALODABAZAR",
       "name": "Balodabazar",
@@ -103,7 +103,7 @@
         "localName": "Balodabazar",
         "districtCode": "CG",
         "districtName": "Balodabazar",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Nagar Panchayat",
         "ulbType": "CITY",
@@ -123,7 +123,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.bilaspur",
+      "code": "cg.bilaspur",
       "ulbCode": "BSP",
       "districtCode": "BILASPUR",
       "name": "Bilaspur",
@@ -143,7 +143,7 @@
         "localName": "Bilaspur",
         "districtCode": "CG",
         "districtName": "Bilaspur",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Municipal Corporation",
         "ulbType": "CITY",
@@ -163,7 +163,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.dantewada",
+      "code": "cg.dantewada",
       "ulbCode": "DAN",
       "districtCode": "DANTEWADA",
       "name": "Dantewada",
@@ -183,7 +183,7 @@
         "localName": "Dantewada",
         "districtCode": "CG",
         "districtName": "Dantewada",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Municipal Council",
         "ulbType": "CITY",
@@ -203,7 +203,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.dhamtari",
+      "code": "cg.dhamtari",
       "ulbCode": "DMT",
       "districtCode": "DHAMTARI",
       "name": "Dhamtari",
@@ -223,7 +223,7 @@
         "localName": "Dhamtari",
         "districtCode": "CG",
         "districtName": "Dhamtari",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Municipal Corporation",
         "ulbType": "CITY",
@@ -243,7 +243,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.durg",
+      "code": "cg.durg",
       "ulbCode": "DUR",
       "districtCode": "DURG",
       "name": "Durg",
@@ -263,7 +263,7 @@
         "localName": "Durg",
         "districtCode": "CG",
         "districtName": "Durg",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Municipal Corporation ",
         "ulbType": "CITY",
@@ -283,7 +283,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.jagdalpur",
+      "code": "cg.jagdalpur",
       "ulbCode": "JDP",
       "districtCode": "JAGDALPUR",
       "name": "Jagdalpur",
@@ -303,7 +303,7 @@
         "localName": "Jagdalpur",
         "districtCode": "CG",
         "districtName": "Jagdalpur",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Municipal Corporation",
         "ulbType": "CITY",
@@ -323,7 +323,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.jangirchampa",
+      "code": "cg.jangirchampa",
       "ulbCode": "JCH",
       "districtCode": "JANGIRCHAMPA",
       "name": "Janjgir Champa",
@@ -343,7 +343,7 @@
         "localName": "Janjgir Champa",
         "districtCode": "CG",
         "districtName": "Janjgir Champa",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Nagar Panchayat",
         "ulbType": "CITY",
@@ -363,7 +363,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.jashpur",
+      "code": "cg.jashpur",
       "ulbCode": "JAS",
       "districtCode": "JASHPUR",
       "name": "Jashpur",
@@ -383,7 +383,7 @@
         "localName": "Jashpur",
         "districtCode": "CG",
         "districtName": "Jashpur",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Municipal Council",
         "ulbType": "CITY",
@@ -403,7 +403,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.kanker",
+      "code": "cg.kanker",
       "ulbCode": "KAN",
       "districtCode": "KANKER",
       "name": "Kanker",
@@ -423,7 +423,7 @@
         "localName": "Kanker",
         "districtCode": "CG",
         "districtName": "Kanker",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Municipal Council",
         "ulbType": "CITY",
@@ -443,7 +443,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.kawardha",
+      "code": "cg.kawardha",
       "ulbCode": "KAW",
       "districtCode": "KAWARDHA",
       "name": "Kawardha",
@@ -463,7 +463,7 @@
         "localName": "Kawardha",
         "districtCode": "CG",
         "districtName": "Kawardha",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Nagar Panchayat",
         "ulbType": "CITY",
@@ -483,7 +483,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.korba",
+      "code": "cg.korba",
       "ulbCode": "KOR",
       "districtCode": "KORBA",
       "name": "Korba",
@@ -503,7 +503,7 @@
         "localName": "Korba",
         "districtCode": "CG",
         "districtName": "Korba",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Municipal Corporation",
         "ulbType": "CITY",
@@ -523,7 +523,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.korea",
+      "code": "cg.korea",
       "ulbCode": "KORR",
       "districtCode": "KOREA",
       "name": "Korea",
@@ -543,7 +543,7 @@
         "localName": "Korea",
         "districtCode": "CG",
         "districtName": "Korea",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Municipal Council",
         "ulbType": "CITY",
@@ -563,7 +563,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.mahasamund",
+      "code": "cg.mahasamund",
       "ulbCode": "MAS",
       "districtCode": "MAHASAMUND",
       "name": "Mahasamund",
@@ -583,7 +583,7 @@
         "localName": "Mahasamund",
         "districtCode": "CG",
         "districtName": "Mahasamund",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Municipal Council",
         "ulbType": "CITY",
@@ -603,7 +603,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.raigarh",
+      "code": "cg.raigarh",
       "ulbCode": "RAI",
       "districtCode": "RAIGARH",
       "name": "Raigarh",
@@ -623,7 +623,7 @@
         "localName": "Raigarh",
         "districtCode": "CG",
         "districtName": "Raigarh",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Municipal Corporation",
         "ulbType": "CITY",
@@ -643,7 +643,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.raipur",
+      "code": "cg.raipur",
       "ulbCode": "RPR",
       "districtCode": "RAIPUR",
       "name": "Raipur",
@@ -663,7 +663,7 @@
         "localName": "Raipur",
         "districtCode": "CG",
         "districtName": "Raipur",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Municipal Corporation",
         "ulbType": "CITY",
@@ -683,7 +683,7 @@
       "PGRMasterContact": null
     },
     {
-      "code": "ch.rajnandgaon",
+      "code": "cg.rajnandgaon",
       "ulbCode": "RJN",
       "districtCode": "RAJNANDGAON",
       "name": "Rajnandgaon",
@@ -703,7 +703,7 @@
         "localName": "Rajnandgaon",
         "districtCode": "CG",
         "districtName": "Rajnandgaon",
-        "districtTenantCode": "ch",
+        "districtTenantCode": "cg",
         "regionName": "Chhattisgarh",
         "ulbGrade": "Municipal Corporation",
         "ulbType": "CITY",

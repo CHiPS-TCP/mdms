@@ -1,5 +1,5 @@
 {
-    "tenantId": "ch",
+    "tenantId": "cg",
     "moduleName": "PropertyTax",
     "UpdateNumber":[ {
         "invalidPattern":"^[6789][0-9]{9}$",

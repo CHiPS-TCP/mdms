@@ -1,5 +1,5 @@
 {
-  "tenantId": "ch",
+  "tenantId": "cg",
   "moduleName": "common-masters",
   "uiCommonPay": [
     {
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "code": "CH",
+      "code": "cg",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
       "receiptKey": "consolidatedreceipt",
       "billKey": "consolidatedbill",

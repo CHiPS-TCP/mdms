@@ -1,10 +1,10 @@
 {
-  "tenantId": "ch",
+  "tenantId": "cg",
   "moduleName": "tenant",
   "tenantsMapping": [
     {
-      "tenantName": "ch.tcp",
-      "ITtenantName": "ch.tcp"
+      "tenantName": "cg.tcp",
+      "ITtenantName": "cg.tcp"
     }
 
   ]

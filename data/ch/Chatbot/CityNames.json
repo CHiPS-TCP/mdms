@@ -1,5 +1,5 @@
 {
-    "tenantId": "ch",
+    "tenantId": "cg",
     "moduleName": "Chatbot",
     "CityNames": [
         {
@@ -355,7 +355,7 @@
             ]
         },
         {
-            "locale": "ch",
+            "locale": "pb",
             "cities": [
                 "ਅਬੋਹਰ",
                 "ਆਦਮਪੁਰ",

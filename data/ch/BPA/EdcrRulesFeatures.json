@@ -1,11 +1,11 @@
 {
-    "tenantId": "ch",
+    "tenantId": "cg",
     "moduleName": "BPA",
     "EdcrRulesFeatures": [
         {
             "FAR": [
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 0,
                     "toPlotArea": 100,
                     "occupancy": "residential",
@@ -13,7 +13,7 @@
                     "permissible": 2.0
                 },
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 100,
                     "toPlotArea": 150,
                     "occupancy": "residential",
@@ -21,7 +21,7 @@
                     "permissible": 1.90
                 },
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 150,
                     "toPlotArea": 200,
                     "occupancy": "residential",
@@ -29,7 +29,7 @@
                     "permissible": 1.75
                 },
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 200,
                     "toPlotArea": 300,
                     "occupancy": "residential",
@@ -38,14 +38,14 @@
                 },
                 {
                     "fromPlotArea": 300,
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "toPlotArea": 1000,
                     "occupancy": "residential",
                     "riskType": "low",
                     "permissible": 1.50
                 },
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 1000,
                     "toPlotArea": 999999,
                     "occupancy": "residential",
@@ -55,7 +55,7 @@
             ],
             "Coverage": [
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 0,
                     "toPlotArea": 150,
                     "occupancy": "residential",
@@ -63,7 +63,7 @@
                     "permissible": 90
                 },
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 150,
                     "toPlotArea": 200,
                     "occupancy": "residential",
@@ -71,7 +71,7 @@
                     "permissible": 70
                 },
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 200,
                     "toPlotArea": 300,
                     "occupancy": "residential",
@@ -79,7 +79,7 @@
                     "permissible": 65
                 },
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 300,
                     "toPlotArea": 500,
                     "occupancy": "residential",
@@ -87,7 +87,7 @@
                     "permissible": 60
                 },
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 500,
                     "toPlotArea": 1000,
                     "occupancy": "residential",
@@ -95,7 +95,7 @@
                     "permissible": 50
                 },
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 1000,
                     "toPlotArea": 999999,
                     "occupancy": "residential",
@@ -105,7 +105,7 @@
             ],
             "FrontSetBack": [
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 0,
                     "toPlotArea": 100,
                     "occupancy": "residential",
@@ -113,7 +113,7 @@
                     "permissible": 1.54
                 },
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 100,
                     "toPlotArea": 150,
                     "occupancy": "residential",
@@ -121,7 +121,7 @@
                     "permissible": 1.8
                 },
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 150,
                     "toPlotArea": 200,
                     "occupancy": "residential",
@@ -129,7 +129,7 @@
                     "permissible": 2.16
                 },
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 200,
                     "toPlotArea": 999999,
                     "occupancy": "residential",
@@ -139,7 +139,7 @@
             ],
             "RearSetBack": [
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 200,
                     "toPlotArea": 999999,
                     "occupancy": "residential",
@@ -149,7 +149,7 @@
             ],
             "Parking": [
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 100,
                     "toPlotArea": 150,
                     "occupancy": "residential",
@@ -159,7 +159,7 @@
                     "permissible": 26.5
                 },
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 150,
                     "toPlotArea": 200,
                     "occupancy": "residential",
@@ -169,7 +169,7 @@
                     "permissible": 26.5
                 },
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 200,
                     "toPlotArea": 500,
                     "occupancy": "residential",
@@ -179,7 +179,7 @@
                     "permissible": 32.5
                 },
                 {
-                    "tenantId": "ch",
+                    "tenantId": "cg",
                     "fromPlotArea": 500,
                     "toPlotArea": 999999,
                     "occupancy": "residential",

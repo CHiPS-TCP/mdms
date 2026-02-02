@@ -1,9 +1,9 @@
 {
-  "tenantId": "ch",
+  "tenantId": "cg",
   "moduleName": "tenant",
   "zoneMaster": [
     {
-      "tanentId": "ch.abohar",
+      "tanentId": "cg.abohar",
       "zones": [
         {
           "code": "Zone",
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "tanentId": "ch.adampur",
+      "tanentId": "cg.adampur",
       "zones": [
         {
           "code": "ward1",
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "tanentId": "ch.ahmedgarh",
+      "tanentId": "cg.ahmedgarh",
       "zones": [
         {
           "code": "Zone",
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "tanentId": "ch.ajnala",
+      "tanentId": "cg.ajnala",
       "zones": [
         {
           "code": "Zone",
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "tanentId": "ch.alawalpur",
+      "tanentId": "cg.alawalpur",
       "zones": [
         {
           "code": "ward1",
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "tanentId": "ch.amargarh",
+      "tanentId": "cg.amargarh",
       "zones": [
         {
           "code": "Zone",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "tanentId": "ch.amloh",
+      "tanentId": "cg.amloh",
       "zones": [
         {
           "code": "Zone",
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "tanentId": "ch.amritsar",
+      "tanentId": "cg.amritsar",
       "zones": [
         {
           "code": "Central1",
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "tanentId": "ch.anandpursahib",
+      "tanentId": "cg.anandpursahib",
       "zones": [
         {
           "code": "Anandpur Sahib",
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "tanentId": "ch.arniwala",
+      "tanentId": "cg.arniwala",
       "zones": [
         {
           "code": "Zone",
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "tanentId": "ch.bababakalasahib",
+      "tanentId": "cg.bababakalasahib",
       "zones": [
         {
           "code": "Zone",
@@ -294,7 +294,7 @@
       ]
     },
     {
-      "tanentId": "ch.badhnikalan",
+      "tanentId": "cg.badhnikalan",
       "zones": [
         {
           "code": "Zone",
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "tanentId": "ch.baghapurana",
+      "tanentId": "cg.baghapurana",
       "zones": [
         {
           "code": "Zone",
@@ -312,7 +312,7 @@
       ]
     },
     {
-      "tanentId": "ch.balachaur",
+      "tanentId": "cg.balachaur",
       "zones": [
         {
           "code": "ward1",
@@ -377,7 +377,7 @@
       ]
     },
     {
-      "tanentId": "ch.balianwali",
+      "tanentId": "cg.balianwali",
       "zones": [
         {
           "code": "Zone1",
@@ -426,7 +426,7 @@
       ]
     },
     {
-      "tanentId": "ch.banga",
+      "tanentId": "cg.banga",
       "zones": [
         {
           "code": "Zone",
@@ -435,7 +435,7 @@
       ]
     },
     {
-      "tanentId": "ch.banur",
+      "tanentId": "cg.banur",
       "zones": [
         {
           "code": "Zone",
@@ -444,7 +444,7 @@
       ]
     },
     {
-      "tanentId": "ch.bareta",
+      "tanentId": "cg.bareta",
       "zones": [
         {
           "code": "Zone1",
@@ -501,7 +501,7 @@
       ]
     },
     {
-      "tanentId": "ch.bariwala",
+      "tanentId": "cg.bariwala",
       "zones": [
         {
           "code": "Zone1",
@@ -550,7 +550,7 @@
       ]
     },
     {
-      "tanentId": "ch.barnala",
+      "tanentId": "cg.barnala",
       "zones": [
         {
           "code": "Zone",
@@ -683,7 +683,7 @@
       ]
     },
     {
-      "tanentId": "ch.bassipathana",
+      "tanentId": "cg.bassipathana",
       "zones": [
         {
           "code": "Zone",
@@ -692,7 +692,7 @@
       ]
     },
     {
-      "tanentId": "ch.batala",
+      "tanentId": "cg.batala",
       "zones": [
         {
           "code": "Block1",
@@ -725,7 +725,7 @@
       ]
     },
     {
-      "tanentId": "ch.bathinda",
+      "tanentId": "cg.bathinda",
       "zones": [
         {
           "code": "Zone",
@@ -778,7 +778,7 @@
       ]
     },
     {
-      "tanentId": "ch.begowal",
+      "tanentId": "cg.begowal",
       "zones": [
         {
           "code": "Zone",
@@ -787,7 +787,7 @@
       ]
     },
     {
-      "tanentId": "ch.bhadaur",
+      "tanentId": "cg.bhadaur",
       "zones": [
         {
           "code": "Zone",
@@ -796,7 +796,7 @@
       ]
     },
     {
-      "tanentId": "ch.bhadson",
+      "tanentId": "cg.bhadson",
       "zones": [
         {
           "code": "Zone",
@@ -805,7 +805,7 @@
       ]
     },
     {
-      "tanentId": "ch.bhagtabhai",
+      "tanentId": "cg.bhagtabhai",
       "zones": [
         {
           "code": "ward1",
@@ -854,7 +854,7 @@
       ]
     },
     {
-      "tanentId": "ch.bhairoopa",
+      "tanentId": "cg.bhairoopa",
       "zones": [
         {
           "code": "Zone1",
@@ -955,7 +955,7 @@
       ]
     },
     {
-      "tanentId": "ch.bhawanigarh",
+      "tanentId": "cg.bhawanigarh",
       "zones": [
         {
           "code": "Zone",
@@ -964,7 +964,7 @@
       ]
     },
     {
-      "tanentId": "ch.bhikhi",
+      "tanentId": "cg.bhikhi",
       "zones": [
         {
           "code": "Zone",
@@ -1025,7 +1025,7 @@
       ]
     },
     {
-      "tanentId": "ch.bhikhiwind",
+      "tanentId": "cg.bhikhiwind",
       "zones": [
         {
           "code": "Zone",
@@ -1034,7 +1034,7 @@
       ]
     },
     {
-      "tanentId": "ch.bhogpur",
+      "tanentId": "cg.bhogpur",
       "zones": [
         {
           "code": "ward1",
@@ -1091,7 +1091,7 @@
       ]
     },
     {
-      "tanentId": "ch.bhuchomandi",
+      "tanentId": "cg.bhuchomandi",
       "zones": [
         {
           "code": "Zone1",
@@ -1148,7 +1148,7 @@
       ]
     },
     {
-      "tanentId": "ch.bhulath",
+      "tanentId": "cg.bhulath",
       "zones": [
         {
           "code": "ward1",
@@ -1205,7 +1205,7 @@
       ]
     },
     {
-      "tanentId": "ch.bilga",
+      "tanentId": "cg.bilga",
       "zones": [
         {
           "code": "ward1",
@@ -1262,7 +1262,7 @@
       ]
     },
     {
-      "tanentId": "ch.boha",
+      "tanentId": "cg.boha",
       "zones": [
         {
           "code": "Zone1",
@@ -1319,7 +1319,7 @@
       ]
     },
     {
-      "tanentId": "ch.budhlada",
+      "tanentId": "cg.budhlada",
       "zones": [
         {
           "code": "Zone",
@@ -1328,7 +1328,7 @@
       ]
     },
     {
-      "tanentId": "ch.chamkaursahib",
+      "tanentId": "cg.chamkaursahib",
       "zones": [
         {
           "code": "Zone",
@@ -1337,7 +1337,7 @@
       ]
     },
     {
-      "tanentId": "ch.chaunke",
+      "tanentId": "cg.chaunke",
       "zones": [
         {
           "code": "Zone1",
@@ -1430,7 +1430,7 @@
       ]
     },
     {
-      "tanentId": "ch.cheema",
+      "tanentId": "cg.cheema",
       "zones": [
         {
           "code": "Zone",
@@ -1439,7 +1439,7 @@
       ]
     },
     {
-      "tanentId": "ch.dasuya",
+      "tanentId": "cg.dasuya",
       "zones": [
         {
           "code": "ward1",
@@ -1504,7 +1504,7 @@
       ]
     },
     {
-      "tanentId": "ch.derababananak",
+      "tanentId": "cg.derababananak",
       "zones": [
         {
           "code": "Zone",
@@ -1513,7 +1513,7 @@
       ]
     },
     {
-      "tanentId": "ch.derabassi",
+      "tanentId": "cg.derabassi",
       "zones": [
         {
           "code": "Zone",
@@ -1598,7 +1598,7 @@
       ]
     },
     {
-      "tanentId": "ch.devigarh",
+      "tanentId": "cg.devigarh",
       "zones": [
         {
           "code": "Zone",
@@ -1607,7 +1607,7 @@
       ]
     },
     {
-      "tanentId": "ch.dhanaula",
+      "tanentId": "cg.dhanaula",
       "zones": [
         {
           "code": "Zone",
@@ -1616,7 +1616,7 @@
       ]
     },
     {
-      "tanentId": "ch.dharamkot",
+      "tanentId": "cg.dharamkot",
       "zones": [
         {
           "code": "Zone",
@@ -1625,7 +1625,7 @@
       ]
     },
     {
-      "tanentId": "ch.dhariwal",
+      "tanentId": "cg.dhariwal",
       "zones": [
         {
           "code": "Zone",
@@ -1634,7 +1634,7 @@
       ]
     },
     {
-      "tanentId": "ch.dhilwan",
+      "tanentId": "cg.dhilwan",
       "zones": [
         {
           "code": "ward1",
@@ -1691,7 +1691,7 @@
       ]
     },
     {
-      "tanentId": "ch.dhuri",
+      "tanentId": "cg.dhuri",
       "zones": [
         {
           "code": "Zone",
@@ -1784,7 +1784,7 @@
       ]
     },
     {
-      "tanentId": "ch.dinanagar",
+      "tanentId": "cg.dinanagar",
       "zones": [
         {
           "code": "Zone",
@@ -1793,7 +1793,7 @@
       ]
     },
     {
-      "tanentId": "ch.dirba",
+      "tanentId": "cg.dirba",
       "zones": [
         {
           "code": "Zone",
@@ -1802,7 +1802,7 @@
       ]
     },
     {
-      "tanentId": "ch.doraha",
+      "tanentId": "cg.doraha",
       "zones": [
         {
           "code": "Zone",
@@ -1811,7 +1811,7 @@
       ]
     },
     {
-      "tanentId": "ch.faridkot",
+      "tanentId": "cg.faridkot",
       "zones": [
         {
           "code": "Zone",
@@ -1820,7 +1820,7 @@
       ]
     },
     {
-      "tanentId": "ch.fatehgarhchurian",
+      "tanentId": "cg.fatehgarhchurian",
       "zones": [
         {
           "code": "Zone",
@@ -1829,7 +1829,7 @@
       ]
     },
     {
-      "tanentId": "ch.fatehgarhpanjtoor",
+      "tanentId": "cg.fatehgarhpanjtoor",
       "zones": [
         {
           "code": "Zone",
@@ -1838,7 +1838,7 @@
       ]
     },
     {
-      "tanentId": "ch.fazilka",
+      "tanentId": "cg.fazilka",
       "zones": [
         {
           "code": "Zone",
@@ -1947,7 +1947,7 @@
       ]
     },
     {
-      "tanentId": "ch.ferozepur",
+      "tanentId": "cg.ferozepur",
       "zones": [
         {
           "code": "Zone",
@@ -1956,7 +1956,7 @@
       ]
     },
     {
-      "tanentId": "ch.gardhiwala",
+      "tanentId": "cg.gardhiwala",
       "zones": [
         {
           "code": "ward1",
@@ -2005,7 +2005,7 @@
       ]
     },
     {
-      "tanentId": "ch.garhshankar",
+      "tanentId": "cg.garhshankar",
       "zones": [
         {
           "code": "ward1",
@@ -2062,7 +2062,7 @@
       ]
     },
     {
-      "tanentId": "ch.ghagga",
+      "tanentId": "cg.ghagga",
       "zones": [
         {
           "code": "Zone",
@@ -2071,7 +2071,7 @@
       ]
     },
     {
-      "tanentId": "ch.ghanaur",
+      "tanentId": "cg.ghanaur",
       "zones": [
         {
           "code": "Zone",
@@ -2156,7 +2156,7 @@
       ]
     },
     {
-      "tanentId": "ch.gharuan",
+      "tanentId": "cg.gharuan",
       "zones": [
         {
           "code": "Zone",
@@ -2165,7 +2165,7 @@
       ]
     },
     {
-      "tanentId": "ch.gidderbaha",
+      "tanentId": "cg.gidderbaha",
       "zones": [
         {
           "code": "Zone",
@@ -2174,7 +2174,7 @@
       ]
     },
     {
-      "tanentId": "ch.gobindgarh_(mandi_gobindgarh)",
+      "tanentId": "cg.gobindgarh_(mandi_gobindgarh)",
       "zones": [
         {
           "code": "Zone",
@@ -2195,7 +2195,7 @@
       ]
     },
     {
-      "tanentId": "ch.goniana",
+      "tanentId": "cg.goniana",
       "zones": [
         {
           "code": "Zone1",
@@ -2252,7 +2252,7 @@
       ]
     },
     {
-      "tanentId": "ch.goraya",
+      "tanentId": "cg.goraya",
       "zones": [
         {
           "code": "ward1",
@@ -2309,7 +2309,7 @@
       ]
     },
     {
-      "tanentId": "ch.gurdaspur",
+      "tanentId": "cg.gurdaspur",
       "zones": [
         {
           "code": "Zone",
@@ -2318,7 +2318,7 @@
       ]
     },
     {
-      "tanentId": "ch.guruharsahai",
+      "tanentId": "cg.guruharsahai",
       "zones": [
         {
           "code": "Zone",
@@ -2327,7 +2327,7 @@
       ]
     },
     {
-      "tanentId": "ch.handiaya",
+      "tanentId": "cg.handiaya",
       "zones": [
         {
           "code": "Zone",
@@ -2336,7 +2336,7 @@
       ]
     },
     {
-      "tanentId": "ch.hariana",
+      "tanentId": "cg.hariana",
       "zones": [
         {
           "code": "ward1",
@@ -2385,7 +2385,7 @@
       ]
     },
     {
-      "tanentId": "ch.hoshiarpur",
+      "tanentId": "cg.hoshiarpur",
       "zones": [
         {
           "code": "Zone",
@@ -2594,7 +2594,7 @@
       ]
     },
     {
-      "tanentId": "ch.jagraon",
+      "tanentId": "cg.jagraon",
       "zones": [
         {
           "code": "Zone",
@@ -2603,7 +2603,7 @@
       ]
     },
     {
-      "tanentId": "ch.jaitu",
+      "tanentId": "cg.jaitu",
       "zones": [
         {
           "code": "ward1",
@@ -2668,7 +2668,7 @@
       ]
     },
     {
-      "tanentId": "ch.jalalabad",
+      "tanentId": "cg.jalalabad",
       "zones": [
         {
           "code": "Zone",
@@ -2677,7 +2677,7 @@
       ]
     },
     {
-      "tanentId": "ch.jalandhar",
+      "tanentId": "cg.jalandhar",
       "zones": [
         {
           "code": "Block1",
@@ -2778,7 +2778,7 @@
       ]
     },
     {
-      "tanentId": "ch.jandialaguru",
+      "tanentId": "cg.jandialaguru",
       "zones": [
         {
           "code": "ward1",
@@ -2843,7 +2843,7 @@
       ]
     },
     {
-      "tanentId": "ch.joga",
+      "tanentId": "cg.joga",
       "zones": [
         {
           "code": "Zone1",
@@ -2900,7 +2900,7 @@
       ]
     },
     {
-      "tanentId": "ch.kapurthala",
+      "tanentId": "cg.kapurthala",
       "zones": [
         {
           "code": "Zone",
@@ -2977,7 +2977,7 @@
       ]
     },
     {
-      "tanentId": "ch.kartarpur",
+      "tanentId": "cg.kartarpur",
       "zones": [
         {
           "code": "Zone",
@@ -3030,7 +3030,7 @@
       ]
     },
     {
-      "tanentId": "ch.khamano",
+      "tanentId": "cg.khamano",
       "zones": [
         {
           "code": "Zone1",
@@ -3087,7 +3087,7 @@
       ]
     },
     {
-      "tanentId": "ch.khanna",
+      "tanentId": "cg.khanna",
       "zones": [
         {
           "code": "Guru Amardass Market",
@@ -3125,7 +3125,7 @@
     },
 
     {
-      "tanentId": "ch.kharar",
+      "tanentId": "cg.kharar",
       "zones": [
         {
           "code": "Zone",
@@ -3162,7 +3162,7 @@
       ]
     },
     {
-      "tanentId": "ch.khemkaran",
+      "tanentId": "cg.khemkaran",
       "zones": [
         {
           "code": "Zone",
@@ -3171,7 +3171,7 @@
       ]
     },
     {
-      "tanentId": "ch.kiratpur",
+      "tanentId": "cg.kiratpur",
       "zones": [
         {
           "code": "NP Kiratpur Sahib",
@@ -3180,7 +3180,7 @@
       ]
     },
     {
-      "tanentId": "ch.kotfatta",
+      "tanentId": "cg.kotfatta",
       "zones": [
         {
           "code": "Zone1",
@@ -3281,7 +3281,7 @@
       ]
     },
     {
-      "tanentId": "ch.kotissekhan",
+      "tanentId": "cg.kotissekhan",
       "zones": [
         {
           "code": "Zone",
@@ -3290,7 +3290,7 @@
       ]
     },
     {
-      "tanentId": "ch.kotshamir",
+      "tanentId": "cg.kotshamir",
       "zones": [
         {
           "code": "Zone1",
@@ -3391,7 +3391,7 @@
       ]
     },
     {
-      "tanentId": "ch.kotkapura",
+      "tanentId": "cg.kotkapura",
       "zones": [
         {
           "code": "Zone",
@@ -3516,7 +3516,7 @@
       ]
     },
     {
-      "tanentId": "ch.kurali",
+      "tanentId": "cg.kurali",
       "zones": [
         {
           "code": "Zone",
@@ -3533,7 +3533,7 @@
       ]
     },
     {
-      "tanentId": "ch.lalru",
+      "tanentId": "cg.lalru",
       "zones": [
         {
           "code": "Zone",
@@ -3550,7 +3550,7 @@
       ]
     },
     {
-      "tanentId": "ch.lehramohabbat",
+      "tanentId": "cg.lehramohabbat",
       "zones": [
         {
           "code": "Zone1",
@@ -3615,7 +3615,7 @@
       ]
     },
     {
-      "tanentId": "ch.lehragaga",
+      "tanentId": "cg.lehragaga",
       "zones": [
         {
           "code": "Zone",
@@ -3624,7 +3624,7 @@
       ]
     },
     {
-      "tanentId": "ch.lohiankhas",
+      "tanentId": "cg.lohiankhas",
       "zones": [
         {
           "code": "ward1",
@@ -3681,7 +3681,7 @@
       ]
     },
     {
-      "tanentId": "ch.longowal",
+      "tanentId": "cg.longowal",
       "zones": [
         {
           "code": "Zone",
@@ -3690,7 +3690,7 @@
       ]
     },
     {
-      "tanentId": "ch.ludhiana",
+      "tanentId": "cg.ludhiana",
       "zones": [
         {
           "code": "Bharat Nagar Extention",
@@ -3883,7 +3883,7 @@
       ]
     },
     {
-      "tanentId": "ch.machhiwara",
+      "tanentId": "cg.machhiwara",
       "zones": [
         {
           "code": "Zone",
@@ -3892,7 +3892,7 @@
       ]
     },
     {
-      "tanentId": "ch.mahilpur",
+      "tanentId": "cg.mahilpur",
       "zones": [
         {
           "code": "ward1",
@@ -3949,7 +3949,7 @@
       ]
     },
     {
-      "tanentId": "ch.majitha",
+      "tanentId": "cg.majitha",
       "zones": [
         {
           "code": "Zone",
@@ -3966,7 +3966,7 @@
       ]
     },
     {
-      "tanentId": "ch.makhu",
+      "tanentId": "cg.makhu",
       "zones": [
         {
           "code": "Zone",
@@ -3975,7 +3975,7 @@
       ]
     },
     {
-      "tanentId": "ch.malerkotla",
+      "tanentId": "cg.malerkotla",
       "zones": [
         {
           "code": "Zone",
@@ -4116,7 +4116,7 @@
       ]
     },
     {
-      "tanentId": "ch.mallanwala",
+      "tanentId": "cg.mallanwala",
       "zones": [
         {
           "code": "Zone",
@@ -4125,7 +4125,7 @@
       ]
     },
     {
-      "tanentId": "ch.maloud",
+      "tanentId": "cg.maloud",
       "zones": [
         {
           "code": "Zone",
@@ -4134,7 +4134,7 @@
       ]
     },
     {
-      "tanentId": "ch.malout",
+      "tanentId": "cg.malout",
       "zones": [
         {
           "code": "Zone1",
@@ -4247,7 +4247,7 @@
       ]
     },
     {
-      "tanentId": "ch.maluka",
+      "tanentId": "cg.maluka",
       "zones": [
         {
           "code": "Zone1",
@@ -4296,7 +4296,7 @@
       ]
     },
     {
-      "tanentId": "ch.mamdot",
+      "tanentId": "cg.mamdot",
       "zones": [
         {
           "code": "Zone",
@@ -4305,7 +4305,7 @@
       ]
     },
     {
-      "tanentId": "ch.mandikalan",
+      "tanentId": "cg.mandikalan",
       "zones": [
         {
           "code": "Zone1",
@@ -4354,7 +4354,7 @@
       ]
     },
     {
-      "tanentId": "ch.mansa",
+      "tanentId": "cg.mansa",
       "zones": [
         {
           "code": "Zone1",
@@ -4467,7 +4467,7 @@
       ]
     },
     {
-      "tanentId": "ch.maur",
+      "tanentId": "cg.maur",
       "zones": [
         {
           "code": "Zone1",
@@ -4540,7 +4540,7 @@
       ]
     },
     {
-      "tanentId": "ch.mehatpur",
+      "tanentId": "cg.mehatpur",
       "zones": [
         {
           "code": "ward1",
@@ -4597,7 +4597,7 @@
       ]
     },
     {
-      "tanentId": "ch.mehraj",
+      "tanentId": "cg.mehraj",
       "zones": [
         {
           "code": "Zone1",
@@ -4726,7 +4726,7 @@
       ]
     },
     {
-      "tanentId": "ch.moga",
+      "tanentId": "cg.moga",
       "zones": [
         {
           "code": "Zone",
@@ -4751,7 +4751,7 @@
       ]
     },
     {
-      "tanentId": "ch.moonak",
+      "tanentId": "cg.moonak",
       "zones": [
         {
           "code": "Zone",
@@ -4760,7 +4760,7 @@
       ]
     },
     {
-      "tanentId": "ch.morinda",
+      "tanentId": "cg.morinda",
       "zones": [
         {
           "code": "MORINDA",
@@ -4833,7 +4833,7 @@
       ]
     },
     {
-      "tanentId": "ch.mudki",
+      "tanentId": "cg.mudki",
       "zones": [
         {
           "code": "Zone",
@@ -4842,7 +4842,7 @@
       ]
     },
     {
-      "tanentId": "ch.mukerian",
+      "tanentId": "cg.mukerian",
       "zones": [
         {
           "code": "ward1",
@@ -4907,7 +4907,7 @@
       ]
     },
     {
-      "tanentId": "ch.mullanpur",
+      "tanentId": "cg.mullanpur",
       "zones": [
         {
           "code": "Zone",
@@ -4916,7 +4916,7 @@
       ]
     },
     {
-      "tanentId": "ch.nabha",
+      "tanentId": "cg.nabha",
       "zones": [
         {
           "code": "ZONE A",
@@ -4933,7 +4933,7 @@
       ]
     },
     {
-      "tanentId": "ch.nadala",
+      "tanentId": "cg.nadala",
       "zones": [
         {
           "code": "ward1",
@@ -4990,7 +4990,7 @@
       ]
     },
     {
-      "tanentId": "ch.nakodar",
+      "tanentId": "cg.nakodar",
       "zones": [
         {
           "code": "ward1",
@@ -5063,7 +5063,7 @@
       ]
     },
     {
-      "tanentId": "ch.nangal",
+      "tanentId": "cg.nangal",
       "zones": [
         {
           "code": "Nangal Area",
@@ -5156,7 +5156,7 @@
       ]
     },
     {
-      "tanentId": "ch.narotjaimalsingh",
+      "tanentId": "cg.narotjaimalsingh",
       "zones": [
         {
           "code": "Zone1",
@@ -5205,7 +5205,7 @@
       ]
     },
     {
-      "tanentId": "ch.nathana",
+      "tanentId": "cg.nathana",
       "zones": [
         {
           "code": "Zone1",
@@ -5254,7 +5254,7 @@
       ]
     },
     {
-      "tanentId": "ch.nawanshahr",
+      "tanentId": "cg.nawanshahr",
       "zones": [
         {
           "code": "Zone",
@@ -5263,7 +5263,7 @@
       ]
     },
     {
-      "tanentId": "ch.nawnashar",
+      "tanentId": "cg.nawnashar",
       "zones": [
         {
           "code": "Zone",
@@ -5348,7 +5348,7 @@
       ]
     },
     {
-      "tanentId": "ch.nayagoan",
+      "tanentId": "cg.nayagoan",
       "zones": [
         {
           "code": "Zone",
@@ -5357,7 +5357,7 @@
       ]
     },
     {
-      "tanentId": "ch.nihalsinghwala",
+      "tanentId": "cg.nihalsinghwala",
       "zones": [
         {
           "code": "Zone",
@@ -5366,7 +5366,7 @@
       ]
     },
     {
-      "tanentId": "ch.nurmahal",
+      "tanentId": "cg.nurmahal",
       "zones": [
         {
           "code": "ward1",
@@ -5423,7 +5423,7 @@
       ]
     },
     {
-      "tanentId": "ch.pathankot",
+      "tanentId": "cg.pathankot",
       "zones": [
         {
           "code": "Zone",
@@ -5448,7 +5448,7 @@
       ]
     },
     {
-      "tanentId": "ch.patiala",
+      "tanentId": "cg.patiala",
       "zones": [
         {
           "code": "Zone",
@@ -5501,7 +5501,7 @@
       ]
     },
     {
-      "tanentId": "ch.patran",
+      "tanentId": "cg.patran",
       "zones": [
         {
           "code": "Patran1",
@@ -5566,7 +5566,7 @@
       ]
     },
     {
-      "tanentId": "ch.patti",
+      "tanentId": "cg.patti",
       "zones": [
         {
           "code": "Zone",
@@ -5575,7 +5575,7 @@
       ]
     },
     {
-      "tanentId": "ch.payal",
+      "tanentId": "cg.payal",
       "zones": [
         {
           "code": "Zone",
@@ -5584,7 +5584,7 @@
       ]
     },
     {
-      "tanentId": "ch.phagwara",
+      "tanentId": "cg.phagwara",
       "zones": [
         {
           "code": "Area1",
@@ -5629,7 +5629,7 @@
       ]
     },
     {
-      "tanentId": "ch.phillaur",
+      "tanentId": "cg.phillaur",
       "zones": [
         {
           "code": "ward1",
@@ -5686,7 +5686,7 @@
       ]
     },
     {
-      "tanentId": "ch.qadian",
+      "tanentId": "cg.qadian",
       "zones": [
         {
           "code": "Zone",
@@ -5695,7 +5695,7 @@
       ]
     },
     {
-      "tanentId": "ch.rahon",
+      "tanentId": "cg.rahon",
       "zones": [
         {
           "code": "ward1",
@@ -5776,7 +5776,7 @@
       ]
     },
     {
-      "tanentId": "ch.raikot",
+      "tanentId": "cg.raikot",
       "zones": [
         {
           "code": "ward1",
@@ -5785,7 +5785,7 @@
       ]
     },
     {
-      "tanentId": "ch.rajasansi",
+      "tanentId": "cg.rajasansi",
       "zones": [
         {
           "code": "Zone",
@@ -5794,7 +5794,7 @@
       ]
     },
     {
-      "tanentId": "ch.rajpura",
+      "tanentId": "cg.rajpura",
       "zones": [
         {
           "code": "Zone",
@@ -5935,7 +5935,7 @@
       ]
     },
     {
-      "tanentId": "ch.raman",
+      "tanentId": "cg.raman",
       "zones": [
         {
           "code": "Zone1",
@@ -6060,7 +6060,7 @@
       ]
     },
     {
-      "tanentId": "ch.ramdass",
+      "tanentId": "cg.ramdass",
       "zones": [
         {
           "code": "Zone",
@@ -6069,7 +6069,7 @@
       ]
     },
     {
-      "tanentId": "ch.rampura",
+      "tanentId": "cg.rampura",
       "zones": [
         {
           "code": "Zone1",
@@ -6118,7 +6118,7 @@
       ]
     },
     {
-      "tanentId": "ch.rampuraphul",
+      "tanentId": "cg.rampuraphul",
       "zones": [
         {
           "code": "Zone1",
@@ -6207,7 +6207,7 @@
       ]
     },
     {
-      "tanentId": "ch.rayya",
+      "tanentId": "cg.rayya",
       "zones": [
         {
           "code": "Zone",
@@ -6216,7 +6216,7 @@
       ]
     },
     {
-      "tanentId": "ch.ropar",
+      "tanentId": "cg.ropar",
       "zones": [
         {
           "code": "Beant Singh Aman Nagar Scheme",
@@ -6245,7 +6245,7 @@
       ]
     },
     {
-      "tanentId": "ch.mohali",
+      "tanentId": "cg.mohali",
       "zones": [
         {
           "code": "Mohali",
@@ -6350,7 +6350,7 @@
       ]
     },
     {
-      "tanentId": "ch.sahnewal",
+      "tanentId": "cg.sahnewal",
       "zones": [
         {
           "code": "Zone",
@@ -6359,7 +6359,7 @@
       ]
     },
     {
-      "tanentId": "ch.samana",
+      "tanentId": "cg.samana",
       "zones": [
         {
           "code": "Zone",
@@ -6368,7 +6368,7 @@
       ]
     },
     {
-      "tanentId": "ch.samrala",
+      "tanentId": "cg.samrala",
       "zones": [
         {
           "code": "Zone",
@@ -6377,7 +6377,7 @@
       ]
     },
     {
-      "tanentId": "ch.sanaur",
+      "tanentId": "cg.sanaur",
       "zones": [
         {
           "code": "Zone",
@@ -6386,7 +6386,7 @@
       ]
     },
     {
-      "tanentId": "ch.sangatmandi",
+      "tanentId": "cg.sangatmandi",
       "zones": [
         {
           "code": "Zone1",
@@ -6427,7 +6427,7 @@
       ]
     },
     {
-      "tanentId": "ch.sangrur",
+      "tanentId": "cg.sangrur",
       "zones": [
         {
           "code": "Zone",
@@ -6544,7 +6544,7 @@
       ]
     },
     {
-      "tanentId": "ch.sardulgarh",
+      "tanentId": "cg.sardulgarh",
       "zones": [
         {
           "code": "Zone1",
@@ -6601,7 +6601,7 @@
       ]
     },
     {
-      "tanentId": "ch.shahkot",
+      "tanentId": "cg.shahkot",
       "zones": [
         {
           "code": "ward1",
@@ -6658,7 +6658,7 @@
       ]
     },
     {
-      "tanentId": "ch.shamchurasi",
+      "tanentId": "cg.shamchurasi",
       "zones": [
         {
           "code": "Zone",
@@ -6667,7 +6667,7 @@
       ]
     },
     {
-      "tanentId": "ch.sirhind",
+      "tanentId": "cg.sirhind",
       "zones": [
         {
           "code": "Zone",
@@ -6768,7 +6768,7 @@
       ]
     },
     {
-      "tanentId": "ch.srihargobindpur",
+      "tanentId": "cg.srihargobindpur",
       "zones": [
         {
           "code": "Zone1",
@@ -6897,7 +6897,7 @@
       ]
     },
     {
-      "tanentId": "ch.muktsar",
+      "tanentId": "cg.muktsar",
       "zones": [
         {
           "code": "ward1",
@@ -7026,7 +7026,7 @@
       ]
     },
     {
-      "tanentId": "ch.sultanpurlodhi",
+      "tanentId": "cg.sultanpurlodhi",
       "zones": [
         {
           "code": "ward1",
@@ -7083,7 +7083,7 @@
       ]
     },
     {
-      "tanentId": "ch.sunam",
+      "tanentId": "cg.sunam",
       "zones": [
         {
           "code": "Zone",
@@ -7092,7 +7092,7 @@
       ]
     },
     {
-      "tanentId": "ch.talwandisabo",
+      "tanentId": "cg.talwandisabo",
       "zones": [
         {
           "code": "Zone1",
@@ -7157,7 +7157,7 @@
       ]
     },
     {
-      "tanentId": "ch.talwandibhai",
+      "tanentId": "cg.talwandibhai",
       "zones": [
         {
           "code": "Zone",
@@ -7166,7 +7166,7 @@
       ]
     },
     {
-      "tanentId": "ch.talwara",
+      "tanentId": "cg.talwara",
       "zones": [
         {
           "code": "ward1",
@@ -7223,7 +7223,7 @@
       ]
     },
     {
-      "tanentId": "ch.tapa",
+      "tanentId": "cg.tapa",
       "zones": [
         {
           "code": "Zone1",
@@ -7288,7 +7288,7 @@
       ]
     },
     {
-      "tanentId": "ch.tarntaran",
+      "tanentId": "cg.tarntaran",
       "zones": [
         {
           "code": "Zone",
@@ -7301,7 +7301,7 @@
       ]
     },
     {
-      "tanentId": "ch.urmartanda",
+      "tanentId": "cg.urmartanda",
       "zones": [
         {
           "code": "Zone",
@@ -7370,7 +7370,7 @@
       ]
     },
     {
-      "tanentId": "ch.zira",
+      "tanentId": "cg.zira",
       "zones": [
         {
           "code": "Zone",
@@ -7379,7 +7379,7 @@
       ]
     },
     {
-      "tanentId": "ch.zirakpur",
+      "tanentId": "cg.zirakpur",
       "zones": [
         {
           "code": "From Zirakpur to old amb. road on its left side",
@@ -7420,7 +7420,7 @@
       ]
     },
     {
-      "tanentId": "ch.testing",
+      "tanentId": "cg.testing",
       "zones": [
         {
           "code": "Zone1",

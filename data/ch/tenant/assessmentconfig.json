@@ -1,15 +1,15 @@
 {
-  "tenantId": "ch",
+  "tenantId": "cg",
   "moduleName": "tenant",
   "assessmentconfig": [
     {
-      "tenant": "ch.testing",
+      "tenant": "cg.testing",
       "enabled": false,
       "financialyear": "2021-22",
       "isRented": true
     },
     {
-      "tenant": "ch.tcp",
+      "tenant": "cg.tcp",
       "enabled": false,
       "financialyear": "2021-22",
       "isRented": true
