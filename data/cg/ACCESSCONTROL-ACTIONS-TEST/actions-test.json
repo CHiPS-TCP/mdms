@@ -3261,7 +3261,7 @@
     {
       "id": 1611,
       "name": "Cancellation of  Vouchers-Search",
-      "url": "/services/EGF/voucher/cancelVoucher-beforeSearaction",
+      "url": "/services/EGF/voucher/cancelVoucher-beforeSear"code": "cg.action",
       "parentModule": "",
       "displayName": "Cancel Vouchers",
       "orderNumber": 1,
@@ -3269,7 +3269,7 @@
       "serviceCode": "FinanceAdmin",
       "code": "null",
       "path": "Finance.Administration.Cancel Voucher",
-      "navigationURL": "services/EGF/voucher/cancelVoucher-beforeSearaction"
+      "navigationURL": "services/EGF/voucher/cancelVoucher-beforeSear"code": "cg.action"
     },
     {
       "id": 1612,
@@ -3399,7 +3399,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "path": "Finance.Masters.Scheme.View Scheme",
-      "navigationURL": "services/EGF/masters/scheme-beforeSearaction"
+      "navigationURL": "services/EGF/masters/scheme-beforeSear"code": "cg.action"
     },
     {
       "id": 1622,
@@ -3464,7 +3464,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "path": "Finance.Masters.Scheme.View Sub-scheme",
-      "navigationURL": "services/EGF/masters/subScheme-beforeSearaction"
+      "navigationURL": "services/EGF/masters/subScheme-beforeSear"code": "cg.action"
     },
     {
       "id": 1627,
@@ -3482,7 +3482,7 @@
     {
       "id": 1628,
       "name": "Voucher Status Report",
-      "url": "/services/EGF/report/voucherStatusReport-beforeSearaction",
+      "url": "/services/EGF/report/voucherStatusReport-beforeSear"code": "cg.action",
       "parentModule": "",
       "displayName": "Voucher Status Report",
       "orderNumber": 4,
@@ -3490,12 +3490,12 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "path": "Finance.Reports.MIS Reports.Voucher Status Report",
-      "navigationURL": "services/EGF/report/voucherStatusReport-beforeSearaction"
+      "navigationURL": "services/EGF/report/voucherStatusReport-beforeSear"code": "cg.action"
     },
     {
       "id": 1629,
       "name": "Cancel Bills",
-      "url": "/services/EGF/voucher/cancelBill-beforeSearaction",
+      "url": "/services/EGF/voucher/cancelBill-beforeSear"code": "cg.action",
       "parentModule": "",
       "displayName": "Cancel Bills",
       "orderNumber": 1,
@@ -3503,12 +3503,12 @@
       "serviceCode": "FinanceAdmin",
       "code": "null",
       "path": "Finance.Administration.Cancel Bills",
-      "navigationURL": "services/EGF/voucher/cancelBill-beforeSearaction"
+      "navigationURL": "services/EGF/voucher/cancelBill-beforeSear"code": "cg.action"
     },
     {
       "id": 1630,
       "name": "chequeAssignmentForRTGS",
-      "url": "/services/EGF/payment/chequeAssignment-beforeRtgsSearaction",
+      "url": "/services/EGF/payment/chequeAssignment-beforeRtgsSear"code": "cg.action",
       "parentModule": "",
       "displayName": "RTGS Assignment",
       "orderNumber": 3,
@@ -3516,12 +3516,12 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "path": "Finance.Transactions.Payments.RTGS Assignment",
-      "navigationURL": "services/EGF/payment/chequeAssignment-beforeRtgsSearaction"
+      "navigationURL": "services/EGF/payment/chequeAssignment-beforeRtgsSear"code": "cg.action"
     },
     {
       "id": 1631,
       "name": "View Vouchers",
-      "url": "/services/EGF/voucher/voucherSearch-beforesearaction",
+      "url": "/services/EGF/voucher/voucherSearch-beforesear"code": "cg.action",
       "parentModule": "",
       "displayName": "View Voucher",
       "orderNumber": 4,
@@ -3529,12 +3529,12 @@
       "serviceCode": "FinanceGeneral",
       "code": "null",
       "path": "Finance.Transactions.View Vouchers",
-      "navigationURL": "services/EGF/voucher/voucherSearch-beforesearaction"
+      "navigationURL": "services/EGF/voucher/voucherSearch-beforesear"code": "cg.action"
     },
     {
       "id": 1632,
       "name": "Contractor/Supplier Payments",
-      "url": "/services/EGF/payment/payment-beforeSearaction",
+      "url": "/services/EGF/payment/payment-beforeSear"code": "cg.action",
       "parentModule": "",
       "displayName": "Bill Payment",
       "orderNumber": 1,
@@ -3542,12 +3542,12 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "path": "Finance.Transactions.Payments.Bill Payment",
-      "navigationURL": "services/EGF/payment/payment-beforeSearaction"
+      "navigationURL": "services/EGF/payment/payment-beforeSear"code": "cg.action"
     },
     {
       "id": 1633,
       "name": "Cheque Assignment",
-      "url": "/services/EGF/payment/chequeAssignment-beforeSearaction",
+      "url": "/services/EGF/payment/chequeAssignment-beforeSear"code": "cg.action",
       "parentModule": "",
       "displayName": "Cheque Assignment",
       "orderNumber": 3,
@@ -3555,7 +3555,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "path": "Finance.Transactions.Payments.Cheque Assignment",
-      "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearaction"
+      "navigationURL": "services/EGF/payment/chequeAssignment-beforeSear"code": "cg.action"
     },
     {
       "id": 1634,
@@ -5498,7 +5498,7 @@
     {
       "id": 1796,
       "name": "searchBudget_Master",
-      "navigationURL": "services/EGF/budget/budgetSearaction",
+      "navigationURL": "services/EGF/budget/budgetSear"code": "cg.action",
       "url": "url",
       "parentModule": "EGF",
       "displayName": "Search Budget",
@@ -9341,7 +9341,7 @@
     {
       "id": 2098,
       "name": "DEFAULT Payment search",
-      "url": "/collection-services/payments/Bidi_And_Cigrette_Challan/_search",
+      "url": "/collection-services/payments/"code": "cg.Bidi_And_Cigrette_Challan/_search",
       "displayName": "Bidi_And_Cigrette_Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -9401,7 +9401,7 @@
     {
       "id": 2103,
       "name": "DEFAULT Payment search",
-      "url": "/collection-services/payments/Burning_of_waste_challan/_search",
+      "url": "/collection-services/payments/"code": "cg.Burning_of_waste_challan/_search",
       "displayName": "Burning_of_waste_challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -9449,7 +9449,7 @@
     {
       "id": 2107,
       "name": "DEFAULT Payment search",
-      "url": "/collection-services/payments/Cattle_Challan/_search",
+      "url": "/collection-services/payments/"code": "cg.Cattle_Challan/_search",
       "displayName": "Cattle_Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -9461,7 +9461,7 @@
     {
       "id": 2108,
       "name": "DEFAULT Payment search",
-      "url": "/collection-services/payments/Challan_for_Misuse_of_Water/_search",
+      "url": "/collection-services/payments/"code": "cg.Challan_for_Misuse_of_Water/_search",
       "displayName": "Challan_for_Misuse_of_Water Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -9509,7 +9509,7 @@
     {
       "id": 2112,
       "name": "DEFAULT Payment search",
-      "url": "/collection-services/payments/Collection_and_demolition_waste_challan/_search",
+      "url": "/collection-services/payments/"code": "cg.Collection_and_demolition_waste_challan/_search",
       "displayName": "Collection_and_demolition_waste_challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -9629,7 +9629,7 @@
     {
       "id": 2122,
       "name": "DEFAULT Payment search",
-      "url": "/collection-services/payments/Dairy_Animals_Challan/_search",
+      "url": "/collection-services/payments/"code": "cg.Dairy_Animals_Challan/_search",
       "displayName": "Dairy_Animals_Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -9665,7 +9665,7 @@
     {
       "id": 2125,
       "name": "DEFAULT Payment search",
-      "url": "/collection-services/payments/Dengue_Challan/_search",
+      "url": "/collection-services/payments/"code": "cg.Dengue_Challan/_search",
       "displayName": "Dengue_Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -9965,7 +9965,7 @@
     {
       "id": 2150,
       "name": "DEFAULT Payment search",
-      "url": "/collection-services/payments/Littering_Challan/_search",
+      "url": "/collection-services/payments/"code": "cg.Littering_Challan/_search",
       "displayName": "Littering_Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -10229,7 +10229,7 @@
     {
       "id": 2172,
       "name": "DEFAULT Payment search",
-      "url": "/collection-services/payments/Plastic_Challan/_search",
+      "url": "/collection-services/payments/"code": "cg.Plastic_Challan/_search",
       "displayName": "Plastic_Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -10337,7 +10337,7 @@
     {
       "id": 2181,
       "name": "DEFAULT Payment search",
-      "url": "/collection-services/payments/Rehri_Challan/_search",
+      "url": "/collection-services/payments/"code": "cg.Rehri_Challan/_search",
       "displayName": "Rehri_Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -10433,7 +10433,7 @@
     {
       "id": 2189,
       "name": "DEFAULT Payment search",
-      "url": "/collection-services/payments/Santitation_dumping_garbage/_search",
+      "url": "/collection-services/payments/"code": "cg.Santitation_dumping_garbage/_search",
       "displayName": "Santitation_dumping_garbage Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -10445,7 +10445,7 @@
     {
       "id": 2190,
       "name": "DEFAULT Payment search",
-      "url": "/collection-services/payments/SBM_garbage_plastic_polythene_challan/_search",
+      "url": "/collection-services/payments/"code": "cg.SBM_garbage_plastic_polythene_challan/_search",
       "displayName": "SBM_garbage_plastic_polythene_challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -11410,7 +11410,7 @@
     {
       "id": 2272,
       "name": "DEFAULT Payment workflow",
-      "url": "/collection-services/payments/Bidi_And_Cigrette_Challan/_workflow",
+      "url": "/collection-services/payments/"code": "cg.Bidi_And_Cigrette_Challan/_workflow",
       "displayName": "Bidi_And_Cigrette_Challan Payment workflow",
       "orderNumber": 1,
       "parentModule": "",
@@ -11470,7 +11470,7 @@
     {
       "id": 2277,
       "name": "DEFAULT Payment workflow",
-      "url": "/collection-services/payments/Burning_of_waste_challan/_workflow",
+      "url": "/collection-services/payments/"code": "cg.Burning_of_waste_challan/_workflow",
       "displayName": "Burning_of_waste_challan Payment workflow",
       "orderNumber": 1,
       "parentModule": "",
@@ -11518,7 +11518,7 @@
     {
       "id": 2281,
       "name": "DEFAULT Payment workflow",
-      "url": "/collection-services/payments/Cattle_Challan/_workflow",
+      "url": "/collection-services/payments/"code": "cg.Cattle_Challan/_workflow",
       "displayName": "Cattle_Challan Payment workflow",
       "orderNumber": 1,
       "parentModule": "",
@@ -11530,7 +11530,7 @@
     {
       "id": 2282,
       "name": "DEFAULT Payment workflow",
-      "url": "/collection-services/payments/Challan_for_Misuse_of_Water/_workflow",
+      "url": "/collection-services/payments/"code": "cg.Challan_for_Misuse_of_Water/_workflow",
       "displayName": "Challan_for_Misuse_of_Water Payment workflow",
       "orderNumber": 1,
       "parentModule": "",
@@ -11578,7 +11578,7 @@
     {
       "id": 2286,
       "name": "DEFAULT Payment workflow",
-      "url": "/collection-services/payments/Collection_and_demolition_waste_challan/_workflow",
+      "url": "/collection-services/payments/"code": "cg.Collection_and_demolition_waste_challan/_workflow",
       "displayName": "Collection_and_demolition_waste_challan Payment workflow",
       "orderNumber": 1,
       "parentModule": "",
@@ -11698,7 +11698,7 @@
     {
       "id": 2296,
       "name": "DEFAULT Payment workflow",
-      "url": "/collection-services/payments/Dairy_Animals_Challan/_workflow",
+      "url": "/collection-services/payments/"code": "cg.Dairy_Animals_Challan/_workflow",
       "displayName": "Dairy_Animals_Challan Payment workflow",
       "orderNumber": 1,
       "parentModule": "",
@@ -11734,7 +11734,7 @@
     {
       "id": 2299,
       "name": "DEFAULT Payment workflow",
-      "url": "/collection-services/payments/Dengue_Challan/_workflow",
+      "url": "/collection-services/payments/"code": "cg.Dengue_Challan/_workflow",
       "displayName": "Dengue_Challan Payment workflow",
       "orderNumber": 1,
       "parentModule": "",
@@ -12034,7 +12034,7 @@
     {
       "id": 2324,
       "name": "DEFAULT Payment workflow",
-      "url": "/collection-services/payments/Littering_Challan/_workflow",
+      "url": "/collection-services/payments/"code": "cg.Littering_Challan/_workflow",
       "displayName": "Littering_Challan Payment workflow",
       "orderNumber": 1,
       "parentModule": "",
@@ -12298,7 +12298,7 @@
     {
       "id": 2346,
       "name": "DEFAULT Payment workflow",
-      "url": "/collection-services/payments/Plastic_Challan/_workflow",
+      "url": "/collection-services/payments/"code": "cg.Plastic_Challan/_workflow",
       "displayName": "Plastic_Challan Payment workflow",
       "orderNumber": 1,
       "parentModule": "",
@@ -12406,7 +12406,7 @@
     {
       "id": 2355,
       "name": "DEFAULT Payment workflow",
-      "url": "/collection-services/payments/Rehri_Challan/_workflow",
+      "url": "/collection-services/payments/"code": "cg.Rehri_Challan/_workflow",
       "displayName": "Rehri_Challan Payment workflow",
       "orderNumber": 1,
       "parentModule": "",
@@ -12502,7 +12502,7 @@
     {
       "id": 2363,
       "name": "DEFAULT Payment workflow",
-      "url": "/collection-services/payments/Santitation_dumping_garbage/_workflow",
+      "url": "/collection-services/payments/"code": "cg.Santitation_dumping_garbage/_workflow",
       "displayName": "Santitation_dumping_garbage Payment workflow",
       "orderNumber": 1,
       "parentModule": "",
@@ -12514,7 +12514,7 @@
     {
       "id": 2364,
       "name": "DEFAULT Payment workflow",
-      "url": "/collection-services/payments/SBM_garbage_plastic_polythene_challan/_workflow",
+      "url": "/collection-services/payments/"code": "cg.SBM_garbage_plastic_polythene_challan/_workflow",
       "displayName": "SBM_garbage_plastic_polythene_challan Payment workflow",
       "orderNumber": 1,
       "parentModule": "",
@@ -13385,7 +13385,7 @@
     {
       "id": 2434,
       "name": "DEFAULT Payment search",
-      "url": "/collection-services/payments/Open_Defecation_Challan/_search",
+      "url": "/collection-services/payments/"code": "cg.Open_Defecation_Challan/_search",
       "displayName": "Open_Defecation_Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -13397,7 +13397,7 @@
     {
       "id": 2435,
       "name": "DEFAULT Payment workflow",
-      "url": "/collection-services/payments/Open_Defecation_Challan/_workflow",
+      "url": "/collection-services/payments/"code": "cg.Open_Defecation_Challan/_workflow",
       "displayName": "Open_Defecation_Challan Payment workflow",
       "orderNumber": 1,
       "parentModule": "",
@@ -14417,7 +14417,7 @@
     {
       "id": 2513,
       "name": "DEFAULT Payment search",
-      "url": "/collection-services/payments/Trade_License_Challan/_search",
+      "url": "/collection-services/payments/"code": "cg.Trade_License_Challan/_search",
       "displayName": "Trade_License_Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -14429,7 +14429,7 @@
     {
       "id": 2514,
       "name": "DEFAULT Payment workflow",
-      "url": "/collection-services/payments/Trade_License_Challan/_workflow",
+      "url": "/collection-services/payments/"code": "cg.Trade_License_Challan/_workflow",
       "displayName": "Trade_License_Challan Payment workflow",
       "orderNumber": 1,
       "parentModule": "",
@@ -15948,7 +15948,7 @@
       "parentModule": "rainmaker-swach",
       "enabled": true,
       "serviceCode": "PGR",
-      "path": "SwaReports.Attendance_report_swach",
+      "path": "Swa"code": "cg.Reports.Attendance_report_swach",
       "navigationURL": "report/rainmaker-swach/Attendance_report_swach",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -15985,7 +15985,7 @@
       "parentModule": "rainmaker-swach",
       "enabled": true,
       "serviceCode": "PGR",
-      "path": "SwaReports.SwachComplaintTypesReport_v2",
+      "path": "Swa"code": "cg.Reports.SwachComplaintTypesReport_v2",
       "navigationURL": "report/rainmaker-swach/SwachComplaintTypesReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -16022,7 +16022,7 @@
       "parentModule": "rainmaker-swach",
       "enabled": true,
       "serviceCode": "PGR",
-      "path": "SwaReports.SwachStateSourceReport_v2",
+      "path": "Swa"code": "cg.Reports.SwachStateSourceReport_v2",
       "navigationURL": "report/rainmaker-swach/SwachStateSourceReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -16059,7 +16059,7 @@
       "parentModule": "rainmaker-swach",
       "enabled": true,
       "serviceCode": "PGR",
-      "path": "SwaReports.SwachStateDescriptionReport_v2",
+      "path": "Swa"code": "cg.Reports.SwachStateDescriptionReport_v2",
       "navigationURL": "report/rainmaker-swach/SwachStateDescriptionReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -16096,7 +16096,7 @@
       "parentModule": "rainmaker-swach",
       "enabled": false,
       "serviceCode": "PGR",
-      "path": "SwaReports.Attendance_report_swach",
+      "path": "Swa"code": "cg.Reports.Attendance_report_swach",
       "navigationURL": "report/rainmaker-swach/Attendance_report_swach",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -16144,7 +16144,7 @@
       "parentModule": "rainmaker-swach",
       "enabled": true,
       "serviceCode": "PGR",
-      "path": "SwaReports.Detailed_Attendance_report_swach",
+      "path": "Swa"code": "cg.Reports.Detailed_Attendance_report_swach",
       "navigationURL": "report/rainmaker-swach/Detailed_Attendance_report_swach",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -16181,7 +16181,7 @@
       "parentModule": "rainmaker-swach",
       "enabled": true,
       "serviceCode": "PGR",
-      "path": "SwaReports.ULBwiseComplaintCountReport",
+      "path": "Swa"code": "cg.Reports.ULBwiseComplaintCountReport",
       "navigationURL": "report/rainmaker-swach/ULBwiseComplaintCountReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -16256,7 +16256,7 @@
       "parentModule": "rainmaker-swach",
       "enabled": true,
       "serviceCode": "PGR",
-      "path": "SwaSwach_Home",
+      "path": "Swa"code": "cg.Swach_Home",
       "navigationURL": "/digit-ui/employee/swach/inbox",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -18932,7 +18932,7 @@
       "parentModule": "rainmaker-swach",
       "enabled": true,
       "serviceCode": "PGR",
-      "path": "SwaReports.AmritsarSummaryEmployeeReport",
+      "path": "Swa"code": "cg.Reports.AmritsarSummaryEmployeeReport",
       "navigationURL": "report/rainmaker-swach/AmritsarSummaryEmployeeReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
