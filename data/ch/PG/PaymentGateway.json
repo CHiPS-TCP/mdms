@@ -1,0 +1,10 @@
+{
+    "tenantId": "ch",
+    "moduleName": "PAYMENT",
+    "PaymentGateway": [
+        {
+            "gateway": "RAZORPAY",
+            "active": true
+        }
+    ]
+}

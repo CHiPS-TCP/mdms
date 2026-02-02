@@ -1,0 +1,78 @@
+{
+  "tenantId": "ch",
+  "moduleName": "PropertyTax",
+  "Penalty": [
+    {
+      "rate": 20,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2013-14",
+      "startingDay": "01/04/2014",
+	  "mutationPaymentPeriodInMonth": "06"
+    },
+    {
+      "rate": 20,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2019-20",
+      "startingDay": "01/01/2020",
+	  "mutationPaymentPeriodInMonth": "06"
+    },
+    {
+      "rate": 20,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2020-21",
+      "startingDay": "01/04/2021",
+	  "mutationPaymentPeriodInMonth": "06"
+    },
+    {
+      "rate": 20,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2021-22",
+      "startingDay": "01/04/2021",
+	  "mutationPaymentPeriodInMonth": "06"
+    },
+    {
+      "rate": 20,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2022-23",
+      "startingDay": "01/04/2022",
+	  "mutationPaymentPeriodInMonth": "06"
+    },	  
+    {	
+      "rate": 20,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2022-23",
+      "startingDay": "01/01/2023",
+	  "mutationPaymentPeriodInMonth": "06" 
+    },
+    {	
+      "rate": 20,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2023-24",
+      "startingDay": "01/04/2024",
+      "mutationPaymentPeriodInMonth": "06"           
+    },
+    {	
+      "rate": 20,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2024-25",
+      "startingDay": "01/04/2025",
+      "mutationPaymentPeriodInMonth": "06"           
+    },
+    {	
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "01/01/2026",
+      "mutationPaymentPeriodInMonth": "06"           
+    }
+  ]
+}

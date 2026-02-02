@@ -1,0 +1,9 @@
+{
+    "tenantId": "ch.kanker",
+    "moduleName": "StakeholderRegistraition",
+    "ReminderPeriods": [
+        {
+            "reminderPeriods": 1296000000
+        }
+    ]
+}

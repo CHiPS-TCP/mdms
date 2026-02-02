@@ -1,9 +1,0 @@
-{
-    "tenantId": "cg.raigarh",
-    "moduleName": "StakeholderRegistraition",
-    "ReminderPeriods": [
-        {
-            "reminderPeriods": 1296000000
-        }
-    ]
-}
