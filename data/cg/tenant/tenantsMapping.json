@@ -1,0 +1,11 @@
+{
+  "tenantId": "cg",
+  "moduleName": "tenant",
+  "tenantsMapping": [
+    {
+      "tenantName": "cg.tcp",
+      "ITtenantName": "cg.tcp"
+    }
+
+  ]
+}

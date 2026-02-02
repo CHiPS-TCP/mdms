@@ -1,9 +1,0 @@
-{
-    "tenantId": "ch",
-    "moduleName": "tenant",
-    "defaultersmsconfig":[ {
-        "tenant": ["ch.testing"],
-        "financialyear": "2021-22",
-        "rebatedate": "30/09/2021"
-    }]
-}

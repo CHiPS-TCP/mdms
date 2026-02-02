@@ -1,0 +1,11 @@
+{
+    "tenantId": "cg",
+    "moduleName": "ws-services-masters",
+    "disconnectionType": [
+      {
+        "name": "Permanent",
+        "code": "Permanent",
+        "active": true
+      }
+    ]
+  }

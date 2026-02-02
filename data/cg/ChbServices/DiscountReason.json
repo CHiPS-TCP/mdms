@@ -1,0 +1,10 @@
+{
+  "tenantId": "cg",
+  "moduleName": "CHB",
+  "DiscountReason": [
+    {
+      "reasonId": 1,
+      "reasonName": "EMPLOYEE_DISCOUNT"
+    }
+  ]
+}

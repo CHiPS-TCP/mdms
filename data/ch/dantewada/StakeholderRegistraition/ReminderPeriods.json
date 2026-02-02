@@ -1,9 +1,0 @@
-{
-    "tenantId": "ch.dantewada",
-    "moduleName": "StakeholderRegistraition",
-    "ReminderPeriods": [
-        {
-            "reminderPeriods": 1296000000
-        }
-    ]
-}

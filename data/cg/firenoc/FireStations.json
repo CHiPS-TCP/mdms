@@ -1,0 +1,1171 @@
+{
+  "tenantId": "cg",
+  "moduleName": "firenoc",
+  "FireStations": [
+    {
+      "code": "FS_BATALA_01",
+      "baseTenantId": "cg.batala",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Srihargobindpur"
+        },
+        {
+          "code": "Batala"
+        },
+        {
+          "code": "Quadian"
+        },
+        {
+          "code": "Fatehgarhchurian"
+        },
+        {
+          "code": "Dera Baba Nanak"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.srihargobindpur"
+        },
+        {
+          "code": "cg.batala"
+        },
+        {
+          "code": "cg.quadian"
+        },
+        {
+          "code": "cg.fatehgarhchurian"
+        },
+        {
+          "code": "cg.derababananak"
+        }
+      ]
+    },
+    {
+      "code": "FS_TESTING_01",
+      "baseTenantId": "cg.testing",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Testing1"
+        },
+        {
+          "code": "Testing2"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.testing"
+        }
+      ]
+    },
+    {
+      "code": "FS_ZIRA_01",
+      "baseTenantId": "cg.zira",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Zira"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.zira"
+        }
+      ]
+    },
+    {
+      "code": "FS_MULLANPUR_01",
+      "baseTenantId": "cg.mullanpur",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Mullanpur"
+        },
+        {
+          "code": "Raikot"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.mullanpur"
+        },
+        {
+          "code": "cg.raikot"
+        }
+      ]
+    },
+    {
+      "code": "FS_MORINDA_01",
+      "baseTenantId": "cg.morinda",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Morinda"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.morinda"
+        }
+      ]
+    },
+    {
+      "code": "FS_TARNTARAN_01",
+      "baseTenantId": "cg.tarntaran",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "TarnTaran"
+        },
+        {
+          "code": "Patti"
+        },
+        {
+          "code": "Bhikhiwind"
+        },
+        {
+          "code": "Khemkaran"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.tarntaran"
+        },
+        {
+          "code": "cg.patti"
+        },
+        {
+          "code": "cg.bhikhiwind"
+        },
+        {
+          "code": "cg.khemkaran"
+        }
+      ]
+    },
+    {
+      "code": "FS_ROPAR_01",
+      "baseTenantId": "cg.ropar",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Ropar"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.ropar"
+        }
+      ]
+    },
+    {
+      "code": "FS_TAPA_01",
+      "baseTenantId": "cg.tapa",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Tapa"
+        },
+        {
+          "code": "Handiaya"
+        },
+        {
+          "code": "Dhanaula"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.tapa"
+        },
+        {
+          "code": "cg.handiaya"
+        },
+        {
+          "code": "cg.dhanaula"
+        }
+      ]
+    },
+    {
+      "code": "FS_MOONAK_01",
+      "baseTenantId": "cg.moonak",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Moonak"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.moonak"
+        }
+      ]
+    },
+    {
+      "code": "FS_BHUCHOMANDI_01",
+      "baseTenantId": "cg.bhuchomandi",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Bhuchomandi"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.bhuchomandi"
+        }
+      ]
+    },
+    {
+      "code": "FS_DHARAMKOT_01",
+      "baseTenantId": "cg.dharamkot",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Dharamkot"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.dharamkot"
+        }
+      ]
+    },
+    {
+      "code": "FS_MAJITHA_01",
+      "baseTenantId": "cg.majitha",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Majitha"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.majitha"
+        }
+      ]
+    },
+    {
+      "code": "FS_PHILLAUR_01",
+      "baseTenantId": "cg.phillaur",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Phillaur"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.phillaur"
+        }
+      ]
+    },
+    {
+      "code": "FS_AMRITSAR_01",
+      "baseTenantId": "cg.amritsar",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Amritsar"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.amritsar"
+        }
+      ]
+    },
+    {
+      "code": "FS_ABOHAR_01",
+      "baseTenantId": "cg.abohar",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Abohar"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.abohar"
+        }
+      ]
+    },
+    {
+      "code": "FS_BARNALA_01",
+      "baseTenantId": "cg.barnala",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Barnala"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.barnala"
+        }
+      ]
+    },
+    {
+      "code": "FS_BATHINDA_01",
+      "baseTenantId": "cg.bathinda",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Bathinda"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.bathinda"
+        }
+      ]
+    },
+    {
+      "code": "FS_DASUYA_01",
+      "baseTenantId": "cg.dasuya",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Dasuya"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.dasuya"
+        }
+      ]
+    },
+    {
+      "code": "FS_DERABASSI_01",
+      "baseTenantId": "cg.derabassi",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Dera Bassi"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.derabassi"
+        }
+      ]
+    },
+    {
+      "code": "FS_DHURI_01",
+      "baseTenantId": "cg.dhuri",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Dhuri"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.dhuri"
+        }
+      ]
+    },
+    {
+      "code": "FS_FARIDKOT_01",
+      "baseTenantId": "cg.faridkot",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Faridkot"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.faridkot"
+        }
+      ]
+    },
+    {
+      "code": "FS_FATEHGARHSAHIB_01",
+      "baseTenantId": "cg.sirhind",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Fatehgarh Sahib"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.sirhind"
+        }
+      ]
+    },
+    {
+      "code": "FS_FAZILKA_01",
+      "baseTenantId": "cg.fazilka",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Fazilka"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.fazilka"
+        }
+      ]
+    },
+    {
+      "code": "FS_FEROZPUR_01",
+      "baseTenantId": "cg.ferozepur",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Ferozepur"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.ferozepur"
+        }
+      ]
+    },
+    {
+      "code": "FS_GIDDERBAHA_01",
+      "baseTenantId": "cg.gidderbaha",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "GidderBaha"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.gidderbaha"
+        }
+      ]
+    },
+    {
+      "code": "FS_GOBINDGARH_01",
+      "baseTenantId": "cg.mandigobindgarh",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Gobindgarh"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.mandigobindgarh"
+        }
+      ]
+    },
+    {
+      "code": "FS_GURDASPUR_01",
+      "baseTenantId": "cg.gurdaspur",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Gurdaspur"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.gurdaspur"
+        }
+      ]
+    },
+    {
+      "code": "FS_HOSHIAPUR_01",
+      "baseTenantId": "cg.hoshiarpur",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Hoshiarpur"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.hoshiarpur"
+        }
+      ]
+    },
+    {
+      "code": "FS_JAGRAON_01",
+      "baseTenantId": "cg.jagraon",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Jagraon"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.jagraon"
+        }
+      ]
+    },
+    {
+      "code": "FS_JALALABAD_01",
+      "baseTenantId": "cg.jalalabad",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Jalalabad"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.jalalabad"
+        }
+      ]
+    },
+    {
+      "code": "FS_JALANDHAR_01",
+      "baseTenantId": "cg.jalandhar",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Jalandhar"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.jalandhar"
+        }
+      ]
+    },
+    {
+      "code": "FS_KAPURTHALA_01",
+      "baseTenantId": "cg.kapurthala",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Kapurthala"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.kapurthala"
+        }
+      ]
+    },
+    {
+      "code": "FS_KARTARPUR_01",
+      "baseTenantId": "cg.kartarpur",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Kartarpur"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.kartarpur"
+        }
+      ]
+    },
+    {
+      "code": "FS_KHANNA_01",
+      "baseTenantId": "cg.khanna",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Khanna"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.khanna"
+        }
+      ]
+    },
+    {
+      "code": "FS_KHARAR_01",
+      "baseTenantId": "cg.kharar",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Kharar"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.kharar"
+        }
+      ]
+    },
+    {
+      "code": "FS_KOTKAPURA_01",
+      "baseTenantId": "cg.kotkapura",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "kotkapura"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.kotkapura"
+        }
+      ]
+    },
+    {
+      "code": "FS_LUDHIANA_01",
+      "baseTenantId": "cg.ludhiana",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Ludhiana"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.ludhiana"
+        }
+      ]
+    },
+    {
+      "code": "FS_MALERKOTLA_01",
+      "baseTenantId": "cg.malerkotla",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Malerkotla"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.malerkotla"
+        }
+      ]
+    },
+    {
+      "code": "FS_MANSA_01",
+      "baseTenantId": "cg.mansa",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Mansa"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.mansa"
+        }
+      ]
+    },
+    {
+      "code": "FS_MOGA_01",
+      "baseTenantId": "cg.moga",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Moga"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.moga"
+        }
+      ]
+    },
+    {
+      "code": "FS_MOHALI_01",
+      "baseTenantId": "cg.mohali",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Mohali"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.mohali"
+        }
+      ]
+    },
+    {
+      "code": "FS_NABHA_01",
+      "baseTenantId": "cg.nabha",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Nabha"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.nabha"
+        }
+      ]
+    },
+    {
+      "code": "FS_NAKODAR_01",
+      "baseTenantId": "cg.nakodar",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Nakodar"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.nakodar"
+        }
+      ]
+    },
+    {
+      "code": "FS_NANGAL_01",
+      "baseTenantId": "cg.nangal",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Nangal"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.nangal"
+        }
+      ]
+    },
+    {
+      "code": "FS_NAWANSHAHR_01",
+      "baseTenantId": "cg.nawanshahr",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Nawanshahr"
+        },
+        {
+          "code": "Banga"
+        },
+        {
+          "code": "Rahon"
+        },
+        {
+          "code": "Balachaur"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.nawanshahr"
+        },
+        {
+          "code": "cg.banga"
+        },
+        {
+          "code": "cg.rahon"
+        },
+        {
+          "code": "cg.balachaur"
+        }
+      ]
+    },
+    {
+      "code": "FS_PATHANKOT_01",
+      "baseTenantId": "cg.pathankot",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Pathankot"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.pathankot"
+        }
+      ]
+    },
+    {
+      "code": "FS_PATIALA_01",
+      "baseTenantId": "cg.patiala",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Patiala"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.patiala"
+        }
+      ]
+    },
+    {
+      "code": "FS_PHAGWARA_01",
+      "baseTenantId": "cg.phagwara",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Phagwara"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.phagwara"
+        }
+      ]
+    },
+    {
+      "code": "FS_RAJPURA_01",
+      "baseTenantId": "cg.rajpura",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Rajpura"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.rajpura"
+        }
+      ]
+    },
+    {
+      "code": "FS_RAMPURAPHUL_01",
+      "baseTenantId": "cg.rampuraphul",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Rampuraphul"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.rampuraphul"
+        }
+      ]
+    },
+    {
+      "code": "FS_ROOPNAGAR_01",
+      "baseTenantId": "cg.roopnagar",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Roop Nagar"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.roopnagar"
+        }
+      ]
+    },
+    {
+      "code": "FS_SAMANA_01",
+      "baseTenantId": "cg.samana",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Samana"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.samana"
+        }
+      ]
+    },
+    {
+      "code": "FS_SAMRALA_01",
+      "baseTenantId": "cg.samrala",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Samrala"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.samrala"
+        }
+      ]
+    },
+    {
+      "code": "FS_SANGRUR_01",
+      "baseTenantId": "cg.sangrur",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Sangrur"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.sangrur"
+        }
+      ]
+    },
+    {
+      "code": "FS_SARDULGARH_01",
+      "baseTenantId": "cg.sardulgarh",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Sardulgarh"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.sardulgarh"
+        }
+      ]
+    },
+    {
+      "code": "FS_SHAHKOT_01",
+      "baseTenantId": "cg.shahkot",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Shahkot"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.shahkot"
+        }
+      ]
+    },
+    {
+      "code": "FS_MUKTSARSAHIB_01",
+      "baseTenantId": "cg.muktsar",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Muktsar Sahib"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.muktsar"
+        }
+      ]
+    },
+    {
+      "code": "FS_SULTANPURLODHI_01",
+      "baseTenantId": "cg.sultanpurlodhi",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Sultanpurlodhi"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.sultanpurlodhi"
+        }
+      ]
+    },
+    {
+      "code": "FS_SUNAM_01",
+      "baseTenantId": "cg.sunam",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Sunam"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.sunam"
+        }
+      ]
+    },
+    {
+      "code": "FS_ZIRAKPUR_01",
+      "baseTenantId": "cg.zirakpur",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Zirakpur"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.zirakpur"
+        }
+      ]
+    },
+    {
+      "code": "FS_BHIKHI_01",
+      "baseTenantId": "cg.bhikhi",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Bhikhi"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.bhikhi"
+        }
+      ]
+    },
+    {
+      "code": "FS_JANDIALAGURU_01",
+      "baseTenantId": "cg.jandialaguru",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Jandialaguru"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.jandialaguru"
+        }
+      ]
+    },
+    {
+      "code": "FS_MUKERIAN_01",
+      "baseTenantId": "cg.mukerian",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Mukerian"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.mukerian"
+        }
+      ]
+    },
+    {
+      "code": "FS_ADAMPUR_01",
+      "baseTenantId": "cg.adampur",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Adampur"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.adampur"
+        }
+      ]
+    },
+    {
+      "code": "FS_GARHSHANKAR_01",
+      "baseTenantId": "cg.garhshankar",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Garhshankar"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.garhshankar"
+        }
+      ]
+    },
+    {
+      "code": "FS_MALOUT_01",
+      "baseTenantId": "cg.malout",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Malout"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.malout"
+        }
+      ]
+    },
+    {
+      "code": "FS_BAGHAPURANA_01",
+      "baseTenantId": "cg.baghapurana",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Baghapurana"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.baghapurana"
+        }
+      ]
+    },
+    {
+      "code": "FS_TALWANDISABO_01",
+      "baseTenantId": "cg.talwandisabo",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Talwandisabo"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "cg.talwandisabo"
+        }
+      ]
+    },
+    {
+            "code": "FS_RAJASANSI_01",
+            "baseTenantId": "cg.rajasansi",
+            "active": true,
+            "subDistrict": [
+             
+              {
+                "code": "Rajasansi"
+              }
+            ],
+            "ulb": [
+              {
+                "code": "cg.rajasansi"  
+              }
+            ]
+      },
+    {
+            "code": "FS_MAUR_01",
+            "baseTenantId": "cg.maur",
+            "active": true,
+            "subDistrict": [
+             
+              {
+                "code": "Maur"
+              }
+            ],
+            "ulb": [
+              {
+                "code": "cg.maur"  
+              }
+            ]
+      },
+    {
+            "code": "FS_MEHRAJ_01",
+            "baseTenantId": "cg.mehraj",
+            "active": true,
+            "subDistrict": [
+             
+              {
+                "code": "Mehraj"
+              }
+            ],
+            "ulb": [
+              {
+                "code": "cg.mehraj"  
+              }
+            ]
+      },
+      {
+            "code": "FS_BHULATH_01",
+            "baseTenantId": "cg.bhulath",
+            "active": true,
+            "subDistrict": [
+             
+              {
+                "code": "Bhulath"
+              }
+            ],
+            "ulb": [
+              {
+                "code": "cg.bhulath"  
+              }
+            ]
+      }
+  ]
+}

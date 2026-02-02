@@ -1,0 +1,14 @@
+{
+  "tenantId": "cg",
+  "moduleName": "tenant",
+  "meterReadingMapping": [
+    {
+      "tenantId": "cg.amritsar",
+      "status": "Active",
+      "usageCategory": [
+        "NONRESIDENTIAL.COMMERCIAL",
+        "MIXED"
+      ]
+    }
+  ]
+}
