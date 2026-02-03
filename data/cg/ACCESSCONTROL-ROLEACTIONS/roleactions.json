@@ -31665,6 +31665,43 @@
       "actioncode": "",
       "tenantId": "cg"
     },
+
+    {
+      "rolecode": "PROFESSIONAL_DOC_VERIFIER",
+      "actionid": 5002,
+      "actioncode": "",
+      "tenantId": "ch"
+    },
+    {
+      "rolecode": "PROFESSIONAL_VERIFIER",
+      "actionid": 5002,
+      "actioncode": "",
+      "tenantId": "ch"
+    },
+    {
+      "rolecode": "PROFESSIONAL_APPROVER",
+      "actionid": 5002,
+      "actioncode": "",
+      "tenantId": "ch"
+    },
+    {
+      "rolecode": "PROFESSIONAL_DOC_VERIFIER",
+      "actionid": 5003,
+      "actioncode": "",
+      "tenantId": "ch"
+    },
+    {
+      "rolecode": "PROFESSIONAL_VERIFIER",
+      "actionid": 5003,
+      "actioncode": "",
+      "tenantId": "ch"
+    },
+    {
+      "rolecode": "PROFESSIONAL_APPROVER",
+      "actionid": 5003,
+      "actioncode": "",
+      "tenantId": "ch"
+    },
     {
       "rolecode": "TL_APPROVER",
       "actionid": 5002,
