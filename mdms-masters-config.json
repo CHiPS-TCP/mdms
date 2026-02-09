@@ -824,6 +824,18 @@
       "uniqueKeys": ["$.code"]
     }
   },
+  "noc": {
+    "NocFee": {
+      "masterName": "NocFee",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "ChargesType": {
+      "masterName": "ChargesType",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code", "$name"]
+    }
+  },
   "ndc": {
     "NdcFee": {
       "masterName": "NdcFee",

@@ -784,6 +784,14 @@
     {
       "format": "CH/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CH_RECEIPT_ID]",
       "idname": "challan_generation.receipt.id"
+    },
+    {
+      "format": "NOC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NOC_RECEIPT_ID]",
+      "idname": "obpas_noc.receipt.id"
+    },
+    {
+      "format": "CH-NOC-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_NOC_APPLICATION]",
+      "idname": "noc.application.number"
     }
   ]
 }
