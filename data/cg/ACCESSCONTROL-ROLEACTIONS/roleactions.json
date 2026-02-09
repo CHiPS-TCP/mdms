@@ -9159,12 +9159,6 @@
       "tenantId": "cg"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 1780,
-      "actioncode": "",
-      "tenantId": "cg"
-    },
-    {
       "rolecode": "STADMIN",
       "actionid": 1780,
       "actioncode": "",
