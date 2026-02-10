@@ -1,0 +1,180 @@
+{
+  "tenantId": "cg",
+  "moduleName": "LAYOUT",
+  "LayoutDocuments": [
+    {
+      "code": "OWNER.OWNERSHIPDOCUMENT",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.OWNERSHIPDOCUMENT_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.LAYOUTDRAWING",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.LAYOUTDRAWING_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.LAYOUTDRAWINGWITHKHASRA",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.LAYOUTDRAWINGWITHKHASRA_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.LAYOUTDRAWINGWITHWSLINES",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.LAYOUTDRAWINGWITHWSLINES_DESCRIPTION"
+    },
+ {
+      "code": "OWNER.SITEPHOTOGRAPHONE",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.SITEPHOTOGRAPHTWO",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION"
+    },
+
+    {
+      "code": "OWNER.LAYOUTDRAWINGWITHSEWERAGELINES",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.LAYOUTDRAWINGWITHSEWERAGELINES_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.ANYOTHERLAYOUTDRAWING",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.ANYOTHERLAYOUTDRAWING_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.REVENUEPLANAKSHSHAJRA",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "cluRequired": true,
+      "description": "OWNER.REVENUEPLANAKSHSHAJRA_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.SITEMARKEDONLATHAPARTPLAN",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "cluRequired": true,
+      "description": "OWNER.SITEMARKEDONLATHAPARTPLAN_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.SITEMARKEDONMASTERPLAN",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "cluRequired": true,
+      "description": "OWNER.SITEMARKEDONMASTERPLAN_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.SITEMARKEDONSATELLITEPLAN",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "cluRequired": true,
+      "description": "OWNER.SITEMARKEDONSATELLITEPLAN_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.MUSTARKALANDAFFIDAVIT",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "cluRequired": true,
+      "description": "OWNER.MUSTARKALANDAFFIDAVIT_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.CIRCLEREVENUEOFFCIERREPORT",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.CIRCLEREVENUEOFFCIERREPORT_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.NONENCUMBRANCECERTIFICATE",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.NONENCUMBRANCECERTIFICATE_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.NATIONALHIGHWAYNOC",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.NATIONALHIGHWAYNOC_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.AIRPORTAUTHORITYNOC",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.AIRPORTAUTHORITYNOC_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.FORESTNOC",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.FORESTNOC_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.ANYOTHERNOC",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.ANYOTHERNOC_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.ANYOTHERSUPPORTINGDOCUMENT",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.ANYOTHERSUPPORTINGDOCUMENT_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.OWNERSHIPSTATEMENT",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.OWNERSHIPSTATEMENT_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.REVENUEPLAN",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.REVENUEPLAN_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.SITEMARKEDONGOOGLEPLAN",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.SITEMARKEDONGOOGLEPLAN_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.INDUSTRYCATEGORYDOCUMENT",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.INDUSTRYCATEGORYDOCUMENT_DESCRIPTION"
+    }
+  ]
+}

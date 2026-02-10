@@ -790,8 +790,40 @@
       "idname": "obpas_noc.receipt.id"
     },
     {
-      "format": "CH-NOC-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_NOC_APPLICATION]",
+      "format": "CG-NOC-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_NOC_APPLICATION]",
       "idname": "noc.application.number"
+    },
+    {
+      "format": "CG-LAYOUT-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_LAYOUT_APPLICATION]",
+      "idname": "layout.application.number"
+    },
+    {
+      "format": "LT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_LT_RECEIPT_ID]",
+      "idname": "layout.receipt.id"
+    },
+    {
+      "format": "LT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_LT_RECEIPT_ID]",
+      "idname": "layout.pay1.receipt.id"
+    },
+    {
+      "format": "LT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_LT_RECEIPT_ID]",
+      "idname": "layout.pay2.receipt.id"
+    },
+    {
+      "format": "LT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CL_RECEIPT_ID]",
+      "idname": "clu.receipt.id"
+    },
+    {
+      "format": "CLU/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CL_RECEIPT_ID]",
+      "idname": "clu.pay1.receipt.id"
+    },
+    {
+      "format": "CLU/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CL_RECEIPT_ID]",
+      "idname": "clu.pay2.receipt.id"
+    },
+    {
+      "format": "CG-CLU-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_CLU_APPLICATION]",
+      "idname": "clu.application.number"
     }
   ]
 }
