@@ -166,6 +166,26 @@
 	{
 	  "code": "ARCHITECT.UNDERTAKING",
 	  "active" : true
+	},
+	{
+	  "code": "OWNER.SITEPHOTOGRAPHONE",
+	  "active" : true
+	},
+	{
+	  "code": "OWNER.GOOGLEMARKEDSITE",
+	  "active" : true
+	},
+	{
+	  "code": "OWNER.SITEPHOTOGRAPHTWO",
+	  "active" : true
+	},
+	{
+	  "code": "OWNER.DETAILEDLOCATIONPLAN",
+	  "active" : true
+	},
+	{
+	  "code": "OWNER.OWNERSHIPPROOF",
+	  "active" : true
 	}
   ],
   "moduleName": "common-masters",
