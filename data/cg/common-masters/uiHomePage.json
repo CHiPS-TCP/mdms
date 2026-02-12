@@ -104,6 +104,13 @@
             "navigationUrl": "/citizen/fire-noc/home"
           },
           {
+            "code": "CITIZEN_SERVICE_NOC",
+            "name": "No Objection Cretificate",
+            "label": "ACTION_TEST_NOC",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/noc-home"
+          },
+          {
             "code": "CITIZEN_SERVICE_CHALLANGENERATION",
             "name": "Challan Generation",
             "label": "ACTION_TEST_CHALLANGENERATION",
