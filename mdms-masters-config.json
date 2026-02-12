@@ -993,6 +993,16 @@
       "masterName": "ApplicationFees",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+    "Category": {
+      "masterName": "Category",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "SubCategory": {
+      "masterName": "SubCategory",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   }
 }

@@ -2472,6 +2472,39 @@
 	  "isActive": true
 	},
     {
+      "businessService": "BPA.NEWCONSTRUCTION_LOW_RISK_PERMIT_FEE",
+      "code": "BPA.LOW_RISK_PERMIT_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "BPA.NEWCONSTRUCTION_OC_APP_FEE",
+      "code": "BPA.NC_OC_APP_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "BPA.NEWCONSTRUCTION_OC_SANC_FEE",
+      "code": "BPA.NC_OC_SAN_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
       "businessService": "Challan_Generation",
       "code": "Challan_Generation",
       "collectionModesNotAllowed": [
