@@ -9220,6 +9220,21 @@
           "code": "cg.ferozepurpwssb"
         }
       ]
+    },
+    {
+      "module": "Layout",
+      "code": "Layout",
+      "order": 5,
+      "active": true,
+      "access": "VIEW_LAYOUT_CARD",
+      "tenants": [
+        {
+          "code": "cg.testing"
+        },
+        {
+          "code": "cg.tcp"
+        }
+      ]
     }
   ]
 }
