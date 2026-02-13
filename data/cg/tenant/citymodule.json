@@ -9235,6 +9235,21 @@
           "code": "cg.tcp"
         }
       ]
+    },
+    {
+      "module": "NOC",
+      "code": "NOC",
+      "order": 23,
+      "active": true,
+      "access": "VIEW_NOC_CARD",
+      "tenants": [
+        {
+          "code": "cg.testing"
+        },
+        {
+          "code": "cg.tcp"
+        }
+      ]
     }
   ]
 }
