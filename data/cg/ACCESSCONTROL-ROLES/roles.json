@@ -1075,6 +1075,12 @@
       "name": "OBPAS_CLU_DM",
       "description": "OBPAS CLU workflow Approver",
       "groupId": "025"
+    },
+    {
+      "code": "NOC_INITIATER",
+      "name": "NOC Initiater",
+      "description": "Fire NOC Counter Employee",
+      "groupId": "025"
     }
   ]
 }
