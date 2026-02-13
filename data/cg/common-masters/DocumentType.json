@@ -186,7 +186,11 @@
 	{
 	  "code": "OWNER.OWNERSHIPPROOF",
 	  "active" : true
-	}
+	},
+    {
+      "code": "OWNER.BUILDINGDRAWING",
+      "active" : true
+    }
   ],
   "moduleName": "common-masters",
   "tenantId": "cg"
