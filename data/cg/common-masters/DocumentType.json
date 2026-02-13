@@ -190,7 +190,92 @@
     {
       "code": "OWNER.BUILDINGDRAWING",
       "active" : true
+    },
+    {
+      "code": "OWNER.INDUSTRYCATEGORYDOCUMENT",
+      "active" : true
+    },
+    {
+      "code": "OWNER.SITEMARKEDONGOOGLEPLAN",
+      "active" : true
+    },
+    {
+      "code": "OWNER.REVENUEPLAN",
+      "active" : true
+    },
+    {
+      "code": "OWNER.OWNERSHIPSTATEMENT",
+      "active" : true
+    },
+    {
+      "code": "OWNER.ANYOTHERSUPPORTINGDOCUMENT",
+      "active" : true
+    },
+    {
+      "code": "OWNER.ANYOTHERNOC",
+      "active" : true
+    },
+    {
+      "code": "OWNER.AIRPORTAUTHORITYNOC",
+      "active" : true
+    },
+    {
+      "code": "OWNER.NATIONALHIGHWAYNOC",
+      "active" : true
+    },
+    {
+      "code": "OWNER.NONENCUMBRANCECERTIFICATE",
+      "active" : true
+    },
+    {
+      "code": "OWNER.CIRCLEREVENUEOFFCIERREPORT",
+      "active" : true
+    },
+    {
+      "code": "OWNER.MUSTARKALANDAFFIDAVIT",
+      "active" : true
+    },
+    {
+      "code": "OWNER.SITEMARKEDONSATELLITEPLAN",
+      "active" : true
+    },
+    {
+      "code": "OWNER.SITEMARKEDONMASTERPLAN",
+      "active" : true
+    },
+    {
+      "code": "OWNER.SITEMARKEDONLATHAPARTPLAN",
+      "active" : true
+    },
+    {
+      "code": "OWNER.REVENUEPLANAKSHSHAJRA",
+      "active" : true
+    },
+    {
+      "code": "OWNER.ANYOTHERLAYOUTDRAWING",
+      "active" : true
+    },
+    {
+      "code": "OWNER.LAYOUTDRAWINGWITHSEWERAGELINES",
+      "active" : true
+    },
+    {
+      "code": "OWNER.LAYOUTDRAWINGWITHWSLINES",
+      "active" : true
+    },
+    {
+      "code": "OWNER.LAYOUTDRAWINGWITHKHASRA",
+      "active" : true
+    },
+    {
+      "code": "OWNER.LAYOUTDRAWING",
+      "active" : true
+    },
+    {
+      "code": "OWNER.OWNERSHIPDOCUMENT",
+      "active" : true
     }
+
   ],
   "moduleName": "common-masters",
   "tenantId": "cg"
