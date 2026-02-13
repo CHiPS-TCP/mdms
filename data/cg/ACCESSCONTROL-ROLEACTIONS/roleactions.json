@@ -33360,6 +33360,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8900903,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "OBPAS_LAYOUT_JE",
       "actionid": 8900903,
       "actioncode": "",
@@ -33534,6 +33540,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8900904,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 8900912,
       "actioncode": "",
@@ -33637,6 +33649,12 @@
     },
     {
       "rolecode": "OBPAS_LAYOUT_STP(HQ)",
+      "actionid": 8900912,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
       "actionid": 8900912,
       "actioncode": "",
       "tenantId": "cg"
@@ -33882,6 +33900,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8900803,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "OBPAS_CLU_JE",
       "actionid": 8900804,
       "actioncode": "",
@@ -33997,6 +34021,12 @@
     },
     {
       "rolecode": "BPA_SUPERVISOR",
+      "actionid": 8900804,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
       "actionid": 8900804,
       "actioncode": "",
       "tenantId": "cg"
