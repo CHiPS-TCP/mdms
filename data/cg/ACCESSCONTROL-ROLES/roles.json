@@ -1081,6 +1081,12 @@
       "name": "NOC Initiater",
       "description": "Fire NOC Counter Employee",
       "groupId": "025"
+    },
+    {
+      "code": "VIEW_BPAREG_CARD",
+      "name": "View BPA Reg Card",
+      "description": "For BPA Reg Card Display in Dashboard",
+      "groupId": "010"
     }
   ]
 }
