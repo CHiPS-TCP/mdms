@@ -531,6 +531,18 @@
       ]
     },
     {
+      "module": "BPAStakeholder",
+      "code": "BPAStakeholder",
+      "order": 50,
+      "active": true,
+      "access": "VIEW_BPA_STAKEHOLDER_CARD",
+      "tenants": [
+      {
+        "code": "cg.tcp"
+      }
+    ]
+    },
+    {
       "module": "PGR",
       "code": "PGR",
       "order": 4,
