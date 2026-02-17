@@ -1087,6 +1087,54 @@
       "name": "View BPA Reg Card",
       "description": "For BPA Reg Card Display in Dashboard",
       "groupId": "010"
+    },
+    {
+      "code": "LAYOUT_L1_VERIFIER",
+      "name": "LAYOUT_L1_VERIFIER",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "LAYOUT_L2_VERIFIER",
+      "name": "LAYOUT_L2_VERIFIER",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "LAYOUT_D1_VERIFIER",
+      "name": "LAYOUT_D1_VERIFIER",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "LAYOUT_D2_VERIFIER",
+      "name": "LAYOUT_D2_VERIFIER",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "LAYOUT_D3_VERIFIER",
+      "name": "LAYOUT_D3_VERIFIER",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "LAYOUT_L1_APPROVER",
+      "name": "LAYOUT_L1_APPROVER",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "LAYOUT_L2_APPROVER",
+      "name": "LAYOUT_L2_APPROVER",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "LAYOUT_L3_APPROVER",
+      "name": "LAYOUT_L3_APPROVER",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "025"
     }
   ]
 }
