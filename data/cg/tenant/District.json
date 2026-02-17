@@ -1,0 +1,292 @@
+{
+  "tenantId": "cg",
+  "moduleName": "tenant",
+  "District": [
+    {
+      "tenantId": "cg.ambikapur",
+      "regionalOffice": "Ambikapur",
+      "active": true,
+      "districts": [
+        {
+          "code": "BALRAMPUR",
+          "name": "Balrampur",
+          "active": true
+        },
+        {
+          "code": "SURGUJA",
+          "name": "Surguja",
+          "active": true
+        },
+        {
+          "code": "SURJAPUR",
+          "name": "Surjapur",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.balodabazar",
+      "regionalOffice": "Balodabazar",
+      "active": true,
+      "districts": [
+        {
+          "code": "BALODABAZAR_BHATAPARA",
+          "name": "Balodabazar-Bhatapara",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.bilaspur",
+      "regionalOffice": "Bilaspur",
+      "active": true,
+      "districts": [
+        {
+          "code": "BILASPUR",
+          "name": "Bilaspur",
+          "active": true
+        },
+        {
+          "code": "GAURELA_PENDRA_MARWAHI",
+          "name": "Gaurela-Pendra-Marwahi",
+          "active": true
+        },
+        {
+          "code": "MUNGELI",
+          "name": "Mungeli",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.dantewada",
+      "regionalOffice": "Dantewada",
+      "active": true,
+      "districts": [
+        {
+          "code": "DANTEWADA",
+          "name": "Dantewada",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.dhamtari",
+      "regionalOffice": "Dhamtari",
+      "active": true,
+      "districts": [
+        {
+          "code": "DHAMTARI",
+          "name": "Dhamtari",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.durg",
+      "regionalOffice": "Durg",
+      "active": true,
+      "districts": [
+        {
+          "code": "BEMETARA",
+          "name": "Bemetara",
+          "active": true
+        },
+        {
+          "code": "DURG",
+          "name": "Durg",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.gariyaband",
+      "regionalOffice": "Gariyaband",
+      "active": true,
+      "districts": [
+        {
+          "code": "GARIYABAND",
+          "name": "Gariyaband",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.jagdalpur",
+      "regionalOffice": "Jagdalpur",
+      "active": true,
+      "districts": [
+        {
+          "code": "BASTAR",
+          "name": "Bastar",
+          "active": true
+        },
+        {
+          "code": "BIJAPUR",
+          "name": "Bijapur",
+          "active": true
+        },
+        {
+          "code": "KONDAGAON",
+          "name": "Kondagaon",
+          "active": true
+        },
+        {
+          "code": "NARAYANPUR",
+          "name": "Narayanpur",
+          "active": true
+        },
+        {
+          "code": "SUKMA",
+          "name": "Sukma",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.janjgirchampa",
+      "regionalOffice": "Janjgir Champa",
+      "active": true,
+      "districts": [
+        {
+          "code": "JANJGIR_CHAMPA",
+          "name": "Janjgir Champa",
+          "active": true
+        },
+        {
+          "code": "SAKTI",
+          "name": "Sakti",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.jashpur",
+      "regionalOffice": "Jashpur",
+      "active": true,
+      "districts": [
+        {
+          "code": "JASHPUR",
+          "name": "Jashpur",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.kanker",
+      "regionalOffice": "Kanker",
+      "active": true,
+      "districts": [
+        {
+          "code": "KANKER",
+          "name": "Kanker",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.kawardha",
+      "regionalOffice": "Kawardha",
+      "active": true,
+      "districts": [
+        {
+          "code": "KAWARDHA",
+          "name": "Kawardha",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.korba",
+      "regionalOffice": "Korba",
+      "active": true,
+      "districts": [
+        {
+          "code": "KORBA",
+          "name": "Korba",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.korea",
+      "regionalOffice": "Korea",
+      "active": true,
+      "districts": [
+        {
+          "code": "KOREA",
+          "name": "Korea",
+          "active": true
+        },
+        {
+          "code": "MANENDRAGARH_CHIRIMIRI_BHARATPUR",
+          "name": "Manendragarh-Chirimiri-Bharatpur",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.mahasamund",
+      "regionalOffice": "Mahasamund",
+      "active": true,
+      "districts": [
+        {
+          "code": "MAHASAMUND",
+          "name": "Mahasamund",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.raigarh",
+      "regionalOffice": "Raigarh",
+      "active": true,
+      "districts": [
+        {
+          "code": "RAIGARH",
+          "name": "Raigarh",
+          "active": true
+        },
+        {
+          "code": "SARANGARH_BILAIGARH",
+          "name": "Sarangarh-Bilaigarh",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.raipur",
+      "regionalOffice": "Raipur",
+      "active": true,
+      "districts": [
+        {
+          "code": "RAIPUR",
+          "name": "Raipur",
+          "active": true
+        }
+      ]
+    },
+    {
+      "tenantId": "cg.rajnandgaon",
+      "regionalOffice": "Rajnandgaon",
+      "active": true,
+      "districts": [
+        {
+          "code": "KAIRAGARH_CHHUIKHADAN_GANDAI",
+          "name": "Kairagarh-Chhuikhadan-Gandai",
+          "active": true
+        },
+        {
+          "code": "MOHLA_MANPUR_AMBAGARH_CHOWKI",
+          "name": "Mohla-Manpur-Ambagarh Chowki",
+          "active": true
+        },
+        {
+          "code": "RAJNANDGAON",
+          "name": "Rajnandgaon",
+          "active": true
+        }
+      ]
+    }
+  ]
+}
