@@ -7766,6 +7766,26 @@
     {
       "category": "FEE",
       "service": "LAYOUT.PAY2",
+      "name": "LAYOUT APPLICATION FEE",
+      "code": "LAYOUT_APPLICATION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT PERMISSION FEE",
+      "code": "LAYOUT_PERMISSION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
       "name": "LAYOUT CLU FEE",
       "code": "LAYOUT_CLU_FEE",
       "isDebit": false,
