@@ -15,14 +15,18 @@
 				{
 					"name": "LAYOUT PROCESSING FEE",
 					"fee": 5000.00,
-					"rate": 1500.0,
+					"rate": 0.0,
 					"taxHeadCode": "LAYOUT_PROCESSING_FEE",
 					"applicable": true
 
+				},
+				{
+					"name": "LAYOUT APPLICATION FEE",
+					"rate": 5000.00,
+					"taxHeadCode": "LAYOUT_APPLICATION_FEE",
+					"applicable": true
+
 				}
-
-
-
 			]
 		},
 		{
@@ -35,14 +39,6 @@
 			"endingDate": 1774981799000,
 			"active": true,
 			"Charges": [
-
-				{
-					"name": "LAYOUT APPLICATION FEE",
-					"rate": 5000.00,
-					"taxHeadCode": "LAYOUT_APPLICATION_FEE",
-					"applicable": true
-
-				},
 				{
 					"name": "LAYOUT PERMISSION FEE",
 					"rate": 0.0,
@@ -64,14 +60,19 @@
 			"Charges": [
 				{
 					"name": "LAYOUT PROCESSING FEE",
-					"fee": 7500.00,
-					"rate": 1500.0,
+					"fee": 5000.00,
+					"rate": 0.0,
 					"taxHeadCode": "LAYOUT_PROCESSING_FEE",
 					"applicable": true
 
+				},
+				{
+					"name": "LAYOUT APPLICATION FEE",
+					"rate": 5000.00,
+					"taxHeadCode": "LAYOUT_APPLICATION_FEE",
+					"applicable": true
+
 				}
-
-
 			]
 		},
 		{
@@ -84,13 +85,6 @@
 			"endingDate": 1806537599000,
 			"active": true,
 			"Charges": [
-				{
-					"name": "LAYOUT APPLICATION FEE",
-					"rate": 5000.0,
-					"taxHeadCode": "LAYOUT_APPLICATION_FEE",
-					"applicable": true
-
-				},
 				{
 					"name": "LAYOUT PERMISSION FEE",
 					"rate": 0.0,
