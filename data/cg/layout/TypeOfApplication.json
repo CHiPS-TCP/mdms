@@ -1,0 +1,21 @@
+{
+  "tenantId": "cg",
+  "moduleName": "LAYOUT",
+  "TypeOfApplication": [
+    {
+      "name": "New",
+      "code": "NEW",
+      "active": true
+    },
+    {
+      "name": "Altration",
+      "code": "ALTRATION",
+      "active": true
+    },
+    {
+      "name": "Revalidation",
+      "code": "REVALIDATION",
+      "active": true
+    }
+  ]
+}
