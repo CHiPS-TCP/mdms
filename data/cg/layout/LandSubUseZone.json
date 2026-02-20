@@ -1,0 +1,198 @@
+{
+  "tenantId": "cg",
+  "moduleName": "LAYOUT",
+  "LandSubUseZone": [
+    {
+      "code": "R",
+      "name": "R",
+      "fullName": "Residential",
+      "zoneCode": "RESIDENTIAL",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "C1",
+      "name": "C1",
+      "fullName": "Commercial-1",
+      "zoneCode": "COMMERCIAL_1",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "C2",
+      "name": "C2",
+      "fullName": "Commercial-2",
+      "zoneCode": "COMMERCIAL_2",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "C3",
+      "name": "C3",
+      "fullName": "Commercial-3",
+      "zoneCode": "COMMERCIAL_3",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "E1",
+      "name": "E1",
+      "fullName": "Education-1",
+      "zoneCode": "EDUCATION_1",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "E2",
+      "name": "E2",
+      "fullName": "Education-2",
+      "zoneCode": "EDUCATION_2",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "E3",
+      "name": "E3",
+      "fullName": "Education-3",
+      "zoneCode": "EDUCATION_3",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "A1",
+      "name": "A1",
+      "fullName": "Assembly Hall-1",
+      "zoneCode": "ASSEMBLY_HALL_1",
+      "category": "ASSEMBLY",
+      "active": true
+    },
+    {
+      "code": "A2",
+      "name": "A2",
+      "fullName": "Assembly Hall-2",
+      "zoneCode": "ASSEMBLY_HALL_2",
+      "category": "ASSEMBLY",
+      "active": true
+    },
+    {
+      "code": "H1",
+      "name": "H1",
+      "fullName": "Health-1",
+      "zoneCode": "HEALTH_1",
+      "category": "HEALTHCARE",
+      "active": true
+    },
+    {
+      "code": "H2",
+      "name": "H2",
+      "fullName": "Health-2",
+      "zoneCode": "HEALTH_2",
+      "category": "HEALTHCARE",
+      "active": true
+    },
+    {
+      "code": "R&C",
+      "name": "R&C",
+      "fullName": "Religious and Cultural",
+      "zoneCode": "RELIGIOUS_AND_CULTURAL",
+      "category": "RELIGIOUS_CULTURAL",
+      "active": true
+    },
+    {
+      "code": "I1",
+      "name": "I1",
+      "fullName": "Industrial-1",
+      "zoneCode": "INDUSTRIAL_1",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "I2",
+      "name": "I2",
+      "fullName": "Industrial-2",
+      "zoneCode": "INDUSTRIAL_2",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "SL",
+      "name": "SL",
+      "fullName": "Sports and Recreation",
+      "zoneCode": "SPORTS_AND_RECREATION",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "P",
+      "name": "P",
+      "fullName": "Parks and Open Spaces",
+      "zoneCode": "PARKS_AND_OPEN_SPACES",
+      "category": "PARKS_OPEN_SPACES",
+      "active": true
+    },
+    {
+      "code": "SE",
+      "name": "SE",
+      "fullName": "Service Establishments",
+      "zoneCode": "SERVICE_ESTABLISHMENTS",
+      "category": "SERVICE",
+      "active": true
+    },
+    {
+      "code": "TR",
+      "name": "TR",
+      "fullName": "Transport",
+      "zoneCode": "TRANSPORT",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "Ag1",
+      "name": "Ag1",
+      "fullName": "Agriculture-1",
+      "zoneCode": "AGRICULTURE_1",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "Ag2",
+      "name": "Ag2",
+      "fullName": "Agriculture-2",
+      "zoneCode": "AGRICULTURE_2",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "TU",
+      "name": "TU",
+      "fullName": "Temporary Use",
+      "zoneCode": "TEMPORARY_USE",
+      "category": "TEMPORARY",
+      "active": true
+    },
+    {
+      "code": "PA",
+      "name": "PA",
+      "fullName": "Public Amenities",
+      "zoneCode": "PUBLIC_AMENITIES",
+      "category": "PUBLIC_AMENITIES",
+      "active": true
+    },
+    {
+      "code": "IT",
+      "name": "IT",
+      "fullName": "Institutional",
+      "zoneCode": "INSTITUTIONAL",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "HP",
+      "name": "HP",
+      "fullName": "Hospitality",
+      "zoneCode": "HOSPITALITY",
+      "category": "HOSPITALITY",
+      "active": true
+    }
+  ]
+}

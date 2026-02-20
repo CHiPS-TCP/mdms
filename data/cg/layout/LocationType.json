@@ -1,0 +1,36 @@
+{
+  "tenantId": "cg",
+  "moduleName": "LAYOUT",
+  "LocationType": [
+    {
+      "code": "CENTRAL_AREA",
+      "name": "Central Area",
+      "active": true
+    },
+    {
+      "code": "INTENSIVE_DEVELOPED_AREA",
+      "name": "Intensive Developed Area",
+      "active": true
+    },
+    {
+      "code": "MINIMUM_DEVELOPED_AREA",
+      "name": "Minimum Developed Area",
+      "active": true
+    },
+    {
+      "code": "LESS_DEVELOPED_LOW_DENSITY_AREA",
+      "name": "Less Developed Low Density Area",
+      "active": true
+    },
+    {
+      "code": "NON_CENTRAL_AREA",
+      "name": "Non Central Area",
+      "active": true
+    },
+    {
+      "code": "NA",
+      "name": "NA",
+      "active": true
+    }
+  ]
+}

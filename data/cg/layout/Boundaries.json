@@ -1,0 +1,26 @@
+{
+  "tenantId": "cg",
+  "moduleName": "LAYOUT",
+  " ": [
+    {
+      "code": "ROAD",
+      "name": "Road",
+      "active": true
+    },
+    {
+      "code": "PLOT",
+      "name": "Plot",
+      "active": true
+    },
+    {
+      "code": "SURVEY",
+      "name": "Survey",
+      "active": true
+    },
+    {
+      "code": "OTHERS",
+      "name": "Others",
+      "active": true
+    }
+  ]
+}

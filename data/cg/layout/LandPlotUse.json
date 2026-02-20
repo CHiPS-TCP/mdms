@@ -1,0 +1,174 @@
+{
+  "tenantId": "cg",
+  "moduleName": "LAYOUT",
+  "LayoutPlotUse": [
+    {
+      "code": "RESIDENTIAL",
+      "name": "Residential",
+      "subUseCode": "R",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "COMMERCIAL_1",
+      "name": "Commercial-1",
+      "subUseCode": "C1",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "COMMERCIAL_2",
+      "name": "Commercial-2",
+      "subUseCode": "C2",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "COMMERCIAL_3",
+      "name": "Commercial-3",
+      "subUseCode": "C3",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "EDUCATION_1",
+      "name": "Education-1",
+      "subUseCode": "E1",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "EDUCATION_2",
+      "name": "Education-2",
+      "subUseCode": "E2",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "EDUCATION_3",
+      "name": "Education-3",
+      "subUseCode": "E3",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "ASSEMBLY_HALL_1",
+      "name": "Assembly Hall-1",
+      "subUseCode": "A1",
+      "category": "ASSEMBLY",
+      "active": true
+    },
+    {
+      "code": "ASSEMBLY_HALL_2",
+      "name": "Assembly Hall-2",
+      "subUseCode": "A2",
+      "category": "ASSEMBLY",
+      "active": true
+    },
+    {
+      "code": "HEALTH_1",
+      "name": "Health-1",
+      "subUseCode": "H1",
+      "category": "HEALTHCARE",
+      "active": true
+    },
+    {
+      "code": "HEALTH_2",
+      "name": "Health-2",
+      "subUseCode": "H2",
+      "category": "HEALTHCARE",
+      "active": true
+    },
+    {
+      "code": "RELIGIOUS_AND_CULTURAL",
+      "name": "Religious and Cultural",
+      "subUseCode": "R&C",
+      "category": "RELIGIOUS_CULTURAL",
+      "active": true
+    },
+    {
+      "code": "INDUSTRIAL_1",
+      "name": "Industrial-1",
+      "subUseCode": "I1",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "INDUSTRIAL_2",
+      "name": "Industrial-2",
+      "subUseCode": "I2",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "SPORTS_AND_RECREATION",
+      "name": "Sports and Recreation",
+      "subUseCode": "SL",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "PARKS_AND_OPEN_SPACES",
+      "name": "Parks and Open Spaces",
+      "subUseCode": "P",
+      "category": "PARKS_OPEN_SPACES",
+      "active": true
+    },
+    {
+      "code": "SERVICE_ESTABLISHMENTS",
+      "name": "Service Establishments",
+      "subUseCode": "SE",
+      "category": "SERVICE",
+      "active": true
+    },
+    {
+      "code": "TRANSPORT",
+      "name": "Transport",
+      "subUseCode": "TR",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "AGRICULTURE_1",
+      "name": "Agriculture-1",
+      "subUseCode": "Ag1",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "AGRICULTURE_2",
+      "name": "Agriculture-2",
+      "subUseCode": "Ag2",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "TEMPORARY_USE",
+      "name": "Temporary Use",
+      "subUseCode": "TU",
+      "category": "TEMPORARY",
+      "active": true
+    },
+    {
+      "code": "PUBLIC_AMENITIES",
+      "name": "Public Amenities",
+      "subUseCode": "PA",
+      "category": "PUBLIC_AMENITIES",
+      "active": true
+    },
+    {
+      "code": "INSTITUTIONAL",
+      "name": "Institutional",
+      "subUseCode": "IT",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "HOSPITALITY",
+      "name": "Hospitality",
+      "subUseCode": "HP",
+      "category": "HOSPITALITY",
+      "active": true
+    }
+  ]
+}

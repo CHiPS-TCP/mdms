@@ -1,0 +1,900 @@
+{
+  "tenantId": "cg",
+  "moduleName": "LAYOUT",
+  "LayoutPlotSubUse": [
+    {
+      "code": "DETACHED_RESIDENTIAL_UNITS",
+      "name": "Detached Residential Units",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "SEMI_DETACHED_HOUSING_UNITS",
+      "name": "Semi-Detached Housing Units",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "ROW_HOUSING",
+      "name": "Row Housing",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "APARTMENT",
+      "name": "Apartment",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "HOSTEL",
+      "name": "Hostel",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "DHARAMSHALA",
+      "name": "Dharamshala",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "GROUP_HOUSING",
+      "name": "Group Housing",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "NIGHT_SHELTER",
+      "name": "Night Shelter",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "SWING_HOUSE",
+      "name": "Swing House",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "SERVICE_APARTMENT",
+      "name": "Service Apartment",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "INTEGRATED_TOWNSHIP",
+      "name": "Integrated Township",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "CONVENIENCE_SHOPS",
+      "name": "Convenience Shops",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "VEGETABLE_SHOP",
+      "name": "Vegetable Shop",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "MILK_BOOTH",
+      "name": "Milk Booth",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "INTERNET_CENTER",
+      "name": "Internet Center",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "COTTAGE_INDUSTRY",
+      "name": "Cottage Industry",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "KIOSK",
+      "name": "Kiosk",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "ATM",
+      "name": "ATM",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "SHOPPING_CENTER",
+      "name": "Shopping Center",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "SHOPPING_MALL",
+      "name": "Shopping Mall",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "COMMERCIAL_BUILDING",
+      "name": "Commercial Building",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "PETROL_PUMP",
+      "name": "Petrol Pump",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "FUEL_STATION",
+      "name": "Fuel Station",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "GUEST_HOUSE",
+      "name": "Guest House",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "CITY_CENTER",
+      "name": "City Center",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "RESTAURANT",
+      "name": "Restaurant",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "BAKERY",
+      "name": "Bakery",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "BANK",
+      "name": "Bank",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "LODGING_AND_BOARDING",
+      "name": "Lodging and Boarding",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "WAREHOUSE",
+      "name": "Warehouse",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "GODOWN",
+      "name": "Godown",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "WHOLESALE_MARKET",
+      "name": "Wholesale Market",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "TIMBER_MARKET",
+      "name": "Timber Market",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "STOCKYARD",
+      "name": "Stockyard",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "SPECIALIZED_MARKET",
+      "name": "Specialized Market",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "SLAUGHTERHOUSE",
+      "name": "Slaughterhouse",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "PRE_PRIMARY_SCHOOL",
+      "name": "Pre-Primary School",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "PRIMARY_SCHOOL",
+      "name": "Primary School",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "MIDDLE_SCHOOL",
+      "name": "Middle School",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "SECONDARY_SCHOOL",
+      "name": "Secondary School",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "HIGHER_SECONDARY_SCHOOL",
+      "name": "Higher Secondary School",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "TRAINING_CENTER_ITI",
+      "name": "Training Center  I.T.I.",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "COLLEGE",
+      "name": "College",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "POLYTECHNIC",
+      "name": "Polytechnic",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "UNIVERSITY",
+      "name": "University",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "RESEARCH_INSTITUTE",
+      "name": "Research Institute",
+      "category": "EDUCATIONAL",
+      "active": true
+    },
+    {
+      "code": "COMMUNITY_HALL",
+      "name": "Community Hall",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "MARRIAGE_HALL",
+      "name": "Marriage Hall",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "EXHIBITION_HALL",
+      "name": "Exhibition Hall",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "AUDITORIUM",
+      "name": "Auditorium",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "THEATER",
+      "name": "Theater",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "CINEMA_HALL",
+      "name": "Cinema Hall",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "MULTIPLEX",
+      "name": "Multiplex",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "CLUB",
+      "name": "Club",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "MUSEUM",
+      "name": "Museum",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "PLANETARIUM",
+      "name": "Planetarium",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "CONVENTION_CENTER",
+      "name": "Convention Center",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "DISPENSARY",
+      "name": "Dispensary",
+      "category": "HEALTHCARE",
+      "active": true
+    },
+    {
+      "code": "CLINIC",
+      "name": "Clinic",
+      "category": "HEALTHCARE",
+      "active": true
+    },
+    {
+      "code": "MATERNITY_HOME",
+      "name": "Maternity Home",
+      "category": "HEALTHCARE",
+      "active": true
+    },
+    {
+      "code": "NURSING_HOME",
+      "name": "Nursing Home",
+      "category": "HEALTHCARE",
+      "active": true
+    },
+    {
+      "code": "PRIMARY_HEALTH_CENTER",
+      "name": "Primary Health Center",
+      "category": "HEALTHCARE",
+      "active": true
+    },
+    {
+      "code": "RESEARCH_CENTER",
+      "name": "Research Center",
+      "category": "HEALTHCARE",
+      "active": true
+    },
+    {
+      "code": "HOSPITAL",
+      "name": "Hospital",
+      "category": "HEALTHCARE",
+      "active": true
+    },
+    {
+      "code": "TRAUMA_CENTER",
+      "name": "Trauma Center",
+      "category": "HEALTHCARE",
+      "active": true
+    },
+    {
+      "code": "SPECIALIZED_HOSPITAL",
+      "name": "Specialized Hospital",
+      "category": "HEALTHCARE",
+      "active": true
+    },
+    {
+      "code": "PLACES_OF_WORSHIP_OF_VARIOUS_FAITHS",
+      "name": "Places of Worship of Various Faiths",
+      "category": "RELIGIOUS",
+      "active": true
+    },
+    {
+      "code": "ALL_GREEN_AND_ORANGE_CATEGORY_INDUSTRIES_AND_SERVICE_INDUSTRIES_AS_PER_INDUSTRIAL_NORMS",
+      "name": "All Green and Orange Category Industries and Service Industries as per Industrial Norms",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "JUNK_YARD",
+      "name": "Junk Yard",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "TEXTILE_UNITS",
+      "name": "Textile Units",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "ICE_FACTORY",
+      "name": "Ice Factory",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "STONE_CRUSHING",
+      "name": "Stone Crushing",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "GRAVEL_AND_SOIL",
+      "name": "Gravel and Soil",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "MEAT_PROCESSING_UNITS",
+      "name": "Meat Processing Units",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "LEATHER_PROCESSING",
+      "name": "Leather Processing",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "COLD_STORAGE",
+      "name": "Cold Storage",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "FUEL_STORAGE",
+      "name": "Fuel Storage",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "FLAMMABLE_MATERIAL_STORAGE",
+      "name": "Flammable Material Storage",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "THERMALWATERGAS_BASED_POWER_PLANT",
+      "name": "Thermal/Water/Gas Based Power Plant",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "POLLUTING_AND_HAZARDOUS_INDUSTRIES",
+      "name": "Polluting and Hazardous Industries",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "PLAYGROUND",
+      "name": "Playground",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "STADIUM",
+      "name": "Stadium",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "GOLF_COURSE",
+      "name": "Golf Course",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "SPORTS_COMPLEX",
+      "name": "Sports Complex",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "SWIMMING_POOL",
+      "name": "Swimming Pool",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "INDOOR_STADIUM",
+      "name": "Indoor Stadium",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "AQUARIUM",
+      "name": "Aquarium",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "SPORTS_CLUB",
+      "name": "Sports Club",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "GARDEN",
+      "name": "Garden",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "PARK",
+      "name": "Park",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "GREEN_HOUSE",
+      "name": "Green House",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "BOTANICAL_GARDEN",
+      "name": "Botanical Garden",
+      "category": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "code": "ROAD",
+      "name": "Road",
+      "category": "TRANSPORTATION",
+      "active": true
+    },
+    {
+      "code": "TRUCK_TERMINAL",
+      "name": "Truck Terminal",
+      "category": "TRANSPORTATION",
+      "active": true
+    },
+    {
+      "code": "BUS_TERMINAL",
+      "name": "Bus Terminal",
+      "category": "TRANSPORTATION",
+      "active": true
+    },
+    {
+      "code": "BUS_DEPOT",
+      "name": "Bus Depot",
+      "category": "TRANSPORTATION",
+      "active": true
+    },
+    {
+      "code": "BUS_STOPSTAND",
+      "name": "Bus Stop/Stand",
+      "category": "TRANSPORTATION",
+      "active": true
+    },
+    {
+      "code": "RAILWAY",
+      "name": "Railway",
+      "category": "TRANSPORTATION",
+      "active": true
+    },
+    {
+      "code": "RAILWAY_STATION",
+      "name": "Railway Station",
+      "category": "TRANSPORTATION",
+      "active": true
+    },
+    {
+      "code": "RAILWAY_YARD",
+      "name": "Railway Yard",
+      "category": "TRANSPORTATION",
+      "active": true
+    },
+    {
+      "code": "CONTAINER_TERMINALDEPOT",
+      "name": "Container Terminal/Depot",
+      "category": "TRANSPORTATION",
+      "active": true
+    },
+    {
+      "code": "PARKING",
+      "name": "Parking",
+      "category": "TRANSPORTATION",
+      "active": true
+    },
+    {
+      "code": "MULTI_LEVEL_PARKING",
+      "name": "Multi-Level Parking",
+      "category": "TRANSPORTATION",
+      "active": true
+    },
+    {
+      "code": "AIRPORT",
+      "name": "Airport",
+      "category": "TRANSPORTATION",
+      "active": true
+    },
+    {
+      "code": "WEIGHBRIDGE",
+      "name": "Weighbridge",
+      "category": "TRANSPORTATION",
+      "active": true
+    },
+    {
+      "code": "ESSENTIAL_STAFF_HOUSING",
+      "name": "Essential Staff Housing",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "AGRICULTURE",
+      "name": "Agriculture",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "HORTICULTURE",
+      "name": "Horticulture",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "DAIRY_DEVELOPMENT",
+      "name": "Dairy Development",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "FISHERIES",
+      "name": "Fisheries",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "ANIMAL_HUSBANDRY_AND_BREEDING",
+      "name": "Animal Husbandry and Breeding",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "NATURAL_RESOURCE_SANCTUARY",
+      "name": "Natural Resource Sanctuary",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "BRICK_KILN",
+      "name": "Brick Kiln",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "MINING_AND_EXCAVATION",
+      "name": "Mining and Excavation",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "LANDFILL_SITE",
+      "name": "Landfill Site",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "AGRICULTURAL_EQUIPMENT_REPAIR_AND_SALE",
+      "name": "Agricultural Equipment Repair and Sale",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "SAW_MILL",
+      "name": "Saw Mill",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "ROADSIDE_DHABA",
+      "name": "Roadside Dhaba",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "POULTRY_FARM",
+      "name": "Poultry Farm",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "FARM_HOUSE",
+      "name": "Farm House",
+      "category": "AGRICULTURE",
+      "active": true
+    },
+    {
+      "code": "FAIR",
+      "name": "Fair",
+      "category": "PUBLIC_EVENTS",
+      "active": true
+    },
+    {
+      "code": "CIRCUS",
+      "name": "Circus",
+      "category": "PUBLIC_EVENTS",
+      "active": true
+    },
+    {
+      "code": "EXHIBITION",
+      "name": "Exhibition",
+      "category": "PUBLIC_EVENTS",
+      "active": true
+    },
+    {
+      "code": "FAIR_GROUND",
+      "name": "Fair Ground",
+      "category": "PUBLIC_EVENTS",
+      "active": true
+    },
+    {
+      "code": "PANDAL",
+      "name": "Pandal",
+      "category": "PUBLIC_EVENTS",
+      "active": true
+    },
+    {
+      "code": "ELECTRIC_SUBSTATION",
+      "name": "Electric Substation",
+      "category": "UTILITIES",
+      "active": true
+    },
+    {
+      "code": "WATER_PUMPING_STATION",
+      "name": "Water Pumping Station",
+      "category": "UTILITIES",
+      "active": true
+    },
+    {
+      "code": "WATER_TREATMENT_PLANT",
+      "name": "Water Treatment Plant",
+      "category": "UTILITIES",
+      "active": true
+    },
+    {
+      "code": "WTP",
+      "name": "WTP)",
+      "category": "UTILITIES",
+      "active": true
+    },
+    {
+      "code": "WATER_SUPPLY_INFRASTRUCTURE",
+      "name": "Water Supply Infrastructure",
+      "category": "UTILITIES",
+      "active": true
+    },
+    {
+      "code": "DRAINAGE_CHANNEL",
+      "name": "Drainage Channel",
+      "category": "UTILITIES",
+      "active": true
+    },
+    {
+      "code": "SOLID_WASTE_COLLECTIONTRANSFER_CENTER",
+      "name": "Solid Waste Collection/Transfer Center",
+      "category": "UTILITIES",
+      "active": true
+    },
+    {
+      "code": "SOLID_WASTE_DISPOSAL_CENTER",
+      "name": "Solid Waste Disposal Center",
+      "category": "UTILITIES",
+      "active": true
+    },
+    {
+      "code": "FIRE_STATION",
+      "name": "Fire Station",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "CREMATORIUM",
+      "name": "Crematorium",
+      "category": "UTILITIES",
+      "active": true
+    },
+    {
+      "code": "GRAVEYARD",
+      "name": "Graveyard",
+      "category": "UTILITIES",
+      "active": true
+    },
+    {
+      "code": "POST_OFFICE",
+      "name": "Post Office",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "COMMUNICATION_NETWORK",
+      "name": "Communication Network",
+      "category": "UTILITIES",
+      "active": true
+    },
+    {
+      "code": "POLICE_STATION",
+      "name": "Police Station",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "JAIL",
+      "name": "Jail",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "GOVERNMENT_AND_SEMI_GOVERNMENT_OFFICES",
+      "name": "Government and Semi-Government Offices",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "PUBLIC_LIBRARY",
+      "name": "Public Library",
+      "category": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "AUTO_REPAIR_WORKSHOP",
+      "name": "Auto Repair Workshop",
+      "category": "SERVICE",
+      "active": true
+    },
+    {
+      "code": "MANUFACTURING_WORKSHOP",
+      "name": "Manufacturing Workshop",
+      "category": "SERVICE",
+      "active": true
+    },
+    {
+      "code": "WOOD_WORKSHOP",
+      "name": "Wood Workshop",
+      "category": "SERVICE",
+      "active": true
+    },
+    {
+      "code": "GARAGE",
+      "name": "Garage",
+      "category": "SERVICE",
+      "active": true
+    },
+    {
+      "code": "HOTEL",
+      "name": "Hotel",
+      "category": "SERVICE",
+      "active": true
+    },
+    {
+      "code": "MOTEL",
+      "name": "Motel",
+      "category": "SERVICE",
+      "active": true
+    },
+    {
+      "code": "PARTY_PLOT",
+      "name": "Party Plot",
+      "category": "SERVICE",
+      "active": true
+    }
+  ]
+}
