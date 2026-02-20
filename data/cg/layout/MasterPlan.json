@@ -1,0 +1,17 @@
+{
+  "tenantId": "cg",
+  "moduleName": "LAYOUT",
+  "MasterPlan": [
+    {
+      "name": "WithIn",
+      "code": "WITH_IN",
+      "active": true
+    },
+    {
+      "name": "Outside",
+      "code": "OUSTSIDE",
+      "active": true
+    }
+
+  ]
+}

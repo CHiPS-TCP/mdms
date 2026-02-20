@@ -3,178 +3,88 @@
   "moduleName": "LAYOUT",
   "LayoutDocuments": [
     {
-      "code": "OWNER.OWNERSHIPDOCUMENT",
+      "code": "OWNER.APPLICATION_FORM_PERMISSION",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.OWNERSHIPDOCUMENT_DESCRIPTION"
+      "description": "OWNER.APPLICATION_FORM_PERMISSION_DESCRIPTION"
     },
     {
-      "code": "OWNER.LAYOUTDRAWING",
+      "code": "OWNER.PROOF_OF_RESIDENCE",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.LAYOUTDRAWING_DESCRIPTION"
+      "description": "OWNER.PROOF_OF_RESIDENCE_DESCRIPTION"
     },
     {
-      "code": "OWNER.LAYOUTDRAWINGWITHKHASRA",
+      "code": "OWNER.PROOF_OF_IDENTITY",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.LAYOUTDRAWINGWITHKHASRA_DESCRIPTION"
+      "description": "OWNER.PROOF_OF_IDENTITY_DESCRIPTION"
     },
     {
-      "code": "OWNER.LAYOUTDRAWINGWITHWSLINES",
+      "code": "OWNER.B1_KHASRA_DETAILS",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.LAYOUTDRAWINGWITHWSLINES_DESCRIPTION"
-    },
- {
-      "code": "OWNER.SITEPHOTOGRAPHONE",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION"
+      "description": "OWNER.B1_KHASRA_DETAILS_DESCRIPTION"
     },
     {
-      "code": "OWNER.SITEPHOTOGRAPHTWO",
+      "code": "OWNER.GIS_LAYOUT_MARKING",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION"
+      "description": "OWNER.GIS_LAYOUT_MARKING_DESCRIPTION"
     },
-
     {
-      "code": "OWNER.LAYOUTDRAWINGWITHSEWERAGELINES",
+      "code": "OWNER.DRAWING_PARKING_SERVICE_PLAN",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.LAYOUTDRAWINGWITHSEWERAGELINES_DESCRIPTION"
+      "description": "OWNER.DRAWING_PARKING_SERVICE_PLAN_DESCRIPTION"
     },
     {
-      "code": "OWNER.ANYOTHERLAYOUTDRAWING",
+      "code": "OWNER.DRAWING_APPROACH_ROAD",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.DRAWING_APPROACH_ROAD_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.SURVEY_PLAN_MAP",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.SURVEY_PLAN_MAP_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.NAZUL_NOC",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.ANYOTHERLAYOUTDRAWING_DESCRIPTION"
+      "description": "OWNER.NAZUL_NOC_DESCRIPTION"
     },
     {
-      "code": "OWNER.REVENUEPLANAKSHSHAJRA",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "cluRequired": true,
-      "description": "OWNER.REVENUEPLANAKSHSHAJRA_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.SITEMARKEDONLATHAPARTPLAN",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "cluRequired": true,
-      "description": "OWNER.SITEMARKEDONLATHAPARTPLAN_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.SITEMARKEDONMASTERPLAN",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "cluRequired": true,
-      "description": "OWNER.SITEMARKEDONMASTERPLAN_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.SITEMARKEDONSATELLITEPLAN",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "cluRequired": true,
-      "description": "OWNER.SITEMARKEDONSATELLITEPLAN_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.MUSTARKALANDAFFIDAVIT",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "cluRequired": true,
-      "description": "OWNER.MUSTARKALANDAFFIDAVIT_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.CIRCLEREVENUEOFFCIERREPORT",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.CIRCLEREVENUEOFFCIERREPORT_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.NONENCUMBRANCECERTIFICATE",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.NONENCUMBRANCECERTIFICATE_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.NATIONALHIGHWAYNOC",
+      "code": "OWNER.COLONIZER_REG_CERTIFICATE",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.NATIONALHIGHWAYNOC_DESCRIPTION"
+      "description": "OWNER.COLONIZER_REG_CERTIFICATE_DESCRIPTION"
     },
     {
-      "code": "OWNER.AIRPORTAUTHORITYNOC",
+      "code": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.AIRPORTAUTHORITYNOC_DESCRIPTION"
+      "description": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP_DESCRIPTION"
     },
     {
-      "code": "OWNER.FORESTNOC",
+      "code": "OWNER.ADDITIONAL_DOCUMENTS",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.FORESTNOC_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.ANYOTHERNOC",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.ANYOTHERNOC_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.ANYOTHERSUPPORTINGDOCUMENT",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.ANYOTHERSUPPORTINGDOCUMENT_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.OWNERSHIPSTATEMENT",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.OWNERSHIPSTATEMENT_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.REVENUEPLAN",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.REVENUEPLAN_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.SITEMARKEDONGOOGLEPLAN",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.SITEMARKEDONGOOGLEPLAN_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.INDUSTRYCATEGORYDOCUMENT",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.INDUSTRYCATEGORYDOCUMENT_DESCRIPTION"
+      "description": "OWNER.ADDITIONAL_DOCUMENTS_DESCRIPTION"
     }
   ]
 }

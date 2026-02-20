@@ -1,0 +1,17 @@
+{
+  "tenantId": "cg",
+  "moduleName": "LAYOUT",
+  "DocumentCheckListStatus": [
+    {
+      "name": "ShortFall",
+      "code": "SHORTFALL",
+      "active": true
+    },
+    {
+      "name": "Approved",
+      "code": "APPROVED",
+      "active": true
+    }
+
+  ]
+}

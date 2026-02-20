@@ -274,7 +274,58 @@
     {
       "code": "OWNER.OWNERSHIPDOCUMENT",
       "active" : true
-    }
+    },
+
+      {
+        "code": "OWNER.APPLICATION_FORM_PERMISSION",
+        "active": true
+      },
+      {
+        "code": "OWNER.PROOF_OF_RESIDENCE",
+        "active": true
+      },
+      {
+        "code": "OWNER.PROOF_OF_IDENTITY",
+        "active": true
+      },
+      {
+        "code": "OWNER.B1_KHASRA_DETAILS",
+        "active": true
+      },
+      {
+        "code": "OWNER.GIS_LAYOUT_MARKING",
+        "active": true
+      },
+      {
+        "code": "OWNER.DRAWING_PARKING_SERVICE_PLAN",
+        "active": true
+      },
+      {
+        "code": "OWNER.DRAWING_APPROACH_ROAD",
+        "active": true
+      },
+      {
+        "code": "OWNER.SURVEY_PLAN_MAP",
+        "active": true
+      },
+      {
+        "code": "OWNER.NAZUL_NOC",
+        "active": true
+      },
+      {
+        "code": "OWNER.COLONIZER_REG_CERTIFICATE",
+        "active": true
+      },
+      {
+        "code": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP",
+        "active": true
+      },
+      {
+        "code": "OWNER.ADDITIONAL_DOCUMENTS",
+        "active": true
+      }
+
+
 
   ],
   "moduleName": "common-masters",

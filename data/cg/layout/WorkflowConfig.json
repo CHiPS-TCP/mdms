@@ -10,5 +10,14 @@
       "masterCode": "YES",
       "businessService": "Layout_mcl_up"
     }
+    ,
+    {
+      "masterCode": "OUSTSIDE",
+      "businessService": "Layout_mcl_abv"
+    },
+    {
+      "masterCode": "WITH_IN",
+      "businessService": "Layout_mcl_up"
+    }
   ]
 }
