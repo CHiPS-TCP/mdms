@@ -3,6 +3,21 @@
   "moduleName": "tenant",
   "VillageHalkaRI": [
     {
+      "code": "TCP_DUMMY_VILLAGE_1",
+      "name": "TCP Dummy Village 1",
+      "active": true,
+      "halkaNumber": "00001",
+      "riNumber": "01"
+    },
+    {
+      "code": "TCP_DUMMY_VILLAGE_2",
+      "name": "TCP Dummy Village 2",
+      "active": true,
+      "halkaNumber": "00002",
+      "riNumber": "02"
+    },
+
+    {
       "code": "BANDRI",
       "name": "Bandri",
       "active": true,
