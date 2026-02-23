@@ -12,11 +12,11 @@
     }
     ,
     {
-      "masterCode": "OUSTSIDE",
+      "masterCode": "OUTSIDE",
       "businessService": "Layout_mcl_abv"
     },
     {
-      "masterCode": "WITH_IN",
+      "masterCode": "WITHIN",
       "businessService": "Layout_mcl_up"
     }
   ]

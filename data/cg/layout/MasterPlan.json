@@ -4,12 +4,12 @@
   "MasterPlan": [
     {
       "name": "WithIn",
-      "code": "WITH_IN",
+      "code": "WITHIN",
       "active": true
     },
     {
       "name": "Outside",
-      "code": "OUSTSIDE",
+      "code": "OUTSIDE",
       "active": true
     }
 
