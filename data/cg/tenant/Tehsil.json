@@ -3,6 +3,17 @@
   "moduleName": "tenant",
   "Tehsil": [
     {
+      "districtCode": "TCP_DUMMY_DISTRICT",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "TCP_DUMMY_TEHSIL",
+          "name": "TCP Dummy Tehsil",
+          "active": true
+        }
+      ]
+    },
+    {
       "districtCode": "BALODABAZAR_BHATAPARA",
       "active": true,
       "tehsils": [

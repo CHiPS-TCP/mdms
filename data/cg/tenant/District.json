@@ -3,6 +3,18 @@
   "moduleName": "tenant",
   "District": [
     {
+      "tenantId": "cg.tcp",
+      "regionalOffice": "TCP Office",
+      "active": true,
+      "districts": [
+        {
+          "code": "TCP_DUMMY_DISTRICT",
+          "name": "TCP Dummy District",
+          "active": true
+        }
+      ]
+    },
+    {
       "tenantId": "cg.ambikapur",
       "regionalOffice": "Ambikapur",
       "active": true,

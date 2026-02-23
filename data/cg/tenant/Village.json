@@ -3,6 +3,23 @@
   "moduleName": "tenant",
   "Village": [
     {
+      "districtCode": "TCP_DUMMY_DISTRICT",
+      "tehsilCode": "TCP_DUMMY_TEHSIL",
+      "active": true,
+      "villages": [
+        {
+          "code": "TCP_DUMMY_VILLAGE_1",
+          "name": "TCP Dummy Village 1",
+          "active": true
+        },
+        {
+          "code": "TCP_DUMMY_VILLAGE_2",
+          "name": "TCP Dummy Village 2",
+          "active": true
+        }
+      ]
+    },
+    {
       "districtCode": "BALODABAZAR_BHATAPARA",
       "tehsilCode": "BALODABAZAR_BHATAPARA_BHATGAON",
       "active": true,
