@@ -15005,6 +15005,598 @@
           "active": true
         }
       ]
+    },
+    {
+      "districtCode": "BALOD",
+      "tehsilCode": "ARJUNDA",
+      "active": true,
+      "villages": [
+        {
+          "code": "ARJUNDA.",
+          "name": "Arjunda.",
+          "active": true
+        },
+        {
+          "code": "ARJUNI",
+          "name": "Arjuni",
+          "active": true
+        },
+        {
+          "code": "BORGAHAN",
+          "name": "Borgahan",
+          "active": true
+        },
+        {
+          "code": "CHICHALGODI",
+          "name": "Chichalgodi",
+          "active": true
+        },
+        {
+          "code": "DUDIYA",
+          "name": "Dudiya",
+          "active": true
+        },
+        {
+          "code": "KADIYA",
+          "name": "Kadiya",
+          "active": true
+        },
+        {
+          "code": "KANDUL",
+          "name": "Kandul",
+          "active": true
+        },
+        {
+          "code": "KHAIRBANA",
+          "name": "Khairbana",
+          "active": true
+        },
+        {
+          "code": "KHAPRI",
+          "name": "Khapri",
+          "active": true
+        },
+        {
+          "code": "MANKI",
+          "name": "Manki",
+          "active": true
+        },
+        {
+          "code": "MATEWA",
+          "name": "Matewa",
+          "active": true
+        },
+        {
+          "code": "MATIYA",
+          "name": "Matiya",
+          "active": true
+        },
+        {
+          "code": "PARASTRAI",
+          "name": "Parastrai",
+          "active": true
+        },
+        {
+          "code": "TELITOLI",
+          "name": "Telitoli",
+          "active": true
+        },
+        {
+          "code": "TIKRI",
+          "name": "Tikri",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "BALOD",
+      "tehsilCode": "BALOD",
+      "active": true,
+      "villages": [
+        {
+          "code": "BAGHMARA",
+          "name": "Baghmara",
+          "active": true
+        },
+        {
+          "code": "BALOD",
+          "name": "Balod",
+          "active": true
+        },
+        {
+          "code": "DEORBHAT",
+          "name": "Deorbhat",
+          "active": true
+        },
+        {
+          "code": "HIRAPUR",
+          "name": "Hirapur",
+          "active": true
+        },
+        {
+          "code": "JHALMALA",
+          "name": "Jhalmala",
+          "active": true
+        },
+        {
+          "code": "KHAIRTARAI",
+          "name": "Khairtarai",
+          "active": true
+        },
+        {
+          "code": "PAKURBHAT",
+          "name": "Pakurbhat",
+          "active": true
+        },
+        {
+          "code": "PARRAS",
+          "name": "Parras",
+          "active": true
+        },
+        {
+          "code": "SEONI",
+          "name": "Seoni",
+          "active": true
+        },
+        {
+          "code": "UMRADAH",
+          "name": "Umradah",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "BALOD",
+      "tehsilCode": "DONDI",
+      "active": true,
+      "villages": [
+        {
+          "code": "AHMURKASA",
+          "name": "Ahmurkasa",
+          "active": true
+        },
+        {
+          "code": "AURATOLA",
+          "name": "Auratola",
+          "active": true
+        },
+        {
+          "code": "AWARI",
+          "name": "Awari",
+          "active": true
+        },
+        {
+          "code": "BELAR_GODI",
+          "name": "Belar Godi",
+          "active": true
+        },
+        {
+          "code": "BHARRATOLA",
+          "name": "Bharratola",
+          "active": true
+        },
+        {
+          "code": "BHIMATOLA",
+          "name": "Bhimatola",
+          "active": true
+        },
+        {
+          "code": "CHHINDGAON",
+          "name": "Chhindgaon",
+          "active": true
+        },
+        {
+          "code": "CHICHLI_BAZAR",
+          "name": "Chichli Bazar",
+          "active": true
+        },
+        {
+          "code": "CHIKHLAKASA",
+          "name": "Chikhlakasa",
+          "active": true
+        },
+        {
+          "code": "CHIKHLAKASA.",
+          "name": "Chikhlakasa.",
+          "active": true
+        },
+        {
+          "code": "DALLI_RAJHARA",
+          "name": "Dalli Rajhara",
+          "active": true
+        },
+        {
+          "code": "DHOBINA",
+          "name": "Dhobina",
+          "active": true
+        },
+        {
+          "code": "DHOTIMATOLA",
+          "name": "Dhotimatola",
+          "active": true
+        },
+        {
+          "code": "DONDI",
+          "name": "Dondi",
+          "active": true
+        },
+        {
+          "code": "GANGOLIDIH",
+          "name": "Gangolidih",
+          "active": true
+        },
+        {
+          "code": "GHATULMUDA",
+          "name": "Ghatulmuda",
+          "active": true
+        },
+        {
+          "code": "JAMRUVA",
+          "name": "Jamruva",
+          "active": true
+        },
+        {
+          "code": "JHARANDALLI",
+          "name": "Jharandalli",
+          "active": true
+        },
+        {
+          "code": "KAMKASUR",
+          "name": "Kamkasur",
+          "active": true
+        },
+        {
+          "code": "KANDE",
+          "name": "Kande",
+          "active": true
+        },
+        {
+          "code": "KANDKASA",
+          "name": "Kandkasa",
+          "active": true
+        },
+        {
+          "code": "KHAIRWAHI",
+          "name": "Khairwahi",
+          "active": true
+        },
+        {
+          "code": "KHAMHAR_TILA",
+          "name": "Khamhar Tila",
+          "active": true
+        },
+        {
+          "code": "KOKAN",
+          "name": "Kokan",
+          "active": true
+        },
+        {
+          "code": "KURUBHATA",
+          "name": "Kurubhata",
+          "active": true
+        },
+        {
+          "code": "KUSUMCHAKSI",
+          "name": "Kusumchaksi",
+          "active": true
+        },
+        {
+          "code": "MAHULJHAPPI",
+          "name": "Mahuljhappi",
+          "active": true
+        },
+        {
+          "code": "MALKUVAR",
+          "name": "Malkuvar",
+          "active": true
+        },
+        {
+          "code": "PADRIDALLI",
+          "name": "Padridalli",
+          "active": true
+        },
+        {
+          "code": "PARGODA",
+          "name": "Pargoda",
+          "active": true
+        },
+        {
+          "code": "PATHRATOLA",
+          "name": "Pathratola",
+          "active": true
+        },
+        {
+          "code": "PUTARWAHI",
+          "name": "Putarwahi",
+          "active": true
+        },
+        {
+          "code": "SALHE",
+          "name": "Salhe",
+          "active": true
+        },
+        {
+          "code": "SINGANWAL",
+          "name": "Singanwal",
+          "active": true
+        },
+        {
+          "code": "TEKATOLA",
+          "name": "Tekatola",
+          "active": true
+        },
+        {
+          "code": "UKARI",
+          "name": "Ukari",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "BALOD",
+      "tehsilCode": "DONDI_LOHARA",
+      "active": true,
+      "villages": [
+        {
+          "code": "ANDI",
+          "name": "Andi",
+          "active": true
+        },
+        {
+          "code": "BADGAON",
+          "name": "Badgaon",
+          "active": true
+        },
+        {
+          "code": "BATERA",
+          "name": "Batera",
+          "active": true
+        },
+        {
+          "code": "BHARDA",
+          "name": "Bharda",
+          "active": true
+        },
+        {
+          "code": "BHENDI",
+          "name": "Bhendi",
+          "active": true
+        },
+        {
+          "code": "DHANGAON",
+          "name": "Dhangaon",
+          "active": true
+        },
+        {
+          "code": "DONDI_LOHARA",
+          "name": "Dondi Lohara",
+          "active": true
+        },
+        {
+          "code": "JOGIBHAT",
+          "name": "Jogibhat",
+          "active": true
+        },
+        {
+          "code": "KASAHI",
+          "name": "Kasahi",
+          "active": true
+        },
+        {
+          "code": "KHADNADIH",
+          "name": "Khadnadih",
+          "active": true
+        },
+        {
+          "code": "KOTERA",
+          "name": "Kotera",
+          "active": true
+        },
+        {
+          "code": "SAMBALPUR",
+          "name": "Sambalpur",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "BALOD",
+      "tehsilCode": "GUNDERDEHI",
+      "active": true,
+      "villages": [
+        {
+          "code": "BAGHMARA",
+          "name": "Baghmara",
+          "active": true
+        },
+        {
+          "code": "BHANDERA",
+          "name": "Bhandera",
+          "active": true
+        },
+        {
+          "code": "CHAINGANJ",
+          "name": "Chainganj",
+          "active": true
+        },
+        {
+          "code": "DEORI",
+          "name": "Deori",
+          "active": true
+        },
+        {
+          "code": "DHARMI",
+          "name": "Dharmi",
+          "active": true
+        },
+        {
+          "code": "GUNDERDEHI",
+          "name": "Gunderdehi",
+          "active": true
+        },
+        {
+          "code": "KACHANDUR",
+          "name": "Kachandur",
+          "active": true
+        },
+        {
+          "code": "KHALARI",
+          "name": "Khalari",
+          "active": true
+        },
+        {
+          "code": "KHARRA",
+          "name": "Kharra",
+          "active": true
+        },
+        {
+          "code": "KHUTEDI",
+          "name": "Khutedi",
+          "active": true
+        },
+        {
+          "code": "MACHOUD",
+          "name": "Machoud",
+          "active": true
+        },
+        {
+          "code": "RANGKATHERA",
+          "name": "Rangkathera",
+          "active": true
+        },
+        {
+          "code": "RUDA",
+          "name": "Ruda",
+          "active": true
+        },
+        {
+          "code": "SAJA",
+          "name": "Saja",
+          "active": true
+        },
+        {
+          "code": "TEKAPAR",
+          "name": "Tekapar",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "BALOD",
+      "tehsilCode": "GURUR",
+      "active": true,
+      "villages": [
+        {
+          "code": "1KHARRA",
+          "name": "1Kharra",
+          "active": true
+        },
+        {
+          "code": "BHARDA",
+          "name": "Bharda",
+          "active": true
+        },
+        {
+          "code": "BOHARDIH",
+          "name": "Bohardih",
+          "active": true
+        },
+        {
+          "code": "BORTARA",
+          "name": "Bortara",
+          "active": true
+        },
+        {
+          "code": "CHHEDIYA",
+          "name": "Chhediya",
+          "active": true
+        },
+        {
+          "code": "DANITOLA",
+          "name": "Danitola",
+          "active": true
+        },
+        {
+          "code": "DARGAHAN",
+          "name": "Dargahan",
+          "active": true
+        },
+        {
+          "code": "DHANORA",
+          "name": "Dhanora",
+          "active": true
+        },
+        {
+          "code": "DHOBANPURI",
+          "name": "Dhobanpuri",
+          "active": true
+        },
+        {
+          "code": "DOKLA",
+          "name": "Dokla",
+          "active": true
+        },
+        {
+          "code": "GURUR",
+          "name": "Gurur",
+          "active": true
+        },
+        {
+          "code": "KANHARPURI",
+          "name": "Kanharpuri",
+          "active": true
+        },
+        {
+          "code": "KHAIRWAHI",
+          "name": "Khairwahi",
+          "active": true
+        },
+        {
+          "code": "KOLIHAMAR",
+          "name": "Kolihamar",
+          "active": true
+        },
+        {
+          "code": "KULIYA",
+          "name": "Kuliya",
+          "active": true
+        },
+        {
+          "code": "MOKHA",
+          "name": "Mokha",
+          "active": true
+        },
+        {
+          "code": "MUJGAHAN",
+          "name": "Mujgahan",
+          "active": true
+        },
+        {
+          "code": "NAVAGAON",
+          "name": "Navagaon",
+          "active": true
+        },
+        {
+          "code": "SONAIDONGRI",
+          "name": "Sonaidongri",
+          "active": true
+        },
+        {
+          "code": "TARRI",
+          "name": "Tarri",
+          "active": true
+        },
+        {
+          "code": "TEKWADIH",
+          "name": "Tekwadih",
+          "active": true
+        },
+        {
+          "code": "TENGNA",
+          "name": "Tengna",
+          "active": true
+        }
+      ]
     }
   ]
 }

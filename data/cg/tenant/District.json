@@ -299,6 +299,18 @@
           "active": true
         }
       ]
+    },
+    {
+      "tenantId": "cg.balod",
+      "regionalOffice": "Balod",
+      "active": true,
+      "districts": [
+        {
+          "code": "BALOD",
+          "name": "Balod",
+          "active": true
+        }
+      ]
     }
   ]
 }

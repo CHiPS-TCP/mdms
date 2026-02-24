@@ -1034,6 +1034,42 @@
           "active": true
         }
       ]
+    },
+    {
+      "districtCode": "BALOD",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "ARJUNDA",
+          "name": "Arjunda",
+          "active": true
+        },
+        {
+          "code": "BALOD",
+          "name": "Balod",
+          "active": true
+        },
+        {
+          "code": "DONDI",
+          "name": "Dondi",
+          "active": true
+        },
+        {
+          "code": "DONDI_LOHARA",
+          "name": "Dondi Lohara",
+          "active": true
+        },
+        {
+          "code": "GUNDERDEHI",
+          "name": "Gunderdehi",
+          "active": true
+        },
+        {
+          "code": "GURUR",
+          "name": "Gurur",
+          "active": true
+        }
+      ]
     }
   ]
 }
