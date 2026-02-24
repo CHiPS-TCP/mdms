@@ -1,7 +1,7 @@
 {
   "tenantId": "cg",
   "moduleName": "LAYOUT",
-  " ": [
+  "Boundaries": [
     {
       "code": "ROAD",
       "name": "Road",
