@@ -1,0 +1,96 @@
+{
+  "tenantId": "cg",
+  "moduleName": "LAYOUT",
+  "SubLocation": [
+    {
+      "code": "CIVIL_LINE_AREA",
+      "name": "Civil Line area",
+      "active": true
+    },
+    {
+      "code": "STREET_PARKING",
+      "name": "Street Parking",
+      "active": true
+    },
+    {
+      "code": "URBAN_CENTER",
+      "name": "Urban center",
+      "active": true
+    },
+    {
+      "code": "CONVENIENCE_MARKET_CENTER",
+      "name": "Convenience Market center",
+      "active": true
+    },
+    {
+      "code": "EXISTING_BUILT_UP_AREA",
+      "name": "Existing Built Up area",
+      "active": true
+    },
+    {
+      "code": "JHUGGI_ZHOPADI",
+      "name": "JhuggiZhopadi",
+      "active": true
+    },
+    {
+      "code": "OLD_CITY_PART",
+      "name": "Old part of City and Town",
+      "active": true
+    },
+    {
+      "code": "HAT_MARKET",
+      "name": "Hat Market",
+      "active": true
+    },
+    {
+      "code": "COLD_REGION",
+      "name": "Cold Region",
+      "active": true
+    },
+    {
+      "code": "CONGESTED_SHOPPING_STREET",
+      "name": "Congested Shopping Street",
+      "active": true
+    },
+    {
+      "code": "INVESTMENT_UNIT_CENTER",
+      "name": "Investment unit center",
+      "active": true
+    },
+    {
+      "code": "COMMUNITY_CENTER",
+      "name": "Community center",
+      "active": true
+    },
+    {
+      "code": "LOCAL_CENTER",
+      "name": "Local center",
+      "active": true
+    },
+    {
+      "code": "NEIGHBORHOOD_SHOPPING_CENTRE",
+      "name": "Neighborhood shopping Centre",
+      "active": true
+    },
+    {
+      "code": "SUB_DISTRICT_SHOPPING_CENTRE",
+      "name": "Sub district shopping Centre / district shopping Centre",
+      "active": true
+    },
+    {
+      "code": "CENTRAL_BUSINESS_DISTRICT",
+      "name": "Central business district area",
+      "active": true
+    },
+    {
+      "code": "OFFICE_AREA",
+      "name": "Office area",
+      "active": true
+    },
+    {
+      "code": "NA",
+      "name": "NA",
+      "active": true
+    }
+  ]
+}
