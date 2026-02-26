@@ -1,0 +1,16 @@
+{
+  "tenantId": "cg",
+  "moduleName": "LAYOUT",
+  "ApplicationPermissionsSample": [
+    {
+      "code": "ENGLISH",
+      "fileStoreId": "1c3f5b06-fb3c-4208-b68d-ac9b10384707",
+      "tenantId": "cg"
+    },
+    {
+      "code": "HINDI",
+      "fileStoreId": "c48360c8-4e17-4b6e-a783-9e77afd2a44d",
+      "tenantId": "cg"
+    }
+  ]
+}

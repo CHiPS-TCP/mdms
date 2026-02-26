@@ -1,0 +1,31 @@
+{
+  "tenantId": "cg",
+  "moduleName": "StakeholderRegistraition",
+  "RoleQualificationMapping": [
+    {
+      "role": "STRUCTURALENGINEER.CLASSA",
+      "qualifications": [
+        "Graduate in Civil Engineering",
+        "Post Graduate in Civil Engineering",
+        "Post Graduate in Structural Engineering",
+        "Doctorate in Structural Engineering"
+      ]
+    },
+    {
+      "role": "SUPERVISOR.CLASSA",
+      "qualifications": [
+        "3-Year Diploma in Engineering (Civil)",
+        "3-Year Diploma in Architecture"
+      ]
+    },
+    {
+      "role": "QUALITY_AUDITOR.CLASSA",
+      "qualifications": [
+        "B.E Civil or Equivalent",
+        "M.E Civil or Equivalent",
+        "Degree in Architecture",
+        "Degree/Diploma in Construction Management"
+      ]
+    }
+  ]
+}
