@@ -759,6 +759,12 @@
       "groupId": "025"
     },
     {
+      "code": "BPA_STRUCTURALENGINEER",
+      "name": "BPA Structural Engineer",
+      "description": "BPA Supervisor",
+      "groupId": "025"
+    },
+    {
       "code": "BPA_FIELD_INSPECTOR",
       "name": "BPA Field Inspector",
       "description": "BPA Service field inspector",
