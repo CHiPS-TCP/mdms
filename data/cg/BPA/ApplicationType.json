@@ -9,6 +9,10 @@
     {
       "code":"BUILDING_OC_PLAN_SCRUTINY",
       "active":true
+    },
+    {
+      "code":"LAYOUT_PLAN_SCRUTINY",
+      "active":true
     }
   ]
 }
