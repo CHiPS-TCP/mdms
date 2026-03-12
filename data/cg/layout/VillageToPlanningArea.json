@@ -3,6 +3,26 @@
   "moduleName": "tenant",
   "VillageToPlanningArea": [
     {
+      "tehsilCode": "TCP_DUMMY_TEHSIL",
+      "villageCode": "TCP_DUMMY_VILLAGE_1",
+      "planningAreas": [
+        {
+          "planningAreaCode": "TCP_DUMMY_PLANNING_AREA",
+          "planningAreaName": "TCP Dummy Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "TCP_DUMMY_TEHSIL",
+      "villageCode": "TCP_DUMMY_VILLAGE_2",
+      "planningAreas": [
+        {
+          "planningAreaCode": "TCP_DUMMY_PLANNING_AREA",
+          "planningAreaName": "TCP Dummy Planning Area"
+        }
+      ]
+    },
+    {
       "tehsilCode": "JASHPUR",
       "villageCode": "JASHPUR",
       "planningAreas": [
