@@ -17,8 +17,8 @@
       "villageCode": "TCP_DUMMY_VILLAGE_2",
       "planningAreas": [
         {
-          "planningAreaCode": "TCP_DUMMY_PLANNING_AREA",
-          "planningAreaName": "TCP Dummy Planning Area"
+          "planningAreaCode": "TCP_DUMMY_MASTER_PLAN",
+          "planningAreaName": "TCP Dummy Master Plan"
         }
       ]
     },
