@@ -8,18 +8,18 @@
       "active": true
     },
     {
-      "code": "INTENSIVE_DEVELOPED_AREA",
-      "name": "Intensive Developed Area (DA1)",
+      "code": "DA1",
+      "name": "DA1",
       "active": true
     },
     {
-      "code": "MINIMUM_DEVELOPED_AREA",
-      "name": "Minimum Developed Area (DA2)",
+      "code": "DA2",
+      "name": "DA2",
       "active": true
     },
     {
-      "code": "LESS_DEVELOPED_LOW_DENSITY_AREA",
-      "name": "Less Developed Low Density Area (DA3)",
+      "code": "DA3",
+      "name": "DA3",
       "active": true
     },
     {
