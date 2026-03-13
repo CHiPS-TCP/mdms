@@ -3,6 +3,392 @@
   "moduleName": "LAYOUT",
   "PlanningArea": [
     {
+      "code": "TCP_DUMMY_PLANNING_AREA",
+      "name": "TCP Dummy Planning Area",
+      "active": true,
+      "district": "TCP Dummy District",
+      "districtCode": "TCP_DUMMY_DISTRICT",
+      "regionalOffice": "Town and Country Planning",
+      "tehsils": [
+        {
+          "code": "TCP_DUMMY_TEHSIL",
+          "name": "TCP Dummy Tehsil",
+          "active": true,
+          "villages": [
+            {
+              "code": "TCP_DUMMY_VILLAGE_1",
+              "name": "TCP Dummy Village 1",
+              "active": true,
+              "halkaNumber": "00001",
+              "riNumber": "01"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_2",
+              "name": "TCP Dummy Village 2",
+              "active": true,
+              "halkaNumber": "00002",
+              "riNumber": "02"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_3",
+              "name": "TCP Dummy Village 3",
+              "active": true,
+              "halkaNumber": "00003",
+              "riNumber": "03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "TCP_DUMMY_MASTER_PLAN",
+      "name": "TCP Dummy Master Plan",
+      "active": true,
+      "district": "TCP Dummy District",
+      "districtCode": "TCP_DUMMY_DISTRICT",
+      "regionalOffice": "Town and Country Planning",
+      "tehsils": [
+        {
+          "code": "TCP_DUMMY_TEHSIL_2",
+          "name": "TCP Dummy Tehsil 2",
+          "active": true,
+          "villages": [
+            {
+              "code": "TCP_DUMMY_VILLAGE_4",
+              "name": "TCP Dummy Village 4",
+              "active": true,
+              "halkaNumber": "00004",
+              "riNumber": "01"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_5",
+              "name": "TCP Dummy Village 5",
+              "active": true,
+              "halkaNumber": "00005",
+              "riNumber": "02"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_6",
+              "name": "TCP Dummy Village 6",
+              "active": true,
+              "halkaNumber": "00006",
+              "riNumber": "03"
+            }
+          ]
+        },
+        {
+          "code": "TCP_DUMMY_TEHSIL_3",
+          "name": "TCP Dummy Tehsil 3",
+          "active": true,
+          "villages": [
+            {
+              "code": "TCP_DUMMY_VILLAGE_7",
+              "name": "TCP Dummy Village 7",
+              "active": true,
+              "halkaNumber": "00007",
+              "riNumber": "01"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_8",
+              "name": "TCP Dummy Village 8",
+              "active": true,
+              "halkaNumber": "00008",
+              "riNumber": "02"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_9",
+              "name": "TCP Dummy Village 9",
+              "active": true,
+              "halkaNumber": "00009",
+              "riNumber": "03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "TCP_DUMMY_PLANNING_AREA_2",
+      "name": "TCP Dummy Planning Area 2",
+      "active": true,
+      "district": "TCP Dummy District 2",
+      "districtCode": "TCP_DUMMY_DISTRICT_2",
+      "regionalOffice": "Town and Country Planning",
+      "tehsils": [
+        {
+          "code": "TCP_DUMMY_TEHSIL_4",
+          "name": "TCP Dummy Tehsil 4",
+          "active": true,
+          "villages": [
+            {
+              "code": "TCP_DUMMY_VILLAGE_10",
+              "name": "TCP Dummy Village 10",
+              "active": true,
+              "halkaNumber": "00010",
+              "riNumber": "01"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_11",
+              "name": "TCP Dummy Village 11",
+              "active": true,
+              "halkaNumber": "00011",
+              "riNumber": "02"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_12",
+              "name": "TCP Dummy Village 12",
+              "active": true,
+              "halkaNumber": "00012",
+              "riNumber": "03"
+            }
+          ]
+        },
+        {
+          "code": "TCP_DUMMY_TEHSIL_5",
+          "name": "TCP Dummy Tehsil 5",
+          "active": true,
+          "villages": [
+            {
+              "code": "TCP_DUMMY_VILLAGE_13",
+              "name": "TCP Dummy Village 13",
+              "active": true,
+              "halkaNumber": "00013",
+              "riNumber": "01"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_14",
+              "name": "TCP Dummy Village 14",
+              "active": true,
+              "halkaNumber": "00014",
+              "riNumber": "02"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_15",
+              "name": "TCP Dummy Village 15",
+              "active": true,
+              "halkaNumber": "00015",
+              "riNumber": "03"
+            }
+          ]
+        },
+        {
+          "code": "TCP_DUMMY_TEHSIL_6",
+          "name": "TCP Dummy Tehsil 6",
+          "active": true,
+          "villages": [
+            {
+              "code": "TCP_DUMMY_VILLAGE_16",
+              "name": "TCP Dummy Village 16",
+              "active": true,
+              "halkaNumber": "00016",
+              "riNumber": "01"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_17",
+              "name": "TCP Dummy Village 17",
+              "active": true,
+              "halkaNumber": "00017",
+              "riNumber": "02"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_18",
+              "name": "TCP Dummy Village 18",
+              "active": true,
+              "halkaNumber": "00018",
+              "riNumber": "03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "TCP_DUMMY_PLANNING_AREA_3",
+      "name": "TCP Dummy Planning Area 3",
+      "active": true,
+      "district": "TCP Dummy District 3",
+      "districtCode": "TCP_DUMMY_DISTRICT_3",
+      "regionalOffice": "Town and Country Planning",
+      "tehsils": [
+        {
+          "code": "TCP_DUMMY_TEHSIL_7",
+          "name": "TCP Dummy Tehsil 7",
+          "active": true,
+          "villages": [
+            {
+              "code": "TCP_DUMMY_VILLAGE_19",
+              "name": "TCP Dummy Village 19",
+              "active": true,
+              "halkaNumber": "00019",
+              "riNumber": "01"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_20",
+              "name": "TCP Dummy Village 20",
+              "active": true,
+              "halkaNumber": "00020",
+              "riNumber": "02"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_21",
+              "name": "TCP Dummy Village 21",
+              "active": true,
+              "halkaNumber": "00021",
+              "riNumber": "03"
+            }
+          ]
+        },
+        {
+          "code": "TCP_DUMMY_TEHSIL_8",
+          "name": "TCP Dummy Tehsil 8",
+          "active": true,
+          "villages": [
+            {
+              "code": "TCP_DUMMY_VILLAGE_22",
+              "name": "TCP Dummy Village 22",
+              "active": true,
+              "halkaNumber": "00022",
+              "riNumber": "01"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_23",
+              "name": "TCP Dummy Village 23",
+              "active": true,
+              "halkaNumber": "00023",
+              "riNumber": "02"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_24",
+              "name": "TCP Dummy Village 24",
+              "active": true,
+              "halkaNumber": "00024",
+              "riNumber": "03"
+            }
+          ]
+        },
+        {
+          "code": "TCP_DUMMY_TEHSIL_9",
+          "name": "TCP Dummy Tehsil 9",
+          "active": true,
+          "villages": [
+            {
+              "code": "TCP_DUMMY_VILLAGE_25",
+              "name": "TCP Dummy Village 25",
+              "active": true,
+              "halkaNumber": "00025",
+              "riNumber": "01"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_26",
+              "name": "TCP Dummy Village 26",
+              "active": true,
+              "halkaNumber": "00026",
+              "riNumber": "02"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_27",
+              "name": "TCP Dummy Village 27",
+              "active": true,
+              "halkaNumber": "00027",
+              "riNumber": "03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "TCP_DUMMY_MASTER_PLAN_2",
+      "name": "TCP Dummy Master Plan 2",
+      "active": true,
+      "district": "TCP Dummy District 4",
+      "districtCode": "TCP_DUMMY_DISTRICT_4",
+      "regionalOffice": "Town and Country Planning",
+      "tehsils": [
+        {
+          "code": "TCP_DUMMY_TEHSIL_10",
+          "name": "TCP Dummy Tehsil 10",
+          "active": true,
+          "villages": [
+            {
+              "code": "TCP_DUMMY_VILLAGE_28",
+              "name": "TCP Dummy Village 28",
+              "active": true,
+              "halkaNumber": "00028",
+              "riNumber": "01"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_29",
+              "name": "TCP Dummy Village 29",
+              "active": true,
+              "halkaNumber": "00029",
+              "riNumber": "02"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_30",
+              "name": "TCP Dummy Village 30",
+              "active": true,
+              "halkaNumber": "00030",
+              "riNumber": "03"
+            }
+          ]
+        },
+        {
+          "code": "TCP_DUMMY_TEHSIL_11",
+          "name": "TCP Dummy Tehsil 11",
+          "active": true,
+          "villages": [
+            {
+              "code": "TCP_DUMMY_VILLAGE_31",
+              "name": "TCP Dummy Village 31",
+              "active": true,
+              "halkaNumber": "00031",
+              "riNumber": "01"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_32",
+              "name": "TCP Dummy Village 32",
+              "active": true,
+              "halkaNumber": "00032",
+              "riNumber": "02"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_33",
+              "name": "TCP Dummy Village 33",
+              "active": true,
+              "halkaNumber": "00033",
+              "riNumber": "03"
+            }
+          ]
+        },
+        {
+          "code": "TCP_DUMMY_TEHSIL_12",
+          "name": "TCP Dummy Tehsil 12",
+          "active": true,
+          "villages": [
+            {
+              "code": "TCP_DUMMY_VILLAGE_34",
+              "name": "TCP Dummy Village 34",
+              "active": true,
+              "halkaNumber": "00034",
+              "riNumber": "01"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_35",
+              "name": "TCP Dummy Village 35",
+              "active": true,
+              "halkaNumber": "00035",
+              "riNumber": "02"
+            },
+            {
+              "code": "TCP_DUMMY_VILLAGE_36",
+              "name": "TCP Dummy Village 36",
+              "active": true,
+              "halkaNumber": "00036",
+              "riNumber": "03"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "code": "JASHPUR_MASTER_PLAN",
       "name": "Jashpur Master Plan",
       "active": true,
