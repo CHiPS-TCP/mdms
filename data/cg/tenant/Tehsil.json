@@ -17,50 +17,8 @@
           "active": true
         },
         {
-          "code": "TCP_DUMMY_TEHSIL_4",
-          "name": "TCP Dummy Tehsil 4",
-          "active": true
-        },
-        {
-          "code": "TCP_DUMMY_TEHSIL_5",
-          "name": "TCP Dummy Tehsil 5",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "TCP_DUMMY_DISTRICT_4",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "TCP_DUMMY_TEHSIL_11",
-          "name": "TCP Dummy Tehsil 11",
-          "active": true
-        },
-        {
-          "code": "TCP_DUMMY_TEHSIL_12",
-          "name": "TCP Dummy Tehsil 12",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "TCP_DUMMY_DISTRICT_3",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "TCP_DUMMY_TEHSIL_8",
-          "name": "TCP Dummy Tehsil 8",
-          "active": true
-        },
-        {
-          "code": "TCP_DUMMY_TEHSIL_9",
-          "name": "TCP Dummy Tehsil 9",
-          "active": true
-        },
-        {
-          "code": "TCP_DUMMY_TEHSIL_10",
-          "name": "TCP Dummy Tehsil 10",
+          "code": "TCP_DUMMY_TEHSIL_3",
+          "name": "TCP Dummy Tehsil 3",
           "active": true
         }
       ]
@@ -70,18 +28,60 @@
       "active": true,
       "tehsils": [
         {
-          "code": "TCP_DUMMY_TEHSIL_3",
-          "name": "TCP Dummy Tehsil 3",
+          "code": "TCP_DUMMY_TEHSIL_4",
+          "name": "TCP Dummy Tehsil 4",
+          "active": true
+        },
+        {
+          "code": "TCP_DUMMY_TEHSIL_5",
+          "name": "TCP Dummy Tehsil 5",
           "active": true
         },
         {
           "code": "TCP_DUMMY_TEHSIL_6",
           "name": "TCP Dummy Tehsil 6",
           "active": true
-        },
+        }
+      ]
+    },
+    {
+      "districtCode": "TCP_DUMMY_DISTRICT_3",
+      "active": true,
+      "tehsils": [
         {
           "code": "TCP_DUMMY_TEHSIL_7",
           "name": "TCP Dummy Tehsil 7",
+          "active": true
+        },
+        {
+          "code": "TCP_DUMMY_TEHSIL_8",
+          "name": "TCP Dummy Tehsil 8",
+          "active": true
+        },
+        {
+          "code": "TCP_DUMMY_TEHSIL_9",
+          "name": "TCP Dummy Tehsil 9",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "TCP_DUMMY_DISTRICT_4",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "TCP_DUMMY_TEHSIL_10",
+          "name": "TCP Dummy Tehsil 10",
+          "active": true
+        },
+        {
+          "code": "TCP_DUMMY_TEHSIL_11",
+          "name": "TCP Dummy Tehsil 11",
+          "active": true
+        },
+        {
+          "code": "TCP_DUMMY_TEHSIL_12",
+          "name": "TCP Dummy Tehsil 12",
           "active": true
         }
       ]
