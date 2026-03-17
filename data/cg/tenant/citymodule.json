@@ -8740,6 +8740,21 @@
           "code": "cg.tcp"
         }
       ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "order": 24,
+      "active": true,
+      "access": "VIEW_HRMS_CARD",
+      "tenants": [
+        {
+          "code": "cg.testing"
+        },
+        {
+          "code": "cg.tcp"
+        }
+      ]
     }
   ]
 }
