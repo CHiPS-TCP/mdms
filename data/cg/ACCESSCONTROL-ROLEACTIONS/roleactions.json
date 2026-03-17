@@ -36270,8 +36270,12 @@
       "actionid": 8900903,
       "actioncode": "",
       "tenantid": "cg"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 883303,
+      "actioncode": "",
+      "tenantId": "pb"
     }
-
-
   ]
 }
