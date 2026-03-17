@@ -8744,7 +8744,7 @@
     {
       "module": "HRMS",
       "code": "HRMS",
-      "order": 24,
+      "order": 27,
       "active": true,
       "access": "VIEW_HRMS_CARD",
       "tenants": [
@@ -8753,6 +8753,9 @@
         },
         {
           "code": "cg.tcp"
+        },
+        {
+          "code": "cg"
         }
       ]
     }
