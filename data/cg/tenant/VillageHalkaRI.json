@@ -254,13 +254,12 @@
       "halkaNumber": "00036",
       "riNumber": "03"
     },
-
     {
       "code": "BANDRI",
       "name": "Bandri",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00004",
+      "riNumber": "05"
     },
     {
       "code": "BHATGAON",
@@ -273,8 +272,8 @@
       "code": "DEVSAGAR",
       "name": "Devsagar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "02"
     },
     {
       "code": "DHOBANIDIH",
@@ -287,15 +286,15 @@
       "code": "DOKARIDIH",
       "name": "Dokaridih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00013",
+      "riNumber": "05"
     },
     {
       "code": "GANGORITA",
       "name": "Gangorita",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "02"
     },
     {
       "code": "GHANA",
@@ -315,15 +314,15 @@
       "code": "JAMGAHAN",
       "name": "Jamgahan",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00004",
+      "riNumber": "05"
     },
     {
       "code": "JEVRADEI",
       "name": "Jevradei",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "05"
     },
     {
       "code": "JHUMARPALI",
@@ -357,8 +356,8 @@
       "code": "SALAUNIKALA",
       "name": "Salaunikala",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00002",
+      "riNumber": "05"
     },
     {
       "code": "SEMHARADIH",
@@ -371,15 +370,15 @@
       "code": "SINDHICHUWA",
       "name": "Sindhichuwa",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "05"
     },
     {
       "code": "TEDIMDARA",
       "name": "Tedimdara",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "02"
     },
     {
       "code": "BALODABAZAR",
@@ -392,8 +391,8 @@
       "code": "BHARSELI_RAYATWARI",
       "name": "Bharseli(Rayatwari)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00008",
+      "riNumber": "03"
     },
     {
       "code": "CHHUIA",
@@ -434,15 +433,15 @@
       "code": "PARSABHADER_CHARAUTI",
       "name": "Parsabhader(Charauti)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00016",
+      "riNumber": "01"
     },
     {
       "code": "PARSABHADER_KUKURDI",
       "name": "Parsabhader(Kukurdi)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00016",
+      "riNumber": "01"
     },
     {
       "code": "SONPURI",
@@ -455,8 +454,8 @@
       "code": "SUKLABHATA",
       "name": "Suklabhata",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00021",
+      "riNumber": "04"
     },
     {
       "code": "AVARETHI",
@@ -476,8 +475,8 @@
       "code": "DHAURABHATHA",
       "name": "Dhaurabhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00006",
+      "riNumber": "03"
     },
     {
       "code": "HATHNI",
@@ -539,8 +538,8 @@
       "code": "BAANSURKULEE",
       "name": "Baansurkulee",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00014",
+      "riNumber": "01"
     },
     {
       "code": "BILAIGARH",
@@ -560,8 +559,8 @@
       "code": "GOVINDBAN",
       "name": "Govindban",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00007",
+      "riNumber": "04"
     },
     {
       "code": "KHAJARI",
@@ -798,8 +797,8 @@
       "code": "DHAURABHATHA",
       "name": "Dhaurabhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00006",
+      "riNumber": "03"
     },
     {
       "code": "GORDHA",
@@ -833,8 +832,8 @@
       "code": "KOT",
       "name": "Kot",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "01"
     },
     {
       "code": "SEMARIA",
@@ -868,8 +867,8 @@
       "code": "KHAPARADIH",
       "name": "Khaparadih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00042",
+      "riNumber": "05"
     },
     {
       "code": "SEMRADIH",
@@ -1008,8 +1007,8 @@
       "code": "BALODI",
       "name": "Balodi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00027",
+      "riNumber": "05"
     },
     {
       "code": "BINAURI",
@@ -1078,15 +1077,15 @@
       "code": "RASOTA",
       "name": "Rasota",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00026",
+      "riNumber": "01"
     },
     {
       "code": "ARJUNI",
       "name": "Arjuni",
       "active": true,
-      "halkaNumber": "00032",
-      "riNumber": "07"
+      "halkaNumber": "00018",
+      "riNumber": "02"
     },
     {
       "code": "BHADRAPALI",
@@ -1162,8 +1161,8 @@
       "code": "BINIKA",
       "name": "Binika",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00016",
+      "riNumber": "01"
     },
     {
       "code": "CHUTCHUTIYA",
@@ -1267,8 +1266,8 @@
       "code": "GHATMADHWA",
       "name": "Ghatmadhwa",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00003",
+      "riNumber": "01"
     },
     {
       "code": "GIDHAURI",
@@ -1316,8 +1315,8 @@
       "code": "MATIYA",
       "name": "Matiya",
       "active": true,
-      "halkaNumber": "00011",
-      "riNumber": "02"
+      "halkaNumber": "00017",
+      "riNumber": "03"
     },
     {
       "code": "MOHTARA",
@@ -1344,15 +1343,15 @@
       "code": "TUNDRA",
       "name": "Tundra",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00005",
+      "riNumber": "01"
     },
     {
       "code": "AUDHORA",
       "name": "Audhora",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00020",
+      "riNumber": "04"
     },
     {
       "code": "BADKIMAHARI",
@@ -1386,8 +1385,8 @@
       "code": "BHOUNERA",
       "name": "Bhounera",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00020",
+      "riNumber": "04"
     },
     {
       "code": "DARRIDIHA",
@@ -1421,8 +1420,8 @@
       "code": "MACHOWALI",
       "name": "Machowali",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00022",
+      "riNumber": "04"
     },
     {
       "code": "NAWADIHKALA",
@@ -1435,8 +1434,8 @@
       "code": "OWARI",
       "name": "Owari",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00022",
+      "riNumber": "04"
     },
     {
       "code": "SARNADIH",
@@ -1617,8 +1616,8 @@
       "code": "KOTANAGAHNA",
       "name": "Kotanagahna",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "02"
     },
     {
       "code": "LADUWA",
@@ -1666,8 +1665,8 @@
       "code": "BHAWARMAL",
       "name": "Bhawarmal",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00040",
+      "riNumber": "06"
     },
     {
       "code": "KAMALPUR",
@@ -1680,8 +1679,8 @@
       "code": "KANAKPUR_ALIAS_TATU",
       "name": "Kanakpur Alias Tatu",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00030",
+      "riNumber": "05"
     },
     {
       "code": "KANCHANPUR",
@@ -1701,8 +1700,8 @@
       "code": "LURGI",
       "name": "Lurgi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00030",
+      "riNumber": "05"
     },
     {
       "code": "NAWAPARA",
@@ -1715,8 +1714,8 @@
       "code": "PURANDIH",
       "name": "Purandih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00036",
+      "riNumber": "06"
     },
     {
       "code": "RAMANUJGANJ",
@@ -1729,8 +1728,8 @@
       "code": "TAMBESHWARNAGAR",
       "name": "Tambeshwarnagar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00037",
+      "riNumber": "06"
     },
     {
       "code": "BASANTPUR",
@@ -1799,15 +1798,15 @@
       "code": "PREMNGAR",
       "name": "Premngar",
       "active": true,
-      "halkaNumber": "00012",
+      "halkaNumber": "00018",
       "riNumber": "01"
     },
     {
       "code": "RAJKHETA",
       "name": "Rajkheta",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00015",
+      "riNumber": "01"
     },
     {
       "code": "RUPPUR",
@@ -1827,8 +1826,8 @@
       "code": "AADAWAL",
       "name": "Aadawal",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00008",
+      "riNumber": "02"
     },
     {
       "code": "ADAPHARISEMRA",
@@ -1918,15 +1917,15 @@
       "code": "BURUNDWADSEMRA",
       "name": "Burundwadsemra",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "04"
     },
     {
       "code": "CHITALUR",
       "name": "Chitalur",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00013",
+      "riNumber": "02"
     },
     {
       "code": "CHOKAWADA",
@@ -1960,8 +1959,8 @@
       "code": "FRASERPUR",
       "name": "Fraserpur",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00009",
+      "riNumber": "02"
     },
     {
       "code": "GARAVANDKALA",
@@ -2065,8 +2064,8 @@
       "code": "KHIDKHAD",
       "name": "Khidkhad",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00025",
+      "riNumber": "05"
     },
     {
       "code": "KHUTPADAR",
@@ -2212,8 +2211,8 @@
       "code": "SUB_NAPAL",
       "name": "Sub-Napal",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00021",
+      "riNumber": "05"
     },
     {
       "code": "TAMAKONI",
@@ -2268,8 +2267,8 @@
       "code": "BHOINA_BHATHA",
       "name": "Bhoina Bhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00020",
+      "riNumber": "08"
     },
     {
       "code": "BIJABHATHA",
@@ -2296,8 +2295,8 @@
       "code": "CHAR_BHATHA",
       "name": "Char Bhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00008",
+      "riNumber": "08"
     },
     {
       "code": "DHOLIYA",
@@ -2310,15 +2309,15 @@
       "code": "FARI",
       "name": "Fari",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00037",
+      "riNumber": "01"
     },
     {
       "code": "GANGPUR",
       "name": "Gangpur",
       "active": true,
-      "halkaNumber": "00024",
-      "riNumber": "01"
+      "halkaNumber": "00006",
+      "riNumber": "03"
     },
     {
       "code": "GUNARBOD",
@@ -2387,8 +2386,8 @@
       "code": "MOHTARA",
       "name": "Mohtara",
       "active": true,
-      "halkaNumber": "00001",
-      "riNumber": "04"
+      "halkaNumber": "00006",
+      "riNumber": "02"
     },
     {
       "code": "MUDPAR",
@@ -2450,8 +2449,8 @@
       "code": "TENDUBHATTHA",
       "name": "Tendubhattha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "08"
     },
     {
       "code": "TILAIKUNDA",
@@ -2639,8 +2638,8 @@
       "code": "KUSMI",
       "name": "Kusmi",
       "active": true,
-      "halkaNumber": "00027",
-      "riNumber": "02"
+      "halkaNumber": "00006",
+      "riNumber": "01"
     },
     {
       "code": "SILGHAT",
@@ -2786,8 +2785,8 @@
       "code": "DHAURABHATHA",
       "name": "Dhaurabhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00006",
+      "riNumber": "03"
     },
     {
       "code": "GATAPAR",
@@ -2856,8 +2855,8 @@
       "code": "SAJA",
       "name": "Saja",
       "active": true,
-      "halkaNumber": "00009",
-      "riNumber": "03"
+      "halkaNumber": "00036",
+      "riNumber": "04"
     },
     {
       "code": "DARRI",
@@ -2905,8 +2904,8 @@
       "code": "THAN_KHAMHARIYA",
       "name": "Than Khamhariya",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00007",
+      "riNumber": "01"
     },
     {
       "code": "TIPNI",
@@ -3108,8 +3107,8 @@
       "code": "FADAHAKHAR",
       "name": "Fadahakhar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00028",
+      "riNumber": "05"
     },
     {
       "code": "FARHADA",
@@ -3262,8 +3261,8 @@
       "code": "PARSADA",
       "name": "Parsada",
       "active": true,
-      "halkaNumber": "00049",
-      "riNumber": "07"
+      "halkaNumber": "00003",
+      "riNumber": "04"
     },
     {
       "code": "PARSAHI",
@@ -3290,8 +3289,8 @@
       "code": "SEMERTALA",
       "name": "Semertala",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00024",
+      "riNumber": "04"
     },
     {
       "code": "SENDRI",
@@ -3325,8 +3324,8 @@
       "code": "TORWA",
       "name": "Torwa",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00037",
+      "riNumber": "01"
     },
     {
       "code": "URATUM",
@@ -3339,8 +3338,8 @@
       "code": "USLAPUR",
       "name": "Uslapur",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00024",
+      "riNumber": "01"
     },
     {
       "code": "JHALFA",
@@ -3374,8 +3373,8 @@
       "code": "BOHARDIH",
       "name": "Bohardih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00003",
+      "riNumber": "02"
     },
     {
       "code": "CHAKARBHATHA",
@@ -3416,8 +3415,8 @@
       "code": "HIRRI_NIPANIA",
       "name": "Hirri (Nipania )",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "01"
     },
     {
       "code": "KADAR",
@@ -3430,8 +3429,8 @@
       "code": "KESLA",
       "name": "Kesla",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00011",
+      "riNumber": "03"
     },
     {
       "code": "KHAMHARDIH",
@@ -3479,15 +3478,15 @@
       "code": "PARSADA",
       "name": "Parsada",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00003",
+      "riNumber": "04"
     },
     {
       "code": "PATHARKHAN",
       "name": "Patharkhan",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00030",
+      "riNumber": "01"
     },
     {
       "code": "PENDRIDIH",
@@ -3647,8 +3646,8 @@
       "code": "BHADAURA",
       "name": "Bhadaura",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00008",
+      "riNumber": "01"
     },
     {
       "code": "BHANESAR",
@@ -3668,15 +3667,15 @@
       "code": "BIDIYADIH",
       "name": "Bidiyadih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "05"
     },
     {
       "code": "BINEKA",
       "name": "Bineka",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "05"
     },
     {
       "code": "BUDHIKHAR",
@@ -3710,8 +3709,8 @@
       "code": "DEVGAON",
       "name": "Devgaon",
       "active": true,
-      "halkaNumber": "00006",
-      "riNumber": "04"
+      "halkaNumber": "00020",
+      "riNumber": "01"
     },
     {
       "code": "GATAURA",
@@ -3731,8 +3730,8 @@
       "code": "JAI_RAMNAGAR",
       "name": "Jai Ramnagar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00005",
+      "riNumber": "04"
     },
     {
       "code": "KARRA",
@@ -3745,15 +3744,15 @@
       "code": "KHAPRI",
       "name": "Khapri",
       "active": true,
-      "halkaNumber": "00009",
-      "riNumber": "01"
+      "halkaNumber": "00022",
+      "riNumber": "05"
     },
     {
       "code": "KHUDUBHATHA",
       "name": "Khudubhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00005",
+      "riNumber": "04"
     },
     {
       "code": "KIRARI",
@@ -3780,8 +3779,8 @@
       "code": "LAWAR",
       "name": "Lawar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "01"
     },
     {
       "code": "LIMTARA",
@@ -3808,8 +3807,8 @@
       "code": "MATIYA",
       "name": "Matiya",
       "active": true,
-      "halkaNumber": "00018",
-      "riNumber": "05"
+      "halkaNumber": "00017",
+      "riNumber": "03"
     },
     {
       "code": "MOHATRA",
@@ -3885,14 +3884,14 @@
       "code": "BINAURI",
       "name": "Binauri",
       "active": true,
-      "halkaNumber": "00006",
+      "halkaNumber": "00026",
       "riNumber": "01"
     },
     {
       "code": "DHANGAON",
       "name": "Dhangaon",
       "active": true,
-      "halkaNumber": "00017",
+      "halkaNumber": "00040",
       "riNumber": "05"
     },
     {
@@ -4018,8 +4017,8 @@
       "code": "RATANPUR_NAGAR_PANCHAYAT",
       "name": "Ratanpur (Nagar) Panchayat)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "02"
     },
     {
       "code": "SILDHA",
@@ -4060,8 +4059,8 @@
       "code": "BHAUWAKAPA",
       "name": "Bhauwakapa",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00021",
+      "riNumber": "06"
     },
     {
       "code": "BHUNDHA",
@@ -4081,8 +4080,8 @@
       "code": "CHORBATTIKHURD",
       "name": "Chorbattikhurd",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00049",
+      "riNumber": "07"
     },
     {
       "code": "DEVRIKALA",
@@ -4137,8 +4136,8 @@
       "code": "MOHANBHATHA",
       "name": "Mohanbhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00020",
+      "riNumber": "06"
     },
     {
       "code": "NEVARA",
@@ -4200,15 +4199,15 @@
       "code": "BINAURI",
       "name": "Binauri",
       "active": true,
-      "halkaNumber": "00046",
-      "riNumber": "07"
+      "halkaNumber": "00026",
+      "riNumber": "01"
     },
     {
       "code": "CHHATONA",
       "name": "Chhatona",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00037",
+      "riNumber": "08"
     },
     {
       "code": "CHICHIRADA",
@@ -4221,8 +4220,8 @@
       "code": "DABENA",
       "name": "Dabena",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00040",
+      "riNumber": "07"
     },
     {
       "code": "GHURU",
@@ -4235,8 +4234,8 @@
       "code": "HAFA",
       "name": "Hafa",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00044",
+      "riNumber": "02"
     },
     {
       "code": "JOKI",
@@ -4284,8 +4283,8 @@
       "code": "PARSADA",
       "name": "Parsada",
       "active": true,
-      "halkaNumber": "00047",
-      "riNumber": "07"
+      "halkaNumber": "00003",
+      "riNumber": "04"
     },
     {
       "code": "PENDARI",
@@ -4298,8 +4297,8 @@
       "code": "SAIDA",
       "name": "Saida",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00041",
+      "riNumber": "08"
     },
     {
       "code": "SAKARI",
@@ -4347,8 +4346,8 @@
       "code": "DEORI",
       "name": "Deori",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "04"
     },
     {
       "code": "GUDI",
@@ -4375,8 +4374,8 @@
       "code": "JHALMALA",
       "name": "Jhalmala",
       "active": true,
-      "halkaNumber": "00003",
-      "riNumber": "02"
+      "halkaNumber": "00020",
+      "riNumber": "03"
     },
     {
       "code": "KARRA",
@@ -4403,15 +4402,15 @@
       "code": "MATIYARI",
       "name": "Matiyari",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00018",
+      "riNumber": "02"
     },
     {
       "code": "MOHRA",
       "name": "Mohra",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00009",
+      "riNumber": "03"
     },
     {
       "code": "NARGODA",
@@ -4445,15 +4444,15 @@
       "code": "SIPAT",
       "name": "Sipat",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00004",
+      "riNumber": "02"
     },
     {
       "code": "THARAKPUR",
       "name": "Tharakpur",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00005",
+      "riNumber": "02"
     },
     {
       "code": "AMOLAKAPA",
@@ -4480,8 +4479,8 @@
       "code": "GUNSARI",
       "name": "Gunsari",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00057",
+      "riNumber": "05"
     },
     {
       "code": "HARDI",
@@ -4515,8 +4514,8 @@
       "code": "KHAPRI",
       "name": "Khapri",
       "active": true,
-      "halkaNumber": "00009",
-      "riNumber": "01"
+      "halkaNumber": "00022",
+      "riNumber": "05"
     },
     {
       "code": "KUWAN",
@@ -4550,8 +4549,8 @@
       "code": "NIGARBAND",
       "name": "Nigarband",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "01"
     },
     {
       "code": "PADARIA",
@@ -4641,8 +4640,8 @@
       "code": "BARSOOR",
       "name": "Barsoor",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00006",
+      "riNumber": "02"
     },
     {
       "code": "HITAMETA",
@@ -4669,8 +4668,8 @@
       "code": "BALPET",
       "name": "Balpet",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00004",
+      "riNumber": "01"
     },
     {
       "code": "BHAIRAMBAND",
@@ -4753,15 +4752,15 @@
       "code": "HAARAM",
       "name": "Haaram",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00020",
+      "riNumber": "01"
     },
     {
       "code": "HOARNAR",
       "name": "Hoarnar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00020",
+      "riNumber": "01"
     },
     {
       "code": "AMADI",
@@ -4774,8 +4773,8 @@
       "code": "AMLIDIH",
       "name": "Amlidih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00008",
+      "riNumber": "04"
     },
     {
       "code": "BAGTARAI",
@@ -4823,8 +4822,8 @@
       "code": "MOKHA",
       "name": "Mokha",
       "active": true,
-      "halkaNumber": "00008",
-      "riNumber": "01"
+      "halkaNumber": "00031",
+      "riNumber": "04"
     },
     {
       "code": "PARASTARAI",
@@ -4851,8 +4850,8 @@
       "code": "TARSIWA",
       "name": "Tarsiwa",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00025",
+      "riNumber": "01"
     },
     {
       "code": "BHAKHARA",
@@ -4886,8 +4885,8 @@
       "code": "BHENDSSAR",
       "name": "Bhendssar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00005",
+      "riNumber": "01"
     },
     {
       "code": "BORJHARA",
@@ -4900,8 +4899,8 @@
       "code": "ERRA",
       "name": "Erra",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00015",
+      "riNumber": "02"
     },
     {
       "code": "GADADIH",
@@ -4949,8 +4948,8 @@
       "code": "KORRACHAROTA",
       "name": "Korracharota",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00015",
+      "riNumber": "02"
     },
     {
       "code": "KOSMARRA",
@@ -5061,8 +5060,8 @@
       "code": "AVARI",
       "name": "Avari",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00032",
+      "riNumber": "05"
     },
     {
       "code": "BANJARI",
@@ -5075,7 +5074,7 @@
       "code": "BHARDA",
       "name": "Bharda",
       "active": true,
-      "halkaNumber": "00012",
+      "halkaNumber": "00020",
       "riNumber": "04"
     },
     {
@@ -5152,8 +5151,8 @@
       "code": "KOTGAO",
       "name": "Kotgao",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00037",
+      "riNumber": "05"
     },
     {
       "code": "KULADHI",
@@ -5194,8 +5193,8 @@
       "code": "SHIVNIKALA",
       "name": "Shivnikala",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00027",
+      "riNumber": "06"
     },
     {
       "code": "SIRRI",
@@ -5222,8 +5221,8 @@
       "code": "ARJUNI",
       "name": "Arjuni",
       "active": true,
-      "halkaNumber": "00032",
-      "riNumber": "07"
+      "halkaNumber": "00018",
+      "riNumber": "02"
     },
     {
       "code": "BATHENA",
@@ -5236,7 +5235,7 @@
       "code": "BHARDA",
       "name": "Bharda",
       "active": true,
-      "halkaNumber": "00012",
+      "halkaNumber": "00020",
       "riNumber": "04"
     },
     {
@@ -5257,8 +5256,8 @@
       "code": "BHOTHLI",
       "name": "Bhothli",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00001",
+      "riNumber": "04"
     },
     {
       "code": "CHARMUDIYA",
@@ -5306,8 +5305,8 @@
       "code": "KANHARPURI",
       "name": "Kanharpuri",
       "active": true,
-      "halkaNumber": "00043",
-      "riNumber": "14"
+      "halkaNumber": "00032",
+      "riNumber": "04"
     },
     {
       "code": "KANIDABARI",
@@ -5327,15 +5326,15 @@
       "code": "KHAPARI",
       "name": "Khapari",
       "active": true,
-      "halkaNumber": "00023",
-      "riNumber": "01"
+      "halkaNumber": "00014",
+      "riNumber": "02"
     },
     {
       "code": "KOLIYARI",
       "name": "Koliyari",
       "active": true,
-      "halkaNumber": "00036",
-      "riNumber": "06"
+      "halkaNumber": "00007",
+      "riNumber": "01"
     },
     {
       "code": "KUHKUHA",
@@ -5362,8 +5361,8 @@
       "code": "NAWAGAO",
       "name": "Nawagao",
       "active": true,
-      "halkaNumber": "00039",
-      "riNumber": "06"
+      "halkaNumber": "00031",
+      "riNumber": "04"
     },
     {
       "code": "RAKHI",
@@ -5390,8 +5389,8 @@
       "code": "SAMBALPUR",
       "name": "Sambalpur",
       "active": true,
-      "halkaNumber": "00017",
-      "riNumber": "03"
+      "halkaNumber": "00036",
+      "riNumber": "05"
     },
     {
       "code": "SANKARDAHA",
@@ -5432,8 +5431,8 @@
       "code": "UMARDAA",
       "name": "Umardaa",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00047",
+      "riNumber": "01"
     },
     {
       "code": "USLAPUR",
@@ -5460,7 +5459,7 @@
       "code": "BHARDA",
       "name": "Bharda",
       "active": true,
-      "halkaNumber": "00012",
+      "halkaNumber": "00020",
       "riNumber": "04"
     },
     {
@@ -5509,8 +5508,8 @@
       "code": "SUKLABHATA",
       "name": "Suklabhata",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00021",
+      "riNumber": "04"
     },
     {
       "code": "TENDUBHATA",
@@ -5628,8 +5627,8 @@
       "code": "SAMBALPUR",
       "name": "Sambalpur",
       "active": true,
-      "halkaNumber": "00017",
-      "riNumber": "03"
+      "halkaNumber": "00036",
+      "riNumber": "05"
     },
     {
       "code": "SIHAWA",
@@ -5684,8 +5683,8 @@
       "code": "PITOURA",
       "name": "Pitoura",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00009",
+      "riNumber": "01"
     },
     {
       "code": "POTIYA",
@@ -5705,8 +5704,8 @@
       "code": "AAMDI",
       "name": "Aamdi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00048",
+      "riNumber": "09"
     },
     {
       "code": "AKLORDIH",
@@ -5719,8 +5718,8 @@
       "code": "BAWLI",
       "name": "Bawli",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00048",
+      "riNumber": "09"
     },
     {
       "code": "BHILAI",
@@ -5733,8 +5732,8 @@
       "code": "BORIYA",
       "name": "Boriya",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00028",
+      "riNumber": "02"
     },
     {
       "code": "CHARODA",
@@ -5747,8 +5746,8 @@
       "code": "CHHAWNI",
       "name": "Chhawni",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00047",
+      "riNumber": "08"
     },
     {
       "code": "CHORHA",
@@ -5789,8 +5788,8 @@
       "code": "HINGANA",
       "name": "Hingana",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00048",
+      "riNumber": "09"
     },
     {
       "code": "JAMUL",
@@ -5810,22 +5809,22 @@
       "code": "JARWAY",
       "name": "Jarway",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00039",
+      "riNumber": "08"
     },
     {
       "code": "JUNVANI",
       "name": "Junvani",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00044",
+      "riNumber": "07"
     },
     {
       "code": "KHAMHARIYA",
       "name": "Khamhariya",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00037",
+      "riNumber": "01"
     },
     {
       "code": "KHURSIPAR",
@@ -5838,8 +5837,8 @@
       "code": "KOHKA",
       "name": "Kohka",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00045",
+      "riNumber": "08"
     },
     {
       "code": "KOSA",
@@ -5859,8 +5858,8 @@
       "code": "KUKDA",
       "name": "Kukda",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00021",
+      "riNumber": "01"
     },
     {
       "code": "KUMHARI",
@@ -5887,15 +5886,15 @@
       "code": "NAVAGAON",
       "name": "Navagaon",
       "active": true,
-      "halkaNumber": "00002",
-      "riNumber": "02"
+      "halkaNumber": "00030",
+      "riNumber": "05"
     },
     {
       "code": "PARSADA",
       "name": "Parsada",
       "active": true,
-      "halkaNumber": "00013",
-      "riNumber": "02"
+      "halkaNumber": "00003",
+      "riNumber": "04"
     },
     {
       "code": "PATHARRA",
@@ -5915,8 +5914,8 @@
       "code": "RUABHANDHA",
       "name": "Ruabhandha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00048",
+      "riNumber": "09"
     },
     {
       "code": "SIRSAKLA",
@@ -5992,15 +5991,15 @@
       "code": "BARHAPUR",
       "name": "Barhapur",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00014",
+      "riNumber": "01"
     },
     {
       "code": "BASANI_KUMHARDIH",
       "name": "Basani (Kumhardih)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "01"
     },
     {
       "code": "BIREBHAT",
@@ -6013,8 +6012,8 @@
       "code": "BIRJHAPUR",
       "name": "Birjhapur",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00014",
+      "riNumber": "01"
     },
     {
       "code": "BORAI",
@@ -6034,8 +6033,8 @@
       "code": "DANGANIA",
       "name": "Dangania",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00017",
+      "riNumber": "01"
     },
     {
       "code": "DHABA",
@@ -6062,8 +6061,8 @@
       "code": "KHAPRI",
       "name": "Khapri",
       "active": true,
-      "halkaNumber": "00009",
-      "riNumber": "01"
+      "halkaNumber": "00022",
+      "riNumber": "05"
     },
     {
       "code": "KHERDHA",
@@ -6153,15 +6152,15 @@
       "code": "PANDORA",
       "name": "Pandora",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "01"
     },
     {
       "code": "PARASBOD",
       "name": "Parasbod",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00013",
+      "riNumber": "01"
     },
     {
       "code": "POTIYA",
@@ -6202,8 +6201,8 @@
       "code": "SIRNABHATHA",
       "name": "Sirnabhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00017",
+      "riNumber": "01"
     },
     {
       "code": "SONESARAR",
@@ -6230,15 +6229,15 @@
       "code": "ANJORA_DHA",
       "name": "Anjora (Dha.)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00024",
+      "riNumber": "13"
     },
     {
       "code": "ANJORA_KHA",
       "name": "Anjora (Kha)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00024",
+      "riNumber": "13"
     },
     {
       "code": "BAGHERA",
@@ -6335,7 +6334,7 @@
       "code": "DHANORA",
       "name": "Dhanora",
       "active": true,
-      "halkaNumber": "00026",
+      "halkaNumber": "00033",
       "riNumber": "04"
     },
     {
@@ -6405,8 +6404,8 @@
       "code": "KACHANDUR",
       "name": "Kachandur",
       "active": true,
-      "halkaNumber": "00012",
-      "riNumber": "01"
+      "halkaNumber": "00036",
+      "riNumber": "04"
     },
     {
       "code": "KARANJA_BHILAI",
@@ -6433,15 +6432,15 @@
       "code": "KHAMHARIYA",
       "name": "Khamhariya",
       "active": true,
-      "halkaNumber": "00054",
-      "riNumber": "12"
+      "halkaNumber": "00037",
+      "riNumber": "01"
     },
     {
       "code": "KHAPRI_KUTELA",
       "name": "Khapri (Kutela)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00023",
+      "riNumber": "13"
     },
     {
       "code": "KHAPRI_SILODA",
@@ -6496,22 +6495,22 @@
       "code": "KUTELA_BHATHA",
       "name": "Kutela Bhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00013",
+      "riNumber": "01"
     },
     {
       "code": "MAHAMARA",
       "name": "Mahamara",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00023",
+      "riNumber": "13"
     },
     {
       "code": "MALOOD",
       "name": "Malood",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00003",
+      "riNumber": "02"
     },
     {
       "code": "MARODA",
@@ -6538,8 +6537,8 @@
       "code": "NEWAI",
       "name": "Newai",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00048",
+      "riNumber": "09"
     },
     {
       "code": "PIPARCHHEDI",
@@ -6566,8 +6565,8 @@
       "code": "PULGAON",
       "name": "Pulgaon",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00020",
+      "riNumber": "03"
     },
     {
       "code": "PURAI",
@@ -6713,8 +6712,8 @@
       "code": "BHATHAGAON",
       "name": "Bhathagaon",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00008",
+      "riNumber": "04"
     },
     {
       "code": "BHOTHLI",
@@ -6748,8 +6747,8 @@
       "code": "KAPSI",
       "name": "Kapsi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00005",
+      "riNumber": "04"
     },
     {
       "code": "KARSA",
@@ -6895,8 +6894,8 @@
       "code": "SANKRA",
       "name": "Sankra",
       "active": true,
-      "halkaNumber": "00006",
-      "riNumber": "04"
+      "halkaNumber": "00021",
+      "riNumber": "03"
     },
     {
       "code": "SIKOLA",
@@ -6937,8 +6936,8 @@
       "code": "GADIKOTH",
       "name": "Gadikoth",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00024",
+      "riNumber": "01"
     },
     {
       "code": "HARDI",
@@ -6965,8 +6964,8 @@
       "code": "RAVANBHATHA",
       "name": "Ravanbhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00027",
+      "riNumber": "01"
     },
     {
       "code": "SARAGAON",
@@ -6979,8 +6978,8 @@
       "code": "AAMDI",
       "name": "Aamdi",
       "active": true,
-      "halkaNumber": "00024",
-      "riNumber": "03"
+      "halkaNumber": "00048",
+      "riNumber": "09"
     },
     {
       "code": "BHILAI",
@@ -7014,7 +7013,7 @@
       "code": "KOKDI",
       "name": "Kokdi",
       "active": true,
-      "halkaNumber": "00005",
+      "halkaNumber": "00016",
       "riNumber": "01"
     },
     {
@@ -7049,8 +7048,8 @@
       "code": "BINAURI",
       "name": "Binauri",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00026",
+      "riNumber": "01"
     },
     {
       "code": "BORID",
@@ -7063,29 +7062,29 @@
       "code": "CHAITRA",
       "name": "Chaitra",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00011",
+      "riNumber": "01"
     },
     {
       "code": "FINGESHWAR",
       "name": "Fingeshwar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00009",
+      "riNumber": "01"
     },
     {
       "code": "MADWADIH",
       "name": "Madwadih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00017",
+      "riNumber": "01"
     },
     {
       "code": "PARSADAKALA",
       "name": "Parsadakala",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "01"
     },
     {
       "code": "PATHARRI",
@@ -7119,8 +7118,8 @@
       "code": "SENDER",
       "name": "Sender",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00011",
+      "riNumber": "01"
     },
     {
       "code": "CHAIBEBANDHA",
@@ -7252,7 +7251,7 @@
       "code": "DHANORA",
       "name": "Dhanora",
       "active": true,
-      "halkaNumber": "00026",
+      "halkaNumber": "00033",
       "riNumber": "04"
     },
     {
@@ -7371,15 +7370,15 @@
       "code": "HATHNEWARA",
       "name": "Hathnewara",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00008",
+      "riNumber": "01"
     },
     {
       "code": "JAGDALLA",
       "name": "Jagdalla",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00004",
+      "riNumber": "01"
     },
     {
       "code": "KOSMANDA",
@@ -7392,36 +7391,36 @@
       "code": "KURDA",
       "name": "Kurda",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00006",
+      "riNumber": "01"
     },
     {
       "code": "SEONI",
       "name": "Seoni",
       "active": true,
-      "halkaNumber": "00007",
+      "halkaNumber": "00021",
       "riNumber": "03"
     },
     {
       "code": "BANARI",
       "name": "Banari",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00004",
+      "riNumber": "01"
     },
     {
       "code": "BIRGAHANI",
       "name": "Birgahani",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00013",
+      "riNumber": "02"
     },
     {
       "code": "DARRABHATHA",
       "name": "Darrabhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00056",
+      "riNumber": "02"
     },
     {
       "code": "JARVE",
@@ -7434,8 +7433,8 @@
       "code": "KANHAIBAND",
       "name": "Kanhaiband",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00003",
+      "riNumber": "01"
     },
     {
       "code": "KHAIRA",
@@ -7448,15 +7447,15 @@
       "code": "KHOKHARA",
       "name": "Khokhara",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00011",
+      "riNumber": "02"
     },
     {
       "code": "KHOKHSA",
       "name": "Khokhsa",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00011",
+      "riNumber": "02"
     },
     {
       "code": "KULIPOTA",
@@ -7476,15 +7475,15 @@
       "code": "NAILA",
       "name": "Naila.",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00006",
+      "riNumber": "01"
     },
     {
       "code": "NAVAPARA",
       "name": "Navapara",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00005",
+      "riNumber": "03"
     },
     {
       "code": "PENDRI",
@@ -7504,15 +7503,15 @@
       "code": "SARKHON",
       "name": "Sarkhon",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00007",
+      "riNumber": "02"
     },
     {
       "code": "SHIVNI",
       "name": "Shivni",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00001",
+      "riNumber": "01"
     },
     {
       "code": "SUKLI",
@@ -7539,8 +7538,8 @@
       "code": "SARHAR",
       "name": "Sarhar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00007",
+      "riNumber": "02"
     },
     {
       "code": "DHARASHIV",
@@ -7553,8 +7552,8 @@
       "code": "KIRIT",
       "name": "Kirit",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00029",
+      "riNumber": "02"
     },
     {
       "code": "KOTIYA",
@@ -7567,15 +7566,15 @@
       "code": "NAVAGARH",
       "name": "Navagarh",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00011",
+      "riNumber": "02"
     },
     {
       "code": "NEGURDIH",
       "name": "Negurdih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00027",
+      "riNumber": "02"
     },
     {
       "code": "PENDRI",
@@ -7588,15 +7587,15 @@
       "code": "PIPRI",
       "name": "Pipri",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00030",
+      "riNumber": "02"
     },
     {
       "code": "PODHI",
       "name": "Podhi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00014",
+      "riNumber": "02"
     },
     {
       "code": "ROGDA",
@@ -7616,8 +7615,8 @@
       "code": "SHIUAR",
       "name": "Shiuar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "03"
     },
     {
       "code": "TENDUA",
@@ -7630,15 +7629,15 @@
       "code": "THAKURDIA",
       "name": "Thakurdia",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "02"
     },
     {
       "code": "TURRI",
       "name": "Turri",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "03"
     },
     {
       "code": "BELHA",
@@ -7651,8 +7650,8 @@
       "code": "BHADRIYAPARA_KHAROD",
       "name": "Bhadriyapara(Kharod)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00031",
+      "riNumber": "04"
     },
     {
       "code": "BILARI",
@@ -7672,22 +7671,22 @@
       "code": "DEVRI",
       "name": "Devri",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00030",
+      "riNumber": "04"
     },
     {
       "code": "HADHA",
       "name": "Hadha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00029",
+      "riNumber": "04"
     },
     {
       "code": "JARHAPARA_KHAROD",
       "name": "Jarhapara.(Kharod)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00032",
+      "riNumber": "04"
     },
     {
       "code": "KAMTA",
@@ -7700,29 +7699,29 @@
       "code": "KHOKHRI",
       "name": "Khokhri",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00024",
+      "riNumber": "02"
     },
     {
       "code": "KHORSHI",
       "name": "Khorshi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00029",
+      "riNumber": "04"
     },
     {
       "code": "KOHKA",
       "name": "Kohka",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00045",
+      "riNumber": "08"
     },
     {
       "code": "LOHARSHI",
       "name": "Loharshi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00030",
+      "riNumber": "04"
     },
     {
       "code": "MAHKA",
@@ -7735,29 +7734,29 @@
       "code": "MANJHAPARA_KHAROD",
       "name": "Manjhapara(Kharod)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00034",
+      "riNumber": "04"
     },
     {
       "code": "MEHANDI",
       "name": "Mehandi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00020",
+      "riNumber": "02"
     },
     {
       "code": "PAKARIYA",
       "name": "Pakariya",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00024",
+      "riNumber": "02"
     },
     {
       "code": "RAHOD",
       "name": "Rahod",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00023",
+      "riNumber": "02"
     },
     {
       "code": "RINGNI",
@@ -7770,15 +7769,15 @@
       "code": "SINGALDIP",
       "name": "Singaldip",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00029",
+      "riNumber": "04"
     },
     {
       "code": "SUKULPARA_KHAROD",
       "name": "Sukulpara(Kharod)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00035",
+      "riNumber": "04"
     },
     {
       "code": "TANOD",
@@ -7791,8 +7790,8 @@
       "code": "TIWARIPARA_KHAROD",
       "name": "Tiwaripara(Kharod)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00033",
+      "riNumber": "04"
     },
     {
       "code": "VORDA",
@@ -7805,22 +7804,22 @@
       "code": "AFRID",
       "name": "Afrid",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00013",
+      "riNumber": "01"
     },
     {
       "code": "AMRUWA",
       "name": "Amruwa",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "01"
     },
     {
       "code": "CHORIYA",
       "name": "Choriya",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00015",
+      "riNumber": "01"
     },
     {
       "code": "DARRI",
@@ -7833,8 +7832,8 @@
       "code": "DEORI",
       "name": "Deori",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "04"
     },
     {
       "code": "JATA",
@@ -7847,15 +7846,15 @@
       "code": "JHARRA",
       "name": "Jharra",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00005",
+      "riNumber": "02"
     },
     {
       "code": "KAMRID",
       "name": "Kamrid",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00011",
+      "riNumber": "01"
     },
     {
       "code": "MUDPAR",
@@ -7868,22 +7867,22 @@
       "code": "NAVAGAON",
       "name": "Navagaon",
       "active": true,
-      "halkaNumber": "00002",
-      "riNumber": "02"
+      "halkaNumber": "00030",
+      "riNumber": "05"
     },
     {
       "code": "PACHORI",
       "name": "Pachori",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00014",
+      "riNumber": "01"
     },
     {
       "code": "PARSAPALI",
       "name": "Parsapali",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00035",
+      "riNumber": "06"
     },
     {
       "code": "RISDA",
@@ -7903,8 +7902,8 @@
       "code": "SONIA_PARA",
       "name": "Sonia Para",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00009",
+      "riNumber": "01"
     },
     {
       "code": "BAGDOL",
@@ -8148,8 +8147,8 @@
       "code": "AMATOLI",
       "name": "Amatoli",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00020",
+      "riNumber": "01"
     },
     {
       "code": "BANDHIYAKHAR",
@@ -8253,8 +8252,8 @@
       "code": "PATRAPALI",
       "name": "Patrapali",
       "active": true,
-      "halkaNumber": "00010",
-      "riNumber": "03"
+      "halkaNumber": "00003",
+      "riNumber": "02"
     },
     {
       "code": "ROKBAHAR",
@@ -8365,8 +8364,8 @@
       "code": "KOPEBHATA",
       "name": "Kopebhata",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00009",
+      "riNumber": "01"
     },
     {
       "code": "KRITBAAS",
@@ -8470,8 +8469,8 @@
       "code": "HEERAWAAHI",
       "name": "Heerawaahi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00029",
+      "riNumber": "02"
     },
     {
       "code": "JHORAJHORI",
@@ -8498,8 +8497,8 @@
       "code": "KHAIRAGARH_AND_DHARAMPURA",
       "name": "Khairagarh And Dharampura",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00031",
+      "riNumber": "01"
     },
     {
       "code": "KHAMHARIYA_KHURD",
@@ -8575,8 +8574,8 @@
       "code": "PIPARIYA",
       "name": "Pipariya",
       "active": true,
-      "halkaNumber": "00032",
-      "riNumber": "01"
+      "halkaNumber": "00030",
+      "riNumber": "06"
     },
     {
       "code": "SANDI",
@@ -8666,8 +8665,8 @@
       "code": "DARGAHAN",
       "name": "Dargahan",
       "active": true,
-      "halkaNumber": "00011",
-      "riNumber": "01"
+      "halkaNumber": "00030",
+      "riNumber": "05"
     },
     {
       "code": "GIRHOLA",
@@ -8715,15 +8714,15 @@
       "code": "ARJUNI",
       "name": "Arjuni",
       "active": true,
-      "halkaNumber": "00032",
-      "riNumber": "07"
+      "halkaNumber": "00018",
+      "riNumber": "02"
     },
     {
       "code": "BHIRAWAHI",
       "name": "Bhirawahi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00021",
+      "riNumber": "03"
     },
     {
       "code": "DUMALI",
@@ -8848,15 +8847,15 @@
       "code": "ANTAGARH",
       "name": "Antagarh",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00008",
+      "riNumber": "01"
     },
     {
       "code": "BEHNAPANI",
       "name": "Behnapani",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00004",
+      "riNumber": "01"
     },
     {
       "code": "HARIHARPUR",
@@ -8904,8 +8903,8 @@
       "code": "KUHCHE",
       "name": "Kuhche",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00006",
+      "riNumber": "01"
     },
     {
       "code": "MARRAMPANI",
@@ -8995,8 +8994,8 @@
       "code": "CHENHTA",
       "name": "Chenhta",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00025",
+      "riNumber": "01"
     },
     {
       "code": "JAITATOLA",
@@ -9121,8 +9120,8 @@
       "code": "AKHARA",
       "name": "Akhara",
       "active": true,
-      "halkaNumber": "00010",
-      "riNumber": "03"
+      "halkaNumber": "00035",
+      "riNumber": "01"
     },
     {
       "code": "AODHADABRI",
@@ -9205,8 +9204,8 @@
       "code": "KHAMHARIYA",
       "name": "Khamhariya",
       "active": true,
-      "halkaNumber": "00010",
-      "riNumber": "03"
+      "halkaNumber": "00037",
+      "riNumber": "01"
     },
     {
       "code": "KHARHATTA",
@@ -9219,8 +9218,8 @@
       "code": "KHELTUKRI",
       "name": "Kheltukri",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00015",
+      "riNumber": "03"
     },
     {
       "code": "KHIARWAARKALA",
@@ -9345,22 +9344,22 @@
       "code": "CHARBHANTAKALA",
       "name": "Charbhantakala",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00041",
+      "riNumber": "01"
     },
     {
       "code": "CHARBHANTAKHURD",
       "name": "Charbhantakhurd",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00043",
+      "riNumber": "01"
     },
     {
       "code": "CHARKHURA",
       "name": "Charkhura",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00043",
+      "riNumber": "01"
     },
     {
       "code": "DASHARANGPUR",
@@ -9429,14 +9428,14 @@
       "code": "NAVAPARA",
       "name": "Navapara",
       "active": true,
-      "halkaNumber": "00036",
-      "riNumber": "01"
+      "halkaNumber": "00005",
+      "riNumber": "03"
     },
     {
       "code": "PANDARIYA",
       "name": "Pandariya",
       "active": true,
-      "halkaNumber": "00036",
+      "halkaNumber": "00009",
       "riNumber": "01"
     },
     {
@@ -9464,8 +9463,8 @@
       "code": "SARAIPATERA_KALA",
       "name": "Saraipatera Kala",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00039",
+      "riNumber": "01"
     },
     {
       "code": "SEMHARKANPA",
@@ -9548,15 +9547,15 @@
       "code": "GANGPUR",
       "name": "Gangpur",
       "active": true,
-      "halkaNumber": "00007",
-      "riNumber": "02"
+      "halkaNumber": "00006",
+      "riNumber": "03"
     },
     {
       "code": "GHUGHARIKALA",
       "name": "Ghugharikala",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00014",
+      "riNumber": "02"
     },
     {
       "code": "JHIRNA",
@@ -9583,8 +9582,8 @@
       "code": "KHAIRJHITI",
       "name": "Khairjhiti",
       "active": true,
-      "halkaNumber": "00012",
-      "riNumber": "04"
+      "halkaNumber": "00006",
+      "riNumber": "07"
     },
     {
       "code": "KHAMHI",
@@ -9632,8 +9631,8 @@
       "code": "NAVAGAON_TIWARI",
       "name": "Navagaon Tiwari",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00018",
+      "riNumber": "02"
     },
     {
       "code": "PALIGUDA",
@@ -9653,8 +9652,8 @@
       "code": "PIPARIYA",
       "name": "Pipariya",
       "active": true,
-      "halkaNumber": "00006",
-      "riNumber": "02"
+      "halkaNumber": "00030",
+      "riNumber": "06"
     },
     {
       "code": "SONPURI",
@@ -9730,8 +9729,8 @@
       "code": "SAHASPUR_LOHARA",
       "name": "Sahaspur Lohara",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00003",
+      "riNumber": "01"
     },
     {
       "code": "BARKAI",
@@ -9751,8 +9750,8 @@
       "code": "KOTVEL",
       "name": "Kotvel",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00002",
+      "riNumber": "02"
     },
     {
       "code": "PANDEYAATHGAON",
@@ -9765,8 +9764,8 @@
       "code": "BATRALI",
       "name": "Batrali",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00018",
+      "riNumber": "01"
     },
     {
       "code": "BORGAON",
@@ -9807,8 +9806,8 @@
       "code": "KODABHATA",
       "name": "Kodabhata",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00016",
+      "riNumber": "01"
     },
     {
       "code": "SARGIPAL",
@@ -9842,8 +9841,8 @@
       "code": "BADE_KANERAKANERA",
       "name": "Bade Kanerakanera",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00028",
+      "riNumber": "05"
     },
     {
       "code": "BOLBOLA",
@@ -10017,8 +10016,8 @@
       "code": "GARAV",
       "name": "Garav",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00013",
+      "riNumber": "03"
     },
     {
       "code": "JILGA",
@@ -10038,7 +10037,7 @@
       "code": "KESLA",
       "name": "Kesla",
       "active": true,
-      "halkaNumber": "00009",
+      "halkaNumber": "00011",
       "riNumber": "03"
     },
     {
@@ -10164,8 +10163,8 @@
       "code": "DAGANIAKHAR",
       "name": "Daganiakhar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00031",
+      "riNumber": "09"
     },
     {
       "code": "DARIKHAR",
@@ -10206,8 +10205,8 @@
       "code": "GANGPUR",
       "name": "Gangpur",
       "active": true,
-      "halkaNumber": "00014",
-      "riNumber": "02"
+      "halkaNumber": "00006",
+      "riNumber": "03"
     },
     {
       "code": "GERWA",
@@ -10360,8 +10359,8 @@
       "code": "CHUREL",
       "name": "Churel",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00058",
+      "riNumber": "02"
     },
     {
       "code": "DEEPKA",
@@ -10374,8 +10373,8 @@
       "code": "DURENA",
       "name": "Durena",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00048",
+      "riNumber": "01"
     },
     {
       "code": "GEVRA",
@@ -10409,7 +10408,7 @@
       "code": "JUNADIH",
       "name": "Junadih",
       "active": true,
-      "halkaNumber": "00048",
+      "halkaNumber": "00021",
       "riNumber": "01"
     },
     {
@@ -10451,8 +10450,8 @@
       "code": "NARAIBOD",
       "name": "Naraibod",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00037",
+      "riNumber": "03"
     },
     {
       "code": "PADNIA",
@@ -10535,8 +10534,8 @@
       "code": "DHAURABHATHA",
       "name": "Dhaurabhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00006",
+      "riNumber": "03"
     },
     {
       "code": "HARDIBAZAAR",
@@ -10549,8 +10548,8 @@
       "code": "NEVASA",
       "name": "Nevasa",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "02"
     },
     {
       "code": "NUNERA",
@@ -10605,8 +10604,8 @@
       "code": "DHAURABHATHA",
       "name": "Dhaurabhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00006",
+      "riNumber": "03"
     },
     {
       "code": "DONGAAMA",
@@ -10633,8 +10632,8 @@
       "code": "NONWIRRA",
       "name": "Nonwirra",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00029",
+      "riNumber": "04"
     },
     {
       "code": "SHRIMAR",
@@ -10689,15 +10688,15 @@
       "code": "DEORI",
       "name": "Deori",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "04"
     },
     {
       "code": "DEVAG",
       "name": "Devag आं",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00003",
+      "riNumber": "13"
     },
     {
       "code": "GAJRA",
@@ -10710,8 +10709,8 @@
       "code": "GHORDEVA",
       "name": "Ghordeva",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00041",
+      "riNumber": "10"
     },
     {
       "code": "HUNKARA",
@@ -10724,8 +10723,8 @@
       "code": "JENJRA",
       "name": "Jenjra",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00011",
+      "riNumber": "01"
     },
     {
       "code": "KASAIPALI",
@@ -10843,8 +10842,8 @@
       "code": "JHAGHARHA",
       "name": "Jhagharha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "07"
     },
     {
       "code": "KHARMORA",
@@ -10927,8 +10926,8 @@
       "code": "RISDI",
       "name": "Risdi",
       "active": true,
-      "halkaNumber": "00018",
-      "riNumber": "01"
+      "halkaNumber": "00058",
+      "riNumber": "02"
     },
     {
       "code": "ROGBAHARI",
@@ -10941,8 +10940,8 @@
       "code": "RUMGRA",
       "name": "Rumgra",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00015",
+      "riNumber": "07"
     },
     {
       "code": "VISHRAMPUR",
@@ -11074,8 +11073,8 @@
       "code": "DARRABHATHA",
       "name": "Darrabhatha",
       "active": true,
-      "halkaNumber": "00053",
-      "riNumber": "01"
+      "halkaNumber": "00056",
+      "riNumber": "02"
     },
     {
       "code": "DHORAMUDA",
@@ -11095,15 +11094,15 @@
       "code": "GUDRUMUDA",
       "name": "Gudrumuda",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00053",
+      "riNumber": "01"
     },
     {
       "code": "JURALI",
       "name": "Jurali",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00044",
+      "riNumber": "06"
     },
     {
       "code": "KASNIA",
@@ -11158,8 +11157,8 @@
       "code": "AANI",
       "name": "Aani",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00006",
+      "riNumber": "03"
     },
     {
       "code": "AMGAON",
@@ -11550,8 +11549,8 @@
       "code": "PEEPARDAAND",
       "name": "Peepardaand",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00013",
+      "riNumber": "02"
     },
     {
       "code": "PONDI",
@@ -11669,22 +11668,22 @@
       "code": "TENDULOTHA_KHURD",
       "name": "Tendulotha Khurd",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00056",
+      "riNumber": "06"
     },
     {
       "code": "AREKEL",
       "name": "Arekel",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00035",
+      "riNumber": "01"
     },
     {
       "code": "BADE",
       "name": "Bade",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00039",
+      "riNumber": "03"
     },
     {
       "code": "BAMHNIDIH",
@@ -11725,8 +11724,8 @@
       "code": "BARHAGUDA",
       "name": "Barhaguda",
       "active": true,
-      "halkaNumber": "00014",
-      "riNumber": "06"
+      "halkaNumber": "00009",
+      "riNumber": "01"
     },
     {
       "code": "BARTIYABHATHA",
@@ -11746,8 +11745,8 @@
       "code": "BHALUKONA",
       "name": "Bhalukona",
       "active": true,
-      "halkaNumber": "00007",
-      "riNumber": "04"
+      "halkaNumber": "00037",
+      "riNumber": "02"
     },
     {
       "code": "BHANWARPUR",
@@ -11774,8 +11773,8 @@
       "code": "BIJRABHATHA",
       "name": "Bijrabhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00004",
+      "riNumber": "04"
     },
     {
       "code": "BITANGIPALI",
@@ -11809,8 +11808,8 @@
       "code": "CHOTE",
       "name": "Chote",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00038",
+      "riNumber": "01"
     },
     {
       "code": "DHAMANGHATKURI",
@@ -11837,8 +11836,8 @@
       "code": "GERRABHANTHA",
       "name": "Gerrabhantha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00033",
+      "riNumber": "01"
     },
     {
       "code": "HARILCHHAPAR",
@@ -11949,8 +11948,8 @@
       "code": "MUDIDIH",
       "name": "Mudidih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00005",
+      "riNumber": "04"
     },
     {
       "code": "PADARDIH",
@@ -12012,8 +12011,8 @@
       "code": "PURUSHOTTAMPUR",
       "name": "Purushottampur",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00007",
+      "riNumber": "04"
     },
     {
       "code": "RUPAPALI",
@@ -12110,8 +12109,8 @@
       "code": "BANDORA",
       "name": "Bandora",
       "active": true,
-      "halkaNumber": "00009",
-      "riNumber": "07"
+      "halkaNumber": "00013",
+      "riNumber": "03"
     },
     {
       "code": "BANSEONI",
@@ -12194,8 +12193,8 @@
       "code": "GUDRUDIH",
       "name": "Gudrudih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00004",
+      "riNumber": "07"
     },
     {
       "code": "JALKI",
@@ -12355,15 +12354,15 @@
       "code": "NAVAPARA",
       "name": "Navapara",
       "active": true,
-      "halkaNumber": "00035",
-      "riNumber": "04"
+      "halkaNumber": "00005",
+      "riNumber": "03"
     },
     {
       "code": "NAWAGAON_URFA_MALIDIH",
       "name": "Nawagaon Urfa Malidih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00007",
+      "riNumber": "07"
     },
     {
       "code": "PARASADA",
@@ -12404,8 +12403,8 @@
       "code": "PIDHI",
       "name": "Pidhi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00003",
+      "riNumber": "07"
     },
     {
       "code": "PIRDA",
@@ -12488,8 +12487,8 @@
       "code": "ARJUNI",
       "name": "Arjuni",
       "active": true,
-      "halkaNumber": "00032",
-      "riNumber": "07"
+      "halkaNumber": "00018",
+      "riNumber": "02"
     },
     {
       "code": "ATTHARGUDI",
@@ -12579,8 +12578,8 @@
       "code": "PARSAPALI",
       "name": "Parsapali",
       "active": true,
-      "halkaNumber": "00013",
-      "riNumber": "07"
+      "halkaNumber": "00035",
+      "riNumber": "06"
     },
     {
       "code": "PITHORA",
@@ -12761,15 +12760,15 @@
       "code": "KHURASIYA_KALRI",
       "name": "Khurasiya Kalri",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00004",
+      "riNumber": "01"
     },
     {
       "code": "KORIA_KALRI",
       "name": "Koria Kalri",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00004",
+      "riNumber": "01"
     },
     {
       "code": "LAI",
@@ -12824,8 +12823,8 @@
       "code": "NORTH_CHIRMIRI",
       "name": "North Chirmiri",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00004",
+      "riNumber": "02"
     },
     {
       "code": "SALKA",
@@ -12859,8 +12858,8 @@
       "code": "SENDHA",
       "name": "Sendha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "01"
     },
     {
       "code": "SIRIAKHOH",
@@ -12873,8 +12872,8 @@
       "code": "WEST_CHIRMIRI",
       "name": "West Chirmiri",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00004",
+      "riNumber": "02"
     },
     {
       "code": "CHAINPUR",
@@ -12929,22 +12928,22 @@
       "code": "NARAYANPUR_ALIAS_TENDUDAND",
       "name": "Narayanpur Alias Tendudand",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00015",
+      "riNumber": "03"
     },
     {
       "code": "NEW_LEDRI",
       "name": "New Ledri",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00016",
+      "riNumber": "03"
     },
     {
       "code": "OLD_LEDRI",
       "name": "Old Ledri",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00016",
+      "riNumber": "03"
     },
     {
       "code": "PARSAGADHI",
@@ -12992,7 +12991,7 @@
       "code": "KESLA",
       "name": "Kesla",
       "active": true,
-      "halkaNumber": "00016",
+      "halkaNumber": "00011",
       "riNumber": "03"
     },
     {
@@ -13041,15 +13040,15 @@
       "code": "DULHEENBAP",
       "name": "Dulheenbap",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00041",
+      "riNumber": "08"
     },
     {
       "code": "GHUTEL_A",
       "name": "Ghutel A",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00046",
+      "riNumber": "07"
     },
     {
       "code": "HEADSPUR",
@@ -13097,8 +13096,8 @@
       "code": "RAIHUDA",
       "name": "Raihuda",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00041",
+      "riNumber": "08"
     },
     {
       "code": "RAMAKAMPA",
@@ -13265,8 +13264,8 @@
       "code": "SEMIPALI_KHURD",
       "name": "Semipali Khurd",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "03"
     },
     {
       "code": "SHAHPUR",
@@ -13286,15 +13285,15 @@
       "code": "AMLIDIH",
       "name": "Amlidih",
       "active": true,
-      "halkaNumber": "00003",
-      "riNumber": "02"
+      "halkaNumber": "00008",
+      "riNumber": "04"
     },
     {
       "code": "AZIZGADH",
       "name": "Azizgadh",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00007",
+      "riNumber": "02"
     },
     {
       "code": "BADE_GUMDA",
@@ -13307,8 +13306,8 @@
       "code": "BAGBACHA",
       "name": "Bagbacha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "01"
     },
     {
       "code": "BAIHAMUDA",
@@ -13349,8 +13348,8 @@
       "code": "BILASKHAR",
       "name": "Bilaskhar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "01"
     },
     {
       "code": "CHARMAR",
@@ -13405,8 +13404,8 @@
       "code": "DEHARDIH",
       "name": "Dehardih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "01"
     },
     {
       "code": "DOKARBUDA",
@@ -13475,8 +13474,8 @@
       "code": "NAYARAMPUR",
       "name": "Nayarampur",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00008",
+      "riNumber": "02"
     },
     {
       "code": "PAKADARHA",
@@ -13664,8 +13663,8 @@
       "code": "BAGHADULA",
       "name": "Baghadula",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00028",
+      "riNumber": "01"
     },
     {
       "code": "CHHATAMUDA",
@@ -13727,8 +13726,8 @@
       "code": "GUDGAHAN",
       "name": "Gudgahan",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00007",
+      "riNumber": "03"
     },
     {
       "code": "GUDU",
@@ -13769,8 +13768,8 @@
       "code": "KUNJEDABRI",
       "name": "Kunjedabri",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00042",
+      "riNumber": "05"
     },
     {
       "code": "LANKAPALI",
@@ -13790,8 +13789,8 @@
       "code": "PUSSORE",
       "name": "Pussore",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00043",
+      "riNumber": "01"
     },
     {
       "code": "SARAIPALI",
@@ -13839,8 +13838,8 @@
       "code": "BADE_RAMPUR",
       "name": "Bade Rampur",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00023",
+      "riNumber": "08"
     },
     {
       "code": "BAIKUNTHPUR",
@@ -13951,8 +13950,8 @@
       "code": "DANOT",
       "name": "Danot",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00032",
+      "riNumber": "01"
     },
     {
       "code": "DAROGAMUDA",
@@ -14126,8 +14125,8 @@
       "code": "PATRAPALI",
       "name": "Patrapali",
       "active": true,
-      "halkaNumber": "00036",
-      "riNumber": "01"
+      "halkaNumber": "00003",
+      "riNumber": "02"
     },
     {
       "code": "RAIGARH",
@@ -14161,8 +14160,8 @@
       "code": "SANGITARAI",
       "name": "Sangitarai",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00009",
+      "riNumber": "03"
     },
     {
       "code": "SARAIPALI",
@@ -14224,8 +14223,8 @@
       "code": "BADGAON",
       "name": "Badgaon",
       "active": true,
-      "halkaNumber": "00001",
-      "riNumber": "01"
+      "halkaNumber": "00034",
+      "riNumber": "05"
     },
     {
       "code": "BAGBADI",
@@ -14399,7 +14398,7 @@
       "code": "DEVGAON",
       "name": "Devgaon",
       "active": true,
-      "halkaNumber": "00023",
+      "halkaNumber": "00020",
       "riNumber": "01"
     },
     {
@@ -14448,15 +14447,15 @@
       "code": "GHOURABHANTHA",
       "name": "Ghourabhantha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "03"
     },
     {
       "code": "GODHI",
       "name": "Godhi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00011",
+      "riNumber": "01"
     },
     {
       "code": "GORKAMUDA",
@@ -14532,8 +14531,8 @@
       "code": "JARHIDIH",
       "name": "Jarhidih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00017",
+      "riNumber": "03"
     },
     {
       "code": "JHARNA",
@@ -14616,8 +14615,8 @@
       "code": "KERAKHOL",
       "name": "Kerakhol",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00001",
+      "riNumber": "01"
     },
     {
       "code": "KESHARCHUAN",
@@ -14630,15 +14629,15 @@
       "code": "KHAMHARIYA",
       "name": "Khamhariya",
       "active": true,
-      "halkaNumber": "00015",
+      "halkaNumber": "00037",
       "riNumber": "01"
     },
     {
       "code": "KHARRA",
       "name": "Kharra",
       "active": true,
-      "halkaNumber": "00044",
-      "riNumber": "05"
+      "halkaNumber": "00035",
+      "riNumber": "04"
     },
     {
       "code": "KHURUSALENGA",
@@ -14770,8 +14769,8 @@
       "code": "ONRAJOR",
       "name": "Onrajor",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00028",
+      "riNumber": "03"
     },
     {
       "code": "PADIGAON",
@@ -14952,7 +14951,7 @@
       "code": "THARAKPUR",
       "name": "Tharakpur",
       "active": true,
-      "halkaNumber": "00007",
+      "halkaNumber": "00005",
       "riNumber": "02"
     },
     {
@@ -15001,8 +15000,8 @@
       "code": "ABHANPUR_TOWN_A",
       "name": "Abhanpur Town (A)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00021",
+      "riNumber": "01"
     },
     {
       "code": "AMNER",
@@ -15015,15 +15014,15 @@
       "code": "BAKATRA",
       "name": "Bakatra",
       "active": true,
-      "halkaNumber": "00017",
-      "riNumber": "04"
+      "halkaNumber": "00015",
+      "riNumber": "01"
     },
     {
       "code": "BELBHATHA",
       "name": "Belbhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00027",
+      "riNumber": "01"
     },
     {
       "code": "BENDRI",
@@ -15099,8 +15098,8 @@
       "code": "KHANDWA",
       "name": "Khandwa",
       "active": true,
-      "halkaNumber": "00018",
-      "riNumber": "04"
+      "halkaNumber": "00014",
+      "riNumber": "01"
     },
     {
       "code": "KHOLA",
@@ -15120,8 +15119,8 @@
       "code": "NIMORA",
       "name": "Nimora",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00014",
+      "riNumber": "04"
     },
     {
       "code": "PACHEDA",
@@ -15176,15 +15175,15 @@
       "code": "TOOTA",
       "name": "Toota",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00015",
+      "riNumber": "04"
     },
     {
       "code": "UPARVAH",
       "name": "Uparvah",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00015",
+      "riNumber": "04"
     },
     {
       "code": "URLA",
@@ -15323,8 +15322,8 @@
       "code": "CHERIA",
       "name": "Cheria",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00001",
+      "riNumber": "05"
     },
     {
       "code": "KURRA",
@@ -15351,8 +15350,8 @@
       "code": "BADGAON",
       "name": "Badgaon",
       "active": true,
-      "halkaNumber": "00001",
-      "riNumber": "01"
+      "halkaNumber": "00034",
+      "riNumber": "05"
     },
     {
       "code": "BAHNAKADI",
@@ -15393,15 +15392,15 @@
       "code": "CHICHA",
       "name": "Chicha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00023",
+      "riNumber": "03"
     },
     {
       "code": "DARBA",
       "name": "Darba",
       "active": true,
-      "halkaNumber": "00014",
-      "riNumber": "01"
+      "halkaNumber": "00036",
+      "riNumber": "05"
     },
     {
       "code": "DHANSULI",
@@ -15414,7 +15413,7 @@
       "code": "GODHI",
       "name": "Godhi",
       "active": true,
-      "halkaNumber": "00016",
+      "halkaNumber": "00011",
       "riNumber": "01"
     },
     {
@@ -15442,15 +15441,15 @@
       "code": "KHAPRI",
       "name": "Khapri",
       "active": true,
-      "halkaNumber": "00009",
-      "riNumber": "01"
+      "halkaNumber": "00022",
+      "riNumber": "05"
     },
     {
       "code": "KHAPRI_AKOLIDIH",
       "name": "Khapri (Akolidih)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00024",
+      "riNumber": "03"
     },
     {
       "code": "KHUTERI",
@@ -15463,8 +15462,8 @@
       "code": "KOHARABATTA",
       "name": "Koharabatta",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00026",
+      "riNumber": "03"
     },
     {
       "code": "KOTANI",
@@ -15512,8 +15511,8 @@
       "code": "MUNGI",
       "name": "Mungi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00002",
+      "riNumber": "02"
     },
     {
       "code": "MURETHI",
@@ -15575,8 +15574,8 @@
       "code": "PARSADA",
       "name": "Parsada",
       "active": true,
-      "halkaNumber": "00020",
-      "riNumber": "03"
+      "halkaNumber": "00003",
+      "riNumber": "04"
     },
     {
       "code": "RAKHI",
@@ -15589,8 +15588,8 @@
       "code": "REIKO",
       "name": "Reiko",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00021",
+      "riNumber": "03"
     },
     {
       "code": "SAKARI",
@@ -15610,8 +15609,8 @@
       "code": "SONPAIRI",
       "name": "Sonpairi",
       "active": true,
-      "halkaNumber": "00012",
-      "riNumber": "02"
+      "halkaNumber": "00017",
+      "riNumber": "04"
     },
     {
       "code": "TANDUL",
@@ -15680,8 +15679,8 @@
       "code": "TARRI",
       "name": "Tarri",
       "active": true,
-      "halkaNumber": "00024",
-      "riNumber": "02"
+      "halkaNumber": "00020",
+      "riNumber": "04"
     },
     {
       "code": "ACHHOLI_2",
@@ -15743,8 +15742,8 @@
       "code": "BARBANDHA",
       "name": "Barbandha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00014",
+      "riNumber": "03"
     },
     {
       "code": "BARODA",
@@ -15778,8 +15777,8 @@
       "code": "BHATHAGAON",
       "name": "Bhathagaon",
       "active": true,
-      "halkaNumber": "00080",
-      "riNumber": "19"
+      "halkaNumber": "00008",
+      "riNumber": "04"
     },
     {
       "code": "BHURKONI",
@@ -15848,8 +15847,8 @@
       "code": "CHIKHLI",
       "name": "Chikhli",
       "active": true,
-      "halkaNumber": "00026",
-      "riNumber": "05"
+      "halkaNumber": "00047",
+      "riNumber": "01"
     },
     {
       "code": "CHIRHULDIH",
@@ -15883,15 +15882,15 @@
       "code": "DAUNDEKALA",
       "name": "Daundekala",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00085",
+      "riNumber": "03"
     },
     {
       "code": "DAUNDEKHURD",
       "name": "Daundekhurd",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00013",
+      "riNumber": "03"
     },
     {
       "code": "DEVPURI",
@@ -15911,8 +15910,8 @@
       "code": "DHANELI_1",
       "name": "Dhaneli-1",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00024",
+      "riNumber": "05"
     },
     {
       "code": "DHARAMPURA",
@@ -15988,15 +15987,15 @@
       "code": "GIROUD",
       "name": "Giroud",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "02"
     },
     {
       "code": "GODHI",
       "name": "Godhi",
       "active": true,
-      "halkaNumber": "00016",
-      "riNumber": "06"
+      "halkaNumber": "00011",
+      "riNumber": "01"
     },
     {
       "code": "GOGAON",
@@ -16072,8 +16071,8 @@
       "code": "KANDUL",
       "name": "Kandul",
       "active": true,
-      "halkaNumber": "00083",
-      "riNumber": "19"
+      "halkaNumber": "00019",
+      "riNumber": "03"
     },
     {
       "code": "KANHERA",
@@ -16093,8 +16092,8 @@
       "code": "KATHATHIH",
       "name": "Kathathih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00083",
+      "riNumber": "19"
     },
     {
       "code": "KHAMTARAI",
@@ -16163,8 +16162,8 @@
       "code": "MATIYA",
       "name": "Matiya",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00017",
+      "riNumber": "03"
     },
     {
       "code": "MOHDI",
@@ -16184,8 +16183,8 @@
       "code": "MUJGAHAN",
       "name": "Mujgahan",
       "active": true,
-      "halkaNumber": "00082",
-      "riNumber": "19"
+      "halkaNumber": "00024",
+      "riNumber": "05"
     },
     {
       "code": "MUNRETHI",
@@ -16212,15 +16211,15 @@
       "code": "NEURDIH",
       "name": "Neurdih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00014",
+      "riNumber": "03"
     },
     {
       "code": "NIMORA",
       "name": "Nimora",
       "active": true,
-      "halkaNumber": "00025",
-      "riNumber": "05"
+      "halkaNumber": "00014",
+      "riNumber": "04"
     },
     {
       "code": "PANDRITARAI",
@@ -16254,8 +16253,8 @@
       "code": "PIRDA",
       "name": "Pirda",
       "active": true,
-      "halkaNumber": "00076",
-      "riNumber": "19"
+      "halkaNumber": "00007",
+      "riNumber": "07"
     },
     {
       "code": "PURAINA",
@@ -16331,7 +16330,7 @@
       "code": "SEONI",
       "name": "Seoni",
       "active": true,
-      "halkaNumber": "00007",
+      "halkaNumber": "00021",
       "riNumber": "03"
     },
     {
@@ -16345,8 +16344,8 @@
       "code": "SEZABHAAR",
       "name": "Sezabhaar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00082",
+      "riNumber": "19"
     },
     {
       "code": "SHANKARNAGAR",
@@ -16366,8 +16365,8 @@
       "code": "SINGARBHATTA",
       "name": "Singarbhatta",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "04"
     },
     {
       "code": "SONDONGRI",
@@ -16401,8 +16400,8 @@
       "code": "TEKARI",
       "name": "Tekari",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "02"
     },
     {
       "code": "TELIBANDHA",
@@ -16492,8 +16491,8 @@
       "code": "DEORI",
       "name": "Deori",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "04"
     },
     {
       "code": "KAPASADA",
@@ -16576,15 +16575,15 @@
       "code": "KESLA",
       "name": "Kesla",
       "active": true,
-      "halkaNumber": "00048",
-      "riNumber": "02"
+      "halkaNumber": "00011",
+      "riNumber": "03"
     },
     {
       "code": "KEVERDIH",
       "name": "Keverdih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00048",
+      "riNumber": "02"
     },
     {
       "code": "KHARORA",
@@ -16632,8 +16631,8 @@
       "code": "NAVAGAON",
       "name": "Navagaon",
       "active": true,
-      "halkaNumber": "00002",
-      "riNumber": "02"
+      "halkaNumber": "00030",
+      "riNumber": "05"
     },
     {
       "code": "SIRRI",
@@ -16688,8 +16687,8 @@
       "code": "KOHKA",
       "name": "Kohka",
       "active": true,
-      "halkaNumber": "00018",
-      "riNumber": "01"
+      "halkaNumber": "00045",
+      "riNumber": "08"
     },
     {
       "code": "KUNDRU",
@@ -16709,8 +16708,8 @@
       "code": "PARSADA",
       "name": "Parsada",
       "active": true,
-      "halkaNumber": "00024",
-      "riNumber": "05"
+      "halkaNumber": "00003",
+      "riNumber": "04"
     },
     {
       "code": "SASAHOLI",
@@ -16730,8 +16729,8 @@
       "code": "SIRVE",
       "name": "Sirve",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00016",
+      "riNumber": "04"
     },
     {
       "code": "TANDWA",
@@ -16779,8 +16778,8 @@
       "code": "CHANDAINIDIH",
       "name": "Chandainidih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00020",
+      "riNumber": "01"
     },
     {
       "code": "CHHURIYAKALA_NAGAR",
@@ -16933,8 +16932,8 @@
       "code": "KOHKA",
       "name": "Kohka",
       "active": true,
-      "halkaNumber": "00025",
-      "riNumber": "06"
+      "halkaNumber": "00045",
+      "riNumber": "08"
     },
     {
       "code": "MATHALDABRI",
@@ -16947,8 +16946,8 @@
       "code": "MATIYA",
       "name": "Matiya",
       "active": true,
-      "halkaNumber": "00023",
-      "riNumber": "01"
+      "halkaNumber": "00017",
+      "riNumber": "03"
     },
     {
       "code": "MOHAD",
@@ -16969,7 +16968,7 @@
       "name": "Salhe",
       "active": true,
       "halkaNumber": "00012",
-      "riNumber": "04"
+      "riNumber": "05"
     },
     {
       "code": "SEVTATOLA",
@@ -17059,15 +17058,15 @@
       "code": "KURUBHATA",
       "name": "Kurubhata",
       "active": true,
-      "halkaNumber": "00029",
-      "riNumber": "06"
+      "halkaNumber": "00011",
+      "riNumber": "02"
     },
     {
       "code": "LEDIJOB",
       "name": "Ledijob",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00026",
+      "riNumber": "06"
     },
     {
       "code": "NAGTARAI",
@@ -17157,8 +17156,8 @@
       "code": "MUDHPAR",
       "name": "Mudhpar",
       "active": true,
-      "halkaNumber": "00031",
-      "riNumber": "06"
+      "halkaNumber": "00004",
+      "riNumber": "03"
     },
     {
       "code": "MURMUNDA",
@@ -17213,8 +17212,8 @@
       "code": "CHIKHLI",
       "name": "Chikhli",
       "active": true,
-      "halkaNumber": "00039",
-      "riNumber": "15"
+      "halkaNumber": "00047",
+      "riNumber": "01"
     },
     {
       "code": "DHABA",
@@ -17248,15 +17247,15 @@
       "code": "KANHARPURI",
       "name": "Kanharpuri",
       "active": true,
-      "halkaNumber": "00043",
-      "riNumber": "14"
+      "halkaNumber": "00032",
+      "riNumber": "04"
     },
     {
       "code": "KAURINBHATA",
       "name": "Kaurinbhata",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00038",
+      "riNumber": "17"
     },
     {
       "code": "LAKHOLI",
@@ -17332,8 +17331,8 @@
       "code": "REWADIH",
       "name": "Rewadih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00037",
+      "riNumber": "17"
     },
     {
       "code": "SINGDAI",
@@ -17367,8 +17366,8 @@
       "code": "BANDORA",
       "name": "Bandora",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00013",
+      "riNumber": "03"
     },
     {
       "code": "BANJARI",
@@ -17458,8 +17457,8 @@
       "code": "GODADIH",
       "name": "Godadih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00008",
+      "riNumber": "03"
     },
     {
       "code": "JHILMILA",
@@ -17619,15 +17618,15 @@
       "code": "BELANDIYADIH",
       "name": "Belandiyadih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00015",
+      "riNumber": "02"
     },
     {
       "code": "BUCHIHARDI",
       "name": "Buchihardi.",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00006",
+      "riNumber": "02"
     },
     {
       "code": "CHARPARA",
@@ -17640,8 +17639,8 @@
       "code": "JHARRADIH",
       "name": "Jharradih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00005",
+      "riNumber": "01"
     },
     {
       "code": "BALPUR",
@@ -17654,8 +17653,8 @@
       "code": "BARHAGUDA",
       "name": "Barhaguda",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00009",
+      "riNumber": "01"
     },
     {
       "code": "BHAINSMUDA",
@@ -17675,15 +17674,15 @@
       "code": "BIRHABHATHA",
       "name": "Birhabhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "01"
     },
     {
       "code": "CHANADELI",
       "name": "Chanadeli",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "01"
     },
     {
       "code": "CHANDRAPUR",
@@ -17710,29 +17709,29 @@
       "code": "HIRAPUR",
       "name": "Hirapur",
       "active": true,
-      "halkaNumber": "00039",
-      "riNumber": "02"
+      "halkaNumber": "00021",
+      "riNumber": "03"
     },
     {
       "code": "KALMA",
       "name": "Kalma",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00011",
+      "riNumber": "01"
     },
     {
       "code": "KANSHIDIH",
       "name": "Kanshidih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00007",
+      "riNumber": "01"
     },
     {
       "code": "KUDRU_JHANJH",
       "name": "Kudru Jhanjh",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00007",
+      "riNumber": "01"
     },
     {
       "code": "MADWA",
@@ -17745,22 +17744,22 @@
       "code": "MAHADEV_PALI",
       "name": "Mahadev Pali",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00011",
+      "riNumber": "01"
     },
     {
       "code": "MIRAUNI",
       "name": "Mirauni",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00007",
+      "riNumber": "01"
     },
     {
       "code": "PALSADA",
       "name": "Palsada",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00010",
+      "riNumber": "01"
     },
     {
       "code": "SIRAULI",
@@ -17773,8 +17772,8 @@
       "code": "BARBHATHA",
       "name": "Barbhatha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00027",
+      "riNumber": "01"
     },
     {
       "code": "BASANTPUR",
@@ -17794,15 +17793,15 @@
       "code": "CHHUIPALI",
       "name": "Chhuipali",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00011",
+      "riNumber": "03"
     },
     {
       "code": "CHURAPARA",
       "name": "Churapara",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00025",
+      "riNumber": "02"
     },
     {
       "code": "DABHRA",
@@ -17822,8 +17821,8 @@
       "code": "KATEKONI_CHOTE",
       "name": "Katekoni Chote",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "03"
     },
     {
       "code": "KATGAN",
@@ -17836,8 +17835,8 @@
       "code": "KUSUMJHAR",
       "name": "Kusumjhar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00025",
+      "riNumber": "01"
     },
     {
       "code": "NAWAPARA",
@@ -17850,8 +17849,8 @@
       "code": "SAKARALI",
       "name": "Sakarali.",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00028",
+      "riNumber": "05"
     },
     {
       "code": "THAKURPALI",
@@ -17864,22 +17863,22 @@
       "code": "UPNI",
       "name": "Upni",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00026",
+      "riNumber": "01"
     },
     {
       "code": "ARSIA",
       "name": "Arsia",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00006",
+      "riNumber": "03"
     },
     {
       "code": "CHORBATTHI",
       "name": "Chorbatthi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00005",
+      "riNumber": "02"
     },
     {
       "code": "GADAMOR",
@@ -17892,15 +17891,15 @@
       "code": "GALGALADIH",
       "name": "Galgaladih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00008",
+      "riNumber": "03"
     },
     {
       "code": "JAIJEPUR",
       "name": "Jaijepur",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00004",
+      "riNumber": "02"
     },
     {
       "code": "JARVE",
@@ -17920,8 +17919,8 @@
       "code": "KASHIGARH",
       "name": "Kashigarh",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00003",
+      "riNumber": "02"
     },
     {
       "code": "MUKTA",
@@ -17934,22 +17933,22 @@
       "code": "OTHEKERA",
       "name": "Othekera",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00007",
+      "riNumber": "03"
     },
     {
       "code": "TUSAR",
       "name": "Tusar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00008",
+      "riNumber": "03"
     },
     {
       "code": "BADE_SIPAT",
       "name": "Bade Sipat",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "03"
     },
     {
       "code": "CHARPARA",
@@ -17969,8 +17968,8 @@
       "code": "CHOTE_SIPAT",
       "name": "Chote Sipat",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00006",
+      "riNumber": "01"
     },
     {
       "code": "KALMI",
@@ -17983,8 +17982,8 @@
       "code": "MALKHARODA",
       "name": "Malkharoda,",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00007",
+      "riNumber": "01"
     },
     {
       "code": "MUKTA",
@@ -17997,8 +17996,8 @@
       "code": "VIRBHATHA",
       "name": "Virbhatha,",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00003",
+      "riNumber": "01"
     },
     {
       "code": "BARGAON",
@@ -18011,8 +18010,8 @@
       "code": "CHANDIPARA",
       "name": "Chandipara",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00011",
+      "riNumber": "03"
     },
     {
       "code": "CHEUDIH",
@@ -18032,8 +18031,8 @@
       "code": "KUTRABOD",
       "name": "Kutrabod",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00001",
+      "riNumber": "01"
     },
     {
       "code": "PAMGARH",
@@ -18053,15 +18052,15 @@
       "code": "BAGBUDWA",
       "name": "Bagbudwa",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "02"
     },
     {
       "code": "BELHADIH",
       "name": "Belhadih",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00015",
+      "riNumber": "03"
     },
     {
       "code": "BHADRIPALI",
@@ -18074,15 +18073,15 @@
       "code": "BHAKTUDERA",
       "name": "Bhaktudera",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00021",
+      "riNumber": "02"
     },
     {
       "code": "BHURSIDIH",
       "name": "Bhursidih.",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "02"
     },
     {
       "code": "BOIRDIH",
@@ -18109,8 +18108,8 @@
       "code": "HARETHI",
       "name": "Harethi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00022",
+      "riNumber": "02"
     },
     {
       "code": "JETHA",
@@ -18144,15 +18143,15 @@
       "code": "NADOURKALA",
       "name": "Nadourkala",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00020",
+      "riNumber": "02"
     },
     {
       "code": "NANDELIBHATA",
       "name": "Nandelibhata",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00003",
+      "riNumber": "02"
     },
     {
       "code": "NAVAPARA",
@@ -18165,8 +18164,8 @@
       "code": "PARSADA_KALA",
       "name": "Parsada Kala",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00021",
+      "riNumber": "02"
     },
     {
       "code": "PASID",
@@ -18186,8 +18185,8 @@
       "code": "PORATHA",
       "name": "Poratha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00022",
+      "riNumber": "02"
     },
     {
       "code": "RAGJA",
@@ -18207,15 +18206,15 @@
       "code": "SAJADERA",
       "name": "Sajadera",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00021",
+      "riNumber": "02"
     },
     {
       "code": "SAKTI",
       "name": "Sakti",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00017",
+      "riNumber": "03"
     },
     {
       "code": "SARAIPALI",
@@ -18235,8 +18234,8 @@
       "code": "SOTHI",
       "name": "Sothi.",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00016",
+      "riNumber": "03"
     },
     {
       "code": "TENDUTOHA",
@@ -18256,36 +18255,36 @@
       "code": "DUMRAPARA",
       "name": "Dumrapara.",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00014",
+      "riNumber": "02"
     },
     {
       "code": "DURAPA",
       "name": "Durapa",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00022",
+      "riNumber": "04"
     },
     {
       "code": "PALADI",
       "name": "Paladi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "02"
     },
     {
       "code": "PALADI_KHURD",
       "name": "Paladi Khurd",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "02"
     },
     {
       "code": "SAKRELI",
       "name": "Sakreli",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00014",
+      "riNumber": "02"
     },
     {
       "code": "SARWANI",
@@ -18417,8 +18416,8 @@
       "code": "BHEJNAAR",
       "name": "Bhejnaar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00021",
+      "riNumber": "01"
     },
     {
       "code": "BHOJPUR",
@@ -18480,7 +18479,7 @@
       "code": "JUNADIH",
       "name": "Junadih",
       "active": true,
-      "halkaNumber": "00060",
+      "halkaNumber": "00021",
       "riNumber": "01"
     },
     {
@@ -18690,8 +18689,8 @@
       "code": "VENKATAPURAM",
       "name": "Venkatapuram",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00005",
+      "riNumber": "01"
     },
     {
       "code": "SUKMA",
@@ -18774,8 +18773,8 @@
       "code": "KRANTI_PRAKASHPUR_LUCHKI",
       "name": "Kranti Prakashpur (Luchki)",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00011",
+      "riNumber": "02"
     },
     {
       "code": "LAXMIPUR",
@@ -18788,8 +18787,8 @@
       "code": "MAHAVIR_PUR",
       "name": "Mahavir Pur",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00007",
+      "riNumber": "02"
     },
     {
       "code": "MANIPUR",
@@ -18844,8 +18843,8 @@
       "code": "RAVINDRANAGAR",
       "name": "Ravindranagar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00006",
+      "riNumber": "02"
     },
     {
       "code": "SANJAYNAGAR",
@@ -18914,8 +18913,8 @@
       "code": "KEWRI",
       "name": "Kewri",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "03"
     },
     {
       "code": "KOSANGA",
@@ -18942,8 +18941,8 @@
       "code": "RAJPUR_KALA",
       "name": "Rajpur Kala",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00014",
+      "riNumber": "01"
     },
     {
       "code": "SHIVPUR",
@@ -18970,8 +18969,8 @@
       "code": "DARRIDIHA",
       "name": "Darridiha",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00021",
+      "riNumber": "04"
     },
     {
       "code": "LAMGAOW",
@@ -19229,8 +19228,8 @@
       "code": "BAROOL",
       "name": "Barool",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00021",
+      "riNumber": "01"
     },
     {
       "code": "BAYKONA",
@@ -19264,8 +19263,8 @@
       "code": "KARNJWAR",
       "name": "Karnjwar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00021",
+      "riNumber": "01"
     },
     {
       "code": "KHORMA",
@@ -19299,8 +19298,8 @@
       "code": "SATAPURTA_PAHAD",
       "name": "Satapurta Pahad",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00012",
+      "riNumber": "03"
     },
     {
       "code": "SEMARKALA",
@@ -19320,15 +19319,15 @@
       "code": "SILOTA",
       "name": "Silota",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00023",
+      "riNumber": "04"
     },
     {
       "code": "SOUTAR",
       "name": "Soutar",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00022",
+      "riNumber": "04"
     },
     {
       "code": "TUKKIDAND",
@@ -19404,8 +19403,8 @@
       "code": "DUMARIYA",
       "name": "Dumariya",
       "active": true,
-      "halkaNumber": "00005",
-      "riNumber": "01"
+      "halkaNumber": "00028",
+      "riNumber": "02"
     },
     {
       "code": "GIRWARGANJ",
@@ -19516,15 +19515,15 @@
       "code": "BANIYATIKARI",
       "name": "Baniyatikari",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00025",
+      "riNumber": "04"
     },
     {
       "code": "BARONDHI",
       "name": "Barondhi",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00026",
+      "riNumber": "02"
     },
     {
       "code": "BARPARA",
@@ -19586,8 +19585,8 @@
       "code": "KARKOLI_NAGAR_JUNA",
       "name": "Karkoli Nagar Juna",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00022",
+      "riNumber": "04"
     },
     {
       "code": "PONDI",
@@ -19607,8 +19606,8 @@
       "code": "TELGAWA",
       "name": "Telgawa",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00027",
+      "riNumber": "02"
     },
     {
       "code": "KHAIRTARAI",
@@ -19621,8 +19620,8 @@
       "code": "BAGHMARA",
       "name": "Baghmara",
       "active": true,
-      "halkaNumber": "00007",
-      "riNumber": "02"
+      "halkaNumber": "00034",
+      "riNumber": "09"
     },
     {
       "code": "HIRAPUR",
@@ -19873,7 +19872,7 @@
       "code": "KHAIRWAHI",
       "name": "Khairwahi",
       "active": true,
-      "halkaNumber": "00020",
+      "halkaNumber": "00039",
       "riNumber": "04"
     },
     {
@@ -20006,8 +20005,8 @@
       "code": "BHARDA",
       "name": "Bharda",
       "active": true,
-      "halkaNumber": "00038",
-      "riNumber": "06"
+      "halkaNumber": "00020",
+      "riNumber": "04"
     },
     {
       "code": "DONDI_LOHARA",
@@ -20272,8 +20271,8 @@
       "code": "DEORI",
       "name": "Deori",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00019",
+      "riNumber": "04"
     },
     {
       "code": "GUNDERDEHI",
@@ -20307,8 +20306,8 @@
       "code": "MANKI",
       "name": "Manki",
       "active": true,
-      "halkaNumber": null,
-      "riNumber": null
+      "halkaNumber": "00057",
+      "riNumber": "12"
     },
     {
       "code": "BORGAHAN",
