@@ -7,98 +7,112 @@
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.APPLICATION_FORM_PERMISSION_DESCRIPTION"
+      "description": "OWNER.APPLICATION_FORM_PERMISSION_DESCRIPTION",
+      "order": 1
     },
     {
       "code": "OWNER.PROOF_OF_RESIDENCE",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.PROOF_OF_RESIDENCE_DESCRIPTION"
+      "description": "OWNER.PROOF_OF_RESIDENCE_DESCRIPTION",
+      "order": 2
     },
     {
       "code": "OWNER.PROOF_OF_IDENTITY",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.PROOF_OF_IDENTITY_DESCRIPTION"
+      "description": "OWNER.PROOF_OF_IDENTITY_DESCRIPTION",
+      "order": 3
     },
     {
       "code": "OWNER.B1_KHASRA_DETAILS",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.B1_KHASRA_DETAILS_DESCRIPTION"
+      "description": "OWNER.B1_KHASRA_DETAILS_DESCRIPTION",
+      "order": 4
     },
     {
       "code": "OWNER.GIS_LAYOUT_MARKING",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.GIS_LAYOUT_MARKING_DESCRIPTION"
+      "description": "OWNER.GIS_LAYOUT_MARKING_DESCRIPTION",
+      "order": 5
     },
     {
       "code": "OWNER.DRAWING_PARKING_SERVICE_PLAN",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.DRAWING_PARKING_SERVICE_PLAN_DESCRIPTION"
+      "description": "OWNER.DRAWING_PARKING_SERVICE_PLAN_DESCRIPTION",
+      "order": 6
     },
     {
       "code": "OWNER.DRAWING_APPROACH_ROAD",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.DRAWING_APPROACH_ROAD_DESCRIPTION"
+      "description": "OWNER.DRAWING_APPROACH_ROAD_DESCRIPTION",
+      "order": 7
     },
     {
       "code": "OWNER.SURVEY_PLAN_MAP",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SURVEY_PLAN_MAP_DESCRIPTION"
+      "description": "OWNER.SURVEY_PLAN_MAP_DESCRIPTION",
+      "order": 8
     },
     {
       "code": "OWNER.NAZUL_NOC",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.NAZUL_NOC_DESCRIPTION"
+      "description": "OWNER.NAZUL_NOC_DESCRIPTION",
+      "order": 9
     },
     {
       "code": "OWNER.COLONIZER_REG_CERTIFICATE",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.COLONIZER_REG_CERTIFICATE_DESCRIPTION"
+      "description": "OWNER.COLONIZER_REG_CERTIFICATE_DESCRIPTION",
+      "order": 10
     },
     {
       "code": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP_DESCRIPTION"
+      "description": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP_DESCRIPTION",
+      "order": 11
     },
     {
       "code": "OWNER.ADDITIONAL_DOCUMENTS",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.ADDITIONAL_DOCUMENTS_DESCRIPTION"
+      "description": "OWNER.ADDITIONAL_DOCUMENTS_DESCRIPTION",
+      "order": 12
     },
     {
       "code": "OWNER.SITEPHOTOGRAPHONE",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION"
+      "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION",
+      "order": 13
     },
     {
       "code": "OWNER.SITEPHOTOGRAPHTWO",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION"
+      "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION",
+      "order": 14
     }
   ]
 }
