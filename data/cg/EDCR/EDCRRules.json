@@ -16,6 +16,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Residential Plotted",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -83,6 +93,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -288,8 +299,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.76,
+									"min": 0.76,
+									"max": 0.0,
 									"default": 1.5
 								}
 							},
@@ -313,8 +324,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.25,
+									"min": 0.25,
+									"max": 0.0,
 									"default": 0.3
 								}
 							},
@@ -322,8 +333,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.76,
+									"min": 0.76,
+									"max": 0.0,
 									"default": 1.5
 								}
 							},
@@ -332,7 +343,7 @@
 								"type": "RANGE",
 								"value": {
 									"min": 2.75,
-									"max": 9999999999
+									"max": 0.0
 								}
 							},
 							"riserValidation": {
@@ -352,9 +363,9 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.76,
-									"default": 1.5
+									"min": 1.0,
+									"max": 0.0,
+									"default": 0.0
 								}
 							},
 							"numberOfRisers": {
@@ -377,18 +388,18 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.25,
-									"default": 0.3
+									"min": 0.25,
+									"max": 0.0,
+									"default": 0.0
 								}
 							},
 							"width": {
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.76,
-									"default": 1.5
+									"min": 1.0,
+									"max": 0.0,
+									"default": 0.0
 								}
 							},
 							"height": {
@@ -396,7 +407,7 @@
 								"type": "RANGE",
 								"value": {
 									"min": 2.75,
-									"max": 9999999999
+									"max": 0.0
 								}
 							},
 							"riserValidation": {
@@ -426,7 +437,8 @@
 								"value": {
 									"min": 7.5,
 									"max": 46.45,
-									"maxArea": 9.5
+									"max1": 9.5,
+									"max2": 9.2
 								}
 							},
 							"width": {
@@ -442,7 +454,9 @@
 								"type": "RANGE",
 								"value": {
 									"min": 2.75,
-									"max": 0.0
+									"max": 9.5,
+									"max1": 9.2,
+									"max2": 7.5
 								}
 							}
 						}
@@ -543,7 +557,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 5,
+									"min": 5.0,
 									"max": 0.0
 								}
 							},
@@ -599,9 +613,17 @@
 					},
 					"noOfFloorsAllowed": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "STRING",
-						"value": "G+2"
+						"type": "MAP",
+						"value": {
+							"floors": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"stilt": 4,
+									"withoutStilt": 2
+								}
+							}
+						}
 					},
 					"plantationArea": {
 						"mandatory": true,
@@ -935,7 +957,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.0,
+									"min": 2.2,
 									"max": 0.0
 								}
 							}
@@ -1105,7 +1127,7 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"width": {
+							"height": {
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
@@ -1149,34 +1171,44 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Independent Floor",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
+						"type": "SLAB_PROGRESSIVE",
+						"unit": "ratio",
 						"value": [
 							{
 								"min": 0,
 								"max": 250,
 								"normal": 2.6,
-								"purchasable": 1.00
+								"purchasable": 1.0
 							},
 							{
-								"min": 251,
+								"min": 250,
 								"max": 350,
 								"normal": 2.4,
-								"purchasable": 1.00
+								"purchasable": 1.0
 							},
 							{
-								"min": 351,
+								"min": 350,
 								"max": 450,
 								"normal": 2.0,
-								"purchasable": 1.00
+								"purchasable": 1.0
 							},
 							{
-								"min": 451,
-								"max": 9999,
-								"normal": 2.0,
-								"purchasable": 1.00
+								"min": 450,
+								"max": 999999,
+								"normal": 1.6,
+								"purchasable": 1.0
 							}
 						]
 					},
@@ -1198,6 +1230,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -1217,59 +1250,23 @@
 						"value": {
 							"front": {
 								"mandatory": true,
-								"type": "SLAB",
+								"type": "MATH_MAX",
 								"valueType": "DOUBLE",
 								"unit": "m",
-								"value": [
-									{
-										"min": 0,
-										"max": 250,
-										"value": 2.0
-									},
-									{
-										"min": 251,
-										"max": 350,
-										"value": 2.0
-									},
-									{
-										"min": 351,
-										"max": 450,
-										"value": 2.0
-									},
-									{
-										"min": 451,
-										"max": 9999,
-										"value": 2.0
-									}
-								]
+								"value": {
+									"divisor": 4,
+									"default": 2.0
+								}
 							},
 							"rear": {
 								"mandatory": true,
-								"type": "SLAB",
+								"type": "MATH_MAX",
 								"valueType": "DOUBLE",
 								"unit": "m",
-								"value": [
-									{
-										"min": 0,
-										"max": 250,
-										"value": 2.0
-									},
-									{
-										"min": 251,
-										"max": 350,
-										"value": 2.0
-									},
-									{
-										"min": 351,
-										"max": 450,
-										"value": 2.0
-									},
-									{
-										"min": 451,
-										"max": 9999,
-										"value": 2.0
-									}
-								]
+								"value": {
+									"divisor": 4,
+									"default": 2.0
+								}
 							},
 							"side1": {
 								"mandatory": true,
@@ -1295,9 +1292,8 @@
 					},
 					"siteCoverage": {
 						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "DOUBLE",
-						"unit": "percent",
+						"type": "SLAB_PROGRESSIVE",
+						"unit": "sq.mt",
 						"value": [
 							{
 								"min": 0,
@@ -1305,18 +1301,18 @@
 								"percentage": 65
 							},
 							{
-								"min": 251,
+								"min": 250,
 								"max": 350,
 								"percentage": 60
 							},
 							{
-								"min": 351,
+								"min": 350,
 								"max": 450,
 								"percentage": 50
 							},
 							{
-								"min": 451,
-								"max": 9999,
+								"min": 450,
+								"max": 999999,
 								"percentage": 40
 							}
 						]
@@ -1324,7 +1320,7 @@
 					"parking": {
 						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "OBJECT",
+						"unit": "ECS",
 						"value": [
 							{
 								"min": 0,
@@ -1333,24 +1329,18 @@
 								"ECS": 1.5
 							},
 							{
-								"min": 121,
+								"min": 120.01,
 								"max": 300,
 								"twoWheelerSpaces": 0,
-								"ECS": 2
+								"ECS": 2.0
 							},
 							{
-								"min": 301,
-								"max": 9999,
+								"min": 300.01,
+								"max": 999999,
 								"twoWheelerSpaces": 0,
-								"ECS": 3
+								"ECS": 3.0
 							}
 						]
-					},
-					"noOfFloorsAllowed": {
-						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "STRING",
-						"value": "Stilt+4"
 					},
 					"generalStaircase": {
 						"mandatory": true,
@@ -1360,8 +1350,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.76,
+									"min": 0.76,
+									"max": 0.0,
 									"default": 1.5
 								}
 							},
@@ -1385,8 +1375,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.25,
+									"min": 0.25,
+									"max": 0.0,
 									"default": 0.3
 								}
 							},
@@ -1394,8 +1384,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.76,
+									"min": 0.76,
+									"max": 0.0,
 									"default": 1.5
 								}
 							},
@@ -1404,7 +1394,7 @@
 								"type": "RANGE",
 								"value": {
 									"min": 2.75,
-									"max": 9999999999
+									"max": 0.0
 								}
 							},
 							"riserValidation": {
@@ -1424,9 +1414,9 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.76,
-									"default": 1.5
+									"min": 1.0,
+									"max": 0.0,
+									"default": 0.0
 								}
 							},
 							"numberOfRisers": {
@@ -1449,18 +1439,18 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.25,
-									"default": 0.3
+									"min": 0.25,
+									"max": 0.0,
+									"default": 0.0
 								}
 							},
 							"width": {
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.76,
-									"default": 1.5
+									"min": 1.0,
+									"max": 0.0,
+									"default": 0.0
 								}
 							},
 							"height": {
@@ -1468,7 +1458,7 @@
 								"type": "RANGE",
 								"value": {
 									"min": 2.75,
-									"max": 9999999999
+									"max": 0.0
 								}
 							},
 							"riserValidation": {
@@ -1488,8 +1478,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 20,
-									"max": 9999999999
+									"min": 20.0,
+									"max": 0.0
 								}
 							},
 							"area": {
@@ -1497,15 +1487,17 @@
 								"type": "RANGE",
 								"value": {
 									"min": 7.5,
-									"max": 46.45
+									"max": 46.45,
+									"max1": 9.5,
+									"max2": 9.2
 								}
 							},
 							"width": {
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.4,
-									"max": 9999999999
+									"min": 2.1,
+									"max": 2.4
 								}
 							},
 							"height": {
@@ -1513,7 +1505,9 @@
 								"type": "RANGE",
 								"value": {
 									"min": 2.75,
-									"max": 9999999999
+									"max": 9.5,
+									"max1": 9.2,
+									"max2": 7.5
 								}
 							}
 						}
@@ -1527,15 +1521,15 @@
 								"type": "RANGE",
 								"value": {
 									"min": 2.0,
-									"max": 9999999999
+									"max": 0.0
 								}
 							},
 							"width": {
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.9,
-									"max": 9999999999
+									"min": 1.0,
+									"max": 0.0
 								}
 							}
 						}
@@ -1548,16 +1542,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.6,
-									"max": 9999999999
+									"min": 0.5,
+									"max": 0.0
 								}
 							},
 							"width": {
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.4,
-									"max": 9999999999
+									"min": 0.5,
+									"max": 0.0
 								}
 							}
 						}
@@ -1571,15 +1565,15 @@
 								"type": "RANGE",
 								"value": {
 									"min": 0.6,
-									"max": 9999999999
+									"max": 0.0
 								}
 							},
 							"width": {
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 20,
-									"max": 9999999999
+									"min": 0.76,
+									"max": 0.0
 								}
 							}
 						}
@@ -1593,7 +1587,7 @@
 								"type": "RANGE",
 								"value": {
 									"min": 2.75,
-									"max": 9999999999
+									"max": 3.0
 								}
 							},
 							"width": {
@@ -1614,7 +1608,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 5,
+									"min": 5.0,
 									"max": 0.0
 								}
 							},
@@ -1664,6 +1658,20 @@
 								"value": {
 									"min": 2.1,
 									"max": 0.0
+								}
+							}
+						}
+					},
+					"noOfFloorsAllowed": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"floors": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"stilt": 4,
+									"withoutStilt": 2
 								}
 							}
 						}
@@ -2000,7 +2008,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.0,
+									"min": 2.2,
 									"max": 0.0
 								}
 							}
@@ -2064,7 +2072,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
+									"min": 0.8,
 									"max": 0.0
 								}
 							},
@@ -2170,7 +2178,7 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"width": {
+							"height": {
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
@@ -2214,6 +2222,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Farmhouse",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -2251,6 +2269,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -2422,7 +2441,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
+									"min": 1.9,
 									"max": 0.76,
 									"default": 1.5
 								}
@@ -3242,6 +3261,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Apartment/Flat",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -3273,6 +3302,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -4470,6 +4500,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Commercial",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -4525,6 +4565,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -5590,6 +5631,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Restaurants/ Banquet Halls",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -5645,6 +5696,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -6710,6 +6762,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Private Offices",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -6765,6 +6827,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -7830,6 +7893,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Banks",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -7885,6 +7958,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -8950,6 +9024,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Club And Community Center",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -8995,6 +9079,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -9970,6 +10055,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Guest House / Lodging & Boarding / Service Apartments",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -10015,6 +10110,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -10990,6 +11086,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Dhaba",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -11045,6 +11151,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -12110,6 +12217,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Cinemas and Auditoriums",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -12165,6 +12282,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -13230,6 +13348,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Hotel / Motel",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -13287,6 +13415,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -14292,6 +14421,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Video Games and Parlors",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -14347,6 +14486,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -15412,6 +15552,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Boutiques",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -15467,6 +15617,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -16532,6 +16683,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Filling Station",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -16563,6 +16724,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -17508,6 +17670,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Filling Cum Service Station",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -17539,6 +17711,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -18484,6 +18657,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Compressed Natural Gas (CNG) Mother Station",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -18515,6 +18698,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -19460,6 +19644,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "General Public/Semi-public buildings",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -19491,6 +19685,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -20436,6 +20631,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Government Offices / Integrated Office Complex",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -20467,6 +20672,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -21412,6 +21618,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Educational Buildings - Nursery School",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -21443,6 +21659,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -22388,6 +22605,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Educational Buildings - Primary School",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -22419,6 +22646,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -23364,6 +23592,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Educational Buildings - Higher Secondary School",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -23395,6 +23633,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -24340,6 +24579,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Educational (College)",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -24371,6 +24620,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -25316,6 +25566,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Education & Research Centre (Large Campus)",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -25347,6 +25607,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -26292,6 +26553,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Hospital / Nursing Home",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -26335,6 +26606,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -27340,6 +27612,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Creche / Day Care facilities",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -27371,6 +27653,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -28316,6 +28599,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Marriage Palace",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -28353,6 +28646,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -29556,6 +29850,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Industrial",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -29593,6 +29897,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -30568,6 +30873,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Factory",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -30599,6 +30914,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -31544,6 +31860,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Storage",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -31575,6 +31901,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -32520,6 +32847,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Hazard Industries",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -32551,6 +32888,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -33496,6 +33834,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Retail Service Industry",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -33527,6 +33875,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -34472,6 +34821,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "General Industry- Industry Plotted",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -34503,6 +34862,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -35448,6 +35808,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "General industry Flatted",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -35479,6 +35849,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -36424,6 +36795,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Informational Technology- Industry Plotted",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -36455,6 +36836,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -37400,6 +37782,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Informational Technology- Flatted",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -37431,6 +37823,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -38376,6 +38769,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Textile Industry",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -38407,6 +38810,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -39352,6 +39756,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Knitwear Industry",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -39383,6 +39797,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -40328,6 +40743,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Sports Industry",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -40359,6 +40784,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -41304,6 +41730,16 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Wholesale Trade/ Ware House/ Integrated Freight complex (Standalone)",
 					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
 					"FAR": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -41335,6 +41771,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 3.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
