@@ -25,7 +25,7 @@
         {
           "code": "APPL.BPAREG_EXP_CERTIFICATE",
           "info": "",
-          "required": false
+          "required": true
         },
         {
           "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
@@ -67,7 +67,7 @@
         {
           "code": "APPL.BPAREG_EXP_CERTIFICATE",
           "info": "",
-          "required": false
+          "required": true
         },
         {
           "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
@@ -110,7 +110,7 @@
         {
           "code": "APPL.BPAREG_EXP_CERTIFICATE",
           "info": "",
-          "required": false
+          "required": true
         },
         {
           "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
@@ -153,7 +153,7 @@
         {
           "code": "APPL.BPAREG_EXP_CERTIFICATE",
           "info": "",
-          "required": false
+          "required": true
         },
         {
           "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
@@ -196,7 +196,7 @@
         {
           "code": "APPL.BPAREG_EXP_CERTIFICATE",
           "info": "",
-          "required": false
+          "required": true
         },
         {
           "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
@@ -239,7 +239,7 @@
         {
           "code": "APPL.BPAREG_EXP_CERTIFICATE",
           "info": "",
-          "required": false
+          "required": true
         },
         {
           "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
@@ -281,7 +281,7 @@
         {
           "code": "APPL.BPAREG_EXP_CERTIFICATE",
           "info": "",
-          "required": false
+          "required": true
         },
         {
           "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
@@ -323,7 +323,7 @@
         {
           "code": "APPL.BPAREG_EXP_CERTIFICATE",
           "info": "",
-          "required": false
+          "required": true
         },
         {
           "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
@@ -365,7 +365,7 @@
         {
           "code": "APPL.BPAREG_EXP_CERTIFICATE",
           "info": "",
-          "required": false
+          "required": true
         },
         {
           "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
@@ -407,7 +407,7 @@
         {
           "code": "APPL.BPAREG_EXP_CERTIFICATE",
           "info": "",
-          "required": false
+          "required": true
         },
         {
           "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
@@ -449,7 +449,7 @@
         {
           "code": "APPL.BPAREG_EXP_CERTIFICATE",
           "info": "",
-          "required": false
+          "required": true
         },
         {
           "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
@@ -491,7 +491,7 @@
         {
           "code": "APPL.BPAREG_EXP_CERTIFICATE",
           "info": "",
-          "required": false
+          "required": true
         },
         {
           "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
@@ -533,7 +533,7 @@
         {
           "code": "APPL.BPAREG_EXP_CERTIFICATE",
           "info": "",
-          "required": false
+          "required": true
         },
         {
           "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
