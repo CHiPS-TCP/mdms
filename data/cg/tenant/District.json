@@ -127,18 +127,6 @@
       ]
     },
     {
-      "tenantId": "cg.gariyaband",
-      "regionalOffice": "Gariyaband",
-      "active": true,
-      "districts": [
-        {
-          "code": "GARIYABAND",
-          "name": "Gariyaband",
-          "active": true
-        }
-      ]
-    },
-    {
       "tenantId": "cg.jagdalpur",
       "regionalOffice": "Jagdalpur",
       "active": true,
@@ -289,6 +277,11 @@
         {
           "code": "RAIPUR",
           "name": "Raipur",
+          "active": true
+        },
+        {
+          "code": "GARIYABAND",
+          "name": "Gariyaband",
           "active": true
         }
       ]

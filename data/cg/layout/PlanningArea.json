@@ -2791,7 +2791,7 @@
       "active": true,
       "district": "Gariyaband",
       "districtCode": "GARIYABAND",
-      "regionalOffice": "Gariyaband",
+      "regionalOffice": "Raipur",
       "tehsils": [
         {
           "code": "GARIYABAND_FINGESHWAR",
@@ -2885,7 +2885,7 @@
       "active": true,
       "district": "Gariyaband",
       "districtCode": "GARIYABAND",
-      "regionalOffice": "Gariyaband",
+      "regionalOffice": "Raipur",
       "tehsils": [
         {
           "code": "GARIYABAND",
@@ -2972,7 +2972,7 @@
       "active": true,
       "district": "Gariyaband",
       "districtCode": "GARIYABAND",
-      "regionalOffice": "Gariyaband",
+      "regionalOffice": "Raipur",
       "tehsils": [
         {
           "code": "CHURRA",
@@ -3045,7 +3045,7 @@
       "active": true,
       "district": "Gariyaband",
       "districtCode": "GARIYABAND",
-      "regionalOffice": "Gariyaband",
+      "regionalOffice": "Raipur",
       "tehsils": [
         {
           "code": "RAJIM",
@@ -5495,7 +5495,7 @@
             },
             {
               "code": "DEVAG",
-              "name": "Devag आं",
+              "name": "Devag",
               "active": true,
               "halkaNumber": "00003",
               "riNumber": "13"
