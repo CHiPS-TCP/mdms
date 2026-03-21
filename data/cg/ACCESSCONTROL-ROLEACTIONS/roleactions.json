@@ -31974,12 +31974,6 @@
       "tenantId": "cg"
     },
     {
-      "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 5032,
-      "actioncode": "",
-      "tenantId": "cg"
-    },
-    {
       "rolecode": "BPA_ENGINEER",
       "actionid": 5032,
       "actioncode": "",
@@ -31987,6 +31981,63 @@
     },
     {
       "rolecode": "BPA_SUPERVISOR",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_QUALITY_AUDITOR",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GEO_HYDROLOGIST",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GEO_TECHNICAL_ENGINEER",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_FIRE_OFFICER",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+
+
+
+    {
+      "rolecode": "BPA_CONSTRUCTION_ENGINEER",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_STRUCTURALENGINEER",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_CONSTRUCTION_MANAGEMENT_AGENCY",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_QUALITY_AUDIT_AGENCY",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GROUP_OR_AGENCY",
       "actionid": 5032,
       "actioncode": "",
       "tenantId": "cg"
