@@ -323,7 +323,11 @@
       {
         "code": "OWNER.ADDITIONAL_DOCUMENTS",
         "active": true
-      }
+      },
+    {
+      "code": "OWNER.CITIZEN.CONSENT",
+      "active": true
+    }
 
 
 
