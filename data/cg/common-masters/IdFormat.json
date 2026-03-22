@@ -794,7 +794,7 @@
       "idname": "noc.application.number"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/LAYOUT/[cy:yyyy]/[SEQ_EG_LAYOUT_APPLICATION]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/PL/[cy:yyyy]/[SEQ_EG_LAYOUT_APPLICATION]",
       "idname": "layout.application.number"
     },
     {

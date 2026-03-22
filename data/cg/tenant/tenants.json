@@ -45,7 +45,7 @@
     {
       "code": "cg.ambikapur",
       "ulbCode": "AMB",
-      "districtCode": "AMBIKAPUR",
+      "districtCode": "ABK",
       "name": "Ambikapur",
       "description": "Ambikapur Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -85,7 +85,7 @@
     {
       "code": "cg.balod",
       "ulbCode": "BLD",
-      "districtCode": "BALOD",
+      "districtCode": "BLD",
       "name": "Balod",
       "description": "Balod Municipal Council, Chhattisgarh",
       "logoId": null,
@@ -126,7 +126,7 @@
     {
       "code": "cg.balodabazar",
       "ulbCode": "BBA",
-      "districtCode": "BALODABAZAR",
+      "districtCode": "BBZ",
       "name": "Balodabazar",
       "description": "Balodabazar Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -166,7 +166,7 @@
     {
       "code": "cg.bilaspur",
       "ulbCode": "BSP",
-      "districtCode": "BILASPUR",
+      "districtCode": "BSP",
       "name": "Bilaspur",
       "description": "Bilaspur Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -206,7 +206,7 @@
     {
       "code": "cg.dantewada",
       "ulbCode": "DAN",
-      "districtCode": "DANTEWADA",
+      "districtCode": "DTW",
       "name": "Dantewada",
       "description": "Dantewada Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -246,7 +246,7 @@
     {
       "code": "cg.dhamtari",
       "ulbCode": "DMT",
-      "districtCode": "DHAMTARI",
+      "districtCode": "DTR",
       "name": "Dhamtari",
       "description": "Dhamtari Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -286,7 +286,7 @@
     {
       "code": "cg.durg",
       "ulbCode": "DUR",
-      "districtCode": "DURG",
+      "districtCode": "DRG",
       "name": "Durg",
       "description": "Durg Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -326,7 +326,7 @@
     {
       "code": "cg.jagdalpur",
       "ulbCode": "JDP",
-      "districtCode": "JAGDALPUR",
+      "districtCode": "JDP",
       "name": "Jagdalpur",
       "description": "Jagdalpur Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -366,7 +366,7 @@
     {
       "code": "cg.jangirchampa",
       "ulbCode": "JCH",
-      "districtCode": "JANGIRCHAMPA",
+      "districtCode": "JJC",
       "name": "Janjgir Champa",
       "description": "Janjgir Champa Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -406,7 +406,7 @@
     {
       "code": "cg.jashpur",
       "ulbCode": "JAS",
-      "districtCode": "JASHPUR",
+      "districtCode": "JSP",
       "name": "Jashpur",
       "description": "Jashpur Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -446,7 +446,7 @@
     {
       "code": "cg.kanker",
       "ulbCode": "KAN",
-      "districtCode": "KANKER",
+      "districtCode": "KKR",
       "name": "Kanker",
       "description": "Kanker Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -486,7 +486,7 @@
     {
       "code": "cg.kawardha",
       "ulbCode": "KAW",
-      "districtCode": "KAWARDHA",
+      "districtCode": "KWD",
       "name": "Kawardha",
       "description": "Kawardha Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -526,7 +526,7 @@
     {
       "code": "cg.korba",
       "ulbCode": "KOR",
-      "districtCode": "KORBA",
+      "districtCode": "KOR",
       "name": "Korba",
       "description": "Korba Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -566,7 +566,7 @@
     {
       "code": "cg.korea",
       "ulbCode": "KORR",
-      "districtCode": "KOREA",
+      "districtCode": "KORY",
       "name": "Korea",
       "description": "Korea Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -606,7 +606,7 @@
     {
       "code": "cg.mahasamund",
       "ulbCode": "MAS",
-      "districtCode": "MAHASAMUND",
+      "districtCode": "MSM",
       "name": "Mahasamund",
       "description": "Mahasamund Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -646,7 +646,7 @@
     {
       "code": "cg.raigarh",
       "ulbCode": "RAI",
-      "districtCode": "RAIGARH",
+      "districtCode": "RIG",
       "name": "Raigarh",
       "description": "Raigarh Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -686,7 +686,7 @@
     {
       "code": "cg.raipur",
       "ulbCode": "RPR",
-      "districtCode": "RAIPUR",
+      "districtCode": "RPR",
       "name": "Raipur",
       "description": "Raipur Municipal Corporation, Chhattisgarh",
       "logoId": null,
@@ -726,7 +726,7 @@
     {
       "code": "cg.rajnandgaon",
       "ulbCode": "RJN",
-      "districtCode": "RAJNANDGAON",
+      "districtCode": "RJN",
       "name": "Rajnandgaon",
       "description": "Rajnandgaon Municipal Corporation, Chhattisgarh",
       "logoId": null,
