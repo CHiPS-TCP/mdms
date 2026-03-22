@@ -325,7 +325,7 @@
         "active": true
       },
     {
-      "code": "OWNER.CITIZEN.CONSENT",
+      "code": "CITIZEN.CONSENT",
       "active": true
     }
 
