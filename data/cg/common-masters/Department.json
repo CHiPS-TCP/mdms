@@ -253,8 +253,13 @@
       "active": true
     },
     {
-      "name": "Town Planning",
+      "name": "Joint Director of Town & Country Palnining",
       "code": "DEPT_TP",
+      "active": true
+    },
+    {
+      "name": "Municipal Corporation",
+      "code": "DEPT_MC",
       "active": true
     },
     {
