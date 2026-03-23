@@ -629,6 +629,7 @@
       },
       "city": {
         "name": "Mahasamund",
+        "nameHindi": "महासमुंद (छ.ग.)",
         "localName": "Mahasamund",
         "districtCode": "CG",
         "districtName": "Mahasamund",
@@ -643,12 +644,15 @@
         "code": "MAS",
         "regionCode": "CG",
         "municipalityName": "Mahasamund Municipal Council",
+        "municipalityNameHindi": "नगर पालिका परिषद",
+        "officerDesigHindi": "मुख्य नगर पालिका अधिकारी",
+        "officerDesig": "Chief Municipal Officer",
         "ddrName": "Mahasamund",
         "pwssb": false,
         "pwssbGrade": null
       },
       "address": "Mahasamund, Chhattisgarh",
-      "contactNumber": null,
+      "contactNumber": "0773-0000000",
       "PGRMasterContact": null
     },
     {
