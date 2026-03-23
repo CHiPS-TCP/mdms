@@ -134,12 +134,40 @@
 									{
 										"min": 0,
 										"max": 9,
-										"value": 3.0
+										"type": "SLAB",
+										"useVariable": "buildingHeight",
+										"value": {
+											"min": 0,
+											"max": 40,
+											"type": "SLAB",
+											"useVariable": "plotArea",
+											"value": [
+												{
+													"min": 0,
+													"max": 999999,
+													"value": 3.0
+												}
+											]
+										}
 									},
 									{
 										"min": 9.01,
 										"max": 12,
-										"value": 4.5
+										"type": "SLAB",
+										"useVariable": "buildingHeight",
+										"value": {
+											"min": 0,
+											"max": 40,
+											"type": "SLAB",
+											"useVariable": "plotArea",
+											"value": [
+												{
+													"min": 0,
+													"max": 999999,
+													"value": 4.5
+												}
+											]
+										}
 									},
 									{
 										"min": 12.01,
@@ -414,8 +442,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.76,
+									"min": 0.76,
+									"max": 0.0,
 									"default": 1.5
 								}
 							},
@@ -439,8 +467,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.25,
+									"min": 0.25,
+									"max": 0.0,
 									"default": 0.3
 								}
 							},
@@ -448,8 +476,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.76,
+									"min": 0.76,
+									"max": 0.0,
 									"default": 1.5
 								}
 							},
@@ -458,7 +486,7 @@
 								"type": "RANGE",
 								"value": {
 									"min": 2.75,
-									"max": 9999999999
+									"max": 0.0
 								}
 							},
 							"riserValidation": {
@@ -27368,7 +27396,7 @@
 					}
 				},
 				{
-					"OccupancyType": "I1",
+					"OccupancyType": "G-WT",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Industrial‑1",
 					"isActive": true,
@@ -27379,33 +27407,9 @@
 						"value": [
 							{
 								"min": 0,
-								"max": 1,
+								"max": 9999999999,
 								"normal": 1,
 								"purchasable": 0
-							},
-							{
-								"min": 0,
-								"max": 50,
-								"normalPercentage": 20,
-								"purchasablePercentage": 15
-							},
-							{
-								"min": 50,
-								"max": 100,
-								"normalPercentage": 30,
-								"purchasablePercentage": 20
-							},
-							{
-								"min": 100,
-								"max": 250,
-								"normalPercentage": 40,
-								"purchasablePercentage": 25
-							},
-							{
-								"min": 250,
-								"max": 999,
-								"normalPercentage": 50,
-								"purchasablePercentage": 30
 							}
 						]
 					},
@@ -27468,6 +27472,7 @@
 						"value": {
 							"fixed": 15,
 							"withStilt": 17.5,
+							"mumty": 5.0,
 							"byRoadWidth": {
 								"type": "SLAB",
 								"valueType": "DOUBLE",
@@ -27498,19 +27503,156 @@
 							"front": {
 								"mandatory": true,
 								"type": "SLAB",
-								"valueType": "DOUBLE",
+								"useVariable": "roadWidth",
 								"unit": "m",
-								"description": "Primary Slab based on Plot Square",
 								"value": [
 									{
 										"min": 0,
-										"max": 1000,
-										"value": 4.5
+										"max": 9,
+										"type": "SLAB",
+										"useVariable": "buildingHeight",
+										"value": {
+											"min": 0,
+											"max": 40,
+											"type": "SLAB",
+											"useVariable": "plotArea",
+											"value": [
+												{
+													"min": 0,
+													"max": 999999,
+													"value": 3.0
+												}
+											]
+										}
 									},
 									{
-										"min": 1000.01,
-										"max": 9999,
-										"value": 6.0
+										"min": 9.01,
+										"max": 12,
+										"type": "SLAB",
+										"useVariable": "buildingHeight",
+										"value": {
+											"min": 0,
+											"max": 40,
+											"type": "SLAB",
+											"useVariable": "plotArea",
+											"value": [
+												{
+													"min": 0,
+													"max": 999999,
+													"value": 4.5
+												}
+											]
+										}
+									},
+									{
+										"min": 12.01,
+										"max": 18,
+										"value": {
+											"type": "SLAB",
+											"useVariable": "buildingHeight",
+											"value": [
+												{
+													"min": 0,
+													"max": 25,
+													"value": 6.0
+												},
+												{
+													"min": 25.01,
+													"max": 40,
+													"value": 7.5
+												}
+											]
+										}
+									},
+									{
+										"min": 18.01,
+										"max": 30,
+										"value": {
+											"type": "SLAB",
+											"useVariable": "buildingHeight",
+											"value": [
+												{
+													"min": 0,
+													"max": 25,
+													"value": {
+														"type": "SLAB",
+														"useVariable": "plotArea",
+														"value": [
+															{
+																"min": 0,
+																"max": 2000,
+																"value": 6.0
+															},
+															{
+																"min": 2000.01,
+																"max": 999999,
+																"value": 7.5
+															}
+														]
+													}
+												},
+												{
+													"min": 25.01,
+													"max": 40,
+													"value": 7.5
+												}
+											]
+										}
+									},
+									{
+										"min": 30.01,
+										"max": 60,
+										"value": {
+											"type": "SLAB",
+											"useVariable": "buildingHeight",
+											"value": [
+												{
+													"min": 0,
+													"max": 25,
+													"value": {
+														"type": "SLAB",
+														"useVariable": "plotArea",
+														"value": [
+															{
+																"min": 0,
+																"max": 2000,
+																"value": 6.0
+															},
+															{
+																"min": 2000.01,
+																"max": 999999,
+																"value": 9.0
+															}
+														]
+													}
+												},
+												{
+													"min": 25.01,
+													"max": 40,
+													"value": 9.0
+												}
+											]
+										}
+									},
+									{
+										"min": 60.01,
+										"max": 100,
+										"value": {
+											"type": "SLAB",
+											"useVariable": "buildingHeight",
+											"value": [
+												{
+													"min": 0,
+													"max": 25,
+													"value": 12.0
+												},
+												{
+													"min": 25.01,
+													"max": 40,
+													"value": 15.0
+												}
+											]
+										}
 									}
 								]
 							},
@@ -27527,14 +27669,14 @@
 									},
 									{
 										"min": 1000.01,
-										"max": 9999,
+										"max": 9999999999,
 										"value": 6.0
 									}
 								]
 							},
 							"side1": {
 								"mandatory": true,
-								"type": "MATH_MAX",
+								"type": "SLAB",
 								"valueType": "DOUBLE",
 								"unit": "m",
 								"value": [
@@ -27545,14 +27687,14 @@
 									},
 									{
 										"min": 1000.01,
-										"max": 9999,
+										"max": 9999999999,
 										"value": 6.0
 									}
 								]
 							},
-							"side2": {
+						"side2": {
 								"mandatory": true,
-								"type": "MATH_MAX",
+								"type": "SLAB",
 								"valueType": "DOUBLE",
 								"unit": "m",
 								"value": [
@@ -27563,7 +27705,7 @@
 									},
 									{
 										"min": 1000.01,
-										"max": 9999,
+										"max": 9999999999,
 										"value": 6.0
 									}
 								]
@@ -27609,7 +27751,7 @@
 							{
 								"min": 1001,
 								"max": 9999999999,
-								"percentage": 40
+								"percentage": 45
 							}
 						]
 					},
@@ -27670,8 +27812,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.76,
+									"min": 0.76,
+									"max": 0.0,
 									"default": 1.5
 								}
 							},
@@ -27680,7 +27822,7 @@
 								"type": "RANGE",
 								"value": {
 									"min": 0.0,
-									"max": 12
+									"max": 15
 								}
 							},
 							"riserHeight": {
@@ -27695,8 +27837,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.25,
+									"min": 0.25,
+									"max": 0.0,
 									"default": 0.3
 								}
 							},
@@ -27704,8 +27846,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 0.0,
-									"max": 0.76,
+									"min": 0.76,
+									"max": 0.0,
 									"default": 1.5
 								}
 							},
@@ -27714,7 +27856,7 @@
 								"type": "RANGE",
 								"value": {
 									"min": 2.75,
-									"max": 9999999999
+									"max": 0.0
 								}
 							},
 							"riserValidation": {
@@ -27989,7 +28131,7 @@
 						"type": "SIMPLE",
 						"valueType": "INTEGER",
 						"unit": "percent",
-						"value": 5
+						"value": 0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -28402,7 +28544,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.5,
+									"min": 0.0,
 									"max": 0.0
 								}
 							}
@@ -28500,7 +28642,7 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"width": {
+							"height": {
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
