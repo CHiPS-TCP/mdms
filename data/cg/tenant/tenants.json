@@ -35,7 +35,9 @@
         "code": "000",
         "regionCode": "CG",
         "municipalityName": "Town and Country Planning Department",
-        "municipalityNameHindi": "उप संचालक,नगर तथा ग्राम निवेश",
+        "municipalityNameHindi": "नगर तथा ग्राम निवेश",
+        "officerDesigHindi": "उप संचालक",
+        "officerDesig": "Deputy Director",
         "ddrName": "Raipur",
         "pwssb": false,
         "pwssbGrade": null
@@ -78,6 +80,8 @@
         "regionCode": "CG",
         "municipalityName": "Ambikapur Municipal Corporation",
         "municipalityNameHindi": "नगर निगम",
+        "officerDesigHindi": "कार्यपालन अभियंता",
+        "officerDesig": "Executive Officer",
         "ddrName": "Ambikapur",
         "pwssb": false,
         "pwssbGrade": null
