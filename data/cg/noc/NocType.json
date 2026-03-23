@@ -12,16 +12,6 @@
          "NocUserRole":"OBPAS_NOC_APPROVER"
       },
 {
-         "code": "NOC",
-         "isActive": true,
-         "offlineWF":"NOC_OFFLINE",
-         "onlineWF":"obpas_noc",
-         "mode":"online",
-         "NocUserRole":"NOC_APPROVER"
-      },
-
-
-       {
          "code": "FIRE_NOC",
          "isActive": true,
          "offlineWF":"FIRE_NOC_OFFLINE",
