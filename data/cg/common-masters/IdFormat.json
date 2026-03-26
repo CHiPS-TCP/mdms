@@ -762,7 +762,7 @@
 	    "idname": "egov.idgen.bpa.bdlicensenumber"
 	},
 	{
-	  "format": "CH-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_BP_APN]",
+	  "format": "CG/[DISTRICT.CODE]/TNCP/BP/[cy:yyyy]/[SEQ_EG_BP_APN]",
 	  "idname": "bpa.aplnumber"
 	},
 	{
@@ -770,7 +770,7 @@
 	  "idname": "bpa.low_risk_permit_fee.receipt.id"
 	},
 	{
-	  "format": "CH-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
+	  "format": "CG-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
 	  "idname": "bpa.permitnumber"
 	},
 	{

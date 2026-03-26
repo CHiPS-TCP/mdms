@@ -1,0 +1,1132 @@
+{
+  "tenantId": "cg",
+  "moduleName": "tenant",
+  "RegionalOfficeInvestmentAreaMasterplan": [
+    {
+      "code": "AMBIKAPUR",
+      "tenantId": "cg.ambikapur",
+      "regionalOffice": "Ambikapur",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "AMBIKAPUR",
+          "value": "Ambikapur",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "BALRAMPUR",
+          "value": "Balrampur",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "BHATGAON",
+          "value": "Bhatgaon",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "BISHRAMPUR",
+          "value": "Bishrampur",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "JARHI",
+          "value": "Jarhi",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "KUSMI",
+          "value": "Kusmi",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "LAKHANPUR",
+          "value": "Lakhanpur",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PRATAPUR",
+          "value": "Pratapur",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PREMNGAR",
+          "value": "Premngar",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "RAGHUNATHPUR",
+          "value": "Raghunathpur",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "RAJPUR",
+          "value": "Rajpur",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "RAMANUJGANJ",
+          "value": "Ramanujganj",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "SITAPUR",
+          "value": "Sitapur",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "SURAJPUR",
+          "value": "Surajpur",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "WADAFNAGAR",
+          "value": "Wadafnagar",
+          "masterplan": "Outside-16",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "BALODABAZAR",
+      "tenantId": "cg.balodabazar",
+      "regionalOffice": "Balodabazar",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "BALODA_BAZAR",
+          "value": "Baloda Bazar",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "BHATAPARA",
+          "value": "Bhatapara",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "KASDOL",
+          "value": "Kasdol",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "BHATGAON",
+          "value": "Bhatgaon",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "BILAIGARH",
+          "value": "Bilaigarh",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "DAMAKHEDA",
+          "value": "Damakheda",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "GIRODPURI",
+          "value": "Girodpuri",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "HATHBAND",
+          "value": "Hathband",
+          "masterplan": "Outside-17",
+          "active": true
+        },
+        {
+          "code": "HIRMI",
+          "value": "Hirmi",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "KHAPARADIH",
+          "value": "Khaparadih",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "LAVAN",
+          "value": "Lavan",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PALARI",
+          "value": "Palari",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "RAAVAN",
+          "value": "Raavan",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "RISDA",
+          "value": "Risda",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "SIMGA",
+          "value": "Simga",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "SONADIH",
+          "value": "Sonadih",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "TUNDRA",
+          "value": "Tundra",
+          "masterplan": "Outside-16",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "BILASPUR",
+      "tenantId": "cg.bilaspur",
+      "regionalOffice": "Bilaspur",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "ARPA",
+          "value": "Arpa",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "BILASPUR_DEVELOPMENT_PLAN",
+          "value": "Bilaspur Development Plan",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "MUNGELI",
+          "value": "Mungeli",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "RATANPUR",
+          "value": "Ratanpur",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "SIPAT",
+          "value": "Sipat",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "BILHA",
+          "value": "Bilha",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "GANIARI",
+          "value": "Ganiari",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "KOTA",
+          "value": "Kota",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "MALHAR",
+          "value": "Malhar",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "MARWAHI",
+          "value": "Marwahi",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "MASTURI",
+          "value": "Masturi",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PENDRA",
+          "value": "Pendra",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "TAKHATPUR",
+          "value": "Takhatpur",
+          "masterplan": "Outside-16",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "DANTEWADA",
+      "tenantId": "cg.dantewada",
+      "regionalOffice": "Dantewada",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "BACHELI__KIRANDUL",
+          "value": "Bacheli -Kirandul",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "BARSUR",
+          "value": "Barsur",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "DANTEWADA",
+          "value": "Dantewada",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "GEEDAM",
+          "value": "Geedam",
+          "masterplan": "Outside-16",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "DHAMTARI",
+      "tenantId": "cg.dhamtari",
+      "regionalOffice": "Dhamtari",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "DHAMTARI",
+          "value": "Dhamtari",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "KURUD",
+          "value": "Kurud",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "AMADI",
+          "value": "Amadi",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "BHAKHARA",
+          "value": "Bhakhara",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "DARBA",
+          "value": "Darba",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "MAGARLOD",
+          "value": "Magarlod",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "NAGARI",
+          "value": "Nagari",
+          "masterplan": "Outside-16",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "DURG",
+      "tenantId": "cg.durg",
+      "regionalOffice": "Durg",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "AHIVARA",
+          "value": "Ahivara",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "BEMETARA",
+          "value": "Bemetara",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "DURG___BHILAI",
+          "value": "Durg - Bhilai",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "PATAN",
+          "value": "Patan",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "THAN_KHAMHARIYA",
+          "value": "Than Khamhariya",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "BERLA",
+          "value": "Berla",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "DEVKAR",
+          "value": "Devkar",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "DHAMDHA",
+          "value": "Dhamdha",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "MARO",
+          "value": "Maro",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "NAWAGARH",
+          "value": "Nawagarh",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PARPORI",
+          "value": "Parpori",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "SAJA",
+          "value": "Saja",
+          "masterplan": "Outside-16",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "RAIPUR",
+      "tenantId": "cg.raipur",
+      "regionalOffice": "Raipur",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "CHURRA",
+          "value": "Churra",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "FINGESHWAR",
+          "value": "Fingeshwar",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "GARIYABAND",
+          "value": "Gariyaband",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "RAJIM",
+          "value": "Rajim",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "ABHANPUR",
+          "value": "Abhanpur",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "ARANG",
+          "value": "Arang",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "NAYA_RAIPUR",
+          "value": "Naya Raipur",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "RAIPUR",
+          "value": "Raipur",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "CHAMPARAN",
+          "value": "Champaran",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "KHARORA",
+          "value": "Kharora",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "KUNRA",
+          "value": "Kunra",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "NAWAPARA",
+          "value": "Nawapara",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PURA",
+          "value": "Pura",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "TILDA_NEVRA",
+          "value": "Tilda-nevra",
+          "masterplan": "Outside-16",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "JAGDALPUR",
+      "tenantId": "cg.jagdalpur",
+      "regionalOffice": "Jagdalpur",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "BIJAPUR",
+          "value": "Bijapur",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "JAGDALPUR",
+          "value": "Jagdalpur",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "KONDAGAON",
+          "value": "Kondagaon",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "NARAYANPUR",
+          "value": "Narayanpur",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "SUKMA",
+          "value": "Sukma",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "BADE_KANERA",
+          "value": "Bade Kanera",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "BHAIRAMGARH",
+          "value": "Bhairamgarh",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "KESHKAL",
+          "value": "Keshkal",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "KONTA",
+          "value": "Konta",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "NAGARNAR",
+          "value": "Nagarnar",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PHARSAGAON",
+          "value": "Pharsagaon",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PHARSAGON",
+          "value": "Pharsagon",
+          "masterplan": "Outside-16",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "JANJGIRCHAMPA",
+      "tenantId": "cg.janjgirchampa",
+      "regionalOffice": "Janjgir Champa",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "CHAMPA",
+          "value": "Champa",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "JANJGIR",
+          "value": "Janjgir",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "ADBHAR",
+          "value": "Adbhar",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "AKALTARA",
+          "value": "Akaltara",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "BALODA",
+          "value": "Baloda",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "BARADWAR",
+          "value": "Baradwar",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "CHANDRAPUR",
+          "value": "Chandrapur",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "DABHRA",
+          "value": "Dabhra",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "JAIJEPUR",
+          "value": "Jaijepur",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "MALKHARODA",
+          "value": "Malkharoda",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PAMGARH",
+          "value": "Pamgarh",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "RAHOD",
+          "value": "Rahod",
+          "masterplan": "Outside-17",
+          "active": true
+        },
+        {
+          "code": "SAKTI",
+          "value": "Sakti",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "SARAGAON",
+          "value": "Saragaon",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "SHIVRINARAYAN",
+          "value": "Shivrinarayan",
+          "masterplan": "Outside-16",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "JASHPUR",
+      "tenantId": "cg.jashpur",
+      "regionalOffice": "Jashpur",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "JASHPUR",
+          "value": "Jashpur",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "BAGICHA",
+          "value": "Bagicha",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "KOTBA",
+          "value": "Kotba",
+          "masterplan": "Outside-17",
+          "active": true
+        },
+        {
+          "code": "KUNKURI",
+          "value": "Kunkuri",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PATHALGAON",
+          "value": "Pathalgaon",
+          "masterplan": "Outside-17",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "KANKER",
+      "tenantId": "cg.kanker",
+      "regionalOffice": "Kanker",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "BHANUPTATAPPUR",
+          "value": "Bhanuptatappur",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "KANKER",
+          "value": "Kanker",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "CHARAMA",
+          "value": "Charama",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PANKHAJUR",
+          "value": "Pankhajur",
+          "masterplan": "Outside-16",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "KAWARDHA",
+      "tenantId": "cg.kawardha",
+      "regionalOffice": "Kawardha",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "KAWARDHA",
+          "value": "Kawardha",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "BIRKONA",
+          "value": "Birkona",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "BODLA",
+          "value": "Bodla",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "KUNDA",
+          "value": "Kunda",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PANDARIYA",
+          "value": "Pandariya",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PANDATARAI",
+          "value": "Pandatarai",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PIPARIYA",
+          "value": "Pipariya",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "S_LOHARA",
+          "value": "S. Lohara",
+          "masterplan": "Outside-16",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "KORBA",
+      "tenantId": "cg.korba",
+      "regionalOffice": "Korba",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "KORBA",
+          "value": "Korba",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "CHHURIKALA",
+          "value": "Chhurikala",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "DEEPKA",
+          "value": "Deepka",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "HARDIBAZAR",
+          "value": "Hardibazar",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "KARTALA",
+          "value": "Kartala",
+          "masterplan": "Outside-17",
+          "active": true
+        },
+        {
+          "code": "KATGHORA",
+          "value": "Katghora",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PALI",
+          "value": "Pali",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PODI___UPRODA",
+          "value": "Podi - Uproda",
+          "masterplan": "Outside-16",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "KOREA",
+      "tenantId": "cg.korea",
+      "regionalOffice": "Korea",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "BAIKUNTHPUR",
+          "value": "Baikunthpur",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "MANENDRAGARH",
+          "value": "Manendragarh",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "SONHAT",
+          "value": "Sonhat",
+          "masterplan": "Outside-16",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "MAHASAMUND",
+      "tenantId": "cg.mahasamund",
+      "regionalOffice": "Mahasamund",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "BAGBAHARA",
+          "value": "Bagbahara",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "MAHASAMUND",
+          "value": "Mahasamund",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "PITHORA",
+          "value": "Pithora",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "SARAIPALI",
+          "value": "Saraipali",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "BASNA",
+          "value": "Basna",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "BHAWARPUR_CLUSTER",
+          "value": "Bhawarpur (Cluster)",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "SIRPUR_SADA",
+          "value": "Sirpur \"Sada\"",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "TUMGAON",
+          "value": "Tumgaon",
+          "masterplan": "Outside-16",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "RAIGARH",
+      "tenantId": "cg.raigarh",
+      "regionalOffice": "Raigarh",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "KHARSIA",
+          "value": "Kharsia",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "RAIGARH",
+          "value": "Raigarh",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "SARANGARH",
+          "value": "Sarangarh",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "BARAMKELA",
+          "value": "Baramkela",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "DHARAMJAIGARH",
+          "value": "Dharamjaigarh",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "DHARAMJAIGARH_JANJATIYA_CLUSTER",
+          "value": "Dharamjaigarh Janjatiya Cluster",
+          "masterplan": "Outside-17",
+          "active": true
+        },
+        {
+          "code": "GHARGHODA",
+          "value": "Gharghoda",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "LAILUNGA",
+          "value": "Lailunga",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "PUSSORE",
+          "value": "Pussore",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "SARIYA",
+          "value": "Sariya",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "TAMNAR",
+          "value": "Tamnar",
+          "masterplan": "Outside-17",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "RAJNANDGAON",
+      "tenantId": "cg.rajnandgaon",
+      "regionalOffice": "Rajnandgaon",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "DONGARGARH",
+          "value": "Dongargarh",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "KHAIRAGARH",
+          "value": "Khairagarh",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "RAJNANDGAON",
+          "value": "Rajnandgaon",
+          "masterplan": "Within",
+          "active": true
+        },
+        {
+          "code": "AMBAGARH_CHOWKI",
+          "value": "Ambagarh Chowki",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "CHHUIKHADAN",
+          "value": "Chhuikhadan",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "CHHURIYA",
+          "value": "Chhuriya",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "DONGARGAON",
+          "value": "Dongargaon",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "GANDAI",
+          "value": "Gandai",
+          "masterplan": "Outside-16",
+          "active": true
+        },
+        {
+          "code": "MURMUNDA",
+          "value": "Murmunda",
+          "masterplan": "Outside-16",
+          "active": true
+        }
+      ]
+    }
+  ]
+}
