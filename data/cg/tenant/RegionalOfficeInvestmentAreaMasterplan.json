@@ -1127,6 +1127,32 @@
           "active": true
         }
       ]
+    },
+    {
+      "code": "TCP",
+      "tenantId": "cg.tcp",
+      "regionalOffice": "TCP",
+      "active": true,
+      "investmentAreas": [
+        {
+          "code": "TCP_DUMMY_TEHSIL",
+          "name": "TCP Dummy Tehsil",
+          "active": true,
+          "masterplan": "Within"
+        },
+        {
+          "code": "TCP_DUMMY_TEHSIL_2",
+          "name": "TCP Dummy Tehsil 2",
+          "active": true,
+          "masterplan": "Within"
+        },
+        {
+          "code": "TCP_DUMMY_TEHSIL_3",
+          "name": "TCP Dummy Tehsil 3",
+          "active": true,
+          "masterplan": "Outside-17"
+        }
+      ]
     }
   ]
 }
