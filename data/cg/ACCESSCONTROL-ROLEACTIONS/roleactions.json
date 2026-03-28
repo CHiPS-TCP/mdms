@@ -32580,7 +32580,104 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "BPA_L1_VERIFIER",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_L2_VERIFIER",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_L3_VERIFIER",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    }
+  ,
+    {
       "rolecode": "CITIZEN",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_QUALITY_AUDITOR",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GEO_HYDROLOGIST",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GEO_TECHNICAL_ENGINEER",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_FIRE_OFFICER",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_CONSTRUCTION_ENGINEER",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_STRUCTURALENGINEER",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_CONSTRUCTION_MANAGEMENT_AGENCY",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_QUALITY_AUDIT_AGENCY",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GROUP_OR_AGENCY",
       "actionid": 5024,
       "actioncode": "",
       "tenantId": "cg"
