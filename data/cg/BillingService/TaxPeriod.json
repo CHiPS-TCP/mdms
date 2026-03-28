@@ -3401,6 +3401,38 @@
       "service": "CLU.PAY2",
       "code": "CLU_LF_FEE",
       "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "BPA.PAY1",
+      "code": "BPA_SCRUTINY_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "BPA.PAY1",
+      "code": "BPA_PROCESSING_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "BPA.PAY2",
+      "code": "BPA_APPLICATION_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "BPA.PAY2",
+      "code": "BPA_PERMISSION_FEE",
+      "financialYear": "2025-26"
     }
   ]
 }
