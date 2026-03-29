@@ -623,6 +623,20 @@
 	  "isClosed": false,
 	  "transferClosingBalance": false,
 	  "module": "BPA"	
-	  }
+	  },
+      {
+        "id": "45",
+        "tenantId": "cg",
+        "finYearRange": "2026-27",
+        "name": "2026-27",
+        "code": "2026-27",
+        "startingDate": 1775001600000,
+        "endingDate": 1806537599000,
+        "active": true,
+        "isActiveForPosting": true,
+        "isClosed": false,
+        "transferClosingBalance": false,
+        "module": "BPA"
+      }
     ]
   }

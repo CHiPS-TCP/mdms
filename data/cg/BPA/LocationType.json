@@ -1,0 +1,36 @@
+{
+  "tenantId": "cg",
+  "moduleName": "BPA",
+  "LocationType": [
+    {
+      "code": "CENTRAL_AREA",
+      "name": "Central Area",
+      "active": true
+    },
+    {
+      "code": "DA1",
+      "name": "DA1",
+      "active": true
+    },
+    {
+      "code": "DA2",
+      "name": "DA2",
+      "active": true
+    },
+    {
+      "code": "DA3",
+      "name": "DA3",
+      "active": true
+    },
+    {
+      "code": "NON_CENTRAL_AREA",
+      "name": "Non Central Area",
+      "active": true
+    },
+    {
+      "code": "NA",
+      "name": "NA",
+      "active": true
+    }
+  ]
+}

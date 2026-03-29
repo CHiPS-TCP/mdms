@@ -37651,6 +37651,30 @@
       "actionid": 1757,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5031,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5031,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5044,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5044,
+      "actioncode": "",
+      "tenantId": "cg"
     }
   ]
 }
