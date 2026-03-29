@@ -8275,7 +8275,7 @@
     },
     {
       "category": "FEE",
-      "service": "BPA.PAY2",
+      "service": "BPA.PAY1",
       "name": "BPA APPLICATION FEE",
       "code": "BPA_APPLICATION_FEE",
       "isDebit": false,

@@ -811,6 +811,60 @@
       "description": "Tehsildar",
       "code": "DESIG_136",
       "active": true
+    },
+    {
+      "name": "Regional Officer 1",
+      "description": "Regional Officer 1",
+      "code": "DESIG_137",
+      "active": true
+    },
+    {
+      "name": "Regional Officer 2",
+      "description": "Regional Officer 2",
+      "code": "DESIG_138",
+      "active": true
+    },
+    {
+      "name": "Regional Officer 3",
+      "description": "Regional Officer 3",
+      "code": "DESIG_139",
+      "active": true
+    },
+    {
+      "name": "Directorate 1",
+      "description": "Directorate 1",
+      "code": "DESIG_140",
+      "active": true
+    },
+    {
+      "name": "Directorate 2",
+      "description": "Directorate 2",
+      "code": "DESIG_141",
+      "active": true
+    },
+    {
+      "name": "Directorate 3",
+      "description": "Directorate 3",
+      "code": "DESIG_142",
+      "active": true
+    },
+    {
+      "name": "Officer level 1",
+      "description": "Officer level 1",
+      "code": "DESIG_143",
+      "active": true
+    },
+    {
+      "name": "Officer level 2",
+      "description": "Officer level 2",
+      "code": "DESIG_144",
+      "active": true
+    },
+    {
+      "name": "Officer level 3",
+      "description": "Officer level 3",
+      "code": "DESIG_145",
+      "active": true
     }
   ]
 }

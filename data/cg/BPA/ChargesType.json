@@ -22,7 +22,7 @@
 				},
 				{
 					"name": "BPA APPLICATION FEE",
-					"rate": 5000.00,
+					"rate": 1.00,
 					"taxHeadCode": "BPA_APPLICATION_FEE",
 					"applicable": true
 
@@ -68,7 +68,7 @@
 				},
 				{
 					"name": "BPA APPLICATION FEE",
-					"rate": 5000.00,
+					"rate": 1.00,
 					"taxHeadCode": "BPA_APPLICATION_FEE",
 					"applicable": true
 
