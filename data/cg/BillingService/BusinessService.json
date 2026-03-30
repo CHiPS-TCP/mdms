@@ -2560,6 +2560,28 @@
       "isActive": true
     },
     {
+      "businessService": "BPA.PAY1",
+      "code": "BPA.PAY1",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "BPA.PAY2",
+      "code": "BPA.PAY2",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
       "businessService": "clu",
       "code": "clu",
       "collectionModesNotAllowed": [

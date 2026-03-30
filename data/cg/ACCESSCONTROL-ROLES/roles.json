@@ -818,6 +818,24 @@
       "name": "LAYOUT_L3_APPROVER",
       "description": "OBPAS Layout workflow Approver",
       "groupId": "025"
+    },
+    {
+      "code": "BPA_L1_VERIFIER",
+      "name": "BPA_L1_VERIFIER",
+      "description": "OBPAS BPA workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "BPA_L2_VERIFIER",
+      "name": "BPA_L2_VERIFIER",
+      "description": "OBPAS BPA workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "BPA_L3_VERIFIER",
+      "name": "BPA_L3_VERIFIER",
+      "description": "OBPAS BPA workflow Approver",
+      "groupId": "025"
     }
   ]
 }

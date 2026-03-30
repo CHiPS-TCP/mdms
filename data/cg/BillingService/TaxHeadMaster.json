@@ -8252,6 +8252,46 @@
       "isActualDemand": true,
       "order": "1",
       "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.PAY1",
+      "name": "BPA SCRUTINY FEE",
+      "code": "BPA_SCRUTINY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.PAY1",
+      "name": "BPA PROCESSING FEE",
+      "code": "BPA_PROCESSING_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.PAY1",
+      "name": "BPA APPLICATION FEE",
+      "code": "BPA_APPLICATION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.PAY2",
+      "name": "BPA PERMISSION FEE",
+      "code": "BPA_PERMISSION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }

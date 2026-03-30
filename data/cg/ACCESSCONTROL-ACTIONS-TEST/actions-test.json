@@ -18420,6 +18420,30 @@
       "path": ""
     },
     {
+      "id": 5031,
+      "name": "BPA Application Payment search",
+      "url": "/collection-services/payments/BPA.PAY1/_search",
+      "displayName": "BPA Application Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5044,
+      "name": "BPA Application Payment search",
+      "url": "/collection-services/payments/BPA.PAY2/_search",
+      "displayName": "BPA Application Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 5021,
       "name": "BPA San Payment search",
       "url": "/collection-services/payments/BPA.NC_SAN_FEE/_search",

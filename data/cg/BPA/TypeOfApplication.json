@@ -1,0 +1,51 @@
+{
+  "tenantId": "cg",
+  "moduleName": "BPA",
+  "TypeOfApplication": [
+    {
+      "name": "New",
+      "code": "NEW",
+      "active": true
+    },
+    {
+      "name": "Alteration",
+      "code": "ALTERATION",
+      "active": true
+    },
+    {
+      "name": "Addition",
+      "code": "ADDITION",
+      "active": true
+    },
+    {
+      "name": "Existing",
+      "code": "EXISTING",
+      "active": true
+    },
+    {
+      "name": "Revision",
+      "code": "REVISION",
+      "active": true
+    },
+    {
+      "name": "Revalidation",
+      "code": "REVALIDATION",
+      "active": true
+    },
+    {
+      "name": "Redevelopment",
+      "code": "REDEVELOPMENT",
+      "active": true
+    },
+    {
+      "name": "Reconstruction",
+      "code": "RECONSTRUCTION",
+      "active": true
+    },
+    {
+      "name": "Demolition",
+      "code": "DEMOLITION",
+      "active": true
+    }
+  ]
+}
