@@ -1129,7 +1129,7 @@
       ]
     },
     {
-      "code": "TCP",
+      "code": "TCP_DUMMY_DISTRICT",
       "tenantId": "cg.tcp",
       "regionalOffice": "TCP",
       "active": true,
