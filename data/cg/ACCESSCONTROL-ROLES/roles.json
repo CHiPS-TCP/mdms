@@ -836,6 +836,48 @@
       "name": "BPA_L3_VERIFIER",
       "description": "OBPAS BPA workflow Approver",
       "groupId": "025"
+    },
+    {
+      "code": "WRD_NOC_APPROVER",
+      "name": "WRD NOC Approver",
+      "description": "Water Resource Department NOC Approver",
+      "groupId": "004"
+    },
+    {
+      "code": "REV_NOC_APPROVER",
+      "name": "Revenue NOC Approver",
+      "description": "Revenue Department NOC Approver",
+      "groupId": "004"
+    },
+    {
+      "code": "PWD_NOC_APPROVER",
+      "name": "PWD NOC Approver",
+      "description": "Public Works Department NOC Approver",
+      "groupId": "004"
+    },
+    {
+      "code": "ELEC_NOC_APPROVER",
+      "name": "Electricity NOC Approver",
+      "description": "Electricity Department HT Line NOC Approver",
+      "groupId": "004"
+    },
+    {
+      "code": "FIRE_NOC_APPROVER",
+      "name": "Fire NOC Approver",
+      "description": "Fire Department Special Structure NOC Approver",
+      "groupId": "004"
+    },
+    {
+      "code": "SADA_NOC_APPROVER",
+      "name": "SADA NOC Approver",
+      "description": "Special Area Development Authority NOC Approver",
+      "groupId": "004"
+    },
+    {
+      "code": "NHAI_NOC_APPROVER",
+      "name": "NHAI NOC Approver",
+      "description": "National Highways Authority of India NOC Approver",
+      "groupId": "004"
     }
   ]
 }

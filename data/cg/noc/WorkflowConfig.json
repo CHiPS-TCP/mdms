@@ -4,16 +4,35 @@
 	"WorkflowConfig": [
 		{
 			"businessService": "NOC_MC",
-			"ulbType": [
-				"Municipal Corporation"
-			]
+			"nocType": "OBPAS_NOC"
 		},
 		{
-			"businessService": "NOC_NP",
-			"ulbType": [
-				"Nagar Panchayat",
-				"Municipal Council"
-			]
+			"businessService": "NOC_WR",
+			"nocType": "WATER_RESOURCE_DEPT"
+		},
+		{
+			"businessService": "NOC_REV",
+			"nocType": "REVENUE_DEPT"
+		},
+		{
+			"businessService": "NOC_PWD",
+			"nocType": "PWD_APPROACH_ROAD"
+		},
+		{
+			"businessService": "NOC_ELEC",
+			"nocType": "ELECTRICITY_HT_LINE"
+		},
+		{
+			"businessService": "NOC_FIRE",
+			"nocType": "FIRE_SPECIAL_STRUCTURE"
+		},
+		{
+			"businessService": "NOC_SADA",
+			"nocType": "SADA_SPECIAL_AUTHORITY"
+		},
+		{
+			"businessService": "NOC_NHAI",
+			"nocType": "NHAI_APPROACH_ROAD"
 		}
 	]
 }

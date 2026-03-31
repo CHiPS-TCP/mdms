@@ -11,21 +11,61 @@
          "mode":"online",
          "NocUserRole":"OBPAS_NOC_APPROVER"
       },
-{
-         "code": "FIRE_NOC",
-         "isActive": true,
-         "offlineWF":"FIRE_NOC_OFFLINE",
-         "onlineWF":"FIRENOC",
-         "mode":"online",
-         "NocUserRole":"FIRE_NOC_APPROVER"
+      {
+        "code": "WATER_RESOURCE_DEPT",
+        "isActive": true,
+        "offlineWF": "WRD_NOC_OFFLINE",
+        "onlineWF": "WRD_NOC",
+        "mode": "online",
+        "NocUserRole": "WRD_NOC_APPROVER"
       },
       {
-        "code":"AIRPORT_AUTHORITY",
+        "code": "REVENUE_DEPT",
         "isActive": true,
-        "offlineWF":"AIRPORT_NOC_OFFLINE",
-        "onlineWF":"AIRPORT_NOC_SRV",
-        "mode":"offline",
-        "NocUserRole":"AIRPORT_AUTHORITY_APPROVER"
+        "offlineWF": "REV_NOC_OFFLINE",
+        "onlineWF": "REV_NOC",
+        "mode": "online",
+        "NocUserRole": "REV_NOC_APPROVER"
+      },
+      {
+        "code": "PWD_APPROACH_ROAD",
+        "isActive": true,
+        "offlineWF": "PWD_NOC_OFFLINE",
+        "onlineWF": "PWD_NOC",
+        "mode": "online",
+        "NocUserRole": "PWD_NOC_APPROVER"
+      },
+      {
+        "code": "ELECTRICITY_HT_LINE",
+        "isActive": true,
+        "offlineWF": "ELEC_NOC_OFFLINE",
+        "onlineWF": "ELEC_NOC",
+        "mode": "online",
+        "NocUserRole": "ELEC_NOC_APPROVER"
+      },
+      {
+        "code": "FIRE_SPECIAL_STRUCTURE",
+        "isActive": true,
+        "offlineWF": "FIRE_NOC_OFFLINE",
+        "onlineWF": "FIRENOC",
+        "mode": "online",
+        "NocUserRole": "FIRE_NOC_APPROVER"
+      },
+      {
+        "code": "SADA_SPECIAL_AUTHORITY",
+        "isActive": true,
+        "offlineWF": "SADA_NOC_OFFLINE",
+        "onlineWF": "SADA_NOC",
+        "mode": "online",
+        "NocUserRole": "SADA_NOC_APPROVER"
+      },
+      {
+        "code": "NHAI_APPROACH_ROAD",
+        "isActive": true,
+        "offlineWF": "NHAI_NOC_OFFLINE",
+        "onlineWF": "NHAI_NOC",
+        "mode": "online",
+        "NocUserRole": "NHAI_NOC_APPROVER"
       }
     ]
   }
