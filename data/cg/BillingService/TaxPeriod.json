@@ -3503,6 +3503,14 @@
       "toDate": 1806517740000,
       "periodCycle": "ANNUAL",
       "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_PERMISSION_FEE",
+      "financialYear": "2025-26"
+    },,
+    {
+      "fromDate": 1774981800000,
+      "toDate": 1806517740000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
       "code": "LAYOUT_OTHERCHARGES1_FEE",
       "financialYear": "2026-27"
     },
