@@ -54,8 +54,8 @@
 			"type": "PAY1",
 			"businessService": "BPA.PAY1",
 			"fromFY": "2026-27",
-			"startingDate": 1775001600000,
-			"endingDate": 1806537599000,
+			"startingDate": 1774981800000,
+			"endingDate": 1806517740000,
 			"active": true,
 			"Charges": [
 				{
@@ -81,8 +81,8 @@
 			"type": "PAY2",
 			"businessService": "BPA.PAY2",
 			"fromFY": "2026-27",
-			"startingDate": 1775001600000,
-			"endingDate": 1806537599000,
+			"startingDate": 1774981800000,
+			"endingDate": 1806517740000,
 			"active": true,
 			"Charges": [
 				{
