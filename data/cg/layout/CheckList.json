@@ -1,0 +1,190 @@
+{
+  "tenantId": "cg",
+  "moduleName": "LAYOUT",
+  "CheckList": [
+    {
+      "applicationType": "LAYOUT_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "LOW",
+      "WFState": "L2_VERIFICATION",
+      "questions": [
+        {
+          "question": "DOES_PLOT_EXIST",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "CONNECTED_TO_PUBLIC_ROAD",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "ROAD_STATUS",
+          "fieldType": "PUBLIC/PRIVATE",
+          "active": true
+        },
+        {
+          "question": "ROAD_TYPE",
+          "fieldType": "TEXT",
+          "active": true
+        },
+        {
+          "question": "DRAIN_EXISTS",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "ROAD_WIDTH",
+          "fieldType": "NUMBER",
+          "active": true
+        },
+        {
+          "question": "DRAIN_TYPE",
+          "fieldType": "SELECT",
+          "active": true
+        },
+        {
+          "question": "CONNECTED_DRAIN_TYPE",
+          "fieldType": "PUBLIC/OUTFALL",
+          "active": true
+        },
+        {
+          "question": "IS_ROAD_JUNCTION",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "SITE_LEVEL",
+          "fieldType": "TEXT",
+          "active": true
+        },
+        {
+          "question": "AREA_SUBJECT_TO",
+          "fieldType": "TEXT",
+          "active": true
+        },
+        {
+          "question": "LOCALITY_TYPE",
+          "fieldType": "TEXT",
+          "active": true
+        },
+        {
+          "question": "DISTANCE_FROM_LANDMARK",
+          "fieldType": "NUMBER",
+          "active": true
+        },
+        {
+          "question": "DISTANCE_FROM_ELECTRIC_LINE",
+          "fieldType": "NUMBER",
+          "active": true
+        },
+        {
+          "question": "CONSTRUCTION_PRESENT",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "CONSTRUCTION_TYPE",
+          "fieldType": "TEXT",
+          "active": true
+        },
+        {
+          "question": "NO_OF_STOREY",
+          "fieldType": "NUMBER",
+          "active": true
+        },
+        {
+          "question": "PLOT_SIZE",
+          "fieldType": "NUMBER",
+          "active": true
+        },
+        {
+          "question": "ENCROACHMENT",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "DISTANCE_FROM_ROAD_CENTER",
+          "fieldType": "NUMBER",
+          "active": true
+        },
+        {
+          "question": "ROAD_AVAILABLE",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "SEWERAGE_AVAILABLE",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "DRAINAGE_AVAILABLE",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "DRINKING_WATER",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "ELECTRICITY_AVAILABLE",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "HAZARDOUS_ACTIVITY",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "EAST_SIDE",
+          "fieldType": "TEXT",
+          "active": true
+        },
+        {
+          "question": "WEST_SIDE",
+          "fieldType": "TEXT",
+          "active": true
+        },
+        {
+          "question": "NORTH_SIDE",
+          "fieldType": "TEXT",
+          "active": true
+        },
+        {
+          "question": "SOUTH_SIDE",
+          "fieldType": "TEXT",
+          "active": true
+        },
+
+        {
+          "question": "EXISTING_ROAD_WIDTH",
+          "fieldType": "NUMBER",
+          "active": true
+        },
+        {
+          "question": "PROPOSED_ROAD_WIDTH",
+          "fieldType": "NUMBER",
+          "active": true
+        },
+        {
+          "question": "HAS_TREES",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "IS_MARSH_LAND",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "LAND_TYPE",
+          "fieldType": "EVEN/UNEVEN",
+          "active": true
+        }
+      ]
+    }
+  ]
+}
