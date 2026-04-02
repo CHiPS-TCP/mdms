@@ -807,8 +807,21 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
-	        ]
+	          },
+              {
+                "code": "APPROVED_LAYOUT_DRAWING",
+                "required": true,
+                "allow": true,
+                "order": 19
+              },
+              {
+                "code": "APPROVED_LAYOUT_LETTER",
+                "required": true,
+                "allow": true,
+                "order": 20
+              }
+
+      ]
     },
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
