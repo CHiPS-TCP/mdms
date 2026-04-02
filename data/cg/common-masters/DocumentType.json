@@ -327,6 +327,14 @@
     {
       "code": "CITIZEN.CONSENT",
       "active": true
+    },
+    {
+      "code": "APPROVED_LAYOUT_DRAWING",
+      "active": true
+    },
+    {
+      "code": "APPROVED_LAYOUT_LETTER",
+      "active": true
     }
 
 
