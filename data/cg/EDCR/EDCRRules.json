@@ -33,25 +33,7 @@
 						"value": [
 							{
 								"min": 0,
-								"max": 100,
-								"normal": 1.25,
-								"purchasable": 0.5
-							},
-							{
-								"min": 100,
-								"max": 200,
-								"normal": 1.25,
-								"purchasable": 0.5
-							},
-							{
-								"min": 200,
-								"max": 450,
-								"normal": 1.25,
-								"purchasable": 0.5
-							},
-							{
-								"min": 450,
-								"max": 9999999999,
+								"max": 999999999,
 								"normal": 1.25,
 								"purchasable": 0.5
 							}
@@ -7807,33 +7789,9 @@
 						"value": [
 							{
 								"min": 0,
-								"max": 2.5,
-								"normal": 2.5,
-								"purchasable": 0
-							},
-							{
-								"min": 0,
-								"max": 50,
-								"normalPercentage": 20,
-								"purchasablePercentage": 15
-							},
-							{
-								"min": 50,
-								"max": 100,
-								"normalPercentage": 30,
-								"purchasablePercentage": 20
-							},
-							{
-								"min": 100,
-								"max": 250,
-								"normalPercentage": 40,
-								"purchasablePercentage": 25
-							},
-							{
-								"min": 250,
-								"max": 999,
-								"normalPercentage": 50,
-								"purchasablePercentage": 30
+								"max": 99999999,
+								"normal": 1.75,
+								"purchasable": 0.75
 							}
 						]
 					},
@@ -8486,10 +8444,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -28721,6 +28697,44 @@
 							}
 						]
 					},
+					"plantationArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
+					},
+					"amenitiesArea": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 8000.0,
+								"value": 0.0
+							},
+							{
+								"min": 8000.01,
+								"max": 999999999,
+								"value": 5.0
+							}
+						]
+					},
+					"mainRoadWidth": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 999999999,
+								"value": 12.0
+							}
+						]
+					},
 					"parkingOpenArea": {
 						"mandatory": true,
 						"type": "MAP",
@@ -29059,7 +29073,7 @@
 							{
 								"min": 1001,
 								"max": 9999999999,
-								"percentage": 45
+								"percentage": 40
 							}
 						]
 					},
@@ -29433,13 +29447,6 @@
 						"type": "SIMPLE",
 						"valueType": "STRING",
 						"value": "G+2"
-					},
-					"plantationArea": {
-						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
-						"unit": "percent",
-						"value": 0
 					},
 					"toilet": {
 						"mandatory": true,
