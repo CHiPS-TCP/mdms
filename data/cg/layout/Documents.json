@@ -11,20 +11,12 @@
       "order": 1
     },
     {
-      "code": "OWNER.B1_KHASRA_DETAILS",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.B1_KHASRA_DETAILS_DESCRIPTION",
-      "order": 2
-    },
-    {
       "code": "OWNER.DRAWING_PARKING_SERVICE_PLAN",
       "documentType": "OWNER",
       "required": true,
       "active": true,
       "description": "OWNER.DRAWING_PARKING_SERVICE_PLAN_DESCRIPTION",
-      "order": 3
+      "order": 2
     },
     {
       "code": "OWNER.DRAWING_APPROACH_ROAD",
@@ -32,7 +24,7 @@
       "required": true,
       "active": true,
       "description": "OWNER.DRAWING_APPROACH_ROAD_DESCRIPTION",
-      "order": 4
+      "order": 3
     },
     {
       "code": "OWNER.SURVEY_PLAN_MAP",
@@ -40,6 +32,14 @@
       "required": true,
       "active": true,
       "description": "OWNER.SURVEY_PLAN_MAP_DESCRIPTION",
+      "order": 4
+    },
+    {
+      "code": "OWNER.B1_KHASRA_DETAILS",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.B1_KHASRA_DETAILS_DESCRIPTION",
       "order": 5
     },
     {
