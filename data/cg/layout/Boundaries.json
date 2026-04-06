@@ -13,11 +13,6 @@
       "active": true
     },
     {
-      "code": "SURVEY",
-      "name": "Survey",
-      "active": true
-    },
-    {
       "code": "OTHERS",
       "name": "Others",
       "active": true
