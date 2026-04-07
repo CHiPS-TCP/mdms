@@ -39,6 +39,19 @@
 							}
 						]
 					},
+					"mainRoadWidth": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 999999999,
+								"value": 12.0
+							}
+						]
+					},
 					"roadWidth": {
 						"mandatory": true,
 						"type": "RANGE",
@@ -748,10 +761,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -1423,148 +1454,44 @@
 								"value": [
 									{
 										"min": 0,
-										"max": 9,
+										"max": 999999999,
 										"type": "SLAB",
 										"useVariable": "buildingHeight",
 										"value": {
 											"min": 0,
-											"max": 40,
+											"max": 999999999,
 											"type": "SLAB",
 											"useVariable": "plotArea",
 											"value": [
 												{
 													"min": 0,
-													"max": 999999,
+													"max": 500,
 													"value": 3.0
-												}
-											]
-										}
-									},
-									{
-										"min": 9.01,
-										"max": 12,
-										"type": "SLAB",
-										"useVariable": "buildingHeight",
-										"value": {
-											"min": 0,
-											"max": 40,
-											"type": "SLAB",
-											"useVariable": "plotArea",
-											"value": [
+												},
 												{
-													"min": 0,
-													"max": 999999,
+													"min": 500.01,
+													"max": 1000,
 													"value": 4.5
-												}
-											]
-										}
-									},
-									{
-										"min": 12.01,
-										"max": 18,
-										"value": {
-											"type": "SLAB",
-											"useVariable": "buildingHeight",
-											"value": [
+												},
 												{
-													"min": 0,
-													"max": 25,
+													"min": 1000.01,
+													"max": 2000,
 													"value": 6.0
 												},
 												{
-													"min": 25.01,
-													"max": 40,
+													"min": 2000.01,
+													"max": 5000,
 													"value": 7.5
-												}
-											]
-										}
-									},
-									{
-										"min": 18.01,
-										"max": 30,
-										"value": {
-											"type": "SLAB",
-											"useVariable": "buildingHeight",
-											"value": [
-												{
-													"min": 0,
-													"max": 25,
-													"value": {
-														"type": "SLAB",
-														"useVariable": "plotArea",
-														"value": [
-															{
-																"min": 0,
-																"max": 2000,
-																"value": 6.0
-															},
-															{
-																"min": 2000.01,
-																"max": 999999,
-																"value": 7.5
-															}
-														]
-													}
 												},
 												{
-													"min": 25.01,
-													"max": 40,
-													"value": 7.5
-												}
-											]
-										}
-									},
-									{
-										"min": 30.01,
-										"max": 60,
-										"value": {
-											"type": "SLAB",
-											"useVariable": "buildingHeight",
-											"value": [
-												{
-													"min": 0,
-													"max": 25,
-													"value": {
-														"type": "SLAB",
-														"useVariable": "plotArea",
-														"value": [
-															{
-																"min": 0,
-																"max": 2000,
-																"value": 6.0
-															},
-															{
-																"min": 2000.01,
-																"max": 999999,
-																"value": 9.0
-															}
-														]
-													}
+													"min": 5000.01,
+													"max": 10000,
+													"value": 10.0
 												},
 												{
-													"min": 25.01,
-													"max": 40,
-													"value": 9.0
-												}
-											]
-										}
-									},
-									{
-										"min": 60.01,
-										"max": 100,
-										"value": {
-											"type": "SLAB",
-											"useVariable": "buildingHeight",
-											"value": [
-												{
-													"min": 0,
-													"max": 25,
+													"min": 10000.01,
+													"max": 999999999,
 													"value": 12.0
-												},
-												{
-													"min": 25.01,
-													"max": 40,
-													"value": 15.0
 												}
 											]
 										}
@@ -1574,59 +1501,54 @@
 							"rear": {
 								"mandatory": true,
 								"type": "SLAB",
-								"useVariable": "plotArea",
+								"valueType": "DOUBLE",
 								"unit": "m",
 								"value": [
 									{
 										"min": 0,
-										"max": 150,
-										"value": 1.5
+										"max": 1000,
+										"value": 4.5
 									},
 									{
-										"min": 150.01,
-										"max": 300,
-										"value": 2.25
-									},
-									{
-										"min": 300.01,
-										"max": 500,
-										"value": 2.25
+										"min": 1000.01,
+										"max": 9999999999,
+										"value": 6.0
 									}
 								]
 							},
 							"side1": {
 								"mandatory": true,
 								"type": "SLAB",
-								"useVariable": "plotArea",
+								"valueType": "DOUBLE",
 								"unit": "m",
 								"value": [
 									{
 										"min": 0,
-										"max": 300,
-										"value": 1.5
+										"max": 1000,
+										"value": 4.5
 									},
 									{
-										"min": 300.01,
-										"max": 500,
-										"value": 1.5
+										"min": 1000.01,
+										"max": 9999999999,
+										"value": 6.0
 									}
 								]
 							},
-							"side2": {
+						"side2": {
 								"mandatory": true,
 								"type": "SLAB",
-								"useVariable": "plotArea",
+								"valueType": "DOUBLE",
 								"unit": "m",
 								"value": [
 									{
 										"min": 0,
-										"max": 300,
-										"value": 1.5
+										"max": 1000,
+										"value": 4.5
 									},
 									{
-										"min": 300.01,
-										"max": 500,
-										"value": 1.5
+										"min": 1000.01,
+										"max": 9999999999,
+										"value": 6.0
 									}
 								]
 							}
@@ -2055,11 +1977,29 @@
 						}
 					},
 					"plantationArea": {
-						"mandatory": true,
+						"mandatory": false,
 						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": 0.0
+					},
+					"amenitiesArea": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 8000.0,
+								"value": 0.0
+							},
+							{
+								"min": 8000.01,
+								"max": 999999999,
+								"value": 5.0
+							}
+						]
 					},
 					"toilet": {
 						"mandatory": true,
@@ -3348,10 +3288,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -4640,10 +4598,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -5932,10 +5908,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -7224,10 +7218,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -7956,19 +7968,32 @@
 							"front": {
 								"mandatory": true,
 								"type": "SLAB",
-								"valueType": "DOUBLE",
+								"useVariable": "roadWidth",
 								"unit": "m",
-								"description": "Primary Slab based on Plot Square",
 								"value": [
 									{
 										"min": 0,
-										"max": 1000,
-										"value": 4.5
-									},
-									{
-										"min": 1000.01,
-										"max": 9999,
-										"value": 6.0
+										"max": 999999999,
+										"type": "SLAB",
+										"useVariable": "buildingHeight",
+										"value": {
+											"min": 0,
+											"max": 999999999,
+											"type": "SLAB",
+											"useVariable": "plotArea",
+											"value": [
+												{
+													"min": 0,
+													"max": 300,
+													"value": 3.0
+												},
+												{
+													"min": 300.01,
+													"max": 999999999,
+													"value": 4.5
+												}
+											]
+										}
 									}
 								]
 							},
@@ -7981,48 +8006,58 @@
 									{
 										"min": 0,
 										"max": 1000,
-										"value": 4.5
+										"value": 3.0
 									},
 									{
 										"min": 1000.01,
-										"max": 9999,
-										"value": 6.0
+										"max": 9999999999,
+										"value": 4.5
 									}
 								]
 							},
 							"side1": {
 								"mandatory": true,
-								"type": "MATH_MAX",
+								"type": "SLAB",
 								"valueType": "DOUBLE",
 								"unit": "m",
 								"value": [
 									{
 										"min": 0,
-										"max": 1000,
-										"value": 4.5
+										"max": 300,
+										"value": 0
+									},
+									{
+										"min": 300.01,
+										"max": 1000.0,
+										"value": 3.0
 									},
 									{
 										"min": 1000.01,
-										"max": 9999,
-										"value": 6.0
+										"max": 9999999999,
+										"value": 4.5
 									}
 								]
 							},
 							"side2": {
 								"mandatory": true,
-								"type": "MATH_MAX",
+								"type": "SLAB",
 								"valueType": "DOUBLE",
 								"unit": "m",
 								"value": [
 									{
 										"min": 0,
+										"max": 500,
+										"value": 0
+									},
+									{
+										"min": 500.01,
 										"max": 1000,
-										"value": 4.5
+										"value": 1.5
 									},
 									{
 										"min": 1000.01,
-										"max": 9999,
-										"value": 6.0
+										"max": 9999999999,
+										"value": 4.5
 									}
 								]
 							}
@@ -9218,19 +9253,32 @@
 							"front": {
 								"mandatory": true,
 								"type": "SLAB",
-								"valueType": "DOUBLE",
+								"useVariable": "roadWidth",
 								"unit": "m",
-								"description": "Primary Slab based on Plot Square",
 								"value": [
 									{
 										"min": 0,
-										"max": 1000,
-										"value": 4.5
-									},
-									{
-										"min": 1000.01,
-										"max": 9999,
-										"value": 6.0
+										"max": 999999999,
+										"type": "SLAB",
+										"useVariable": "buildingHeight",
+										"value": {
+											"min": 0,
+											"max": 999999999,
+											"type": "SLAB",
+											"useVariable": "plotArea",
+											"value": [
+												{
+													"min": 0,
+													"max": 300,
+													"value": 3.0
+												},
+												{
+													"min": 300.01,
+													"max": 999999999,
+													"value": 4.5
+												}
+											]
+										}
 									}
 								]
 							},
@@ -9243,48 +9291,58 @@
 									{
 										"min": 0,
 										"max": 1000,
-										"value": 4.5
+										"value": 3.0
 									},
 									{
 										"min": 1000.01,
-										"max": 9999,
-										"value": 6.0
+										"max": 9999999999,
+										"value": 4.5
 									}
 								]
 							},
 							"side1": {
 								"mandatory": true,
-								"type": "MATH_MAX",
+								"type": "SLAB",
 								"valueType": "DOUBLE",
 								"unit": "m",
 								"value": [
 									{
 										"min": 0,
-										"max": 1000,
-										"value": 4.5
+										"max": 300,
+										"value": 0
+									},
+									{
+										"min": 300.01,
+										"max": 1000.0,
+										"value": 3.0
 									},
 									{
 										"min": 1000.01,
-										"max": 9999,
-										"value": 6.0
+										"max": 9999999999,
+										"value": 4.5
 									}
 								]
 							},
 							"side2": {
 								"mandatory": true,
-								"type": "MATH_MAX",
+								"type": "SLAB",
 								"valueType": "DOUBLE",
 								"unit": "m",
 								"value": [
 									{
 										"min": 0,
+										"max": 500,
+										"value": 0
+									},
+									{
+										"min": 500.01,
 										"max": 1000,
-										"value": 4.5
+										"value": 1.5
 									},
 									{
 										"min": 1000.01,
-										"max": 9999,
-										"value": 6.0
+										"max": 9999999999,
+										"value": 4.5
 									}
 								]
 							}
@@ -9706,10 +9764,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -10950,10 +11026,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -12489,10 +12583,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -14028,10 +14140,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -15567,10 +15697,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -17185,10 +17333,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -18803,10 +18969,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -20205,10 +20389,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -21607,10 +21809,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -22966,10 +23186,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -24790,10 +25028,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -26071,10 +26327,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -28126,10 +28400,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -28830,148 +29122,44 @@
 								"value": [
 									{
 										"min": 0,
-										"max": 9,
+										"max": 999999999,
 										"type": "SLAB",
 										"useVariable": "buildingHeight",
 										"value": {
 											"min": 0,
-											"max": 40,
+											"max": 999999999,
 											"type": "SLAB",
 											"useVariable": "plotArea",
 											"value": [
 												{
 													"min": 0,
-													"max": 999999,
+													"max": 500,
 													"value": 3.0
-												}
-											]
-										}
-									},
-									{
-										"min": 9.01,
-										"max": 12,
-										"type": "SLAB",
-										"useVariable": "buildingHeight",
-										"value": {
-											"min": 0,
-											"max": 40,
-											"type": "SLAB",
-											"useVariable": "plotArea",
-											"value": [
+												},
 												{
-													"min": 0,
-													"max": 999999,
+													"min": 500.01,
+													"max": 1000,
 													"value": 4.5
-												}
-											]
-										}
-									},
-									{
-										"min": 12.01,
-										"max": 18,
-										"value": {
-											"type": "SLAB",
-											"useVariable": "buildingHeight",
-											"value": [
+												},
 												{
-													"min": 0,
-													"max": 25,
+													"min": 1000.01,
+													"max": 2000,
 													"value": 6.0
 												},
 												{
-													"min": 25.01,
-													"max": 40,
+													"min": 2000.01,
+													"max": 5000,
 													"value": 7.5
-												}
-											]
-										}
-									},
-									{
-										"min": 18.01,
-										"max": 30,
-										"value": {
-											"type": "SLAB",
-											"useVariable": "buildingHeight",
-											"value": [
-												{
-													"min": 0,
-													"max": 25,
-													"value": {
-														"type": "SLAB",
-														"useVariable": "plotArea",
-														"value": [
-															{
-																"min": 0,
-																"max": 2000,
-																"value": 6.0
-															},
-															{
-																"min": 2000.01,
-																"max": 999999,
-																"value": 7.5
-															}
-														]
-													}
 												},
 												{
-													"min": 25.01,
-													"max": 40,
-													"value": 7.5
-												}
-											]
-										}
-									},
-									{
-										"min": 30.01,
-										"max": 60,
-										"value": {
-											"type": "SLAB",
-											"useVariable": "buildingHeight",
-											"value": [
-												{
-													"min": 0,
-													"max": 25,
-													"value": {
-														"type": "SLAB",
-														"useVariable": "plotArea",
-														"value": [
-															{
-																"min": 0,
-																"max": 2000,
-																"value": 6.0
-															},
-															{
-																"min": 2000.01,
-																"max": 999999,
-																"value": 9.0
-															}
-														]
-													}
+													"min": 5000.01,
+													"max": 10000,
+													"value": 10.0
 												},
 												{
-													"min": 25.01,
-													"max": 40,
-													"value": 9.0
-												}
-											]
-										}
-									},
-									{
-										"min": 60.01,
-										"max": 100,
-										"value": {
-											"type": "SLAB",
-											"useVariable": "buildingHeight",
-											"value": [
-												{
-													"min": 0,
-													"max": 25,
+													"min": 10000.01,
+													"max": 999999999,
 													"value": 12.0
-												},
-												{
-													"min": 25.01,
-													"max": 40,
-													"value": 15.0
 												}
 											]
 										}
@@ -30127,19 +30315,52 @@
 							"front": {
 								"mandatory": true,
 								"type": "SLAB",
-								"valueType": "DOUBLE",
+								"useVariable": "roadWidth",
 								"unit": "m",
-								"description": "Primary Slab based on Plot Square",
 								"value": [
 									{
 										"min": 0,
-										"max": 1000,
-										"value": 4.5
-									},
-									{
-										"min": 1000.01,
-										"max": 9999,
-										"value": 6.0
+										"max": 999999999,
+										"type": "SLAB",
+										"useVariable": "buildingHeight",
+										"value": {
+											"min": 0,
+											"max": 999999999,
+											"type": "SLAB",
+											"useVariable": "plotArea",
+											"value": [
+												{
+													"min": 0,
+													"max": 500,
+													"value": 3.0
+												},
+												{
+													"min": 500.01,
+													"max": 1000,
+													"value": 4.5
+												},
+												{
+													"min": 1000.01,
+													"max": 2000,
+													"value": 6.0
+												},
+												{
+													"min": 2000.01,
+													"max": 5000,
+													"value": 7.5
+												},
+												{
+													"min": 5000.01,
+													"max": 10000,
+													"value": 10.0
+												},
+												{
+													"min": 10000.01,
+													"max": 999999999,
+													"value": 12.0
+												}
+											]
+										}
 									}
 								]
 							},
@@ -30156,14 +30377,14 @@
 									},
 									{
 										"min": 1000.01,
-										"max": 9999,
+										"max": 9999999999,
 										"value": 6.0
 									}
 								]
 							},
 							"side1": {
 								"mandatory": true,
-								"type": "MATH_MAX",
+								"type": "SLAB",
 								"valueType": "DOUBLE",
 								"unit": "m",
 								"value": [
@@ -30174,14 +30395,14 @@
 									},
 									{
 										"min": 1000.01,
-										"max": 9999,
+										"max": 9999999999,
 										"value": 6.0
 									}
 								]
 							},
-							"side2": {
+						"side2": {
 								"mandatory": true,
-								"type": "MATH_MAX",
+								"type": "SLAB",
 								"valueType": "DOUBLE",
 								"unit": "m",
 								"value": [
@@ -30192,7 +30413,7 @@
 									},
 									{
 										"min": 1000.01,
-										"max": 9999,
+										"max": 9999999999,
 										"value": 6.0
 									}
 								]
@@ -30615,10 +30836,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -31908,10 +32147,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -33201,10 +33458,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -34518,10 +34793,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -36000,10 +36293,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -37779,10 +38090,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -39558,10 +39887,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
@@ -41892,10 +42239,28 @@
 					},
 					"plantationArea": {
 						"mandatory": true,
-						"type": "SIMPLE",
-						"valueType": "INTEGER",
+						"type": "SLAB",
+						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 5
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
 					},
 					"toilet": {
 						"mandatory": true,
