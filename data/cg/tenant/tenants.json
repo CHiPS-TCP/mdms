@@ -14,13 +14,14 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "tcp.cg@gov.in",
+      "emailId": "cgtownplan.raipur@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
       "city": {
         "name": "Chhattisgarh TCP",
         "nameHindi": "टीसीपी (छ.ग.)",
+        "regionalOfficeNameHindi": "क्षेत्रीय कार्यालय रायपुर (छ.ग.)",
         "localName": "Chhattisgarh TCP",
         "districtCode": "00",
         "districtName": "State Level",
@@ -38,12 +39,17 @@
         "municipalityNameHindi": "नगर तथा ग्राम निवेश",
         "officerDesigHindi": "उप संचालक",
         "officerDesig": "Deputy Director",
+        "jointOfficerDesigHindi": "संयुक्त संचालक",
+        "jointOfficerDesig": "Joint Director",
         "ddrName": "Raipur",
         "pwssb": false,
         "pwssbGrade": null
       },
       "address": "Town and Country Planning Department, Nava Raipur, Chhattisgarh",
-      "contactNumber": "0771-0000000",
+      "regionalOfficeAddress": "R.D.A Bhawan Shashtri Chowk, Raipur (C.G.)",
+      "regionalOfficeAddressHindi": "आर. डी. ए. भवन, शास्त्री चौक, रायपुर (छ. ग.)",
+      "contactNumber": "0771-2223728",
+      "fax": "0771-2223728",
       "PGRMasterContact": "9999999999"
     },
     {
