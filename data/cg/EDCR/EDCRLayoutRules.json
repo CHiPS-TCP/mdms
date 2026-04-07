@@ -124,37 +124,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -275,19 +253,13 @@
 						"value": {
 							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 9.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 15.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -415,19 +387,13 @@
 						"value": {
 							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 9.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 15.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -1665,37 +1631,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -2957,37 +2901,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -4249,37 +4171,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -5541,37 +5441,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -6833,37 +6711,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -8077,37 +7933,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -9321,37 +9155,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -10565,37 +10377,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -12104,37 +11894,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -13643,37 +13411,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -15182,37 +14928,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -16800,37 +16524,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -18418,37 +18120,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -19820,37 +19500,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -21222,37 +20880,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -22581,37 +22217,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -24405,37 +24019,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -25686,37 +25278,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -27741,37 +27311,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -27952,19 +27500,13 @@
 						"value": {
 							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 9.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 15.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -29046,37 +28588,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -30339,37 +29859,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -31632,37 +31130,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -32949,37 +32425,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -34431,37 +33885,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -36210,37 +35642,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -37989,37 +37399,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
@@ -40323,37 +39711,15 @@
 						"mandatory": true,
 						"type": "MAP",
 						"value": {
-							"distanceFromProtectionWall": {
+							"distanceFromFloodLevel": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 30.0,
-									"max": 0.0
-								}
-							},
-							"distanceFromEmbankment": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 50.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 9.0
 							},
 							"distanceFromMainRiverEdge": {
 								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 200.0,
-									"max": 0.0
-								}
-							},
-							"distancesFromSubRiver": {
-								"mandatory": true,
-								"type": "RANGE",
-								"value": {
-									"min": 100.0,
-									"max": 0.0
-								}
+								"type": "SIMPLE",
+								"value": 15.0
 							}
 						}
 					},
