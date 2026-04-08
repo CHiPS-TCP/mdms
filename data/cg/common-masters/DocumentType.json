@@ -335,6 +335,10 @@
     {
       "code": "APPROVED_LAYOUT_LETTER",
       "active": true
+    },
+    {
+      "code": "OWNER.CORRESPONDENCE_ADDRESS",
+      "active": true
     }
 
 

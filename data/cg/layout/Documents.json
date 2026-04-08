@@ -43,11 +43,11 @@
       "order": 5
     },
     {
-      "code": "OWNER.PROOF_OF_RESIDENCE",
+      "code": "OWNER.CORRESPONDENCE_ADDRESS",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.PROOF_OF_RESIDENCE_DESCRIPTION",
+      "description": "OWNER.CORRESPONDENCE_ADDRESS_DESCRIPTION",
       "order": 6
     },
     {
