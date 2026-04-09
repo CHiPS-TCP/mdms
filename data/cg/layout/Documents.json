@@ -45,7 +45,7 @@
     {
       "code": "OWNER.CORRESPONDENCE_ADDRESS",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
       "description": "OWNER.CORRESPONDENCE_ADDRESS_DESCRIPTION",
       "order": 6
@@ -69,7 +69,7 @@
     {
       "code": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
       "description": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP_DESCRIPTION",
       "order": 9
