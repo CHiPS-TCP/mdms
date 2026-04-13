@@ -339,6 +339,14 @@
     {
       "code": "OWNER.CORRESPONDENCE_ADDRESS",
       "active": true
+    },
+    {
+      "code": "OWNER.SITEPHOTOGRAPHTHREE",
+      "active": true
+    },
+    {
+      "code": "OWNER.SITEPHOTOGRAPHFOUR",
+      "active": true
     }
 
 
