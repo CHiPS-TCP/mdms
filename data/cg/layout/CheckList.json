@@ -24,8 +24,8 @@
           "active": true
         },
         {
-          "question": "ROAD_TYPE",
-          "fieldType": "TEXT",
+          "question": "NATURE_OF_ROAD",
+          "fieldType": "BLACKTOP/KACHA/MURUM/METALLED/CONCRETE",
           "active": true
         },
         {
@@ -39,8 +39,8 @@
           "active": true
         },
         {
-          "question": "DRAIN_TYPE",
-          "fieldType": "SELECT",
+          "question": "NATURE",
+          "fieldType": "CONCRETE/MURUM/EARTH",
           "active": true
         },
         {
@@ -60,12 +60,12 @@
         },
         {
           "question": "AREA_SUBJECT_TO",
-          "fieldType": "TEXT",
+          "fieldType": "WATER LOGGING/AFFECTED BY DRAINAGE CHANNEL/LOW LINE LAND/FLOODABLE AREA/NA",
           "active": true
         },
         {
           "question": "LOCALITY_TYPE",
-          "fieldType": "TEXT",
+          "fieldType": "DEVELOPED/UNDEVELOPED/BASTI AREA/DEVELOPING",
           "active": true
         },
         {
@@ -84,8 +84,8 @@
           "active": true
         },
         {
-          "question": "CONSTRUCTION_TYPE",
-          "fieldType": "TEXT",
+          "question": "NATURE_OF_CONSTRUCTION",
+          "fieldType": "PERMANENT/TEMPORARY",
           "active": true
         },
         {
