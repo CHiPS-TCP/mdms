@@ -1,0 +1,197 @@
+{
+  "tenantId": "cg",
+  "moduleName": "LAYOUT",
+  "ApprovalConditions": [
+    {
+      "ServiceType": "NEW",
+      "WFState": "PENDING_APPROVAL",
+      "questions": [
+        {
+          "question": "APPROVAL_CONDITION_1",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_2",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_3",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_4",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_5",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_6",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_7",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_8",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_9",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_10",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_11",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_12",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_13",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_14",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_15",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_16",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_17",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_18",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_19",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_20",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_21",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_22",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_23",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_24",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_25",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_26",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_27",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_28",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_29",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_30",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_31",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_32",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_33",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_34",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "APPROVAL_CONDITION_35",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "LAYOUT_ADDITIONAL_CONDITIONS",
+          "fieldType": "YES/NO",
+          "active": true
+        },
+        {
+          "question": "LAYOUT_PRATILIPI",
+          "fieldType": "YES/NO",
+          "active": true
+        }
+      ]
+    }
+  ]
+}
