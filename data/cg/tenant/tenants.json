@@ -719,6 +719,7 @@
       },
       "city": {
         "name": "Raipur",
+        "nameHindi": "रायपुर (छ.ग.)",
         "localName": "Raipur",
         "districtCode": "CG",
         "districtName": "Raipur",
@@ -733,12 +734,15 @@
         "code": "RPR",
         "regionCode": "CG",
         "municipalityName": "Raipur Municipal Corporation",
+        "municipalityNameHindi": "नगर निगम",
+        "officerDesigHindi": "कार्यपालन अभियंता",
+        "officerDesig": "Executive Officer",
         "ddrName": "Raipur",
         "pwssb": false,
         "pwssbGrade": null
       },
       "address": "Raipur, Chhattisgarh",
-      "contactNumber": null,
+      "contactNumber": "0772-0000001",
       "PGRMasterContact": null
     },
     {
