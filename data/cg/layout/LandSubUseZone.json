@@ -35,11 +35,19 @@
       "active": true
     },
     {
+      "code": "SE",
+      "name": "SE",
+      "fullName": "Social Establishment",
+      "zoneCode": "SOCIAL_ESTABLISHMENT",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
       "code": "E1",
       "name": "E1",
       "fullName": "Education-1",
       "zoneCode": "EDUCATION_1",
-      "category": "EDUCATIONAL",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
@@ -47,7 +55,7 @@
       "name": "E2",
       "fullName": "Education-2",
       "zoneCode": "EDUCATION_2",
-      "category": "EDUCATIONAL",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
@@ -55,7 +63,7 @@
       "name": "E3",
       "fullName": "Education-3",
       "zoneCode": "EDUCATION_3",
-      "category": "EDUCATIONAL",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
@@ -63,7 +71,7 @@
       "name": "A1",
       "fullName": "Assembly Hall-1",
       "zoneCode": "ASSEMBLY_HALL_1",
-      "category": "ASSEMBLY",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
@@ -71,7 +79,7 @@
       "name": "A2",
       "fullName": "Assembly Hall-2",
       "zoneCode": "ASSEMBLY_HALL_2",
-      "category": "ASSEMBLY",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
@@ -79,7 +87,7 @@
       "name": "H1",
       "fullName": "Health-1",
       "zoneCode": "HEALTH_1",
-      "category": "HEALTHCARE",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
@@ -87,7 +95,7 @@
       "name": "H2",
       "fullName": "Health-2",
       "zoneCode": "HEALTH_2",
-      "category": "HEALTHCARE",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
@@ -95,7 +103,31 @@
       "name": "R&C",
       "fullName": "Religious and Cultural",
       "zoneCode": "RELIGIOUS_AND_CULTURAL",
-      "category": "RELIGIOUS_CULTURAL",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
+      "active": true
+    },
+    {
+      "code": "PA",
+      "name": "PA",
+      "fullName": "Public Amenities",
+      "zoneCode": "PUBLIC_AMENITIES",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
+      "active": true
+    },
+    {
+      "code": "PI",
+      "name": "PI",
+      "fullName": "Public Institutions",
+      "zoneCode": "PUBLIC_INSTITUTIONS",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
+      "active": true
+    },
+    {
+      "code": "H",
+      "name": "H",
+      "fullName": "Hospitality",
+      "zoneCode": "HOSPITALITY",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
@@ -117,25 +149,17 @@
     {
       "code": "SL",
       "name": "SL",
-      "fullName": "Sports and Recreation",
-      "zoneCode": "SPORTS_AND_RECREATION",
-      "category": "RECREATIONAL",
+      "fullName": "Sports & Leisure",
+      "zoneCode": "SPORTS_AND_LEISURE",
+      "category": "PARKS_RECREATIONAL_OPEN_SPACES",
       "active": true
     },
     {
       "code": "P",
       "name": "P",
-      "fullName": "Parks and Open Spaces",
-      "zoneCode": "PARKS_AND_OPEN_SPACES",
-      "category": "PARKS_OPEN_SPACES",
-      "active": true
-    },
-    {
-      "code": "SE",
-      "name": "SE",
-      "fullName": "Service Establishments",
-      "zoneCode": "SERVICE_ESTABLISHMENTS",
-      "category": "SERVICE",
+      "fullName": "Parks",
+      "zoneCode": "PARKS",
+      "category": "PARKS_RECREATIONAL_OPEN_SPACES",
       "active": true
     },
     {
@@ -143,7 +167,7 @@
       "name": "TR",
       "fullName": "Transport",
       "zoneCode": "TRANSPORT",
-      "category": "RECREATIONAL",
+      "category": "TRANSPORT_COMMUNICATION",
       "active": true
     },
     {
@@ -160,38 +184,6 @@
       "fullName": "Agriculture-2",
       "zoneCode": "AGRICULTURE_2",
       "category": "AGRICULTURE",
-      "active": true
-    },
-    {
-      "code": "TU",
-      "name": "TU",
-      "fullName": "Temporary Use",
-      "zoneCode": "TEMPORARY_USE",
-      "category": "TEMPORARY",
-      "active": true
-    },
-    {
-      "code": "PA",
-      "name": "PA",
-      "fullName": "Public Amenities",
-      "zoneCode": "PUBLIC_AMENITIES",
-      "category": "PUBLIC_AMENITIES",
-      "active": true
-    },
-    {
-      "code": "IT",
-      "name": "IT",
-      "fullName": "Institutional",
-      "zoneCode": "INSTITUTIONAL",
-      "category": "INSTITUTIONAL",
-      "active": true
-    },
-    {
-      "code": "HP",
-      "name": "HP",
-      "fullName": "Hospitality",
-      "zoneCode": "HOSPITALITY",
-      "category": "HOSPITALITY",
       "active": true
     }
   ]
