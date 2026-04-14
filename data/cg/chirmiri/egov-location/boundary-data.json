@@ -1,5 +1,5 @@
 {
-  "tenantId": "cg.chirmiri   ",
+  "tenantId": "cg.chirmiri",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "chirmiri   ",
-        "localname": "chirmiri   ",
+        "name": "chirmiri",
+        "localname": "chirmiri",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "cg.chirmiri   ",
+        "code": "cg.chirmiri",
         "children": [
           {
             "id": "2c03cce5-7749-448c-bcff-2018a3952978",

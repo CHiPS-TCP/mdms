@@ -1,5 +1,5 @@
 {
-  "tenantId": "cg.kabirdham ",
+  "tenantId": "cg.kabirdham",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "kabirdham ",
-        "localname": "kabirdham ",
+        "name": "kabirdham",
+        "localname": "kabirdham",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "cg.kabirdham ",
+        "code": "cg.kabirdham",
         "children": [
           {
             "id": "2c03cce5-7749-448c-bcff-2018a3952978",
