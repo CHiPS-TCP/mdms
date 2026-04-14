@@ -484,9 +484,9 @@
       ]
     },
     {
-      "code": "CHAMPA_MASTER_PLAN",
-      "name": "Champa Master Plan",
-      "isMasterPlan": true,
+      "code": "CHAMPARAN_PLANNING_AREA",
+      "name": "Champaran Planning Area",
+      "isMasterPlan": false,
       "active": true,
       "locationTypes": [
         {
@@ -497,9 +497,9 @@
       ]
     },
     {
-      "code": "CHAMPARAN_PLANNING_AREA",
-      "name": "Champaran Planning Area",
-      "isMasterPlan": false,
+      "code": "CHAMPA_MASTER_PLAN",
+      "name": "Champa Master Plan",
+      "isMasterPlan": true,
       "active": true,
       "locationTypes": [
         {
@@ -1916,19 +1916,6 @@
       ]
     },
     {
-      "code": "S_LOHARA_PLANNING_AREA",
-      "name": "S. Lohara Planning Area",
-      "isMasterPlan": false,
-      "active": true,
-      "locationTypes": [
-        {
-          "code": "NA",
-          "name": "NA",
-          "active": true
-        }
-      ]
-    },
-    {
       "code": "SAJA_PLANNING_AREA",
       "name": "Saja Planning Area",
       "isMasterPlan": false,
@@ -2124,6 +2111,19 @@
       ]
     },
     {
+      "code": "S_LOHARA_PLANNING_AREA",
+      "name": "S. Lohara Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
       "code": "TAKHATPUR_PLANNING_AREA",
       "name": "Takhatpur Planning Area",
       "isMasterPlan": false,
@@ -2139,6 +2139,71 @@
     {
       "code": "TAMNAR_PLANNING_AREA",
       "name": "Tamnar Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "TCP_DUMMY_MASTER_PLAN",
+      "name": "TCP Dummy Master Plan",
+      "isMasterPlan": true,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "TCP_DUMMY_MASTER_PLAN_2",
+      "name": "TCP Dummy Master Plan 2",
+      "isMasterPlan": true,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "TCP_DUMMY_PLANNING_AREA",
+      "name": "TCP Dummy Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "TCP_DUMMY_PLANNING_AREA_2",
+      "name": "TCP Dummy Planning Area 2",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "TCP_DUMMY_PLANNING_AREA_3",
+      "name": "TCP Dummy Planning Area 3",
       "isMasterPlan": false,
       "active": true,
       "locationTypes": [
