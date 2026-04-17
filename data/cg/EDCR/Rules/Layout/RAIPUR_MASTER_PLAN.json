@@ -1,0 +1,436 @@
+{
+	"tenantId": "cg",
+	"moduleName": "EDCR.Rules.Layout",
+	"RAIPUR_MASTER_PLAN": [
+		{
+			"code": "101",
+			"name": "M1",
+			"Scheme": "SCHEME1",
+			"fromFY": "2026-27",
+			"startingDate": 1774981800000,
+			"endingDate": 1806517740000,
+			"active": true,
+			"OccType": [
+				{
+					"OccupancyType": "A",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Residential Plotted",
+					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 30,
+							"max": 0
+						}
+					},
+					"FAR": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "INTEGER",
+						"value": 0
+					},
+					"mainRoadWidth": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 999999999,
+								"value": 12.0
+							}
+						]
+					},
+					"internalRoadWidth": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"useVariable": "roadLength",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 200.0,
+								"value": 12.0
+							},
+							{
+								"min": 200.01,
+								"max": 400.0,
+								"value": 15.0
+							},
+							{
+								"min": 400.01,
+								"max": 600.0,
+								"value": 18.0
+							},
+							{
+								"min": 600.01,
+								"max": 999999999,
+								"value": 24.0
+							}
+						]
+					},
+					"rightOfWayWidth": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"value": 12.0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": 0.0
+					},
+					"plantationArea": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 999999999,
+								"value": 0.0
+							}
+						]
+					},
+					"riverDistance": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"distanceFromFloodLevel": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 9.0
+							},
+							"distanceFromMainRiverEdge": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 15.0
+							}
+						}
+					},
+					"electricalLine": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 33.0,
+								"value": 1.2
+							},
+							{
+								"min": 33.01,
+								"max": 999999999,
+								"value": 1.2
+							}
+						]
+					},
+					"subPlote": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": 300.0
+					}
+				},
+				{
+					"OccupancyType": "F",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Commercial Plotted",
+					"isActive": true,
+					"mainRoadWidth": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 999999999,
+								"value": 12.0
+							}
+						]
+					},
+					"internalRoadWidth": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"useVariable": "roadLength",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 200.0,
+								"value": 12.0
+							},
+							{
+								"min": 200.01,
+								"max": 400.0,
+								"value": 15.0
+							},
+							{
+								"min": 400.01,
+								"max": 600.0,
+								"value": 18.0
+							},
+							{
+								"min": 600.01,
+								"max": 999999999,
+								"value": 24.0
+							}
+						]
+					},
+					"rightOfWayWidth": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"value": 12.0
+							}
+						]
+					},
+					"plantationArea": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 2000.0,
+								"value": 0.0
+							},
+							{
+								"min": 2000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"amenitiesArea": {
+						"mandatory": false,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0.0
+					},
+					"riverDistance": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"distanceFromFloodLevel": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 9.0
+							},
+							"distanceFromMainRiverEdge": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 15.0
+							}
+						}
+					},
+					"electricalLine": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 33.0,
+								"value": 1.2
+							},
+							{
+								"min": 33.01,
+								"max": 999999999,
+								"value": 7.5
+							}
+						]
+					},
+					"subPlotArea": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": 0.0
+					},
+					"subPlotWidth": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": 0.0
+					}
+				},
+				{
+					"OccupancyType": "G",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Industrial Plotted",
+					"isActive": true,
+					"mainRoadWidth": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 999999999,
+								"value": 12.0
+							}
+						]
+					},
+					"internalRoadWidth": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"useVariable": "roadLength",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 200.0,
+								"value": 12.0
+							},
+							{
+								"min": 200.01,
+								"max": 400.0,
+								"value": 15.0
+							},
+							{
+								"min": 400.01,
+								"max": 600.0,
+								"value": 18.0
+							},
+							{
+								"min": 600.01,
+								"max": 999999999,
+								"value": 24.0
+							}
+						]
+					},
+					"rightOfWayWidth": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"value": 12.0
+							}
+						]
+					},
+					"plantationArea": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0
+					},
+					"amenitiesArea": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 8000.0,
+								"value": 0.0
+							},
+							{
+								"min": 8000.01,
+								"max": 999999999,
+								"value": 5.0
+							}
+						]
+					},
+					"riverDistance": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"distanceFromFloodLevel": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 9.0
+							},
+							"distanceFromMainRiverEdge": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 15.0
+							}
+						}
+					},
+					"electricalLine": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 33.0,
+								"value": 1.2
+							},
+							{
+								"min": 33.01,
+								"max": 999999999,
+								"value": 7.5
+							}
+						]
+					},
+					"subPlotArea": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": 150.0
+					},
+					"subPlotWidth": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": 10.0
+					}
+				}
+			]
+		}
+	]
+}
