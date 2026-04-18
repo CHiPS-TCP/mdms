@@ -1,0 +1,235 @@
+{
+    "tenantId": "cg",
+    "moduleName": "LAYOUT",
+    "MasterPlanLandUseMapping": [
+        {
+            "masterPlan": [
+                "MAHASAMUND MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "Residential"
+                },
+                {
+                    "code": "RESIDENTIAL_R2",
+                    "name": "Residential R2"
+                },
+                {
+                    "code": "RESIDENTIAL_R3",
+                    "name": "Residential R3"
+                },
+                {
+                    "code": "RESIDENTIAL_R4",
+                    "name": "Residential R4"
+                },
+                {
+                    "code": "RESIDENTIAL_R5",
+                    "name": "Residential R5"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "Commercial"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "Industrial"
+                },
+                {
+                    "code": "PUBLIC_SEMI_PUBLIC",
+                    "name": "Public & Semi Public"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "Recreational"
+                },
+                {
+                    "code": "TRANSPORTATION",
+                    "name": "Transportation"
+                },
+                {
+                    "code": "AGRICULTURAL",
+                    "name": "Agricultural"
+                },
+                {
+                    "code": "RESTRICTED_AGRICULTURE",
+                    "name": "Restricted Agriculture"
+                },
+                {
+                    "code": "MIXED_USE",
+                    "name": "Mixed Use"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "RAIPUR MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "Residential"
+                },
+                {
+                    "code": "RESIDENTIAL_R2",
+                    "name": "Residential R2"
+                },
+                {
+                    "code": "RESIDENTIAL_R3",
+                    "name": "Residential R3"
+                },
+                {
+                    "code": "RESIDENTIAL_R4",
+                    "name": "Residential R4"
+                },
+                {
+                    "code": "RESIDENTIAL_R5",
+                    "name": "Residential R5"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "Commercial"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "Industrial"
+                },
+                {
+                    "code": "PUBLIC_SEMI_PUBLIC",
+                    "name": "Public & Semi Public"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "Recreational"
+                },
+                {
+                    "code": "TRANSPORTATION",
+                    "name": "Transportation"
+                },
+                {
+                    "code": "AGRICULTURAL",
+                    "name": "Agricultural"
+                },
+                {
+                    "code": "RESTRICTED_AGRICULTURE",
+                    "name": "Restricted Agriculture"
+                },
+                {
+                    "code": "MIXED_USE",
+                    "name": "Mixed Use"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+"TCP Dummy Planning Area",
+"TCP Dummy Planning Area 2",
+"TCP Dummy Planning Area 3",
+"Bagicha Planning Area",
+"Kunkuri Planning Area",
+"Pathalgaon Planning Area",
+"Kotba Planning Area",
+"Tilda-Nevra Planning Area",
+"Kharora Planning Area",
+"Nawapara Planning Area",
+"Kunra Planning Area",
+"Champaran Planning Area",
+"Pura Planning Area",
+"Fingeshwar Planning Area",
+"Gariyaband Planning Area",
+"Churra Planning Area",
+"Rajim Planning Area",
+"Charama Planning Area",
+"Pankhajur Planning Area",
+"Pandariya Planning Area",
+"Pipariya Planning Area",
+"S. Lohara Planning Area",
+"Bodla Planning Area",
+"Pandatarai Planning Area",
+"Birkona Planning Area",
+"Kunda Planning Area",
+"Chhurikala Planning Area",
+"Katghora Planning Area",
+"Podi - Uproda Planning Area",
+"Hardibazar Planning Area",
+"Deepka Planning Area",
+"Kartala Planning Area",
+"Pali Planning Area",
+"Bhawarpur (Cluster) Planning Area",
+"Tumgaon Planning Area",
+"Sirpur \"Sada\" Planning Area",
+"Basna Planning Area",
+"Baikunthpur Planning Area",
+"Ambagarh Chowki Planning Area",
+"Chhuikhadan Planning Area",
+"Chhuriya Planning Area",
+"Dongargaon Planning Area",
+"Gandai Planning Area",
+"Murmunda Planning Area",
+"Saragaon Planning Area",
+"Bade Kanera Planning Area",
+"Pharsagaon Planning Area",
+"Keshkal Planning Area",
+"Bhairamgarh Planning Area",
+"Konta Planning Area",
+"Dhamtari Planning Area",
+"Dhamdha Planning Area",
+"Saja Planning Area",
+"Berla Planning Area",
+"Maro Planning Area",
+"Bilha Planning Area",
+"Ganiari Planning Area",
+"Kota Planning Area",
+"Malhar Planning Area",
+"Marwahi Planning Area",
+"Masturi Planning Area",
+"Pendra Planning Area",
+"Gaurela Planning Area",
+"Takhatpur Planning Area",
+"Simga Planning Area",
+"Palari Planning Area",
+"Bilaigarh Planning Area",
+"Lavan Planning Area",
+"Bhatgaon Planning Area"
+            ],
+            "landUseZone": [
+                {
+                    "code": "NA",
+                    "name": "NA"
+                },
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "Residential"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "Commercial"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "Industrial"
+                },
+                {
+                    "code": "PUBLIC_SEMI_PUBLIC",
+                    "name": "Public & Semi Public"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "Recreational"
+                },
+                {
+                    "code": "TRANSPORTATION",
+                    "name": "Transportation"
+                },
+                {
+                    "code": "AGRICULTURAL",
+                    "name": "Agriculture"
+                },
+                {
+                    "code": "RESTRICTED_AGRICULTURE",
+                    "name": "Restricted Agriculture"
+                }
+            ]
+        }
+    ]
+}

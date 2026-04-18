@@ -2,17 +2,24 @@
   "tenantId": "cg",
   "moduleName": "LAYOUT",
   "LayoutPlotSubUse": [
-
+    {
+      "plotUse": "NA",
+      "code": "NA",
+      "subUses": [
+        "NA"
+      ]
+    },
     {
       "plotUse": "RESIDENTIAL",
+      "code": "R",
       "subUses": [
         "DETACHED_DWELLING_UNITS",
         "SEMI_DETACHED"
       ]
     },
-
     {
       "plotUse": "COMMERCIAL_1",
+      "code": "C1",
       "subUses": [
         "CONVENIENCE_SHOPS",
         "VEGETABLE_SHOP",
@@ -26,12 +33,11 @@
         "BANK",
         "LODGING_AND_BOARDING",
         "GUEST_HOUSE"
-
       ]
     },
-
     {
       "plotUse": "COMMERCIAL_2",
+      "code": "C2",
       "subUses": [
         "SHOPPING_CENTER",
         "SHOPPING_MALL",
@@ -45,9 +51,9 @@
         "GUEST_HOUSE"
       ]
     },
-
     {
       "plotUse": "COMMERCIAL_3",
+      "code": "C3",
       "subUses": [
         "WAREHOUSE",
         "GODOWN",
@@ -55,9 +61,9 @@
         "SLAUGHTERHOUSE"
       ]
     },
-
     {
       "plotUse": "SOCIAL_ESTABLISHMENT",
+      "code": "SE",
       "subUses": [
         "AUTO_REPAIR_WORKSHOP",
         "CONSTRUCTION_WORKSHOP",
@@ -65,27 +71,27 @@
         "GARAGE"
       ]
     },
-
     {
       "plotUse": "EDUCATION_1",
+      "code": "E1",
       "subUses": [
         "PRE_PRIMARY_SCHOOL",
         "PRIMARY_SCHOOL",
         "MIDDLE_SCHOOL"
       ]
     },
-
     {
       "plotUse": "EDUCATION_2",
+      "code": "E2",
       "subUses": [
         "SECONDARY_SCHOOL",
         "HIGHER_SECONDARY_SCHOOL",
         "TRAINING_CENTER_ITI"
       ]
     },
-
     {
       "plotUse": "EDUCATION_3",
+      "code": "E3",
       "subUses": [
         "COLLEGE",
         "POLYTECHNIC",
@@ -93,9 +99,9 @@
         "RESEARCH_INSTITUTE"
       ]
     },
-
     {
       "plotUse": "ASSEMBLY_HALL_1",
+      "code": "A1",
       "subUses": [
         "COMMUNITY_HALL",
         "MARRIAGE_HALL",
@@ -103,9 +109,9 @@
         "AUDITORIUM"
       ]
     },
-
     {
       "plotUse": "ASSEMBLY_HALL_2",
+      "code": "A2",
       "subUses": [
         "THEATER",
         "CINEMA_HALL",
@@ -116,9 +122,9 @@
         "CONVENTION_CENTER"
       ]
     },
-
     {
       "plotUse": "HEALTH_1",
+      "code": "H1",
       "subUses": [
         "DISPENSARY",
         "CLINIC",
@@ -127,9 +133,9 @@
         "PRIMARY_HEALTH_CENTER"
       ]
     },
-
     {
       "plotUse": "HEALTH_2",
+      "code": "H2",
       "subUses": [
         "RESEARCH_CENTER",
         "HOSPITAL",
@@ -137,16 +143,16 @@
         "SPECIALIZED_HOSPITAL"
       ]
     },
-
     {
       "plotUse": "RELIGIOUS_AND_CULTURAL",
+      "code": "R&C",
       "subUses": [
         "PLACES_OF_WORSHIP_OF_VARIOUS_FAITHS"
       ]
     },
-
     {
       "plotUse": "PUBLIC_INSTITUTIONS",
+      "code": "IT",
       "subUses": [
         "POST_OFFICE",
         "COMMUNICATION_NETWORK",
@@ -156,9 +162,9 @@
         "PUBLIC_LIBRARY"
       ]
     },
-
     {
       "plotUse": "PUBLIC_AMENITIES",
+      "code": "PA",
       "subUses": [
         "ELECTRIC_SUBSTATION",
         "WATER_PUMPING_STATION",
@@ -172,9 +178,9 @@
         "GRAVEYARD"
       ]
     },
-
     {
       "plotUse": "HOSPITALITY",
+      "code": "HP",
       "subUses": [
         "HOTEL",
         "MOTEL",
@@ -182,16 +188,16 @@
         "PARTY_PLOT"
       ]
     },
-
     {
       "plotUse": "INDUSTRIAL_1",
+      "code": "I1",
       "subUses": [
         "ALL_GREEN_AND_ORANGE_CATEGORY_INDUSTRIES_AND_SERVICE_INDUSTRIES_AS_PER_INDUSTRIAL_NORMS"
       ]
     },
-
     {
       "plotUse": "INDUSTRIAL_2",
+      "code": "I1",
       "subUses": [
         "JUNK_YARD",
         "TEXTILE_UNITS",
@@ -205,9 +211,9 @@
         "POLLUTING_AND_HAZARDOUS_INDUSTRIES"
       ]
     },
-
     {
       "plotUse": "SPORTS_AND_LEISURE",
+      "code": "SL",
       "subUses": [
         "PLAYGROUND",
         "STADIUM",
@@ -219,9 +225,9 @@
         "SPORTS_CLUB"
       ]
     },
-
     {
       "plotUse": "PARKS",
+      "code": "P",
       "subUses": [
         "PARK",
         "GARDEN",
@@ -229,9 +235,9 @@
         "BOTANICAL_GARDEN"
       ]
     },
-
     {
       "plotUse": "TRANSPORT",
+      "code": "TR",
       "subUses": [
         "ROAD",
         "TRUCK_TERMINAL",
@@ -250,9 +256,9 @@
         "WEIGHBRIDGE"
       ]
     },
-
     {
       "plotUse": "AGRICULTURE_1",
+      "code": "AG1",
       "subUses": [
         "AGRICULTURE",
         "GARDENING",
@@ -265,9 +271,9 @@
         "NATURAL_RESOURCE_SANCTUARY"
       ]
     },
-
     {
       "plotUse": "AGRICULTURE_2",
+      "code": "AG2",
       "subUses": [
         "MINING_AND_QUARRYING",
         "LANDFILL_SITE",
@@ -282,6 +288,5 @@
         "CAPACITIVE_POWER_PLANT"
       ]
     }
-
   ]
 }

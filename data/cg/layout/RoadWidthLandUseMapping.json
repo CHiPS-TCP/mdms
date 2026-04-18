@@ -1,0 +1,1885 @@
+{
+    "tenantId": "cg",
+    "moduleName": "LAYOUT",
+    "RoadWidthLandUseMapping": [
+        {
+            "landUseZone": "NA",
+            "landPlotUse": [
+                {
+                    "minWidth": 0,
+                    "maxWidth": 9999,
+                    "occupancy": [
+                        {
+                            "code": "NA",
+                            "name": "NA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "landUseZone": "RESIDENTIAL",
+            "landPlotUse": [
+                {
+                    "minWidth": 9,
+                    "maxWidth": 12,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 12,
+                    "maxWidth": 18,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "E1",
+                            "name": "E1"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 18,
+                    "maxWidth": 30,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "A2",
+                            "name": "A2"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "H2",
+                            "name": "H2"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "SL",
+                            "name": "SL"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "I1",
+                            "name": "I1"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 30,
+                    "maxWidth": 9999,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "E3",
+                            "name": "E3"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "A2",
+                            "name": "A2"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "H2",
+                            "name": "H2"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "SL",
+                            "name": "SL"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "I1",
+                            "name": "I1"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "HP",
+                            "name": "HP"
+                        },
+                        {
+                            "code": "TR",
+                            "name": "TR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "landUseZone": "RESIDENTIAL_R2",
+            "landPlotUse": [
+                {
+                    "minWidth": 9,
+                    "maxWidth": 12,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "E1",
+                            "name": "E1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 12,
+                    "maxWidth": 18,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "E1",
+                            "name": "E1"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 18,
+                    "maxWidth": 30,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "A2",
+                            "name": "A2"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "H2",
+                            "name": "H2"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "I1",
+                            "name": "I1"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 30,
+                    "maxWidth": 9999,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "C3",
+                            "name": "C3"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "E3",
+                            "name": "E3"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "A2",
+                            "name": "A2"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "H2",
+                            "name": "H2"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "SL",
+                            "name": "SL"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "I1",
+                            "name": "I1"
+                        },
+                        {
+                            "code": "TR",
+                            "name": "TR"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "HP",
+                            "name": "HP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "landUseZone": "RESIDENTIAL_R3",
+            "landPlotUse": [
+                {
+                    "minWidth": 9,
+                    "maxWidth": 12,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "E1",
+                            "name": "E1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 12,
+                    "maxWidth": 18,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "E1",
+                            "name": "E1"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 18,
+                    "maxWidth": 30,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "E1",
+                            "name": "E1"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 30,
+                    "maxWidth": 9999,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "E1",
+                            "name": "E1"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "H2",
+                            "name": "H2"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "I1",
+                            "name": "I1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "landUseZone": "RESIDENTIAL_R4",
+            "landPlotUse": [
+                {
+                    "minWidth": 9,
+                    "maxWidth": 18,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "E1",
+                            "name": "E1"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 18,
+                    "maxWidth": 30,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "A2",
+                            "name": "A2"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "H2",
+                            "name": "H2"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "I1",
+                            "name": "I1"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 30,
+                    "maxWidth": 9999,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "C3",
+                            "name": "C3"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "E3",
+                            "name": "E3"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "A2",
+                            "name": "A2"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "H2",
+                            "name": "H2"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "SL",
+                            "name": "SL"
+                        },
+                        {
+                            "code": "I1",
+                            "name": "I1"
+                        },
+                        {
+                            "code": "TR",
+                            "name": "TR"
+                        },
+                        {
+                            "code": "HP",
+                            "name": "HP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "landUseZone": "RESIDENTIAL_R5",
+            "landPlotUse": [
+                {
+                    "minWidth": 9,
+                    "maxWidth": 12,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 12,
+                    "maxWidth": 18,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "E1",
+                            "name": "E1"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 18,
+                    "maxWidth": 30,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "E1",
+                            "name": "E1"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 30,
+                    "maxWidth": 9999,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "E1",
+                            "name": "E1"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "E3",
+                            "name": "E3"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "landUseZone": "MIXED_USE",
+            "landPlotUse": [
+                {
+                    "minWidth": 18,
+                    "maxWidth": 30,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "E1",
+                            "name": "E1"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "SL",
+                            "name": "SL"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 30,
+                    "maxWidth": 9999,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "E1",
+                            "name": "E1"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "H2",
+                            "name": "H2"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "SL",
+                            "name": "SL"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "A2",
+                            "name": "A2"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "I1",
+                            "name": "I1"
+                        },
+                        {
+                            "code": "TR",
+                            "name": "TR"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "HP",
+                            "name": "HP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "landUseZone": "COMMERCIAL",
+            "landPlotUse": [
+                {
+                    "minWidth": 12,
+                    "maxWidth": 18,
+                    "occupancy": [
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 18,
+                    "maxWidth": 30,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "H2",
+                            "name": "H2"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "I1",
+                            "name": "I1"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 30,
+                    "maxWidth": 9999,
+                    "occupancy": [
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "C3",
+                            "name": "C3"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "A2",
+                            "name": "A2"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "H2",
+                            "name": "H2"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "I1",
+                            "name": "I1"
+                        },
+                        {
+                            "code": "SL",
+                            "name": "SL"
+                        },
+                        {
+                            "code": "TR",
+                            "name": "TR"
+                        },
+                        {
+                            "code": "HP",
+                            "name": "HP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "landUseZone": "INDUSTRIAL",
+            "landPlotUse": [
+                {
+                    "minWidth": 12,
+                    "maxWidth": 18,
+                    "occupancy": [
+                        {
+                            "code": "I1",
+                            "name": "I1"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 18,
+                    "maxWidth": 9999,
+                    "occupancy": [
+                        {
+                            "code": "I1",
+                            "name": "I1"
+                        },
+                        {
+                            "code": "I2",
+                            "name": "I2"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "C3",
+                            "name": "C3"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "TR",
+                            "name": "TR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "landUseZone": "PUBLIC_SEMI_PUBLIC",
+            "landPlotUse": [
+                {
+                    "minWidth": 12,
+                    "maxWidth": 18,
+                    "occupancy": [
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "E1",
+                            "name": "E1"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 18,
+                    "maxWidth": 30,
+                    "occupancy": [
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "H2",
+                            "name": "H2"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "A2",
+                            "name": "A2"
+                        },
+                        {
+                            "code": "SL",
+                            "name": "SL"
+                        },
+                        {
+                            "code": "R",
+                            "name": "R"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 30,
+                    "maxWidth": 9999,
+                    "occupancy": [
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "E3",
+                            "name": "E3"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "H2",
+                            "name": "H2"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "A2",
+                            "name": "A2"
+                        },
+                        {
+                            "code": "SL",
+                            "name": "SL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "landUseZone": "RECREATIONAL",
+            "landPlotUse": [
+                {
+                    "minWidth": 18,
+                    "maxWidth": 9999,
+                    "occupancy": [
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "SL",
+                            "name": "SL"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "HP",
+                            "name": "HP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "landUseZone": "TRANSPORTATION",
+            "landPlotUse": [
+                {
+                    "minWidth": 9,
+                    "maxWidth": 12,
+                    "occupancy": [
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 12,
+                    "maxWidth": 18,
+                    "occupancy": [
+                        {
+                            "code": "TR",
+                            "name": "TR"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 18,
+                    "maxWidth": 30,
+                    "occupancy": [
+                        {
+                            "code": "TR",
+                            "name": "TR"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 30,
+                    "maxWidth": 9999,
+                    "occupancy": [
+                        {
+                            "code": "TR",
+                            "name": "TR"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "H1",
+                            "name": "H1"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "A1",
+                            "name": "A1"
+                        },
+                        {
+                            "code": "SE",
+                            "name": "SE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "landUseZone": "AGRICULTURAL",
+            "landPlotUse": [
+                {
+                    "minWidth": 0,
+                    "maxWidth": 6,
+                    "occupancy": [
+                        {
+                            "code": "Ag1",
+                            "name": "Ag1"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 12,
+                    "maxWidth": 18,
+                    "occupancy": [
+                        {
+                            "code": "Ag1",
+                            "name": "Ag1"
+                        },
+                        {
+                            "code": "Ag2",
+                            "name": "Ag2"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 18,
+                    "maxWidth": 30,
+                    "occupancy": [
+                        {
+                            "code": "Ag1",
+                            "name": "Ag1"
+                        },
+                        {
+                            "code": "Ag2",
+                            "name": "Ag2"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "H2",
+                            "name": "H2"
+                        }
+                    ]
+                },
+                {
+                    "minWidth": 30,
+                    "maxWidth": 9999,
+                    "occupancy": [
+                        {
+                            "code": "Ag1",
+                            "name": "Ag1"
+                        },
+                        {
+                            "code": "Ag2",
+                            "name": "Ag2"
+                        },
+                        {
+                            "code": "P",
+                            "name": "P"
+                        },
+                        {
+                            "code": "PA",
+                            "name": "PA"
+                        },
+                        {
+                            "code": "R",
+                            "name": "R"
+                        },
+                        {
+                            "code": "C1",
+                            "name": "C1"
+                        },
+                        {
+                            "code": "C2",
+                            "name": "C2"
+                        },
+                        {
+                            "code": "C3",
+                            "name": "C3"
+                        },
+                        {
+                            "code": "IT",
+                            "name": "IT"
+                        },
+                        {
+                            "code": "R&C",
+                            "name": "R&C"
+                        },
+                        {
+                            "code": "E2",
+                            "name": "E2"
+                        },
+                        {
+                            "code": "E3",
+                            "name": "E3"
+                        },
+                        {
+                            "code": "H2",
+                            "name": "H2"
+                        },
+                        {
+                            "code": "HP",
+                            "name": "HP"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
