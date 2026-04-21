@@ -71,6 +71,65 @@
 					}
 				},
 				{
+					"OccupancyType": "A-R",
+					"zone": "CA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Central Residential Area",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+								"max": 240,
+								"percentage": 60
+							},
+							{
+								"min": 240.01,
+								"max": 500,
+								"percentage": 50
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"percentage": 40
+							},
+							{
+								"min": 1000.01,
+								"max": 4000,
+								"percentage": 35
+							},
+							{
+								"min": 4000.01,
+								"max": 9999999999,
+								"percentage": 30
+							}
+						]
+					}
+				},
+				{
 					"OccupancyType": "C",
 					"zone": "CA",
 					"occVersion": "1.0.0",
