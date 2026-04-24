@@ -11686,141 +11686,157 @@
         {
           "code": "ABHANPUR_TOWN_A",
           "name": "Abhanpur Town (A)",
-          "active": true
-        },
-        {
-          "code": "AMNER",
-          "name": "Amner",
-          "active": true
-        },
-        {
-          "code": "BAKATRA",
-          "name": "Bakatra",
-          "active": true
-        },
-        {
-          "code": "BELBHATHA",
-          "name": "Belbhatha",
-          "active": true
-        },
-        {
-          "code": "BENDRI",
-          "name": "Bendri",
-          "active": true
-        },
-        {
-          "code": "BHELWADIH",
-          "name": "Bhelwadih",
+          "villageCode": 956159,
           "active": true
         },
         {
           "code": "BIRODA",
           "name": "Biroda",
+          "villageCode": 444628,
           "active": true
         },
         {
-          "code": "CHAMPARAN",
-          "name": "Champaran",
-          "active": true
-        },
-        {
-          "code": "GATAPARA",
-          "name": "Gatapara",
+          "code": "BAKATRA",
+          "name": "Bakatra",
+          "villageCode": 444629,
           "active": true
         },
         {
           "code": "GIRHOLA",
           "name": "Girhola",
+          "villageCode": 444644,
           "active": true
         },
         {
-          "code": "GOTIYARDIH",
-          "name": "Gotiyardih",
-          "active": true
-        },
-        {
-          "code": "JAUNDI",
-          "name": "Jaundi",
-          "active": true
-        },
-        {
-          "code": "JHANKI",
-          "name": "Jhanki",
-          "active": true
-        },
-        {
-          "code": "KENDRI",
-          "name": "Kendri",
-          "active": true
-        },
-        {
-          "code": "KHANDWA",
-          "name": "Khandwa",
+          "code": "BELBHATHA",
+          "name": "Belbhatha",
+          "villageCode": 444622,
           "active": true
         },
         {
           "code": "KHOLA",
           "name": "Khola",
-          "active": true
-        },
-        {
-          "code": "NAYAKBANDHA",
-          "name": "Nayakbandha",
-          "active": true
-        },
-        {
-          "code": "NIMORA",
-          "name": "Nimora",
-          "active": true
-        },
-        {
-          "code": "PACHEDA",
-          "name": "Pacheda",
-          "active": true
-        },
-        {
-          "code": "PARASATTI",
-          "name": "Parasatti",
-          "active": true
-        },
-        {
-          "code": "RAMCHANDI",
-          "name": "Ramchandi",
-          "active": true
-        },
-        {
-          "code": "RAMPUR_ALIAS_DAGANIA",
-          "name": "Rampur alias Dagania",
-          "active": true
-        },
-        {
-          "code": "SAATPARA",
-          "name": "Saatpara",
+          "villageCode": 444675,
           "active": true
         },
         {
           "code": "THELKABANDHA",
           "name": "Thelkabandha",
+          "villageCode": 444621,
           "active": true
         },
         {
           "code": "TOKARO",
           "name": "Tokaro",
+          "villageCode": 444601,
           "active": true
         },
         {
-          "code": "TOOTA",
-          "name": "Toota",
+          "code": "GATAPARA",
+          "name": "Gatapara",
+          "villageCode": 444620,
           "active": true
         },
         {
-          "code": "UPARVAH",
-          "name": "Uparvah",
+          "code": "NAYAKBANDHA",
+          "name": "Nayakbandha",
+          "villageCode": 444623,
+          "active": true
+        },
+        {
+          "code": "SAATPARA",
+          "name": "Saatpara",
+          "villageCode": 444611,
+          "active": true
+        },
+        {
+          "code": "GOTIYARDIH",
+          "name": "Gotiyardih",
+          "villageCode": 444624,
+          "active": true
+        },
+        {
+          "code": "AMNER",
+          "name": "Amner",
+          "villageCode": 444625,
           "active": true
         },
         {
           "code": "URLA",
           "name": "Urla",
+          "villageCode": 956117,
+          "active": true
+        },
+        {
+          "code": "JHANKI",
+          "name": "Jhanki",
+          "villageCode": 444640,
+          "active": true
+        },
+        {
+          "code": "BENDRI",
+          "name": "Bendri",
+          "villageCode": 444632,
+          "active": true
+        },
+        {
+          "code": "PARASATTI",
+          "name": "Parasatti",
+          "villageCode": 444634,
+          "active": true
+        },
+        {
+          "code": "NIMORA",
+          "name": "Nimora",
+          "villageCode": 444635,
+          "active": true
+        },
+        {
+          "code": "UPARVAH",
+          "name": "Uparvah",
+          "villageCode": 444637,
+          "active": true
+        },
+        {
+          "code": "TOOTA",
+          "name": "Toota",
+          "villageCode": 444636,
+          "active": true
+        },
+        {
+          "code": "KENDRI",
+          "name": "Kendri",
+          "villageCode": 444639,
+          "active": true
+        },
+        {
+          "code": "KHANDWA",
+          "name": "Khandwa",
+          "villageCode": 444642,
+          "active": true
+        },
+        {
+          "code": "BHELWADIH",
+          "name": "Bhelwadih",
+          "villageCode": 444641,
+          "active": true
+        },
+        {
+          "code": "PACHEDA",
+          "name": "Pacheda",
+          "villageCode": 444643,
+          "active": true
+        },
+        {
+          "code": "KURRA",
+          "name": "Kurra",
+          "villageCode": null,
+          "active": true
+        },
+        {
+          "code": "TENDUA",
+          "name": "Tendua",
+          "villageCode": 444645,
           "active": true
         }
       ]
@@ -11831,88 +11847,514 @@
       "active": true,
       "villages": [
         {
-          "code": "AKOLIKHURD_2",
-          "name": "Akolikhurd-2",
+          "code": "SEMARIA",
+          "name": "Semaria",
+          "villageCode": 444460,
           "active": true
         },
         {
           "code": "AMETHI",
           "name": "Amethi",
-          "active": true
-        },
-        {
-          "code": "ARANG",
-          "name": "Arang",
-          "active": true
-        },
-        {
-          "code": "BAIHAR",
-          "name": "Baihar",
-          "active": true
-        },
-        {
-          "code": "BENIDIH",
-          "name": "Benidih",
-          "active": true
-        },
-        {
-          "code": "BODRA",
-          "name": "Bodra",
-          "active": true
-        },
-        {
-          "code": "BORID",
-          "name": "Borid",
-          "active": true
-        },
-        {
-          "code": "GHUMRABHATHA",
-          "name": "Ghumrabhatha",
-          "active": true
-        },
-        {
-          "code": "KALAI",
-          "name": "Kalai",
+          "villageCode": 444484,
           "active": true
         },
         {
           "code": "KHAMTARAI",
           "name": "Khamtarai",
+          "villageCode": 444485,
           "active": true
         },
         {
-          "code": "LAKHOLI",
-          "name": "Lakholi",
+          "code": "KALAI",
+          "name": "Kalai",
+          "villageCode": 444487,
           "active": true
         },
         {
-          "code": "NISADA",
-          "name": "Nisada",
-          "active": true
-        },
-        {
-          "code": "ODKA",
-          "name": "Odka",
-          "active": true
-        },
-        {
-          "code": "PANTHI",
-          "name": "Panthi",
-          "active": true
-        },
-        {
-          "code": "PARAGAON",
-          "name": "Paragaon",
-          "active": true
-        },
-        {
-          "code": "RASNI",
-          "name": "Rasni",
+          "code": "BENIDIH",
+          "name": "Benidih",
+          "villageCode": 444488,
           "active": true
         },
         {
           "code": "RATAKAT",
           "name": "Ratakat",
+          "villageCode": 444489,
+          "active": true
+        },
+        {
+          "code": "PARAGAON",
+          "name": "Paragaon",
+          "villageCode": 444490,
+          "active": true
+        },
+        {
+          "code": "BAIHAR",
+          "name": "Baihar",
+          "villageCode": 444491,
+          "active": true
+        },
+        {
+          "code": "GHUMRABHATHA",
+          "name": "Ghumrabhatha",
+          "villageCode": 444492,
+          "active": true
+        },
+        {
+          "code": "RASNI",
+          "name": "Rasni",
+          "villageCode": 444493,
+          "active": true
+        },
+        {
+          "code": "BODRA",
+          "name": "Bodra",
+          "villageCode": 444494,
+          "active": true
+        },
+        {
+          "code": "LAKHOLI",
+          "name": "Lakholi",
+          "villageCode": 444569,
+          "active": true
+        },
+        {
+          "code": "BORID",
+          "name": "Borid",
+          "villageCode": 444570,
+          "active": true
+        },
+        {
+          "code": "ODKA",
+          "name": "Odka",
+          "villageCode": 444571,
+          "active": true
+        },
+        {
+          "code": "AKOLIKHURD2",
+          "name": "Akolikhurd-2",
+          "villageCode": 444573,
+          "active": true
+        },
+        {
+          "code": "PANTHI",
+          "name": "Panthi",
+          "villageCode": 444576,
+          "active": true
+        },
+        {
+          "code": "NISADA",
+          "name": "Nisada",
+          "villageCode": 444577,
+          "active": true
+        },
+        {
+          "code": "ARANG",
+          "name": "Arang",
+          "villageCode": 956164,
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "RAIPUR",
+      "tehsilCode": "DHARSIWA",
+      "active": true,
+      "villages": [
+        {
+          "code": "PARSULDIH",
+          "name": "Parsuldih",
+          "villageCode": 444737,
+          "active": true
+        },
+        {
+          "code": "GOMCHI",
+          "name": "Gomchi",
+          "villageCode": 444756,
+          "active": true
+        },
+        {
+          "code": "GUMA",
+          "name": "Guma",
+          "villageCode": 444755,
+          "active": true
+        },
+        {
+          "code": "BANA",
+          "name": "Bana",
+          "villageCode": 444753,
+          "active": true
+        },
+        {
+          "code": "KARA",
+          "name": "Kara",
+          "villageCode": 444754,
+          "active": true
+        },
+        {
+          "code": "BENDRI",
+          "name": "Bendri",
+          "villageCode": 444751,
+          "active": true
+        },
+        {
+          "code": "PATHARIDIH",
+          "name": "Patharidih",
+          "villageCode": 444748,
+          "active": true
+        },
+        {
+          "code": "KANHERA",
+          "name": "Kanhera",
+          "villageCode": 444750,
+          "active": true
+        },
+        {
+          "code": "KUMHARI",
+          "name": "Kumhari",
+          "villageCode": 444747,
+          "active": true
+        },
+        {
+          "code": "NIMORA",
+          "name": "Nimora",
+          "villageCode": 444749,
+          "active": true
+        },
+        {
+          "code": "CHIKHLI",
+          "name": "Chikhli",
+          "villageCode": 444746,
+          "active": true
+        },
+        {
+          "code": "SONDRA",
+          "name": "Sondra",
+          "villageCode": 444745,
+          "active": true
+        },
+        {
+          "code": "BAHESAR",
+          "name": "Bahesar",
+          "villageCode": 444744,
+          "active": true
+        },
+        {
+          "code": "MUNRETHI",
+          "name": "Munrethi",
+          "villageCode": 444717,
+          "active": true
+        },
+        {
+          "code": "CHARODA",
+          "name": "Charoda",
+          "villageCode": 444720,
+          "active": true
+        },
+        {
+          "code": "PARASTARAI",
+          "name": "Parastarai",
+          "villageCode": 444716,
+          "active": true
+        },
+        {
+          "code": "TIVARAYYA",
+          "name": "Tivarayya",
+          "villageCode": 444718,
+          "active": true
+        },
+        {
+          "code": "DHARSIWA",
+          "name": "Dharsiwa",
+          "villageCode": 444719,
+          "active": true
+        },
+        {
+          "code": "GODHI",
+          "name": "Godhi",
+          "villageCode": 444722,
+          "active": true
+        },
+        {
+          "code": "MOHDI",
+          "name": "Mohdi",
+          "villageCode": 444723,
+          "active": true
+        },
+        {
+          "code": "NAGARGAON",
+          "name": "Nagargaon",
+          "villageCode": 444726,
+          "active": true
+        },
+        {
+          "code": "TANDA",
+          "name": "Tanda",
+          "villageCode": 444724,
+          "active": true
+        },
+        {
+          "code": "SILATRA",
+          "name": "Silatra",
+          "villageCode": 444782,
+          "active": true
+        },
+        {
+          "code": "AKOLI",
+          "name": "Akoli",
+          "villageCode": 444725,
+          "active": true
+        },
+        {
+          "code": "GIDHORI",
+          "name": "Gidhori",
+          "villageCode": 444727,
+          "active": true
+        },
+        {
+          "code": "TOR",
+          "name": "Tor",
+          "villageCode": 444728,
+          "active": true
+        },
+        {
+          "code": "BARBANDHA",
+          "name": "Barbandha",
+          "villageCode": 444729,
+          "active": true
+        },
+        {
+          "code": "MANDHAR",
+          "name": "Mandhar",
+          "villageCode": 444739,
+          "active": true
+        },
+        {
+          "code": "BORJHARA",
+          "name": "Borjhara",
+          "villageCode": 444752,
+          "active": true
+        },
+        {
+          "code": "SANKARA",
+          "name": "Sankara",
+          "villageCode": 444741,
+          "active": true
+        },
+        {
+          "code": "GIROUD",
+          "name": "Giroud",
+          "villageCode": 444743,
+          "active": true
+        },
+        {
+          "code": "DHANELI1",
+          "name": "Dhaneli-1",
+          "villageCode": 444742,
+          "active": true
+        },
+        {
+          "code": "NEURDIH",
+          "name": "Neurdih",
+          "villageCode": 444730,
+          "active": true
+        },
+        {
+          "code": "MATIYA",
+          "name": "Matiya",
+          "villageCode": 444732,
+          "active": true
+        },
+        {
+          "code": "DAUNDEKALA",
+          "name": "Daundekala",
+          "villageCode": 444733,
+          "active": true
+        },
+        {
+          "code": "LALPUR",
+          "name": "Lalpur",
+          "villageCode": 444731,
+          "active": true
+        },
+        {
+          "code": "DAUNDEKHURD",
+          "name": "Daundekhurd",
+          "villageCode": 444734,
+          "active": true
+        },
+        {
+          "code": "CHHAPORA",
+          "name": "Chhapora",
+          "villageCode": 444735,
+          "active": true
+        },
+        {
+          "code": "TEKARI",
+          "name": "Tekari",
+          "villageCode": 444740,
+          "active": true
+        },
+        {
+          "code": "BHURKONI",
+          "name": "Bhurkoni",
+          "villageCode": 444736,
+          "active": true
+        },
+        {
+          "code": "BARODA",
+          "name": "Baroda",
+          "villageCode": 444738,
+          "active": true
+        },
+        {
+          "code": "PIRDA",
+          "name": "Pirda",
+          "villageCode": 444762,
+          "active": true
+        },
+        {
+          "code": "TULSI",
+          "name": "Tulsi",
+          "villageCode": 444763,
+          "active": true
+        },
+        {
+          "code": "KATHATHIH",
+          "name": "Kathathih",
+          "villageCode": 444775,
+          "active": true
+        },
+        {
+          "code": "KANDUL",
+          "name": "Kandul",
+          "villageCode": 444777,
+          "active": true
+        },
+        {
+          "code": "SEZABHAAR",
+          "name": "Sezabhaar",
+          "villageCode": 444779,
+          "active": true
+        },
+        {
+          "code": "DATRENGA",
+          "name": "Datrenga",
+          "villageCode": 444778,
+          "active": true
+        },
+        {
+          "code": "DOMA",
+          "name": "Doma",
+          "villageCode": 444780,
+          "active": true
+        },
+        {
+          "code": "MUJGAHAN",
+          "name": "Mujgahan",
+          "villageCode": 444781,
+          "active": true
+        },
+        {
+          "code": "BORIYAKALA",
+          "name": "Boriyakala",
+          "villageCode": 444773,
+          "active": true
+        },
+        {
+          "code": "DHANELI",
+          "name": "Dhaneli",
+          "villageCode": 444774,
+          "active": true
+        },
+        {
+          "code": "BHATGAON",
+          "name": "Bhatgaon",
+          "villageCode": 444771,
+          "active": true
+        },
+        {
+          "code": "SAKARI3",
+          "name": "Sakari-3",
+          "villageCode": 444761,
+          "active": true
+        },
+        {
+          "code": "KUNRA",
+          "name": "Kunra",
+          "villageCode": 956218,
+          "active": true
+        },
+        {
+          "code": "BARTANARA",
+          "name": "Bartanara",
+          "villageCode": 444715,
+          "active": true
+        },
+        {
+          "code": "MURRA",
+          "name": "Murra",
+          "villageCode": 444712,
+          "active": true
+        },
+        {
+          "code": "PADARBHATTA",
+          "name": "Padarbhatta",
+          "villageCode": 444713,
+          "active": true
+        },
+        {
+          "code": "AKOLI",
+          "name": "Akoli",
+          "villageCode": 444708,
+          "active": true
+        },
+        {
+          "code": "MANHORA",
+          "name": "Manhora",
+          "villageCode": 444710,
+          "active": true
+        },
+        {
+          "code": "KUKERA",
+          "name": "Kukera",
+          "villageCode": 444706,
+          "active": true
+        },
+        {
+          "code": "KAPASADA",
+          "name": "Kapasada",
+          "villageCode": 444721,
+          "active": true
+        },
+        {
+          "code": "DEORI",
+          "name": "Deori",
+          "villageCode": 444709,
+          "active": true
+        },
+        {
+          "code": "BHAISMUDA",
+          "name": "Bhaismuda",
+          "villageCode": 444435,
+          "active": true
+        },
+        {
+          "code": "SERIKHEDI",
+          "name": "Serikhedi",
+          "villageCode": 444765,
+          "active": true
+        },
+        {
+          "code": "DHARAMPURA",
+          "name": "Dharampura",
+          "villageCode": 444770,
+          "active": true
+        },
+        {
+          "code": "BANARASI",
+          "name": "Banarasi",
+          "villageCode": 444769,
           "active": true
         }
       ]
@@ -11923,28 +12365,178 @@
       "active": true,
       "villages": [
         {
-          "code": "BANJARI",
-          "name": "Banjari",
+          "code": "CHHANTA",
+          "name": "Chhanta",
+          "villageCode": 444687,
           "active": true
         },
         {
-          "code": "CHERIA",
-          "name": "Cheria",
+          "code": "SONESILLY",
+          "name": "Sonesilly",
+          "villageCode": 444682,
           "active": true
         },
         {
           "code": "KURRA",
           "name": "Kurra",
+          "villageCode": 444688,
           "active": true
         },
         {
-          "code": "POTA",
-          "name": "Pota",
+          "code": "TARRI",
+          "name": "Tarri",
+          "villageCode": 444689,
           "active": true
         },
         {
-          "code": "TENDUA",
-          "name": "Tendua",
+          "code": "BAGDEHI",
+          "name": "Bagdehi",
+          "villageCode": 956168,
+          "active": true
+        },
+        {
+          "code": "PARAGAON",
+          "name": "Paragaon",
+          "villageCode": 444686,
+          "active": true
+        },
+        {
+          "code": "NAWAPARA",
+          "name": "Nawapara",
+          "villageCode": 956201,
+          "active": true
+        },
+        {
+          "code": "CHAMPARAN",
+          "name": "Champaran",
+          "villageCode": 444662,
+          "active": true
+        },
+        {
+          "code": "RAMPUR_ALIAS_DAGANIA",
+          "name": "Rampur alias Dagania",
+          "villageCode": 444668,
+          "active": true
+        },
+        {
+          "code": "JAUNDI",
+          "name": "Jaundi",
+          "villageCode": 444663,
+          "active": true
+        },
+        {
+          "code": "POUTA",
+          "name": "pouta",
+          "villageCode": 444588,
+          "active": true
+        },
+        {
+          "code": "CHERIA",
+          "name": "Cheria",
+          "villageCode": 444647,
+          "active": true
+        },
+        {
+          "code": "BANJARI",
+          "name": "Banjari",
+          "villageCode": 444646,
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "RAIPUR",
+      "tehsilCode": "KHARORA",
+      "active": true,
+      "villages": [
+        {
+          "code": "KHARORA",
+          "name": "Kharora",
+          "villageCode": 956214,
+          "active": true
+        },
+        {
+          "code": "KHOLIDABARI",
+          "name": "Kholidabari",
+          "villageCode": 444967,
+          "active": true
+        },
+        {
+          "code": "BARDIH",
+          "name": "Bardih",
+          "villageCode": 444959,
+          "active": true
+        },
+        {
+          "code": "BUDERA",
+          "name": "Budera",
+          "villageCode": 445002,
+          "active": true
+        },
+        {
+          "code": "BELDARSEONI",
+          "name": "Beldarseoni",
+          "villageCode": 445000,
+          "active": true
+        },
+        {
+          "code": "KESLA",
+          "name": "Kesla",
+          "villageCode": 444961,
+          "active": true
+        },
+        {
+          "code": "KEVERDIH",
+          "name": "Keverdih",
+          "villageCode": 445003,
+          "active": true
+        },
+        {
+          "code": "KANKI",
+          "name": "Kanki",
+          "villageCode": 445008,
+          "active": true
+        },
+        {
+          "code": "MATH",
+          "name": "Math",
+          "villageCode": 444962,
+          "active": true
+        },
+        {
+          "code": "MADADIH",
+          "name": "Madadih",
+          "villageCode": 445009,
+          "active": true
+        },
+        {
+          "code": "MUDPAR",
+          "name": "Mudpar",
+          "villageCode": 444963,
+          "active": true
+        },
+        {
+          "code": "SIRRI",
+          "name": "Sirri",
+          "villageCode": 444960,
+          "active": true
+        },
+        {
+          "code": "TILDADIH",
+          "name": "Tildadih",
+          "villageCode": 444964,
+          "active": true
+        },
+        {
+          "code": "NAHARDIH",
+          "name": "Nahardih",
+          "villageCode": 444957,
+          "active": true
+        },
+        {
+          "code": "NAVAGAON",
+          "name": "Navagaon",
+          "villageCode": 444999,
           "active": true
         }
       ]
@@ -11955,250 +12547,255 @@
       "active": true,
       "villages": [
         {
-          "code": "BADGAON",
-          "name": "Badgaon",
-          "active": true
-        },
-        {
-          "code": "BAHNAKADI",
-          "name": "Bahnakadi",
-          "active": true
-        },
-        {
-          "code": "BAKATRA",
-          "name": "Bakatra",
-          "active": true
-        },
-        {
-          "code": "BARONDA",
-          "name": "Baronda",
+          "code": "PACHEDA",
+          "name": "Pacheda",
+          "villageCode": 444515,
           "active": true
         },
         {
           "code": "CHANDKHURI",
           "name": "Chandkhuri",
-          "active": true
-        },
-        {
-          "code": "CHATUNA",
-          "name": "Chatuna",
-          "active": true
-        },
-        {
-          "code": "CHICHA",
-          "name": "Chicha",
-          "active": true
-        },
-        {
-          "code": "DARBA",
-          "name": "Darba",
-          "active": true
-        },
-        {
-          "code": "DHANSULI",
-          "name": "Dhansuli",
-          "active": true
-        },
-        {
-          "code": "GODHI",
-          "name": "Godhi",
-          "active": true
-        },
-        {
-          "code": "JHANJHA",
-          "name": "Jhanjha",
-          "active": true
-        },
-        {
-          "code": "JUGESAR",
-          "name": "Jugesar",
-          "active": true
-        },
-        {
-          "code": "KAYABANDHA",
-          "name": "Kayabandha",
-          "active": true
-        },
-        {
-          "code": "KHAPRI",
-          "name": "Khapri",
-          "active": true
-        },
-        {
-          "code": "KHAPRI_AKOLIDIH",
-          "name": "Khapri (Akolidih)",
-          "active": true
-        },
-        {
-          "code": "KHUTERI",
-          "name": "Khuteri",
-          "active": true
-        },
-        {
-          "code": "KOHARABATTA",
-          "name": "Koharabatta",
-          "active": true
-        },
-        {
-          "code": "KOTANI",
-          "name": "Kotani",
-          "active": true
-        },
-        {
-          "code": "KUHERA",
-          "name": "Kuhera",
-          "active": true
-        },
-        {
-          "code": "KURUD",
-          "name": "Kurud",
-          "active": true
-        },
-        {
-          "code": "KUTESAR",
-          "name": "Kutesar",
-          "active": true
-        },
-        {
-          "code": "MANDIR_HASUAD",
-          "name": "Mandir hasuad",
-          "active": true
-        },
-        {
-          "code": "MUNGESAR",
-          "name": "Mungesar",
-          "active": true
-        },
-        {
-          "code": "MUNGI",
-          "name": "Mungi",
-          "active": true
-        },
-        {
-          "code": "MURETHI",
-          "name": "Murethi",
+          "villageCode": 444513,
           "active": true
         },
         {
           "code": "NAGPURA",
           "name": "Nagpura",
-          "active": true
-        },
-        {
-          "code": "NAKATA",
-          "name": "Nakata",
-          "active": true
-        },
-        {
-          "code": "NARDAHA",
-          "name": "Nardaha",
-          "active": true
-        },
-        {
-          "code": "NAWAGAON",
-          "name": "Nawagaon",
-          "active": true
-        },
-        {
-          "code": "NAWAGAON_KHA",
-          "name": "Nawagaon (Kha)",
-          "active": true
-        },
-        {
-          "code": "PACHEDA",
-          "name": "Pacheda",
-          "active": true
-        },
-        {
-          "code": "PALAUD",
-          "name": "Palaud",
-          "active": true
-        },
-        {
-          "code": "PARSADA",
-          "name": "Parsada",
-          "active": true
-        },
-        {
-          "code": "RAKHI",
-          "name": "Rakhi",
-          "active": true
-        },
-        {
-          "code": "REIKO",
-          "name": "Reiko",
+          "villageCode": 444511,
           "active": true
         },
         {
           "code": "SAKARI",
           "name": "Sakari",
+          "villageCode": 444509,
           "active": true
         },
         {
-          "code": "SENDH",
-          "name": "Sendh",
+          "code": "BADGAON",
+          "name": "Badgaon",
+          "villageCode": 444525,
           "active": true
         },
         {
-          "code": "SONPAIRI",
-          "name": "Sonpairi",
+          "code": "MUNGESAR",
+          "name": "Mungesar",
+          "villageCode": 444512,
           "active": true
         },
         {
-          "code": "TANDUL",
-          "name": "Tandul",
+          "code": "MUNGI",
+          "name": "Mungi",
+          "villageCode": 444516,
+          "active": true
+        },
+        {
+          "code": "KHAPRI_AKOLIDIH",
+          "name": "Khapri (Akolidih)",
+          "villageCode": 444546,
+          "active": true
+        },
+        {
+          "code": "NARDAHA",
+          "name": "Nardaha",
+          "villageCode": 444518,
+          "active": true
+        },
+        {
+          "code": "DHANSULI",
+          "name": "Dhansuli",
+          "villageCode": 444520,
+          "active": true
+        },
+        {
+          "code": "BAHNAKADI",
+          "name": "Bahnakadi",
+          "villageCode": 444521,
+          "active": true
+        },
+        {
+          "code": "MURETHI",
+          "name": "Murethi",
+          "villageCode": 444522,
+          "active": true
+        },
+        {
+          "code": "JUGESAR",
+          "name": "Jugesar",
+          "villageCode": 444524,
+          "active": true
+        },
+        {
+          "code": "KUTESAR",
+          "name": "Kutesar",
+          "villageCode": 444526,
           "active": true
         },
         {
           "code": "TODGAON",
           "name": "Todgaon",
+          "villageCode": 444528,
+          "active": true
+        },
+        {
+          "code": "KURUD",
+          "name": "Kurud",
+          "villageCode": 444449,
+          "active": true
+        },
+        {
+          "code": "SONPAIRI",
+          "name": "Sonpairi",
+          "villageCode": 444561,
+          "active": true
+        },
+        {
+          "code": "GODHI",
+          "name": "Godhi",
+          "villageCode": 444527,
+          "active": true
+        },
+        {
+          "code": "DARBA",
+          "name": "Darba",
+          "villageCode": 444535,
+          "active": true
+        },
+        {
+          "code": "BAKATRA",
+          "name": "Bakatra",
+          "villageCode": 444534,
+          "active": true
+        },
+        {
+          "code": "NAKATA",
+          "name": "Nakata",
+          "villageCode": 444537,
+          "active": true
+        },
+        {
+          "code": "KHUTERI",
+          "name": "Khuteri",
+          "villageCode": 444532,
+          "active": true
+        },
+        {
+          "code": "RAMCHANDI",
+          "name": "Ramchandi",
+          "villageCode": 444540,
+          "active": true
+        },
+        {
+          "code": "CHATUNA",
+          "name": "Chatuna",
+          "villageCode": 444538,
+          "active": true
+        },
+        {
+          "code": "MANDIR_HASUAD",
+          "name": "Mandir hasuad",
+          "villageCode": 444587,
+          "active": true
+        },
+        {
+          "code": "CHICHA",
+          "name": "Chicha",
+          "villageCode": 444542,
+          "active": true
+        },
+        {
+          "code": "BARONDA",
+          "name": "Baronda",
+          "villageCode": 444541,
+          "active": true
+        },
+        {
+          "code": "KAYABANDHA",
+          "name": "Kayabandha",
+          "villageCode": 444543,
+          "active": true
+        },
+        {
+          "code": "JHANJHA",
+          "name": "Jhanjha",
+          "villageCode": 444544,
+          "active": true
+        },
+        {
+          "code": "KHAPRI",
+          "name": "Khapri",
+          "villageCode": null,
+          "active": true
+        },
+        {
+          "code": "NAWAGAON_KHA",
+          "name": "Nawagaon (Kha)",
+          "villageCode": 444533,
+          "active": true
+        },
+        {
+          "code": "RAKHI",
+          "name": "Rakhi",
+          "villageCode": 444547,
+          "active": true
+        },
+        {
+          "code": "KUHERA",
+          "name": "Kuhera",
+          "villageCode": 444548,
+          "active": true
+        },
+        {
+          "code": "KOHARABATTA",
+          "name": "Koharabatta",
+          "villageCode": 444552,
+          "active": true
+        },
+        {
+          "code": "KOTANI",
+          "name": "Kotani",
+          "villageCode": 444551,
+          "active": true
+        },
+        {
+          "code": "TANDUL",
+          "name": "Tandul",
+          "villageCode": 444549,
+          "active": true
+        },
+        {
+          "code": "REIKO",
+          "name": "Reiko",
+          "villageCode": 444539,
+          "active": true
+        },
+        {
+          "code": "SENDH",
+          "name": "Sendh",
+          "villageCode": 444554,
+          "active": true
+        },
+        {
+          "code": "PALAUD",
+          "name": "Palaud",
+          "villageCode": 444553,
+          "active": true
+        },
+        {
+          "code": "NAWAGAON",
+          "name": "Nawagaon",
+          "villageCode": 444533,
           "active": true
         },
         {
           "code": "UMARIA",
           "name": "Umaria",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "RAIPUR",
-      "tehsilCode": "NAWAPARA",
-      "active": true,
-      "villages": [
-        {
-          "code": "BAGDEHI",
-          "name": "Bagdehi",
+          "villageCode": 444557,
           "active": true
         },
         {
-          "code": "CHHANTA",
-          "name": "Chhanta",
-          "active": true
-        },
-        {
-          "code": "KURRA",
-          "name": "Kurra",
-          "active": true
-        },
-        {
-          "code": "NAWAPARA",
-          "name": "Nawapara",
-          "active": true
-        },
-        {
-          "code": "PARAGAON",
-          "name": "Paragaon",
-          "active": true
-        },
-        {
-          "code": "SONESILLY",
-          "name": "Sonesilly",
-          "active": true
-        },
-        {
-          "code": "TARRI",
-          "name": "Tarri",
+          "code": "PARSADA",
+          "name": "Parsada",
+          "villageCode": 444555,
           "active": true
         }
       ]
@@ -12209,626 +12806,333 @@
       "active": true,
       "villages": [
         {
-          "code": "ACHHOLI_2",
-          "name": "Achholi-2",
-          "active": true
-        },
-        {
-          "code": "AKOLI",
-          "name": "Akoli",
-          "active": true
-        },
-        {
-          "code": "AMALIDIH",
-          "name": "Amalidih",
-          "active": true
-        },
-        {
-          "code": "AMASIVANI",
-          "name": "Amasivani",
-          "active": true
-        },
-        {
-          "code": "ATARI",
-          "name": "Atari",
-          "active": true
-        },
-        {
-          "code": "BAHESAR",
-          "name": "Bahesar",
-          "active": true
-        },
-        {
-          "code": "BANA",
-          "name": "Bana",
-          "active": true
-        },
-        {
-          "code": "BANARASI",
-          "name": "Banarasi",
-          "active": true
-        },
-        {
-          "code": "BARBANDHA",
-          "name": "Barbandha",
-          "active": true
-        },
-        {
-          "code": "BARODA",
-          "name": "Baroda",
-          "active": true
-        },
-        {
-          "code": "BENDRI",
-          "name": "Bendri",
-          "active": true
-        },
-        {
-          "code": "BHANPURI",
-          "name": "Bhanpuri",
-          "active": true
-        },
-        {
-          "code": "BHATGAON",
-          "name": "Bhatgaon",
-          "active": true
-        },
-        {
-          "code": "BHATHAGAON",
-          "name": "Bhathagaon",
-          "active": true
-        },
-        {
-          "code": "BHURKONI",
-          "name": "Bhurkoni",
-          "active": true
-        },
-        {
-          "code": "BIRGAON",
-          "name": "Birgaon",
-          "active": true
-        },
-        {
-          "code": "BORIYAKALA",
-          "name": "Boriyakala",
-          "active": true
-        },
-        {
-          "code": "BORIYAKHURD",
-          "name": "Boriyakhurd",
-          "active": true
-        },
-        {
-          "code": "BORJHARA",
-          "name": "Borjhara",
-          "active": true
-        },
-        {
-          "code": "CHANDNIDIH",
-          "name": "Chandnidih",
-          "active": true
-        },
-        {
-          "code": "CHANGORABHATHA",
-          "name": "Changorabhatha",
-          "active": true
-        },
-        {
-          "code": "CHARODA",
-          "name": "Charoda",
-          "active": true
-        },
-        {
-          "code": "CHHAPORA",
-          "name": "Chhapora",
-          "active": true
-        },
-        {
-          "code": "CHIKHLI",
-          "name": "Chikhli",
-          "active": true
-        },
-        {
-          "code": "CHIRHULDIH",
-          "name": "Chirhuldih",
-          "active": true
-        },
-        {
-          "code": "DALDALSIVANI",
-          "name": "Daldalsivani",
+          "code": "RAIPUR_KHAS",
+          "name": "Raipur Khas",
+          "villageCode": null,
           "active": true
         },
         {
           "code": "DANGNIA",
           "name": "Dangnia",
+          "villageCode": 956193,
           "active": true
         },
         {
-          "code": "DATRENGA",
-          "name": "Datrenga",
-          "active": true
-        },
-        {
-          "code": "DAUNDEKALA",
-          "name": "Daundekala",
-          "active": true
-        },
-        {
-          "code": "DAUNDEKHURD",
-          "name": "Daundekhurd",
-          "active": true
-        },
-        {
-          "code": "DEVPURI",
-          "name": "Devpuri",
-          "active": true
-        },
-        {
-          "code": "DHANELI",
-          "name": "Dhaneli",
-          "active": true
-        },
-        {
-          "code": "DHANELI_1",
-          "name": "Dhaneli-1",
-          "active": true
-        },
-        {
-          "code": "DHARAMPURA",
-          "name": "Dharampura",
-          "active": true
-        },
-        {
-          "code": "DHARSIVA",
-          "name": "Dharsiva",
-          "active": true
-        },
-        {
-          "code": "DHUSERA",
-          "name": "Dhusera",
-          "active": true
-        },
-        {
-          "code": "DOMA",
-          "name": "Doma",
-          "active": true
-        },
-        {
-          "code": "DUMRATALAAB",
-          "name": "Dumratalaab",
-          "active": true
-        },
-        {
-          "code": "DUMRATARAI",
-          "name": "Dumratarai",
-          "active": true
-        },
-        {
-          "code": "DUNDA",
-          "name": "Dunda",
-          "active": true
-        },
-        {
-          "code": "FAFADIH",
-          "name": "Fafadih",
-          "active": true
-        },
-        {
-          "code": "FUNDHAR",
-          "name": "Fundhar",
-          "active": true
-        },
-        {
-          "code": "GIDHORI",
-          "name": "Gidhori",
-          "active": true
-        },
-        {
-          "code": "GIROUD",
-          "name": "Giroud",
-          "active": true
-        },
-        {
-          "code": "GODHI",
-          "name": "Godhi",
-          "active": true
-        },
-        {
-          "code": "GOGAON",
-          "name": "Gogaon",
-          "active": true
-        },
-        {
-          "code": "GOMCHI",
-          "name": "Gomchi",
-          "active": true
-        },
-        {
-          "code": "GONDWARA",
-          "name": "Gondwara",
+          "code": "CHIRHULDIH",
+          "name": "Chirhuldih",
+          "villageCode": 956191,
           "active": true
         },
         {
           "code": "GUDHIYARI",
           "name": "Gudhiyari",
+          "villageCode": 956226,
           "active": true
         },
         {
-          "code": "GUMA",
-          "name": "Guma",
-          "active": true
-        },
-        {
-          "code": "HAATBANDH",
-          "name": "Haatbandh",
-          "active": true
-        },
-        {
-          "code": "HIRAPUR_JARWAI",
-          "name": "Hirapur (Jarwai)",
-          "active": true
-        },
-        {
-          "code": "JORA",
-          "name": "Jora",
-          "active": true
-        },
-        {
-          "code": "KACHANA",
-          "name": "Kachana",
-          "active": true
-        },
-        {
-          "code": "KAMPA",
-          "name": "Kampa",
-          "active": true
-        },
-        {
-          "code": "KANDUL",
-          "name": "Kandul",
-          "active": true
-        },
-        {
-          "code": "KANHERA",
-          "name": "Kanhera",
-          "active": true
-        },
-        {
-          "code": "KARA",
-          "name": "Kara",
-          "active": true
-        },
-        {
-          "code": "KATHATHIH",
-          "name": "Kathathih",
-          "active": true
-        },
-        {
-          "code": "KHAMTARAI",
-          "name": "Khamtarai",
-          "active": true
-        },
-        {
-          "code": "KHILORA",
-          "name": "Khilora",
-          "active": true
-        },
-        {
-          "code": "KOTA",
-          "name": "Kota",
-          "active": true
-        },
-        {
-          "code": "KUMHARI",
-          "name": "Kumhari",
-          "active": true
-        },
-        {
-          "code": "LABHANDIH",
-          "name": "Labhandih",
-          "active": true
-        },
-        {
-          "code": "LALPUR",
-          "name": "Lalpur",
-          "active": true
-        },
-        {
-          "code": "MAN",
-          "name": "Man",
-          "active": true
-        },
-        {
-          "code": "MANDHAR",
-          "name": "Mandhar",
-          "active": true
-        },
-        {
-          "code": "MATHPURAINA",
-          "name": "Mathpuraina",
-          "active": true
-        },
-        {
-          "code": "MATIYA",
-          "name": "Matiya",
-          "active": true
-        },
-        {
-          "code": "MOHDI",
-          "name": "Mohdi",
-          "active": true
-        },
-        {
-          "code": "MOWA",
-          "name": "Mowa",
-          "active": true
-        },
-        {
-          "code": "MUJGAHAN",
-          "name": "Mujgahan",
-          "active": true
-        },
-        {
-          "code": "MUNRETHI",
-          "name": "Munrethi",
-          "active": true
-        },
-        {
-          "code": "NAGARGAON",
-          "name": "Nagargaon",
-          "active": true
-        },
-        {
-          "code": "NAKATI",
-          "name": "Nakati",
-          "active": true
-        },
-        {
-          "code": "NEURDIH",
-          "name": "Neurdih",
-          "active": true
-        },
-        {
-          "code": "NIMORA",
-          "name": "Nimora",
+          "code": "FAFADIH",
+          "name": "Fafadih",
+          "villageCode": 956198,
           "active": true
         },
         {
           "code": "PANDRITARAI",
           "name": "Pandritarai",
-          "active": true
-        },
-        {
-          "code": "PARASTARAI",
-          "name": "Parastarai",
-          "active": true
-        },
-        {
-          "code": "PARSULDIH",
-          "name": "Parsuldih",
-          "active": true
-        },
-        {
-          "code": "PATHARIDIH",
-          "name": "Patharidih",
-          "active": true
-        },
-        {
-          "code": "PIRDA",
-          "name": "Pirda",
-          "active": true
-        },
-        {
-          "code": "PURAINA",
-          "name": "Puraina",
-          "active": true
-        },
-        {
-          "code": "RAIPUR_KHAS",
-          "name": "Raipur Khas",
-          "active": true
-        },
-        {
-          "code": "RAIPURA",
-          "name": "Raipura",
-		  "villageCode": 434402,
-          "active": true
-        },
-        {
-          "code": "RANWABHATHA",
-          "name": "Ranwabhatha",
-          "active": true
-        },
-        {
-          "code": "SADDU",
-          "name": "Saddu",
-          "active": true
-        },
-        {
-          "code": "SAKARI_3",
-          "name": "Sakari-3",
-          "active": true
-        },
-        {
-          "code": "SANKARA",
-          "name": "Sankara",
-          "active": true
-        },
-        {
-          "code": "SARONA",
-          "name": "Sarona",
-          "active": true
-        },
-        {
-          "code": "SARORA",
-          "name": "Sarora",
-          "active": true
-        },
-        {
-          "code": "SEMARIA",
-          "name": "Semaria",
-          "active": true
-        },
-        {
-          "code": "SEONI",
-          "name": "Seoni",
-          "active": true
-        },
-        {
-          "code": "SERIKHEDI",
-          "name": "Serikhedi",
-          "active": true
-        },
-        {
-          "code": "SEZABHAAR",
-          "name": "Sezabhaar",
-          "active": true
-        },
-        {
-          "code": "SHANKARNAGAR",
-          "name": "Shankarnagar",
-          "active": true
-        },
-        {
-          "code": "SILATRA",
-          "name": "Silatra",
-          "active": true
-        },
-        {
-          "code": "SINGARBHATTA",
-          "name": "Singarbhatta",
-          "active": true
-        },
-        {
-          "code": "SONDONGRI",
-          "name": "Sondongri",
-          "active": true
-        },
-        {
-          "code": "SONDRA",
-          "name": "Sondra",
-          "active": true
-        },
-        {
-          "code": "TANDA",
-          "name": "Tanda",
-          "active": true
-        },
-        {
-          "code": "TATIBANDH",
-          "name": "Tatibandh",
-          "active": true
-        },
-        {
-          "code": "TEKARI",
-          "name": "Tekari",
+          "villageCode": 956151,
           "active": true
         },
         {
           "code": "TELIBANDHA",
           "name": "Telibandha",
-          "active": true
-        },
-        {
-          "code": "TEMRI",
-          "name": "Temri",
-          "active": true
-        },
-        {
-          "code": "TENDUA",
-          "name": "Tendua",
+          "villageCode": 956127,
           "active": true
         },
         {
           "code": "TIKRAPARA",
           "name": "Tikrapara",
+          "villageCode": 956125,
           "active": true
         },
         {
-          "code": "TIVARAYYA",
-          "name": "Tivarayya",
+          "code": "ATARI",
+          "name": "Atari",
+          "villageCode": 956166,
           "active": true
         },
         {
-          "code": "TOR",
-          "name": "Tor",
+          "code": "CHANDNIDIH",
+          "name": "Chandnidih",
+          "villageCode": 956186,
           "active": true
         },
         {
-          "code": "TULSI",
-          "name": "Tulsi",
+          "code": "HIRAPUR_JARWAI",
+          "name": "Hirapur (Jarwai)",
+          "villageCode": 956209,
+          "active": true
+        },
+        {
+          "code": "TATIBANDH",
+          "name": "Tatibandh",
+          "villageCode": 956128,
+          "active": true
+        },
+        {
+          "code": "SARONA",
+          "name": "Sarona",
+          "villageCode": 956133,
+          "active": true
+        },
+        {
+          "code": "DUMRATALAAB",
+          "name": "Dumratalaab",
+          "villageCode": 956197,
+          "active": true
+        },
+        {
+          "code": "KOTA",
+          "name": "Kota",
+          "villageCode": 956382,
+          "active": true
+        },
+        {
+          "code": "SONDONGRI",
+          "name": "Sondongri",
+          "villageCode": 956130,
+          "active": true
+        },
+        {
+          "code": "GOGAON",
+          "name": "Gogaon",
+          "villageCode": 956203,
+          "active": true
+        },
+        {
+          "code": "GONDWARA",
+          "name": "Gondwara",
+          "villageCode": 956202,
+          "active": true
+        },
+        {
+          "code": "KHAMTARAI",
+          "name": "Khamtarai",
+          "villageCode": 956213,
+          "active": true
+        },
+        {
+          "code": "BHANPURI",
+          "name": "Bhanpuri",
+          "villageCode": 956178,
+          "active": true
+        },
+        {
+          "code": "DALDALSIVANI",
+          "name": "Daldalsivani",
+          "villageCode": 956194,
+          "active": true
+        },
+        {
+          "code": "KAMPA",
+          "name": "Kampa",
+          "villageCode": 956211,
+          "active": true
+        },
+        {
+          "code": "MOWA",
+          "name": "Mowa",
+          "villageCode": 956157,
+          "active": true
+        },
+        {
+          "code": "SHANKARNAGAR",
+          "name": "Shankarnagar",
+          "villageCode": 956131,
+          "active": true
+        },
+        {
+          "code": "LABHANDIH",
+          "name": "Labhandih",
+          "villageCode": 956220,
+          "active": true
+        },
+        {
+          "code": "PURAINA",
+          "name": "Puraina",
+          "villageCode": 956144,
+          "active": true
+        },
+        {
+          "code": "AMALIDIH",
+          "name": "Amalidih",
+          "villageCode": 956163,
+          "active": true
+        },
+        {
+          "code": "FUNDHAR",
+          "name": "Fundhar",
+          "villageCode": 956199,
+          "active": true
+        },
+        {
+          "code": "DEVPURI",
+          "name": "Devpuri",
+          "villageCode": 444783,
+          "active": true
+        },
+        {
+          "code": "BORIYAKHURD",
+          "name": "Boriyakhurd",
+          "villageCode": 444784,
+          "active": true
+        },
+        {
+          "code": "MATHPURAINA",
+          "name": "Mathpuraina",
+          "villageCode": 956158,
+          "active": true
+        },
+        {
+          "code": "BHATHAGAON",
+          "name": "Bhathagaon",
+          "villageCode": 956180,
+          "active": true
+        },
+        {
+          "code": "CHANGORABHATHA",
+          "name": "Changorabhatha",
+          "villageCode": 956188,
+          "active": true
+        },
+        {
+          "code": "RAIPURA",
+          "name": "Raipura",
+          "villageCode": 956141,
+          "active": true
+        },
+        {
+          "code": "RANWABHATHA",
+          "name": "Ranwabhatha",
+          "villageCode": null,
           "active": true
         },
         {
           "code": "URKURA",
           "name": "Urkura",
+          "villageCode": 956119,
+          "active": true
+        },
+        {
+          "code": "JORA",
+          "name": "Jora",
+          "villageCode": 444764,
+          "active": true
+        },
+        {
+          "code": "BIRGAON",
+          "name": "Birgaon",
+          "villageCode": 802033,
+          "active": true
+        },
+        {
+          "code": "SARORA",
+          "name": "Sarora",
+          "villageCode": null,
+          "active": true
+        },
+        {
+          "code": "DUMRATARAI",
+          "name": "Dumratarai",
+          "villageCode": 444767,
+          "active": true
+        },
+        {
+          "code": "DUNDA",
+          "name": "Dunda",
+          "villageCode": 444776,
+          "active": true
+        },
+        {
+          "code": "KACHANA",
+          "name": "Kachana",
+          "villageCode": 444760,
+          "active": true
+        },
+        {
+          "code": "AMASIVANI",
+          "name": "Amasivani",
+          "villageCode": 444759,
+          "active": true
+        },
+        {
+          "code": "SADDU",
+          "name": "Saddu",
+          "villageCode": 956136,
+          "active": true
+        },
+        {
+          "code": "HAATBANDH",
+          "name": "Haatbandh",
+          "villageCode": 444758,
+          "active": true
+        },
+        {
+          "code": "TENDUA",
+          "name": "Tendua",
+          "villageCode": 444757,
           "active": true
         },
         {
           "code": "URLA",
           "name": "Urla",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "RAIPUR",
-      "tehsilCode": "RAIPUR_FINGESHWAR",
-      "active": true,
-      "villages": [
-        {
-          "code": "AKOLI",
-          "name": "Akoli",
+          "villageCode": 956118,
           "active": true
         },
         {
-          "code": "BARTANARA",
-          "name": "Bartanara",
+          "code": "ACHHOLI2",
+          "name": "Achholi-2",
+          "villageCode": 956160,
           "active": true
         },
         {
-          "code": "BHAISMUDA",
-          "name": "Bhaismuda",
+          "code": "DHUSERA",
+          "name": "Dhusera",
+          "villageCode": 444633,
           "active": true
         },
         {
-          "code": "DEORI",
-          "name": "Deori",
+          "code": "KHILORA",
+          "name": "Khilora",
+          "villageCode": 444630,
           "active": true
         },
         {
-          "code": "KAPASADA",
-          "name": "Kapasada",
+          "code": "SEONI",
+          "name": "Seoni",
+          "villageCode": 444631,
           "active": true
         },
         {
-          "code": "KUKERA",
-          "name": "Kukera",
+          "code": "SINGARBHATTA",
+          "name": "Singarbhatta",
+          "villageCode": 444638,
           "active": true
         },
         {
-          "code": "KUNRA",
-          "name": "Kunra",
+          "code": "NAKATI",
+          "name": "Nakati",
+          "villageCode": 444766,
           "active": true
         },
         {
-          "code": "MANHORA",
-          "name": "Manhora",
+          "code": "TEMRI",
+          "name": "Temri",
+          "villageCode": 444768,
           "active": true
         },
         {
-          "code": "MURRA",
-          "name": "Murra",
-          "active": true
-        },
-        {
-          "code": "PADARBHATTA",
-          "name": "Padarbhatta",
-          "active": true
-        },
-        {
-          "code": "TARPONGI",
-          "name": "Tarpongi",
+          "code": "MANA",
+          "name": "Mana",
+          "villageCode": 444772,
           "active": true
         }
       ]
@@ -12839,160 +13143,99 @@
       "active": true,
       "villages": [
         {
-          "code": "BARDIH",
-          "name": "Bardih",
+          "code": "KHAPRIKALAN",
+          "name": "Khaprikalan",
+          "villageCode": 444924,
           "active": true
         },
-        {
-          "code": "BELDARSEONI",
-          "name": "Beldarseoni",
-          "active": true
-        },
-        {
-          "code": "BUDERA",
-          "name": "Budera",
-          "active": true
-        },
-        {
-          "code": "KANKI",
-          "name": "Kanki",
-          "active": true
-        },
-        {
-          "code": "KESLA",
-          "name": "Kesla",
-          "active": true
-        },
-        {
-          "code": "KEVERDIH",
-          "name": "Keverdih",
-          "active": true
-        },
-        {
-          "code": "KHARORA",
-          "name": "Kharora",
-          "active": true
-        },
-        {
-          "code": "KHOLIDABARI",
-          "name": "Kholidabari",
-          "active": true
-        },
-        {
-          "code": "MADADIH",
-          "name": "Madadih",
-          "active": true
-        },
-        {
-          "code": "MATH",
-          "name": "Math",
-          "active": true
-        },
-        {
-          "code": "MUDPAR",
-          "name": "Mudpar",
-          "active": true
-        },
-        {
-          "code": "NAHARDIH",
-          "name": "Nahardih",
-          "active": true
-        },
-        {
-          "code": "NAVAGAON",
-          "name": "Navagaon",
-          "active": true
-        },
-        {
-          "code": "SIRRI",
-          "name": "Sirri",
-          "active": true
-        },
-        {
-          "code": "TILDADIH",
-          "name": "Tildadih",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "RAIPUR",
-      "tehsilCode": "TILDA_NEVRA",
-      "active": true,
-      "villages": [
         {
           "code": "BAHESAR",
           "name": "Bahesar",
-          "active": true
-        },
-        {
-          "code": "BHURSUDA",
-          "name": "Bhursuda",
-          "active": true
-        },
-        {
-          "code": "BILADI",
-          "name": "Biladi",
-          "active": true
-        },
-        {
-          "code": "JOTA",
-          "name": "Jota",
-          "active": true
-        },
-        {
-          "code": "KHAPRIKALAN",
-          "name": "Khaprikalan",
+          "villageCode": 444914,
           "active": true
         },
         {
           "code": "KOHKA",
           "name": "Kohka",
+          "villageCode": 444923,
           "active": true
         },
         {
           "code": "KUNDRU",
           "name": "Kundru",
+          "villageCode": 444908,
           "active": true
         },
         {
-          "code": "NEVRA",
-          "name": "Nevra",
+          "code": "BHURSUDA",
+          "name": "Bhursuda",
+          "villageCode": 444901,
           "active": true
         },
         {
-          "code": "PARSADA",
-          "name": "Parsada",
-          "active": true
-        },
-        {
-          "code": "SASAHOLI",
-          "name": "Sasaholi",
-          "active": true
-        },
-        {
-          "code": "SINODHA",
-          "name": "Sinodha",
+          "code": "BILADI",
+          "name": "Biladi",
+          "villageCode": 444898,
           "active": true
         },
         {
           "code": "SIRVE",
           "name": "Sirve",
+          "villageCode": 444912,
           "active": true
         },
         {
-          "code": "TANDWA",
-          "name": "Tandwa",
+          "code": "SINODHA",
+          "name": "Sinodha",
+          "villageCode": 444897,
           "active": true
         },
         {
           "code": "TILDA",
           "name": "Tilda",
+          "villageCode": 956123,
+          "active": true
+        },
+        {
+          "code": "PARSADA",
+          "name": "Parsada",
+          "villageCode": 444899,
+          "active": true
+        },
+        {
+          "code": "SASAHOLI",
+          "name": "Sasaholi",
+          "villageCode": 956132,
           "active": true
         },
         {
           "code": "TULSI",
           "name": "Tulsi",
+          "villageCode": 445015,
+          "active": true
+        },
+        {
+          "code": "JOTA",
+          "name": "Jota",
+          "villageCode": 444900,
+          "active": true
+        },
+        {
+          "code": "NEVRA",
+          "name": "Nevra",
+          "villageCode": 956153,
+          "active": true
+        },
+        {
+          "code": "TANDWA",
+          "name": "Tandwa",
+          "villageCode": 444903,
+          "active": true
+        },
+        {
+          "code": "TARPONGI",
+          "name": "Tarpongi",
+          "villageCode": 444890,
           "active": true
         }
       ]
