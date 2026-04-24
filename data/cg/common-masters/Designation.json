@@ -865,6 +865,12 @@
       "description": "Officer level 3",
       "code": "DESIG_145",
       "active": true
+    },
+    {
+      "name": "NOC Officer",
+      "description": "NOC Officer",
+      "code": "DESIG_146",
+      "active": true
     }
   ]
 }

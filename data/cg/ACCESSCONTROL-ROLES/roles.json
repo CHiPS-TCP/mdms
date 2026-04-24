@@ -878,6 +878,12 @@
       "name": "NHAI NOC Approver",
       "description": "National Highways Authority of India NOC Approver",
       "groupId": "004"
+    },
+    {
+      "code": "NOC_TRACKER",
+      "name": "NOC_TRACKER",
+      "description": "Employee can Read the NOC Application",
+      "groupId": "004"
     }
   ]
 }

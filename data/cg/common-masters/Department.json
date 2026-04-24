@@ -271,6 +271,46 @@
       "name": "Sewa Kendra (DGR) ",
       "code": "DEPT_SK",
       "active": true
+    },
+    {
+      "name": "Airport Authority of India",
+      "code": "DEPT_53",
+      "active": true
+    },
+    {
+      "name": "CSPDCL NOC",
+      "code": "DEPT_54",
+      "active": true
+    },
+    {
+      "name": "FIRE NOC",
+      "code": "DEPT_55",
+      "active": true
+    },
+    {
+      "name": "National Highway Authority Of India",
+      "code": "DEPT_56",
+      "active": true
+    },
+    {
+      "name": "Public Work Department NOC",
+      "code": "DEPT_57",
+      "active": true
+    },
+    {
+      "name": "Revanue NOC",
+      "code": "DEPT_58",
+      "active": true
+    },
+    {
+      "name": "SADA",
+      "code": "DEPT_59",
+      "active": true
+    },
+    {
+      "name": "Water NOC",
+      "code": "DEPT_60",
+      "active": true
     }
   ]
 }
