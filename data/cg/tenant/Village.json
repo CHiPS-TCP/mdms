@@ -11830,7 +11830,7 @@
         {
           "code": "KURRA",
           "name": "Kurra",
-          "villageCode": null,
+          "villageCode": 0,
           "active": true
         },
         {
@@ -12723,7 +12723,7 @@
         {
           "code": "KHAPRI",
           "name": "Khapri",
-          "villageCode": null,
+          "villageCode": 0,
           "active": true
         },
         {
@@ -12808,7 +12808,7 @@
         {
           "code": "RAIPUR_KHAS",
           "name": "Raipur Khas",
-          "villageCode": null,
+          "villageCode": 0,
           "active": true
         },
         {
@@ -13012,7 +13012,7 @@
         {
           "code": "RANWABHATHA",
           "name": "Ranwabhatha",
-          "villageCode": null,
+          "villageCode": 0,
           "active": true
         },
         {
@@ -13036,7 +13036,7 @@
         {
           "code": "SARORA",
           "name": "Sarora",
-          "villageCode": null,
+          "villageCode": 0,
           "active": true
         },
         {
