@@ -5461,41 +5461,49 @@
         {
           "code": "CHHURA",
           "name": "Chhura",
+          "villageCode": 931246,
           "active": true
         },
         {
           "code": "DAGANBAY",
           "name": "Daganbay",
+          "villageCode": 445243,
           "active": true
         },
         {
           "code": "GADIKOTH",
           "name": "Gadikoth",
+          "villageCode": 931247,
           "active": true
         },
         {
           "code": "HARDI",
           "name": "Hardi",
+          "villageCode": 445242,
           "active": true
         },
         {
           "code": "KOSAMBUDHA",
           "name": "Kosambudha",
+          "villageCode": 445235,
           "active": true
         },
         {
           "code": "PANDRIPANI_DIH",
           "name": "Pandripani Dih",
+          "villageCode": 445291,
           "active": true
         },
         {
           "code": "RAVANBHATHA",
           "name": "Ravanbhatha",
+          "villageCode": 445290,
           "active": true
         },
         {
           "code": "SARAGAON",
           "name": "Saragaon",
+          "villageCode": 445233,
           "active": true
         }
       ]
@@ -5508,51 +5516,61 @@
         {
           "code": "AAMDI",
           "name": "Aamdi",
+          "villageCode": 445128,
           "active": true
         },
         {
           "code": "BHILAI",
           "name": "Bhilai",
+          "villageCode": 445085,
           "active": true
         },
         {
           "code": "DONGRIGAON",
           "name": "Dongrigaon",
+          "villageCode": 445086,
           "active": true
         },
         {
           "code": "GARIABAND",
           "name": "Gariaband",
+          "villageCode": 956200,
           "active": true
         },
         {
           "code": "KESHODARA",
           "name": "Keshodara",
+          "villageCode": 445101,
           "active": true
         },
         {
           "code": "KOKDI",
           "name": "Kokdi",
+          "villageCode": 445103,
           "active": true
         },
         {
           "code": "MAJARKATTA",
           "name": "Majarkatta",
+          "villageCode": 445100,
           "active": true
         },
         {
           "code": "NAHARGAON",
           "name": "Nahargaon",
+          "villageCode": 445104,
           "active": true
         },
         {
           "code": "PARAGAON",
           "name": "Paragaon",
+          "villageCode": 445090,
           "active": true
         },
         {
           "code": "PATHARMOHADA",
           "name": "Patharmohada",
+          "villageCode": 445084,
           "active": true
         }
       ]
@@ -5565,56 +5583,73 @@
         {
           "code": "BINAURI",
           "name": "Binauri",
+          "villageCode": 0,
+          "active": true
+        },
+        {
+          "code": "GADHIDIHI",
+          "name": "Gadhidihi",
+          "villageCode": 931251,
           "active": true
         },
         {
           "code": "BORID",
           "name": "Borid",
+          "villageCode": 444804,
           "active": true
         },
         {
           "code": "CHAITRA",
           "name": "Chaitra",
+          "villageCode": 444840,
           "active": true
         },
         {
           "code": "FINGESHWAR",
           "name": "Fingeshwar",
+          "villageCode": 931250,
           "active": true
         },
         {
           "code": "MADWADIH",
           "name": "Madwadih",
+          "villageCode": 444839,
           "active": true
         },
         {
           "code": "PARSADAKALA",
           "name": "Parsadakala",
+          "villageCode": 444810,
           "active": true
         },
         {
           "code": "PATHARRI",
           "name": "Patharri",
+          "villageCode": 444796,
           "active": true
         },
         {
           "code": "PATORA",
           "name": "Patora",
+          "villageCode": 444875,
           "active": true
         },
         {
           "code": "PURAINA",
           "name": "Puraina",
+          "villageCode": 444808,
           "active": true
         },
         {
           "code": "SARGOD",
           "name": "Sargod",
+          "villageCode": 444797,
           "active": true
         },
         {
           "code": "SENDER",
           "name": "Sender",
+          "villageCode": 444877,
           "active": true
         }
       ]
@@ -5625,38 +5660,45 @@
       "active": true,
       "villages": [
         {
-          "code": "CHAIBEBANDHA",
-          "name": "Chaibebandha",
+          "code": "CHAUBEBANDHA",
+          "name": "Chaubebandha",
+          "villageCode": 444825,
           "active": true
         },
         {
           "code": "KOMA",
           "name": "Koma",
+          "villageCode": 444831,
           "active": true
         },
         {
           "code": "KUMHI",
           "name": "Kumhi",
+          "villageCode": 444824,
           "active": true
         },
         {
           "code": "PIPARCHHEDI",
           "name": "Piparchhedi",
+          "villageCode": 444834,
           "active": true
         },
         {
           "code": "PITIBANDHA",
           "name": "Pitibandha",
+          "villageCode": 444822,
           "active": true
         },
         {
           "code": "RAJIM",
           "name": "Rajim",
+          "villageCode": 931252,
           "active": true
         },
         {
           "code": "SEMHARATARA",
           "name": "Semharatara",
+          "villageCode": 444833,
           "active": true
         }
       ]
