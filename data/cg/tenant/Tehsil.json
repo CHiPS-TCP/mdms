@@ -881,8 +881,8 @@
           "active": true
         },
         {
-          "code": "RAIPUR_FINGESHWAR",
-          "name": "Fingeshwar",
+          "code": "DHARSIWA",
+          "name": "Dharsiwa",
           "active": true
         },
         {
@@ -896,8 +896,8 @@
           "active": true
         },
         {
-          "code": "NAWAPARA",
-          "name": "Nawapara",
+          "code": "KHARORA",
+          "name": "Kharora",
           "active": true
         },
         {
@@ -908,11 +908,6 @@
         {
           "code": "TILDA",
           "name": "Tilda",
-          "active": true
-        },
-        {
-          "code": "TILDA_NEVRA",
-          "name": "Tilda-nevra",
           "active": true
         }
       ]
