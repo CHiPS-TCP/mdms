@@ -11756,9 +11756,27 @@
           "active": true
         },
         {
-          "code": "KHOLA",
-          "name": "Khola",
-          "villageCode": 444675,
+          "code": "DHUSERA",
+          "name": "Dhusera",
+          "villageCode": 444633,
+          "active": true
+        },
+        {
+          "code": "KHILORA",
+          "name": "Khilora",
+          "villageCode": 444630,
+          "active": true
+        },
+        {
+          "code": "SEONI",
+          "name": "Seoni",
+          "villageCode": 444631,
+          "active": true
+        },
+        {
+          "code": "SINGARBHATTA",
+          "name": "Singarbhatta",
+          "villageCode": 444638,
           "active": true
         },
         {
@@ -11873,12 +11891,6 @@
           "code": "KURRA",
           "name": "Kurra",
           "villageCode": 0,
-          "active": true
-        },
-        {
-          "code": "TENDUA",
-          "name": "Tendua",
-          "villageCode": 444645,
           "active": true
         }
       ]
@@ -11995,6 +12007,12 @@
           "name": "Arang",
           "villageCode": 956164,
           "active": true
+        },
+        {
+          "code": "BHAISMUDA",
+          "name": "Bhaismuda",
+          "villageCode": 444435,
+          "active": true
         }
       ]
     },
@@ -12010,9 +12028,21 @@
           "active": true
         },
         {
+          "code": "HAATBANDH",
+          "name": "Haatbandh",
+          "villageCode": 444758,
+          "active": true
+        },
+        {
           "code": "GOMCHI",
           "name": "Gomchi",
           "villageCode": 444756,
+          "active": true
+        },
+        {
+          "code": "TENDUA",
+          "name": "Tendua",
+          "villageCode": 444757,
           "active": true
         },
         {
@@ -12031,6 +12061,18 @@
           "code": "KARA",
           "name": "Kara",
           "villageCode": 444754,
+          "active": true
+        },
+        {
+          "code": "URLA",
+          "name": "Urla",
+          "villageCode": 956118,
+          "active": true
+        },
+        {
+          "code": "ACHHOLI2",
+          "name": "Achholi-2",
+          "villageCode": 956160,
           "active": true
         },
         {
@@ -12250,78 +12292,6 @@
           "active": true
         },
         {
-          "code": "PIRDA",
-          "name": "Pirda",
-          "villageCode": 444762,
-          "active": true
-        },
-        {
-          "code": "TULSI",
-          "name": "Tulsi",
-          "villageCode": 444763,
-          "active": true
-        },
-        {
-          "code": "KATHATHIH",
-          "name": "Kathathih",
-          "villageCode": 444775,
-          "active": true
-        },
-        {
-          "code": "KANDUL",
-          "name": "Kandul",
-          "villageCode": 444777,
-          "active": true
-        },
-        {
-          "code": "SEZABHAAR",
-          "name": "Sezabhaar",
-          "villageCode": 444779,
-          "active": true
-        },
-        {
-          "code": "DATRENGA",
-          "name": "Datrenga",
-          "villageCode": 444778,
-          "active": true
-        },
-        {
-          "code": "DOMA",
-          "name": "Doma",
-          "villageCode": 444780,
-          "active": true
-        },
-        {
-          "code": "MUJGAHAN",
-          "name": "Mujgahan",
-          "villageCode": 444781,
-          "active": true
-        },
-        {
-          "code": "BORIYAKALA",
-          "name": "Boriyakala",
-          "villageCode": 444773,
-          "active": true
-        },
-        {
-          "code": "DHANELI",
-          "name": "Dhaneli",
-          "villageCode": 444774,
-          "active": true
-        },
-        {
-          "code": "BHATGAON",
-          "name": "Bhatgaon",
-          "villageCode": 444771,
-          "active": true
-        },
-        {
-          "code": "SAKARI3",
-          "name": "Sakari-3",
-          "villageCode": 444761,
-          "active": true
-        },
-        {
           "code": "KUNRA",
           "name": "Kunra",
           "villageCode": 956218,
@@ -12373,30 +12343,6 @@
           "code": "DEORI",
           "name": "Deori",
           "villageCode": 444709,
-          "active": true
-        },
-        {
-          "code": "BHAISMUDA",
-          "name": "Bhaismuda",
-          "villageCode": 444435,
-          "active": true
-        },
-        {
-          "code": "SERIKHEDI",
-          "name": "Serikhedi",
-          "villageCode": 444765,
-          "active": true
-        },
-        {
-          "code": "DHARAMPURA",
-          "name": "Dharampura",
-          "villageCode": 444770,
-          "active": true
-        },
-        {
-          "code": "BANARASI",
-          "name": "Banarasi",
-          "villageCode": 444769,
           "active": true
         }
       ]
@@ -12482,6 +12428,18 @@
           "code": "BANJARI",
           "name": "Banjari",
           "villageCode": 444646,
+          "active": true
+        },
+        {
+          "code": "TENDUA",
+          "name": "Tendua",
+          "villageCode": 444645,
+          "active": true
+        },
+        {
+          "code": "KHOLA",
+          "name": "Khola",
+          "villageCode": 444675,
           "active": true
         }
       ]
@@ -13112,51 +13070,81 @@
           "active": true
         },
         {
-          "code": "HAATBANDH",
-          "name": "Haatbandh",
-          "villageCode": 444758,
+          "code": "PIRDA",
+          "name": "Pirda",
+          "villageCode": 444762,
           "active": true
         },
         {
-          "code": "TENDUA",
-          "name": "Tendua",
-          "villageCode": 444757,
+          "code": "TULSI",
+          "name": "Tulsi",
+          "villageCode": 444763,
           "active": true
         },
         {
-          "code": "URLA",
-          "name": "Urla",
-          "villageCode": 956118,
+          "code": "KATHATHIH",
+          "name": "Kathathih",
+          "villageCode": 444775,
           "active": true
         },
         {
-          "code": "ACHHOLI2",
-          "name": "Achholi-2",
-          "villageCode": 956160,
+          "code": "KANDUL",
+          "name": "Kandul",
+          "villageCode": 444777,
           "active": true
         },
         {
-          "code": "DHUSERA",
-          "name": "Dhusera",
-          "villageCode": 444633,
+          "code": "SEZABHAAR",
+          "name": "Sezabhaar",
+          "villageCode": 444779,
           "active": true
         },
         {
-          "code": "KHILORA",
-          "name": "Khilora",
-          "villageCode": 444630,
+          "code": "DATRENGA",
+          "name": "Datrenga",
+          "villageCode": 444778,
           "active": true
         },
         {
-          "code": "SEONI",
-          "name": "Seoni",
-          "villageCode": 444631,
+          "code": "DOMA",
+          "name": "Doma",
+          "villageCode": 444780,
           "active": true
         },
         {
-          "code": "SINGARBHATTA",
-          "name": "Singarbhatta",
-          "villageCode": 444638,
+          "code": "MUJGAHAN",
+          "name": "Mujgahan",
+          "villageCode": 444781,
+          "active": true
+        },
+        {
+          "code": "BORIYAKALA",
+          "name": "Boriyakala",
+          "villageCode": 444773,
+          "active": true
+        },
+        {
+          "code": "DHANELI",
+          "name": "Dhaneli",
+          "villageCode": 444774,
+          "active": true
+        },
+        {
+          "code": "BHATGAON",
+          "name": "Bhatgaon",
+          "villageCode": 444771,
+          "active": true
+        },
+        {
+          "code": "SAKARI3",
+          "name": "Sakari-3",
+          "villageCode": 444761,
+          "active": true
+        },
+        {
+          "code": "SERIKHEDI",
+          "name": "Serikhedi",
+          "villageCode": 444765,
           "active": true
         },
         {
@@ -13169,6 +13157,18 @@
           "code": "TEMRI",
           "name": "Temri",
           "villageCode": 444768,
+          "active": true
+        },
+        {
+          "code": "DHARAMPURA",
+          "name": "Dharampura",
+          "villageCode": 444770,
+          "active": true
+        },
+        {
+          "code": "BANARASI",
+          "name": "Banarasi",
+          "villageCode": 444769,
           "active": true
         },
         {
