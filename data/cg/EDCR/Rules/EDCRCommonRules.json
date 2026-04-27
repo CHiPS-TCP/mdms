@@ -12,7 +12,13 @@
 			"active": true,
 			"OccType": [
 				{
-					"OccupancyType": "R",
+					"OccupancyType": [
+						"RESIDENTIAL_R1",
+						"RESIDENTIAL_R2",
+						"RESIDENTIAL_R3",
+						"RESIDENTIAL_R4",
+						"RESIDENTIAL_R5"
+					],
 					"zone": "CA",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Central Residential Area",
@@ -71,7 +77,9 @@
 					}
 				},
 				{
-					"OccupancyType": "C",
+					"OccupancyType": [
+						"COMMERCIAL"
+					],
 					"zone": "CA",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Commercial",
@@ -115,7 +123,9 @@
 					}
 				},
 				{
-					"OccupancyType": "I",
+					"OccupancyType": [
+						"INDUSTRIAL"
+					],
 					"zone": "CA",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Industrial",
@@ -148,10 +158,15 @@
 					}
 				},
 				{
-					"OccupancyType": "E",
+					"OccupancyType": [
+						"PUBLIC_SEMI_PUBLIC",
+						"RECREATIONAL",
+						"TRANSPORTATION",
+						"MIXED_USE"
+					],
 					"zone": "CA",
 					"occVersion": "1.0.0",
-					"OccupancyName": "Educational",
+					"OccupancyName": "Public & Semi Public",
 					"isActive": true,
 					"FAR": {
 						"mandatory": true,
@@ -193,100 +208,13 @@
 					}
 				},
 				{
-					"OccupancyType": "IT",
+					"OccupancyType": [
+						"AGRICULTURAL",
+						"RESTRICTED_AGRICULTURE"
+					],
 					"zone": "CA",
 					"occVersion": "1.0.0",
-					"OccupancyName": "Institutional",
-					"isActive": true,
-					"FAR": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
-						"value": [
-							{
-								"min": 0,
-								"max": 500,
-								"normal": 1.5,
-								"purchasable": 0
-							},
-							{
-								"min": 500.01,
-								"max": 1000,
-								"normal": 2,
-								"purchasable": 0
-							},
-							{
-								"min": 1000.01,
-								"max": 999999999,
-								"normal": 2.5,
-								"purchasable": 0
-							}
-						]
-					},
-					"siteCoverage": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "DOUBLE",
-						"unit": "percent",
-						"value": [
-							{
-								"min": 0,
-								"max": 9999999999,
-								"percentage": 30
-							}
-						]
-					}
-				},
-				{
-					"OccupancyType": "A",
-					"zone": "CA",
-					"occVersion": "1.0.0",
-					"OccupancyName": "Assembly",
-					"isActive": true,
-					"FAR": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
-						"value": [
-							{
-								"min": 0,
-								"max": 500,
-								"normal": 1.5,
-								"purchasable": 0
-							},
-							{
-								"min": 500.01,
-								"max": 1000,
-								"normal": 2,
-								"purchasable": 0
-							},
-							{
-								"min": 1000.01,
-								"max": 999999999,
-								"normal": 2.5,
-								"purchasable": 0
-							}
-						]
-					},
-					"siteCoverage": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "DOUBLE",
-						"unit": "percent",
-						"value": [
-							{
-								"min": 0,
-								"max": 9999999999,
-								"percentage": 30
-							}
-						]
-					}
-				},
-				{
-					"OccupancyType": "AR",
-					"zone": "CA",
-					"occVersion": "1.0.0",
-					"OccupancyName": "Industrial",
+					"OccupancyName": "Agricultural",
 					"isActive": true,
 					"FAR": {
 						"mandatory": true,
@@ -316,8 +244,14 @@
 					}
 				},
 				{
-					"OccupancyType": "R",
-					"zone": "DA-01",
+					"OccupancyType": [
+						"RESIDENTIAL_R1",
+						"RESIDENTIAL_R2",
+						"RESIDENTIAL_R3",
+						"RESIDENTIAL_R4",
+						"RESIDENTIAL_R5"
+					],
+					"zone": "DA_01",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Central Residential Area",
 					"isActive": true,
@@ -375,8 +309,10 @@
 					}
 				},
 				{
-					"OccupancyType": "C",
-					"zone": "DA-01",
+					"OccupancyType": [
+						"COMMERCIAL"
+					],
+					"zone": "DA_01",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Commercial",
 					"isActive": true,
@@ -419,8 +355,10 @@
 					}
 				},
 				{
-					"OccupancyType": "I",
-					"zone": "DA-01",
+					"OccupancyType": [
+						"INDUSTRIAL"
+					],
+					"zone": "DA_01",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Industrial",
 					"isActive": true,
@@ -452,10 +390,15 @@
 					}
 				},
 				{
-					"OccupancyType": "E",
-					"zone": "DA-01",
+					"OccupancyType": [
+						"PUBLIC_SEMI_PUBLIC",
+						"RECREATIONAL",
+						"TRANSPORTATION",
+						"MIXED_USE"
+					],
+					"zone": "DA_01",
 					"occVersion": "1.0.0",
-					"OccupancyName": "Educational",
+					"OccupancyName": "Public & Semi Public",
 					"isActive": true,
 					"FAR": {
 						"mandatory": true,
@@ -497,100 +440,13 @@
 					}
 				},
 				{
-					"OccupancyType": "IT",
-					"zone": "DA-01",
+					"OccupancyType": [
+						"AGRICULTURAL",
+						"RESTRICTED_AGRICULTURE"
+					],
+					"zone": "DA_01",
 					"occVersion": "1.0.0",
-					"OccupancyName": "Institutional",
-					"isActive": true,
-					"FAR": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
-						"value": [
-							{
-								"min": 0,
-								"max": 500,
-								"normal": 1.5,
-								"purchasable": 0
-							},
-							{
-								"min": 500.01,
-								"max": 1000,
-								"normal": 2,
-								"purchasable": 0
-							},
-							{
-								"min": 1000.01,
-								"max": 999999999,
-								"normal": 2.5,
-								"purchasable": 0
-							}
-						]
-					},
-					"siteCoverage": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "DOUBLE",
-						"unit": "percent",
-						"value": [
-							{
-								"min": 0,
-								"max": 9999999999,
-								"percentage": 30
-							}
-						]
-					}
-				},
-				{
-					"OccupancyType": "A",
-					"zone": "DA-01",
-					"occVersion": "1.0.0",
-					"OccupancyName": "Assembly",
-					"isActive": true,
-					"FAR": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
-						"value": [
-							{
-								"min": 0,
-								"max": 500,
-								"normal": 1.5,
-								"purchasable": 0
-							},
-							{
-								"min": 500.01,
-								"max": 1000,
-								"normal": 2,
-								"purchasable": 0
-							},
-							{
-								"min": 1000.01,
-								"max": 999999999,
-								"normal": 2.5,
-								"purchasable": 0
-							}
-						]
-					},
-					"siteCoverage": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "DOUBLE",
-						"unit": "percent",
-						"value": [
-							{
-								"min": 0,
-								"max": 9999999999,
-								"percentage": 30
-							}
-						]
-					}
-				},
-				{
-					"OccupancyType": "AR",
-					"zone": "DA-01",
-					"occVersion": "1.0.0",
-					"OccupancyName": "Industrial",
+					"OccupancyName": "Agricultural",
 					"isActive": true,
 					"FAR": {
 						"mandatory": true,
@@ -620,8 +476,14 @@
 					}
 				},
 				{
-					"OccupancyType": "R",
-					"zone": "DA-02",
+					"OccupancyType": [
+						"RESIDENTIAL_R1",
+						"RESIDENTIAL_R2",
+						"RESIDENTIAL_R3",
+						"RESIDENTIAL_R4",
+						"RESIDENTIAL_R5"
+					],
+					"zone": "DA_02",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Central Residential Area",
 					"isActive": true,
@@ -685,8 +547,10 @@
 					}
 				},
 				{
-					"OccupancyType": "C",
-					"zone": "DA-02",
+					"OccupancyType": [
+						"COMMERCIAL"
+					],
+					"zone": "DA_02",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Commercial",
 					"isActive": true,
@@ -735,8 +599,10 @@
 					}
 				},
 				{
-					"OccupancyType": "I",
-					"zone": "DA-02",
+					"OccupancyType": [
+						"INDUSTRIAL"
+					],
+					"zone": "DA_02",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Industrial",
 					"isActive": true,
@@ -768,10 +634,15 @@
 					}
 				},
 				{
-					"OccupancyType": "E",
-					"zone": "DA-02",
+					"OccupancyType": [
+						"PUBLIC_SEMI_PUBLIC",
+						"RECREATIONAL",
+						"TRANSPORTATION",
+						"MIXED_USE"
+					],
+					"zone": "DA_02",
 					"occVersion": "1.0.0",
-					"OccupancyName": "Educational",
+					"OccupancyName": "Public & Semi Public",
 					"isActive": true,
 					"FAR": {
 						"mandatory": true,
@@ -807,88 +678,13 @@
 					}
 				},
 				{
-					"OccupancyType": "IT",
-					"zone": "DA-02",
+					"OccupancyType": [
+						"AGRICULTURAL",
+						"RESTRICTED_AGRICULTURE"
+					],
+					"zone": "DA_02",
 					"occVersion": "1.0.0",
-					"OccupancyName": "Institutional",
-					"isActive": true,
-					"FAR": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
-						"value": [
-							{
-								"min": 0,
-								"max": 500,
-								"normal": 1.5,
-								"purchasable": 0
-							},
-							{
-								"min": 500.01,
-								"max": 999999999,
-								"normal": 1.75,
-								"purchasable": 0
-							}
-						]
-					},
-					"siteCoverage": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "DOUBLE",
-						"unit": "percent",
-						"value": [
-							{
-								"min": 0,
-								"max": 9999999999,
-								"percentage": 30
-							}
-						]
-					}
-				},
-				{
-					"OccupancyType": "A",
-					"zone": "DA-02",
-					"occVersion": "1.0.0",
-					"OccupancyName": "Assembly",
-					"isActive": true,
-					"FAR": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
-						"value": [
-							{
-								"min": 0,
-								"max": 500,
-								"normal": 1.5,
-								"purchasable": 0
-							},
-							{
-								"min": 500.01,
-								"max": 999999999,
-								"normal": 1.75,
-								"purchasable": 0
-							}
-						]
-					},
-					"siteCoverage": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "DOUBLE",
-						"unit": "percent",
-						"value": [
-							{
-								"min": 0,
-								"max": 9999999999,
-								"percentage": 30
-							}
-						]
-					}
-				},
-				{
-					"OccupancyType": "AR",
-					"zone": "DA-02",
-					"occVersion": "1.0.0",
-					"OccupancyName": "Industrial",
+					"OccupancyName": "Agricultural",
 					"isActive": true,
 					"FAR": {
 						"mandatory": true,
@@ -918,8 +714,14 @@
 					}
 				},
 				{
-					"OccupancyType": "R",
-					"zone": "DA-03",
+					"OccupancyType": [
+						"RESIDENTIAL_R1",
+						"RESIDENTIAL_R2",
+						"RESIDENTIAL_R3",
+						"RESIDENTIAL_R4",
+						"RESIDENTIAL_R5"
+					],
+					"zone": "DA_03",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Central Residential Area",
 					"isActive": true,
@@ -983,8 +785,10 @@
 					}
 				},
 				{
-					"OccupancyType": "C",
-					"zone": "DA-03",
+					"OccupancyType": [
+						"COMMERCIAL"
+					],
+					"zone": "DA_03",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Commercial",
 					"isActive": true,
@@ -1033,8 +837,10 @@
 					}
 				},
 				{
-					"OccupancyType": "I",
-					"zone": "DA-02",
+					"OccupancyType": [
+						"INDUSTRIAL"
+					],
+					"zone": "DA_03",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Industrial",
 					"isActive": true,
@@ -1066,10 +872,15 @@
 					}
 				},
 				{
-					"OccupancyType": "E",
-					"zone": "DA-02",
+					"OccupancyType": [
+						"PUBLIC_SEMI_PUBLIC",
+						"RECREATIONAL",
+						"TRANSPORTATION",
+						"MIXED_USE"
+					],
+					"zone": "DA_03",
 					"occVersion": "1.0.0",
-					"OccupancyName": "Educational",
+					"OccupancyName": "Public & Semi Public",
 					"isActive": true,
 					"FAR": {
 						"mandatory": true,
@@ -1105,88 +916,13 @@
 					}
 				},
 				{
-					"OccupancyType": "IT",
-					"zone": "DA-02",
+					"OccupancyType": [
+						"AGRICULTURAL",
+						"RESTRICTED_AGRICULTURE"
+					],
+					"zone": "DA_03",
 					"occVersion": "1.0.0",
-					"OccupancyName": "Institutional",
-					"isActive": true,
-					"FAR": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
-						"value": [
-							{
-								"min": 0,
-								"max": 500,
-								"normal": 1.5,
-								"purchasable": 0
-							},
-							{
-								"min": 500.01,
-								"max": 999999999,
-								"normal": 1.75,
-								"purchasable": 0
-							}
-						]
-					},
-					"siteCoverage": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "DOUBLE",
-						"unit": "percent",
-						"value": [
-							{
-								"min": 0,
-								"max": 9999999999,
-								"percentage": 30
-							}
-						]
-					}
-				},
-				{
-					"OccupancyType": "A",
-					"zone": "DA-02",
-					"occVersion": "1.0.0",
-					"OccupancyName": "Assembly",
-					"isActive": true,
-					"FAR": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
-						"value": [
-							{
-								"min": 0,
-								"max": 500,
-								"normal": 1.5,
-								"purchasable": 0
-							},
-							{
-								"min": 500.01,
-								"max": 999999999,
-								"normal": 1.75,
-								"purchasable": 0
-							}
-						]
-					},
-					"siteCoverage": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "DOUBLE",
-						"unit": "percent",
-						"value": [
-							{
-								"min": 0,
-								"max": 9999999999,
-								"percentage": 30
-							}
-						]
-					}
-				},
-				{
-					"OccupancyType": "AR",
-					"zone": "DA-03",
-					"occVersion": "1.0.0",
-					"OccupancyName": "Industrial",
+					"OccupancyName": "Agricultural",
 					"isActive": true,
 					"FAR": {
 						"mandatory": true,
@@ -1542,7 +1278,9 @@
 					}
 				},
 				{
-					"OccupancyType": "C",
+					"OccupancyType": [
+						"COMMERCIAL"
+					],
 					"zone": "NA",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Commercial",
@@ -1605,7 +1343,9 @@
 					}
 				},
 				{
-					"OccupancyType": "I",
+					"OccupancyType": [
+						"INDUSTRIAL"
+					],
 					"zone": "NA",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Industrial",
