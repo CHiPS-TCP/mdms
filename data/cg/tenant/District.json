@@ -3,33 +3,6 @@
   "moduleName": "tenant",
   "District": [
     {
-      "tenantId": "cg.tcp",
-      "regionalOffice": "Town and Country Planning",
-      "active": true,
-      "districts": [
-        {
-          "code": "TCP_DUMMY_DISTRICT",
-          "name": "TCP Dummy District",
-          "active": true
-        },
-        {
-          "code": "TCP_DUMMY_DISTRICT_2",
-          "name": "TCP Dummy District 2",
-          "active": true
-        },
-        {
-          "code": "TCP_DUMMY_DISTRICT_3",
-          "name": "TCP Dummy District 3",
-          "active": true
-        },
-        {
-          "code": "TCP_DUMMY_DISTRICT_4",
-          "name": "TCP Dummy District 4",
-          "active": true
-        }
-      ]
-    },
-    {
       "tenantId": "cg.ambikapur",
       "regionalOffice": "Ambikapur",
       "active": true,
