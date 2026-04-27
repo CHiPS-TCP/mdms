@@ -39,6 +39,7 @@
         "ATM",
         "RESTAURANT",
         "BAKERY",
+        "GUMTI",
         "BANK",
         "LODGING_AND_BOARDING",
         "GUEST_HOUSE"
@@ -57,7 +58,7 @@
         "CITY_CENTER",
         "MULTIPLEX",
         "MINIPLEX",
-        "GUEST_HOUSE"
+        "GUEST_HOUSES"
       ]
     },
     {
@@ -67,7 +68,11 @@
         "WAREHOUSE",
         "GODOWN",
         "WHOLESALE_MARKET",
-        "SLAUGHTERHOUSE"
+        "SLAUGHTERHOUSE",
+        "WHOLSESALE_MANDIS",
+        "TIMBER_MARKETS",
+        "STOCKYARDS",
+        "SPECIALIZED_MARKETS"
       ]
     },
     {
@@ -149,7 +154,8 @@
         "RESEARCH_CENTER",
         "HOSPITAL",
         "TRAUMA_CENTER",
-        "SPECIALIZED_HOSPITAL"
+        "SPECIALIZED_HOSPITAL",
+        "RADIOLOGY_CENTERS"
       ]
     },
     {
@@ -194,14 +200,17 @@
         "HOTEL",
         "MOTEL",
         "GUEST_HOUSE",
-        "PARTY_PLOT"
+        "PARTY_PLOT",
+        "PATHOLOGY_LAB"
       ]
     },
     {
       "plotUse": "INDUSTRIAL_1",
       "code": "I1",
       "subUses": [
-        "ALL_GREEN_AND_ORANGE_CATEGORY_INDUSTRIES_AND_SERVICE_INDUSTRIES_AS_PER_INDUSTRIAL_NORMS"
+        "GREEN_CATEGORY_INDUSTRY",
+        "SERVICE_INDUSTRY"
+
       ]
     },
     {
@@ -217,7 +226,11 @@
         "FUEL_STORAGE",
         "FLAMMABLE_MATERIAL_STORAGE",
         "THERMALWATERGAS_BASED_POWER_PLANT",
-        "POLLUTING_AND_HAZARDOUS_INDUSTRIES"
+        "POLLUTING_AND_HAZARDOUS_INDUSTRIES",
+        "ORANGE_AND_RED_CATEGORY_INDUSTRY",
+        "ICE_FACTORY",
+        "STONE"
+
       ]
     },
     {
@@ -238,7 +251,7 @@
       "plotUse": "PARKS",
       "code": "P",
       "subUses": [
-        "PARK",
+        "GARDENS_AND_ORCHARDS",
         "GARDEN",
         "GREEN_HOUSE",
         "BOTANICAL_GARDEN"
@@ -262,7 +275,9 @@
         "AIRPORT",
         "COLD_STORAGE",
         "GODOWN",
-        "WEIGHBRIDGE"
+        "WEIGHBRIDGE",
+        "PETROL_PUMP",
+        "ESSENTIAL_STAFF_ACCOMMODATION"
       ]
     },
     {
@@ -287,14 +302,16 @@
         "MINING_AND_QUARRYING",
         "LANDFILL_SITE",
         "AGRICULTURAL_EQUIPMENT_REPAIR_AND_SALE",
-        "SAW_MILL_ROAD_SIDE_EATERY",
+        "SAW_MILL",
+        "ROADSIDE",
         "ROADSIDE_DHABA",
         "POULTRY_FARM",
         "FARM_HOUSE",
         "PETROL_PUMPS",
         "FUEL_STATIONS",
         "BIO_ETHANOL_PLANT",
-        "CAPACITIVE_POWER_PLANT"
+        "CAPACITIVE_POWER_PLANT",
+        "FARM_EQUIPMENT_REPAIR/SALE"
       ]
     }
   ]
