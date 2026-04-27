@@ -215,21 +215,23 @@
     },
     {
       "plotUse": "INDUSTRIAL_2",
-      "code": "I1",
+      "code": "I2",
       "subUses": [
         "JUNK_YARD",
         "TEXTILE_UNITS",
         "STONE_CRUSHING",
-        "MEAT_PROCESSING_UNITS",
+        "MEAT_PROCESSING",
         "LEATHER_PROCESSING",
         "COLD_STORAGE",
         "FUEL_STORAGE",
         "FLAMMABLE_MATERIAL_STORAGE",
-        "THERMALWATERGAS_BASED_POWER_PLANT",
-        "POLLUTING_AND_HAZARDOUS_INDUSTRIES",
-        "ORANGE_AND_RED_CATEGORY_INDUSTRY",
+        "THERMAL_POWER_PLANT",
+        "GAS_BASED_POWER_PLANT",
+        "ORANGE_CATEGORY_INDUSTRY",
+        "RED_CATEGORY_INDUSTRY",
         "ICE_FACTORY",
-        "STONE"
+        "STONE_CRUSHING",
+        "HAZARSDOUS_INDUSTRY"
 
       ]
     },
@@ -286,13 +288,16 @@
       "subUses": [
         "AGRICULTURE",
         "GARDENING",
-        "BRICK_MANUFACTURING",
+        "BRICK_KILNS",
         "HORTICULTURE",
         "CAPACITIVE",
         "DAIRY_DEVELOPMENT",
         "FISHERIES",
         "ANIMAL_HUSBANDRY_AND_BREEDING",
-        "NATURAL_RESOURCE_SANCTUARY"
+        "NATURAL_RESOURCE_SANCTUARIES",
+        "BIO_ETHANOL_PLANTS",
+        "CAPTIVE_POWER_PLANTS_ONLY"
+
       ]
     },
     {
@@ -303,7 +308,6 @@
         "LANDFILL_SITE",
         "AGRICULTURAL_EQUIPMENT_REPAIR_AND_SALE",
         "SAW_MILL",
-        "ROADSIDE",
         "ROADSIDE_DHABA",
         "POULTRY_FARM",
         "FARM_HOUSE",
