@@ -11,10 +11,19 @@
     },
     {
       "plotUse": "RESIDENTIAL_R1",
-      "code": "R",
+      "code": "R1",
       "subUses": [
         "DETACHED_DWELLING_UNITS",
-        "SEMI_DETACHED"
+        "SEMI_DETACHED_HOUSING_UNITS",
+        "ROW_HOUSING",
+        "APARTMENTS",
+        "HOSTELS",
+        "DHARAMSHALAS",
+        "GROUP_HOUSING",
+        "NIGHT_SHELTERS",
+        "CRECHES",
+        "SERVICE_APARTMENTS",
+        "INTEGRATED_TOWNSHIPS"
       ]
     },
     {

@@ -6,7 +6,7 @@
     {
       "code": "RESIDENTIAL_R1",
       "name": "Residential R1",
-      "subUseCode": "R",
+      "subUseCode": "R1",
       "category": "RESIDENTIAL",
       "active": true
     },
