@@ -10,7 +10,7 @@
       ]
     },
     {
-      "plotUse": "RESIDENTIAL",
+      "plotUse": "RESIDENTIAL_R1",
       "code": "R",
       "subUses": [
         "DETACHED_DWELLING_UNITS",

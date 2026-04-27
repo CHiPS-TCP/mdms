@@ -8,8 +8,8 @@
             ],
             "landUseZone": [
                 {
-                    "code": "RESIDENTIAL",
-                    "name": "Residential"
+                    "code": "RESIDENTIAL_R1",
+                    "name": "Residential R1"
                 },
                 {
                     "code": "RESIDENTIAL_R2",
@@ -67,8 +67,8 @@
             ],
             "landUseZone": [
                 {
-                    "code": "RESIDENTIAL",
-                    "name": "Residential"
+                    "code": "RESIDENTIAL_R1",
+                    "name": "Residential R1"
                 },
                 {
                     "code": "RESIDENTIAL_R2",
@@ -198,8 +198,8 @@
                     "name": "NA"
                 },
                 {
-                    "code": "RESIDENTIAL",
-                    "name": "Residential"
+                    "code": "RESIDENTIAL_R1",
+                    "name": "Residential R1"
                 },
                 {
                     "code": "COMMERCIAL",

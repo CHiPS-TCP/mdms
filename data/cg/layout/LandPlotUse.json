@@ -4,8 +4,8 @@
   "LayoutPlotUse": [
 
     {
-      "code": "RESIDENTIAL",
-      "name": "Residential",
+      "code": "RESIDENTIAL_R1",
+      "name": "Residential R1",
       "subUseCode": "R",
       "category": "RESIDENTIAL",
       "active": true

@@ -18,7 +18,7 @@
             ]
         },
         {
-            "landUseZone": "RESIDENTIAL",
+            "landUseZone": "RESIDENTIAL_R1",
             "landPlotUse": [
                 {
                     "minWidth": 9,
