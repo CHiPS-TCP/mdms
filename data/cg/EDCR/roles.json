@@ -12,37 +12,100 @@
     {
       "code": "BPA_ENGINEER",
       "name": "Engineer",
-	  "maxAllowedPlotArea":500,
+	  "maxAllowedPlotArea":2147483647,
 	  "isScrutinizeAllow":true,
       "description": "BPA Engineer"
     },
     {
       "code": "BPA_BUILDER",
       "name": "Builder",
-	  "maxAllowedPlotArea":250,
+	  "maxAllowedPlotArea":2147483647,
 	  "isScrutinizeAllow":true,
       "description": "BPA Builder"
     },
     {
       "code": "BPA_STRUCTURALENGINEER",
       "name": "Structural Engineer",
-	  "maxAllowedPlotArea":"NA",
+	  "maxAllowedPlotArea":2147483647,
 	  "isScrutinizeAllow":false,
       "description": "BPA Structural Engineer"
     },
     {
       "code": "BPA_TOWNPLANNER",
       "name": "Town Planner",
-	  "maxAllowedPlotArea":500,
+	  "maxAllowedPlotArea":2147483647,
 	  "isScrutinizeAllow":true,
       "description": "BPA Town Planner"
     },
     {
       "code": "BPA_DESIGNER",
       "name": "Designer",
-	  "maxAllowedPlotArea":250,
+	  "maxAllowedPlotArea":2147483647,
 	  "isScrutinizeAllow":true,
       "description": "BPA Designer"
+    },
+    {
+      "code": "BPA_GROUP_OR_AGENCY",
+      "name": "Group Or Agency",
+      "maxAllowedPlotArea":2147483647,
+      "isScrutinizeAllow":true,
+      "description": "BPA Group or Agency"
+    },
+    {
+      "code": "BPA_CONSTRUCTION_MANAGEMENT_AGENCY",
+      "name": "Construction Management Agency",
+      "maxAllowedPlotArea":2147483647,
+      "isScrutinizeAllow":true,
+      "description": "BPA Construction Management Agency"
+    },
+    {
+      "code": "BPA_QUALITY_AUDIT_AGENCY",
+      "name": "Quality Audit Agency",
+      "maxAllowedPlotArea":2147483647,
+      "isScrutinizeAllow":true,
+      "description": "Quality Audit Agency"
+    },
+    {
+      "code": "BPA_QUALITY_AUDITOR",
+      "name": "Quality Auditor",
+      "maxAllowedPlotArea":2147483647,
+      "isScrutinizeAllow":true,
+      "description": "Quality Auditor"
+    },
+    {
+      "code": "BPA_GEO_TECHNICAL_ENGINEER",
+      "name": "Geo Technical Engineer",
+      "maxAllowedPlotArea":2147483647,
+      "isScrutinizeAllow":true,
+      "description": "BPA Geo Technical Engineer"
+    },
+    {
+      "code": "BPA_CONSTRUCTION_ENGINEER",
+      "name": "Construction Engineer",
+      "maxAllowedPlotArea":2147483647,
+      "isScrutinizeAllow":true,
+      "description": "BPA Construction Engineer"
+    },
+    {
+      "code":  "BPA_FIRE_OFFICER",
+      "name": "Fire Officer",
+      "maxAllowedPlotArea":2147483647,
+      "isScrutinizeAllow":true,
+      "description": "BPA Fire Officer"
+    },
+    {
+      "code":  "BPA_GEO_HYDROLOGIST",
+      "name": "Geo Hydrologist",
+      "maxAllowedPlotArea":2147483647,
+      "isScrutinizeAllow":true,
+      "description": "Geo Hydrologist"
+    },
+    {
+      "code":  "BPA_SUPERVISOR",
+      "name": "Superviser",
+      "maxAllowedPlotArea":2147483647,
+      "isScrutinizeAllow":true,
+      "description": "BPA Superviser"
     }
   ]
 }
