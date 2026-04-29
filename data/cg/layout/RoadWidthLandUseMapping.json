@@ -25,24 +25,24 @@
                     "maxWidth": 12,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         }
                     ]
                 },
@@ -51,52 +51,52 @@
                     "maxWidth": 18,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "E1",
-                            "name": "E1"
+                            "code": "Educational-1 (E1)",
+                            "name": "Educational-1 (E1)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         }
                     ]
                 },
@@ -105,60 +105,60 @@
                     "maxWidth": 30,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "A2",
-                            "name": "A2"
+                            "code": "Assembly-2 (A2)",
+                            "name": "Assembly-2 (A2)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "H2",
-                            "name": "H2"
+                            "code": "Health-2 (H2)",
+                            "name": "Health-2 (H2)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "SL",
-                            "name": "SL"
+                            "code": "Sport & Leisure (SL)",
+                            "name": "Sport & Leisure (SL)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "I1",
-                            "name": "I1"
+                            "code": "Industrial-1 (I1)",
+                            "name": "Industrial-1 (I1)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         }
                     ]
                 },
@@ -167,72 +167,72 @@
                     "maxWidth": 9999,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "E3",
-                            "name": "E3"
+                            "code": "Educational-3 (E3)",
+                            "name": "Educational-3 (E3)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "A2",
-                            "name": "A2"
+                            "code": "Assembly-2 (A2)",
+                            "name": "Assembly-2 (A2)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "H2",
-                            "name": "H2"
+                            "code": "Health-2 (H2)",
+                            "name": "Health-2 (H2)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "SL",
-                            "name": "SL"
+                            "code": "Sport & Leisure (SL)",
+                            "name": "Sport & Leisure (SL)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "I1",
-                            "name": "I1"
+                            "code": "Industrial-1 (I1)",
+                            "name": "Industrial-1 (I1)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "HP",
-                            "name": "HP"
+                            "code": "Hospitality (HP)",
+                            "name": "Hospitality (HP)"
                         },
                         {
-                            "code": "TR",
-                            "name": "TR"
+                            "code": "Transport (TR)",
+                            "name": "Transport (TR)"
                         }
                     ]
                 }
@@ -246,28 +246,28 @@
                     "maxWidth": 12,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "E1",
-                            "name": "E1"
+                            "code": "Educational-1 (E1)",
+                            "name": "Educational-1 (E1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         }
                     ]
                 },
@@ -276,44 +276,44 @@
                     "maxWidth": 18,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "E1",
-                            "name": "E1"
+                            "code": "Educational-1 (E1)",
+                            "name": "Educational-1 (E1)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         }
                     ]
                 },
@@ -322,60 +322,60 @@
                     "maxWidth": 30,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "A2",
-                            "name": "A2"
+                            "code": "Assembly-2 (A2)",
+                            "name": "Assembly-2 (A2)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "H2",
-                            "name": "H2"
+                            "code": "Health-2 (H2)",
+                            "name": "Health-2 (H2)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "I1",
-                            "name": "I1"
+                            "code": "Industrial-1 (I1)",
+                            "name": "Industrial-1 (I1)"
                         }
                     ]
                 },
@@ -384,76 +384,76 @@
                     "maxWidth": 9999,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "C3",
-                            "name": "C3"
+                            "code": "Commercial-3 (C3)",
+                            "name": "Commercial-3 (C3)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "E3",
-                            "name": "E3"
+                            "code": "Educational-3 (E3)",
+                            "name": "Educational-3 (E3)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "A2",
-                            "name": "A2"
+                            "code": "Assembly-2 (A2)",
+                            "name": "Assembly-2 (A2)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "H2",
-                            "name": "H2"
+                            "code": "Health-2 (H2)",
+                            "name": "Health-2 (H2)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "SL",
-                            "name": "SL"
+                            "code": "Sport & Leisure (SL)",
+                            "name": "Sport & Leisure (SL)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "I1",
-                            "name": "I1"
+                            "code": "Industrial-1 (I1)",
+                            "name": "Industrial-1 (I1)"
                         },
                         {
-                            "code": "TR",
-                            "name": "TR"
+                            "code": "Transport (TR)",
+                            "name": "Transport (TR)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "HP",
-                            "name": "HP"
+                            "code": "Hospitality (HP)",
+                            "name": "Hospitality (HP)"
                         }
                     ]
                 }
@@ -467,20 +467,20 @@
                     "maxWidth": 12,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "E1",
-                            "name": "E1"
+                            "code": "Educational-1 (E1)",
+                            "name": "Educational-1 (E1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         }
                     ]
                 },
@@ -489,36 +489,36 @@
                     "maxWidth": 18,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "E1",
-                            "name": "E1"
+                            "code": "Educational-1 (E1)",
+                            "name": "Educational-1 (E1)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         }
                     ]
                 },
@@ -527,48 +527,48 @@
                     "maxWidth": 30,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "E1",
-                            "name": "E1"
+                            "code": "Educational-1 (E1)",
+                            "name": "Educational-1 (E1)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         }
                     ]
                 },
@@ -577,52 +577,52 @@
                     "maxWidth": 9999,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "E1",
-                            "name": "E1"
+                            "code": "Educational-1 (E1)",
+                            "name": "Educational-1 (E1)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "H2",
-                            "name": "H2"
+                            "code": "Health-2 (H2)",
+                            "name": "Health-2 (H2)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "I1",
-                            "name": "I1"
+                            "code": "Industrial-1 (I1)",
+                            "name": "Industrial-1 (I1)"
                         }
                     ]
                 }
@@ -636,44 +636,44 @@
                     "maxWidth": 18,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "E1",
-                            "name": "E1"
+                            "code": "Educational-1 (E1)",
+                            "name": "Educational-1 (E1)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         }
                     ]
                 },
@@ -682,60 +682,60 @@
                     "maxWidth": 30,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "A2",
-                            "name": "A2"
+                            "code": "Assembly-2 (A2)",
+                            "name": "Assembly-2 (A2)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "H2",
-                            "name": "H2"
+                            "code": "Health-2 (H2)",
+                            "name": "Health-2 (H2)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "I1",
-                            "name": "I1"
+                            "code": "Industrial-1 (I1)",
+                            "name": "Industrial-1 (I1)"
                         }
                     ]
                 },
@@ -744,76 +744,76 @@
                     "maxWidth": 9999,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "C3",
-                            "name": "C3"
+                            "code": "Commercial-3 (C3)",
+                            "name": "Commercial-3 (C3)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "E3",
-                            "name": "E3"
+                            "code": "Educational-3 (E3)",
+                            "name": "Educational-3 (E3)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "A2",
-                            "name": "A2"
+                            "code": "Assembly-2 (A2)",
+                            "name": "Assembly-2 (A2)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "H2",
-                            "name": "H2"
+                            "code": "Health-2 (H2)",
+                            "name": "Health-2 (H2)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "SL",
-                            "name": "SL"
+                            "code": "Sport & Leisure (SL)",
+                            "name": "Sport & Leisure (SL)"
                         },
                         {
-                            "code": "I1",
-                            "name": "I1"
+                            "code": "Industrial-1 (I1)",
+                            "name": "Industrial-1 (I1)"
                         },
                         {
-                            "code": "TR",
-                            "name": "TR"
+                            "code": "Transport (TR)",
+                            "name": "Transport (TR)"
                         },
                         {
-                            "code": "HP",
-                            "name": "HP"
+                            "code": "Hospitality (HP)",
+                            "name": "Hospitality (HP)"
                         }
                     ]
                 }
@@ -827,20 +827,20 @@
                     "maxWidth": 12,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         }
                     ]
                 },
@@ -849,44 +849,44 @@
                     "maxWidth": 18,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "E1",
-                            "name": "E1"
+                            "code": "Educational-1 (E1)",
+                            "name": "Educational-1 (E1)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         }
                     ]
                 },
@@ -895,52 +895,52 @@
                     "maxWidth": 30,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "E1",
-                            "name": "E1"
+                            "code": "Educational-1 (E1)",
+                            "name": "Educational-1 (E1)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         }
                     ]
                 },
@@ -949,56 +949,56 @@
                     "maxWidth": 9999,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "E1",
-                            "name": "E1"
+                            "code": "Educational-1 (E1)",
+                            "name": "Educational-1 (E1)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "E3",
-                            "name": "E3"
+                            "code": "Educational-3 (E3)",
+                            "name": "Educational-3 (E3)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         }
                     ]
                 }
@@ -1012,44 +1012,44 @@
                     "maxWidth": 30,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "E1",
-                            "name": "E1"
+                            "code": "Educational-1 (E1)",
+                            "name": "Educational-1 (E1)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "SL",
-                            "name": "SL"
+                            "code": "Sport & Leisure (SL)",
+                            "name": "Sport & Leisure (SL)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         }
                     ]
                 },
@@ -1058,76 +1058,76 @@
                     "maxWidth": 9999,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "E1",
-                            "name": "E1"
+                            "code": "Educational-1 (E1)",
+                            "name": "Educational-1 (E1)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "H2",
-                            "name": "H2"
+                            "code": "Health-2 (H2)",
+                            "name": "Health-2 (H2)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "SL",
-                            "name": "SL"
+                            "code": "Sport & Leisure (SL)",
+                            "name": "Sport & Leisure (SL)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "A2",
-                            "name": "A2"
+                            "code": "Assembly-2 (A2)",
+                            "name": "Assembly-2 (A2)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "I1",
-                            "name": "I1"
+                            "code": "Industrial-1 (I1)",
+                            "name": "Industrial-1 (I1)"
                         },
                         {
-                            "code": "TR",
-                            "name": "TR"
+                            "code": "Transport (TR)",
+                            "name": "Transport (TR)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "HP",
-                            "name": "HP"
+                            "code": "Hospitality (HP)",
+                            "name": "Hospitality (HP)"
                         }
                     ]
                 }
@@ -1141,28 +1141,28 @@
                     "maxWidth": 18,
                     "occupancy": [
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         }
                     ]
                 },
@@ -1171,48 +1171,48 @@
                     "maxWidth": 30,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "H2",
-                            "name": "H2"
+                            "code": "Health-2 (H2)",
+                            "name": "Health-2 (H2)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "I1",
-                            "name": "I1"
+                            "code": "Industrial-1 (I1)",
+                            "name": "Industrial-1 (I1)"
                         }
                     ]
                 },
@@ -1221,64 +1221,64 @@
                     "maxWidth": 9999,
                     "occupancy": [
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "C3",
-                            "name": "C3"
+                            "code": "Commercial-3 (C3)",
+                            "name": "Commercial-3 (C3)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "A2",
-                            "name": "A2"
+                            "code": "Assembly-2 (A2)",
+                            "name": "Assembly-2 (A2)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "H2",
-                            "name": "H2"
+                            "code": "Health-2 (H2)",
+                            "name": "Health-2 (H2)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "I1",
-                            "name": "I1"
+                            "code": "Industrial-1 (I1)",
+                            "name": "Industrial-1 (I1)"
                         },
                         {
-                            "code": "SL",
-                            "name": "SL"
+                            "code": "Sport & Leisure (SL)",
+                            "name": "Sport & Leisure (SL)"
                         },
                         {
-                            "code": "TR",
-                            "name": "TR"
+                            "code": "Transport (TR)",
+                            "name": "Transport (TR)"
                         },
                         {
-                            "code": "HP",
-                            "name": "HP"
+                            "code": "Hospitality (HP)",
+                            "name": "Hospitality (HP)"
                         }
                     ]
                 }
@@ -1292,36 +1292,36 @@
                     "maxWidth": 18,
                     "occupancy": [
                         {
-                            "code": "I1",
-                            "name": "I1"
+                            "code": "Industrial-1 (I1)",
+                            "name": "Industrial-1 (I1)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         }
                     ]
                 },
@@ -1330,56 +1330,56 @@
                     "maxWidth": 9999,
                     "occupancy": [
                         {
-                            "code": "I1",
-                            "name": "I1"
+                            "code": "Industrial-1 (I1)",
+                            "name": "Industrial-1 (I1)"
                         },
                         {
-                            "code": "I2",
-                            "name": "I2"
+                            "code": "Industrial-2 (I2)",
+                            "name": "Industrial-2 (I2)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "C3",
-                            "name": "C3"
+                            "code": "Commercial-3 (C3)",
+                            "name": "Commercial-3 (C3)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "TR",
-                            "name": "TR"
+                            "code": "Transport (TR)",
+                            "name": "Transport (TR)"
                         }
                     ]
                 }
@@ -1393,36 +1393,36 @@
                     "maxWidth": 18,
                     "occupancy": [
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "E1",
-                            "name": "E1"
+                            "code": "Educational-1 (E1)",
+                            "name": "Educational-1 (E1)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         }
                     ]
                 },
@@ -1431,56 +1431,56 @@
                     "maxWidth": 30,
                     "occupancy": [
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "H2",
-                            "name": "H2"
+                            "code": "Health-2 (H2)",
+                            "name": "Health-2 (H2)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "A2",
-                            "name": "A2"
+                            "code": "Assembly-2 (A2)",
+                            "name": "Assembly-2 (A2)"
                         },
                         {
-                            "code": "SL",
-                            "name": "SL"
+                            "code": "Sport & Leisure (SL)",
+                            "name": "Sport & Leisure (SL)"
                         },
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         }
                     ]
                 },
@@ -1489,56 +1489,56 @@
                     "maxWidth": 9999,
                     "occupancy": [
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "E3",
-                            "name": "E3"
+                            "code": "Educational-3 (E3)",
+                            "name": "Educational-3 (E3)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "H2",
-                            "name": "H2"
+                            "code": "Health-2 (H2)",
+                            "name": "Health-2 (H2)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "A2",
-                            "name": "A2"
+                            "code": "Assembly-2 (A2)",
+                            "name": "Assembly-2 (A2)"
                         },
                         {
-                            "code": "SL",
-                            "name": "SL"
+                            "code": "Sport & Leisure (SL)",
+                            "name": "Sport & Leisure (SL)"
                         }
                     ]
                 }
@@ -1552,28 +1552,28 @@
                     "maxWidth": 9999,
                     "occupancy": [
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "SL",
-                            "name": "SL"
+                            "code": "Sport & Leisure (SL)",
+                            "name": "Sport & Leisure (SL)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "HP",
-                            "name": "HP"
+                            "code": "Hospitality (HP)",
+                            "name": "Hospitality (HP)"
                         }
                     ]
                 }
@@ -1587,24 +1587,24 @@
                     "maxWidth": 12,
                     "occupancy": [
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         }
                     ]
                 },
@@ -1613,36 +1613,36 @@
                     "maxWidth": 18,
                     "occupancy": [
                         {
-                            "code": "TR",
-                            "name": "TR"
+                            "code": "Transport (TR)",
+                            "name": "Transport (TR)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         }
                     ]
                 },
@@ -1651,40 +1651,40 @@
                     "maxWidth": 30,
                     "occupancy": [
                         {
-                            "code": "TR",
-                            "name": "TR"
+                            "code": "Transport (TR)",
+                            "name": "Transport (TR)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         }
                     ]
                 },
@@ -1693,40 +1693,40 @@
                     "maxWidth": 9999,
                     "occupancy": [
                         {
-                            "code": "TR",
-                            "name": "TR"
+                            "code": "Transport (TR)",
+                            "name": "Transport (TR)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "H1",
-                            "name": "H1"
+                            "code": "Health-1 (H1)",
+                            "name": "Health-1 (H1)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "A1",
-                            "name": "A1"
+                            "code": "Assembly-1 (A1)",
+                            "name": "Assembly-1 (A1)"
                         },
                         {
-                            "code": "SE",
-                            "name": "SE"
+                            "code": "Service Establishment (SE)",
+                            "name": "Service Establishment (SE)"
                         }
                     ]
                 }
@@ -1740,8 +1740,8 @@
                     "maxWidth": 6,
                     "occupancy": [
                         {
-                            "code": "Ag1",
-                            "name": "Ag1"
+                            "code": "Agriculture-1 (A1)",
+                            "name": "Agriculture-1 (A1)"
                         }
                     ]
                 },
@@ -1750,20 +1750,20 @@
                     "maxWidth": 18,
                     "occupancy": [
                         {
-                            "code": "Ag1",
-                            "name": "Ag1"
+                            "code": "Agriculture-1 (A1)",
+                            "name": "Agriculture-1 (A1)"
                         },
                         {
-                            "code": "Ag2",
-                            "name": "Ag2"
+                            "code": "Agriculture-2 (A2)",
+                            "name": "Agriculture-2 (A2)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         }
                     ]
                 },
@@ -1772,48 +1772,48 @@
                     "maxWidth": 30,
                     "occupancy": [
                         {
-                            "code": "Ag1",
-                            "name": "Ag1"
+                            "code": "Agriculture-1 (A1)",
+                            "name": "Agriculture-1 (A1)"
                         },
                         {
-                            "code": "Ag2",
-                            "name": "Ag2"
+                            "code": "Agriculture-2 (A2)",
+                            "name": "Agriculture-2 (A2)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "H2",
-                            "name": "H2"
+                            "code": "Health-2 (H2)",
+                            "name": "Health-2 (H2)"
                         }
                     ]
                 },
@@ -1822,60 +1822,60 @@
                     "maxWidth": 9999,
                     "occupancy": [
                         {
-                            "code": "Ag1",
-                            "name": "Ag1"
+                            "code": "Agriculture-1 (A1)",
+                            "name": "Agriculture-1 (A1)"
                         },
                         {
-                            "code": "Ag2",
-                            "name": "Ag2"
+                            "code": "Agriculture-2 (A2)",
+                            "name": "Agriculture-2 (A2)"
                         },
                         {
-                            "code": "P",
-                            "name": "P"
+                            "code": "Parks (P)",
+                            "name": "Parks (P)"
                         },
                         {
-                            "code": "PA",
-                            "name": "PA"
+                            "code": "Public Amenities (PA)",
+                            "name": "Public Amenities (PA)"
                         },
                         {
-                            "code": "R1",
-                            "name": "R1"
+                            "code": "Residential (R)",
+                            "name": "Residential (R)"
                         },
                         {
-                            "code": "C1",
-                            "name": "C1"
+                            "code": "Commercial-1 (C1)",
+                            "name": "Commercial-1 (C1)"
                         },
                         {
-                            "code": "C2",
-                            "name": "C2"
+                            "code": "Commercial-2 (C2)",
+                            "name": "Commercial-2 (C2)"
                         },
                         {
-                            "code": "C3",
-                            "name": "C3"
+                            "code": "Commercial-3 (C3)",
+                            "name": "Commercial-3 (C3)"
                         },
                         {
-                            "code": "IT",
-                            "name": "IT"
+                            "code": "Public Institutions (It)",
+                            "name": "Public Institutions (It)"
                         },
                         {
-                            "code": "R&C",
-                            "name": "R&C"
+                            "code": "Religious and cultural (R&C)",
+                            "name": "Religious and cultural (R&C)"
                         },
                         {
-                            "code": "E2",
-                            "name": "E2"
+                            "code": "Educational-2 (E2)",
+                            "name": "Educational-2 (E2)"
                         },
                         {
-                            "code": "E3",
-                            "name": "E3"
+                            "code": "Educational-3 (E3)",
+                            "name": "Educational-3 (E3)"
                         },
                         {
-                            "code": "H2",
-                            "name": "H2"
+                            "code": "Health-2 (H2)",
+                            "name": "Health-2 (H2)"
                         },
                         {
-                            "code": "HP",
-                            "name": "HP"
+                            "code": "Hospitality (HP)",
+                            "name": "Hospitality (HP)"
                         }
                     ]
                 }

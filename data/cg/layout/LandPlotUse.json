@@ -6,7 +6,7 @@
     {
       "code": "RESIDENTIAL_R1",
       "name": "Residential R1",
-      "subUseCode": "R1",
+      "subUseCode": "Residential (R)",
       "category": "RESIDENTIAL",
       "active": true
     },
@@ -20,28 +20,28 @@
     {
       "code": "COMMERCIAL_1",
       "name": "Commercial-1",
-      "subUseCode": "C1",
+      "subUseCode": "Commercial-1 (C1)",
       "category": "COMMERCIAL",
       "active": true
     },
     {
       "code": "COMMERCIAL_2",
       "name": "Commercial-2",
-      "subUseCode": "C2",
+      "subUseCode": "Commercial-2 (C2)",
       "category": "COMMERCIAL",
       "active": true
     },
     {
       "code": "COMMERCIAL_3",
       "name": "Commercial-3",
-      "subUseCode": "C3",
+      "subUseCode": "Commercial-3 (C3)",
       "category": "COMMERCIAL",
       "active": true
     },
     {
       "code": "SOCIAL_ESTABLISHMENT",
       "name": "Social Establishment",
-      "subUseCode": "SE",
+      "subUseCode": "Service Establishment (SE)",
       "category": "COMMERCIAL",
       "active": true
     },
@@ -49,21 +49,21 @@
     {
       "code": "EDUCATION_1",
       "name": "Education-1",
-      "subUseCode": "E1",
+      "subUseCode": "Educational-1 (E1)",
       "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
       "code": "EDUCATION_2",
       "name": "Education-2",
-      "subUseCode": "E2",
+      "subUseCode": "Educational-2 (E2)",
       "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
       "code": "EDUCATION_3",
       "name": "Education-3",
-      "subUseCode": "E3",
+      "subUseCode": "Educational-3 (E3)",
       "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
@@ -71,14 +71,14 @@
     {
       "code": "ASSEMBLY_HALL_1",
       "name": "Assembly Hall-1",
-      "subUseCode": "A1",
+      "subUseCode": "Assembly-1 (A1)",
       "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
       "code": "ASSEMBLY_HALL_2",
       "name": "Assembly Hall-2",
-      "subUseCode": "A2",
+      "subUseCode": "Assembly-2 (A2)",
       "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
@@ -86,14 +86,14 @@
     {
       "code": "HEALTH_1",
       "name": "Health-1",
-      "subUseCode": "H1",
+      "subUseCode": "Health-1 (H1)",
       "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
       "code": "HEALTH_2",
       "name": "Health-2",
-      "subUseCode": "H2",
+      "subUseCode": "Health-2 (H2)",
       "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
@@ -101,7 +101,7 @@
     {
       "code": "RELIGIOUS_AND_CULTURAL",
       "name": "Religious and Cultural",
-      "subUseCode": "R&C",
+      "subUseCode": "Religious and cultural (R&C)",
       "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
@@ -116,7 +116,7 @@
     {
       "code": "PUBLIC_AMENITIES",
       "name": "Public Amenities",
-      "subUseCode": "PA",
+      "subUseCode": "Public Amenities (PA)",
       "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
@@ -131,21 +131,21 @@
     {
       "code": "INDUSTRIAL_1",
       "name": "Industrial-1",
-      "subUseCode": "I1",
+      "subUseCode": "Industrial-1 (I1)",
       "category": "INDUSTRIAL",
       "active": true
     },
     {
       "code": "INDUSTRIAL_2",
       "name": "Industrial-2",
-      "subUseCode": "I2",
+      "subUseCode": "Industrial-2 (I2)",
       "category": "INDUSTRIAL",
       "active": true
     },
     {
       "code": "SPORTS_AND_LEISURE",
       "name": "Sports & Leisure",
-      "subUseCode": "SL",
+      "subUseCode": "Sport & Leisure (SL)",
       "category": "PARKS_RECREATIONAL_OPEN_SPACES",
       "active": true
     },
@@ -153,14 +153,14 @@
     {
       "code": "PARKS",
       "name": "Parks",
-      "subUseCode": "P",
+      "subUseCode": "Parks (P)",
       "category": "PARKS_RECREATIONAL_OPEN_SPACES",
       "active": true
     },
     {
       "code": "TRANSPORT",
       "name": "Transport",
-      "subUseCode": "TR",
+      "subUseCode": "Transport (TR)",
       "category": "TRANSPORT_COMMUNICATION",
       "active": true
     },
@@ -168,14 +168,14 @@
     {
       "code": "AGRICULTURE_1",
       "name": "Agriculture-1",
-      "subUseCode": "Ag1",
+      "subUseCode": "Agriculture-1 (A1)",
       "category": "AGRICULTURE",
       "active": true
     },
     {
       "code": "AGRICULTURE_2",
       "name": "Agriculture-2",
-      "subUseCode": "Ag2",
+      "subUseCode": "Agriculture-2 (A2)",
       "category": "AGRICULTURE",
       "active": true
     }
