@@ -206,7 +206,7 @@
     },
     {
       "plotUse": "INDUSTRIAL_1",
-      "code": "I1",
+      "code": "Industrial-1 (I1)",
       "subUses": [
         "GREEN_CATEGORY_INDUSTRY",
         "SERVICE_INDUSTRY"
@@ -215,7 +215,7 @@
     },
     {
       "plotUse": "INDUSTRIAL_2",
-      "code": "I2",
+      "code": "Industrial-2 (I2)",
       "subUses": [
         "JUNK_YARD",
         "TEXTILE_UNITS",
