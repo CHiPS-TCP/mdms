@@ -6823,6 +6823,17 @@
       "path": ""
     },
     {
+      "id": 11896,
+      "name": "Collection Validate Payment",
+      "url": "/collection-services/payments/_validate",
+      "displayName": "validate Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 1897,
       "name": "CreateComplaint",
       "url": "quickAction",
