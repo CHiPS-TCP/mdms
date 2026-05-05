@@ -790,7 +790,7 @@
       "idname": "obpas_noc.receipt.id"
     },
     {
-      "format": "CG/NOC/[DISTRICT.CODE]/[ULB.CODE]/[SEQ_EG_NOC_APPLICATION]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/PL/[cy:yyyy]/[SEQ_EG_NOC_APPLICATION]",
       "idname": "noc.application.number"
     },
     {
