@@ -38118,6 +38118,48 @@
       "actionid": 5029,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "WRD_NOC_APPROVER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "REV_NOC_APPROVER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "PWD_NOC_APPROVER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "ELEC_NOC_APPROVER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "FIRE_NOC_APPROVER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "SADA_NOC_APPROVER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "NHAI_NOC_APPROVER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "cg"
     }
   ]
 }
