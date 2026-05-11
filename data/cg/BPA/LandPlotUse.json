@@ -2,173 +2,183 @@
   "tenantId": "cg",
   "moduleName": "BPA",
   "BPAPlotUse": [
+
     {
-      "code": "RESIDENTIAL",
-      "name": "Residential",
-      "subUseCode": "R",
+      "code": "RESIDENTIAL_R1",
+      "name": "Residential R1",
+      "subUseCode": "Residential (R)",
       "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "NA",
+      "name": "NA",
+      "subUseCode": "NA",
+      "category": "NA",
       "active": true
     },
     {
       "code": "COMMERCIAL_1",
       "name": "Commercial-1",
-      "subUseCode": "C1",
+      "subUseCode": "Commercial-1 (C1)",
       "category": "COMMERCIAL",
       "active": true
     },
     {
       "code": "COMMERCIAL_2",
       "name": "Commercial-2",
-      "subUseCode": "C2",
+      "subUseCode": "Commercial-2 (C2)",
       "category": "COMMERCIAL",
       "active": true
     },
     {
       "code": "COMMERCIAL_3",
       "name": "Commercial-3",
-      "subUseCode": "C3",
+      "subUseCode": "Commercial-3 (C3)",
       "category": "COMMERCIAL",
       "active": true
     },
     {
+      "code": "SOCIAL_ESTABLISHMENT",
+      "name": "Social Establishment",
+      "subUseCode": "Service Establishment (SE)",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+
+    {
       "code": "EDUCATION_1",
       "name": "Education-1",
-      "subUseCode": "E1",
-      "category": "EDUCATIONAL",
+      "subUseCode": "Educational-1 (E1)",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
       "code": "EDUCATION_2",
       "name": "Education-2",
-      "subUseCode": "E2",
-      "category": "EDUCATIONAL",
+      "subUseCode": "Educational-2 (E2)",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
       "code": "EDUCATION_3",
       "name": "Education-3",
-      "subUseCode": "E3",
-      "category": "EDUCATIONAL",
+      "subUseCode": "Educational-3 (E3)",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
+
     {
       "code": "ASSEMBLY_HALL_1",
       "name": "Assembly Hall-1",
-      "subUseCode": "A1",
-      "category": "ASSEMBLY",
+      "subUseCode": "Assembly-1 (A1)",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
       "code": "ASSEMBLY_HALL_2",
       "name": "Assembly Hall-2",
-      "subUseCode": "A2",
-      "category": "ASSEMBLY",
+      "subUseCode": "Assembly-2 (A2)",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
+
     {
       "code": "HEALTH_1",
       "name": "Health-1",
-      "subUseCode": "H1",
-      "category": "HEALTHCARE",
+      "subUseCode": "Health-1 (H1)",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
       "code": "HEALTH_2",
       "name": "Health-2",
-      "subUseCode": "H2",
-      "category": "HEALTHCARE",
+      "subUseCode": "Health-2 (H2)",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
+
     {
       "code": "RELIGIOUS_AND_CULTURAL",
       "name": "Religious and Cultural",
-      "subUseCode": "R&C",
-      "category": "RELIGIOUS_CULTURAL",
+      "subUseCode": "Religious and cultural (R&C)",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
       "active": true
     },
     {
+      "code": "PUBLIC_INSTITUTIONS",
+      "name": "Public Institutions",
+      "subUseCode": "PI",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
+      "active": true
+    },
+
+    {
+      "code": "PUBLIC_AMENITIES",
+      "name": "Public Amenities",
+      "subUseCode": "Public Amenities (PA)",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
+      "active": true
+    },
+    {
+      "code": "HOSPITALITY",
+      "name": "Hospitality",
+      "subUseCode": "H",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
+      "active": true
+    },
+
+    {
       "code": "INDUSTRIAL_1",
       "name": "Industrial-1",
-      "subUseCode": "I1",
+      "subUseCode": "Industrial-1 (I1)",
       "category": "INDUSTRIAL",
       "active": true
     },
     {
       "code": "INDUSTRIAL_2",
       "name": "Industrial-2",
-      "subUseCode": "I2",
+      "subUseCode": "Industrial-2 (I2)",
       "category": "INDUSTRIAL",
       "active": true
     },
     {
-      "code": "SPORTS_AND_RECREATION",
-      "name": "Sports and Recreation",
-      "subUseCode": "SL",
-      "category": "RECREATIONAL",
+      "code": "SPORTS_AND_LEISURE",
+      "name": "Sports & Leisure",
+      "subUseCode": "Sport & Leisure (SL)",
+      "category": "PARKS_RECREATIONAL_OPEN_SPACES",
       "active": true
     },
+
     {
-      "code": "PARKS_AND_OPEN_SPACES",
-      "name": "Parks and Open Spaces",
-      "subUseCode": "P",
-      "category": "PARKS_OPEN_SPACES",
-      "active": true
-    },
-    {
-      "code": "SERVICE_ESTABLISHMENTS",
-      "name": "Service Establishments",
-      "subUseCode": "SE",
-      "category": "SERVICE",
+      "code": "PARKS",
+      "name": "Parks",
+      "subUseCode": "Parks (P)",
+      "category": "PARKS_RECREATIONAL_OPEN_SPACES",
       "active": true
     },
     {
       "code": "TRANSPORT",
       "name": "Transport",
-      "subUseCode": "TR",
-      "category": "RECREATIONAL",
+      "subUseCode": "Transport (TR)",
+      "category": "TRANSPORT_COMMUNICATION",
       "active": true
     },
+
     {
       "code": "AGRICULTURE_1",
       "name": "Agriculture-1",
-      "subUseCode": "Ag1",
+      "subUseCode": "Agriculture-1 (A1)",
       "category": "AGRICULTURE",
       "active": true
     },
     {
       "code": "AGRICULTURE_2",
       "name": "Agriculture-2",
-      "subUseCode": "Ag2",
+      "subUseCode": "Agriculture-2 (A2)",
       "category": "AGRICULTURE",
       "active": true
-    },
-    {
-      "code": "TEMPORARY_USE",
-      "name": "Temporary Use",
-      "subUseCode": "TU",
-      "category": "TEMPORARY",
-      "active": true
-    },
-    {
-      "code": "PUBLIC_AMENITIES",
-      "name": "Public Amenities",
-      "subUseCode": "PA",
-      "category": "PUBLIC_AMENITIES",
-      "active": true
-    },
-    {
-      "code": "INSTITUTIONAL",
-      "name": "Institutional",
-      "subUseCode": "IT",
-      "category": "INSTITUTIONAL",
-      "active": true
-    },
-    {
-      "code": "HOSPITALITY",
-      "name": "Hospitality",
-      "subUseCode": "HP",
-      "category": "HOSPITALITY",
-      "active": true
     }
+
   ]
 }
