@@ -311,6 +311,11 @@
       "name": "Water NOC",
       "code": "DEPT_60",
       "active": true
+    },
+    {
+      "name": "Electricity ht_line NOC",
+      "code": "DEPT_61",
+      "active": true
     }
   ]
 }
