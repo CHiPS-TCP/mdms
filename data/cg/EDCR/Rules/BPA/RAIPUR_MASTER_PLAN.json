@@ -66,6 +66,11 @@
 								"type": "SIMPLE",
 								"value": 3.6
 							},
+							"distanceFromParkingFront": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 6
+							},
 							"distanceFromInternalRoad": {
 								"mandatory": true,
 								"type": "SIMPLE",
@@ -1590,6 +1595,11 @@
 								"mandatory": true,
 								"type": "SIMPLE",
 								"value": 3.6
+							},
+							"distanceFromParkingFront": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 6
 							},
 							"distanceFromInternalRoad": {
 								"mandatory": true,
@@ -3116,6 +3126,11 @@
 								"type": "SIMPLE",
 								"value": 3.6
 							},
+							"distanceFromParkingFront": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 6
+							},
 							"distanceFromInternalRoad": {
 								"mandatory": true,
 								"type": "SIMPLE",
@@ -4425,6 +4440,11 @@
 								"mandatory": true,
 								"type": "SIMPLE",
 								"value": 3.6
+							},
+							"distanceFromParkingFront": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 6
 							},
 							"distanceFromInternalRoad": {
 								"mandatory": true,
@@ -5736,6 +5756,11 @@
 								"type": "SIMPLE",
 								"value": 3.6
 							},
+							"distanceFromParkingFront": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 6
+							},
 							"distanceFromInternalRoad": {
 								"mandatory": true,
 								"type": "SIMPLE",
@@ -7001,6 +7026,11 @@
 								"mandatory": true,
 								"type": "SIMPLE",
 								"value": 3.6
+							},
+							"distanceFromParkingFront": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 6
 							},
 							"distanceFromInternalRoad": {
 								"mandatory": true,
@@ -8268,6 +8298,11 @@
 								"type": "SIMPLE",
 								"value": 3.6
 							},
+							"distanceFromParkingFront": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 6
+							},
 							"distanceFromInternalRoad": {
 								"mandatory": true,
 								"type": "SIMPLE",
@@ -9534,6 +9569,11 @@
 								"type": "SIMPLE",
 								"value": 3.6
 							},
+							"distanceFromParkingFront": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 6
+							},
 							"distanceFromInternalRoad": {
 								"mandatory": true,
 								"type": "SIMPLE",
@@ -10788,6 +10828,11 @@
 								"mandatory": true,
 								"type": "SIMPLE",
 								"value": 3.6
+							},
+							"distanceFromParkingFront": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 6
 							},
 							"distanceFromInternalRoad": {
 								"mandatory": true,
@@ -12044,6 +12089,11 @@
 								"type": "SIMPLE",
 								"value": 3.6
 							},
+							"distanceFromParkingFront": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 6
+							},
 							"distanceFromInternalRoad": {
 								"mandatory": true,
 								"type": "SIMPLE",
@@ -13298,6 +13348,11 @@
 								"mandatory": true,
 								"type": "SIMPLE",
 								"value": 3.6
+							},
+							"distanceFromParkingFront": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 6
 							},
 							"distanceFromInternalRoad": {
 								"mandatory": true,
