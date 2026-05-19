@@ -1,5 +1,5 @@
 {
-  "tenantId": "cg.birgaon",
+  "tenantId": "cg.birgaonmc",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,8 +10,8 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "birgaon ",
-        "localname": "birgaon ",
+        "name": "birgaonmc",
+        "localname": "birgaonmc",
         "longitude": null,
         "latitude": null,
         "label": "City",
