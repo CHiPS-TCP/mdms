@@ -78,12 +78,44 @@
       "order": 9
     },
     {
+      "code": "OWNER.AGREEMENT_AMONG_APPLICANTS",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.AGREEMENT_AMONG_APPLICANTS_DESCRIPTION",
+      "order": 10
+    },
+    {
+      "code": "OWNER.AGREEMENT_OWNER_DEVELOPER",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.AGREEMENT_OWNER_DEVELOPER_DESCRIPTION",
+      "order": 11
+    },
+    {
+      "code": "OWNER.SIGNATORY_AUTHORIZATION_DOCUMENT",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.SIGNATORY_AUTHORIZATION_DOCUMENT_DESCRIPTION",
+      "order": 12
+    },
+    {
+      "code": "OWNER.SELF_DECLARATION_BY_SIGNATORY",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.SELF_DECLARATION_BY_SIGNATORY_DESCRIPTION",
+      "order": 13
+    },
+    {
       "code": "OWNER.SITEPHOTOGRAPHONE",
       "documentType": "OWNER",
       "required": true,
       "active": true,
       "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION",
-      "order": 10
+      "order": 14
     },
     {
       "code": "OWNER.SITEPHOTOGRAPHTWO",
@@ -91,7 +123,7 @@
       "required": true,
       "active": true,
       "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION",
-      "order": 11
+      "order": 15
     },
 	{
 	  "code": "OWNER.SITEPHOTOGRAPHTHREE",
@@ -99,7 +131,7 @@
 	  "required": true,
 	  "active": true,
 	  "description": "OWNER.SITEPHOTOGRAPHTHREE.SITEPHOTOGRAPHTHREE_DESCRIPTION",
-	  "order": 12
+	  "order": 16
 	},
 	{
 	  "code": "OWNER.SITEPHOTOGRAPHFOUR",
@@ -107,7 +139,7 @@
 	  "required": true,
 	  "active": true,
 	  "description": "OWNER.SITEPHOTOGRAPHFOUR.SITEPHOTOGRAPHFOUR_DESCRIPTION",
-	  "order": 13
+	  "order": 17
 	}
   ]
 }
