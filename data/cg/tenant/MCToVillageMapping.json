@@ -1,0 +1,65 @@
+{
+  "tenantId": "cg",
+  "moduleName": "tenant",
+  "MCToVillageMapping": [
+    {
+      "name": "Raipur Municipal Corporation",
+      "village": [
+        "Amalidih",
+        "Amasivani",
+        "Atari",
+        "Bhanpuri",
+        "Bhathagaon",
+        "Boriyakhurd",
+        "Chandnidih",
+        "Changorabhatha",
+        "Chirhuldih",
+        "Daldalsivani",
+        "Dangnia",
+        "Devpuri",
+        "Dumratalaab",
+        "Dumratarai",
+        "Dunda",
+        "Fafadih",
+        "Fundhar",
+        "Gogaon",
+        "Gondwara",
+        "Gudhiyari",
+        "Hirapur (Jarwai)",
+        "Jora",
+        "Kachana",
+        "Kampa",
+        "Khamtarai",
+        "Kota",
+        "Labhandih",
+        "Mathpuraina",
+        "Mowa",
+        "Pandritarai",
+        "Puraina",
+        "Raipura",
+        "Ranwabhatha",
+        "Saddu",
+        "Sarona",
+        "Sarora",
+        "Shankarnagar",
+        "Sondongri",
+        "Tatibandh",
+        "Telibandha",
+        "Tikrapara"
+      ],
+      "tenantId": "cg.raipurmc"
+    },
+    {
+      "name": "Birgaon Municipal Corporation",
+      "village": [
+        "Achholi-2",
+        "Birgaon",
+        "Borjhara",
+        "Ravanbhatha",
+        "Urkura",
+        "Urla"
+      ],
+      "tenantId": "cg.birgaonmc"
+    }
+  ]
+}
