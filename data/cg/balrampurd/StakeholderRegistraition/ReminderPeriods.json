@@ -1,0 +1,9 @@
+{
+    "tenantId": "cg.balrampurd",
+    "moduleName": "StakeholderRegistraition",
+    "ReminderPeriods": [
+        {
+            "reminderPeriods": 1296000000
+        }
+    ]
+}

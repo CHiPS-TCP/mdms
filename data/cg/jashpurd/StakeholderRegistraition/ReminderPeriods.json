@@ -1,0 +1,9 @@
+{
+    "tenantId": "cg.jashpurd",
+    "moduleName": "StakeholderRegistraition",
+    "ReminderPeriods": [
+        {
+            "reminderPeriods": 1296000000
+        }
+    ]
+}
