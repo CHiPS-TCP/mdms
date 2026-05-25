@@ -4,7 +4,9 @@
     "MasterPlanLandUseMapping": [
         {
             "masterPlan": [
-                "MAHASAMUND MASTER PLAN"
+                "MAHASAMUND MASTER PLAN",
+                "ARANG MASTER PLAN",
+                "ABHANPUR MASTER PLAN"
             ],
             "landUseZone": [
                 {
