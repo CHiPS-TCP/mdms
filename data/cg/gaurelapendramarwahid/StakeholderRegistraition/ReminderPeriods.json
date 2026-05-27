@@ -1,0 +1,9 @@
+{
+    "tenantId": "cg.gaurelapendramarwahid",
+    "moduleName": "StakeholderRegistraition",
+    "ReminderPeriods": [
+        {
+            "reminderPeriods": 1296000000
+        }
+    ]
+}

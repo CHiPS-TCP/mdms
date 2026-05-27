@@ -1,0 +1,9 @@
+{
+    "tenantId": "cg.surgujad",
+    "moduleName": "StakeholderRegistraition",
+    "ReminderPeriods": [
+        {
+            "reminderPeriods": 1296000000
+        }
+    ]
+}

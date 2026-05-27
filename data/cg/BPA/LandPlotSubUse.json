@@ -3,319 +3,1028 @@
   "moduleName": "BPA",
   "BPAPlotSubUse": [
     {
-      "plotUse": "NA",
-      "code": "NA",
-      "subUses": [
-        "NA"
+      "masterPlan": [
+        "RAIPUR MASTER PLAN",
+        "MAHASAMUND MASTER PLAN",
+        "TCP Dummy Planning Area",
+        "TCP Dummy Planning Area 2",
+        "TCP Dummy Planning Area 3",
+        "Bagicha Planning Area",
+        "Kunkuri Planning Area",
+        "Pathalgaon Planning Area",
+        "Kotba Planning Area",
+        "Tilda-Nevra Planning Area",
+        "Kharora Planning Area",
+        "Nawapara Planning Area",
+        "Kunra Planning Area",
+        "Champaran Planning Area",
+        "Pura Planning Area",
+        "Fingeshwar Planning Area",
+        "Gariyaband Planning Area",
+        "Churra Planning Area",
+        "Rajim Planning Area",
+        "Charama Planning Area",
+        "Pankhajur Planning Area",
+        "Pandariya Planning Area",
+        "Pipariya Planning Area",
+        "S. Lohara Planning Area",
+        "Bodla Planning Area",
+        "Pandatarai Planning Area",
+        "Birkona Planning Area",
+        "Kunda Planning Area",
+        "Chhurikala Planning Area",
+        "Katghora Planning Area",
+        "Podi - Uproda Planning Area",
+        "Hardibazar Planning Area",
+        "Deepka Planning Area",
+        "Kartala Planning Area",
+        "Pali Planning Area",
+        "Bhawarpur (Cluster) Planning Area",
+        "Tumgaon Planning Area",
+        "Sirpur \"Sada\" Planning Area",
+        "Basna Planning Area",
+        "Baikunthpur Planning Area",
+        "Ambagarh Chowki Planning Area",
+        "Chhuikhadan Planning Area",
+        "Chhuriya Planning Area",
+        "Dongargaon Planning Area",
+        "Gandai Planning Area",
+        "Murmunda Planning Area",
+        "Saragaon Planning Area",
+        "Bade Kanera Planning Area",
+        "Pharsagaon Planning Area",
+        "Keshkal Planning Area",
+        "Bhairamgarh Planning Area",
+        "Konta Planning Area",
+        "Dhamtari Planning Area",
+        "Dhamdha Planning Area",
+        "Saja Planning Area",
+        "Berla Planning Area",
+        "Maro Planning Area",
+        "Bilha Planning Area",
+        "Ganiari Planning Area",
+        "Kota Planning Area",
+        "Malhar Planning Area",
+        "Marwahi Planning Area",
+        "Masturi Planning Area",
+        "Pendra Planning Area",
+        "Gaurela Planning Area",
+        "Takhatpur Planning Area",
+        "Simga Planning Area",
+        "Palari Planning Area",
+        "Bilaigarh Planning Area",
+        "Lavan Planning Area",
+        "Bhatgaon Planning Area"
+      ],
+      "plotSubUseData": [
+        {
+          "plotUse": "NA",
+          "code": "NA",
+          "subUses": [
+            "NA"
+          ]
+        },
+        {
+          "plotUse": "RESIDENTIAL_R1",
+          "code": "Residential (R)",
+          "subUses": [
+            "DETACHED_DWELLING_UNITS",
+            "SEMI_DETACHED_HOUSING_UNITS",
+            "ROW_HOUSING",
+            "APARTMENTS",
+            "HOSTELS",
+            "DHARAMSHALAS",
+            "GROUP_HOUSING",
+            "NIGHT_SHELTERS",
+            "CRECHES",
+            "SERVICE_APARTMENTS",
+            "INTEGRATED_TOWNSHIPS"
+          ]
+        },
+        {
+          "plotUse": "COMMERCIAL_1",
+          "code": "Commercial-1 (C1)",
+          "subUses": [
+            "CONVENIENCE_SHOPS",
+            "VEGETABLE_SHOP",
+            "MILK_BOOTH",
+            "INTERNET_CENTER",
+            "COTTAGE_INDUSTRY",
+            "KIOSK",
+            "ATM",
+            "RESTAURANT",
+            "BAKERY",
+            "GUMTI",
+            "BANK",
+            "LODGING_AND_BOARDING",
+            "GUEST_HOUSE"
+          ]
+        },
+        {
+          "plotUse": "COMMERCIAL_2",
+          "code": "Commercial-2 (C2)",
+          "subUses": [
+            "SHOPPING_CENTER",
+            "SHOPPING_MALL",
+            "OPEN_MALL",
+            "COMMERCIAL_BUILDING",
+            "PETROL_PUMP",
+            "FUEL_STATION",
+            "CITY_CENTER",
+            "MULTIPLEX",
+            "MINIPLEX",
+            "GUEST_HOUSES"
+          ]
+        },
+        {
+          "plotUse": "COMMERCIAL_3",
+          "code": "Commercial-3 (C3)",
+          "subUses": [
+            "WAREHOUSE",
+            "GODOWN",
+            "WHOLESALE_MARKET",
+            "SLAUGHTERHOUSE",
+            "WHOLSESALE_MANDIS",
+            "TIMBER_MARKETS",
+            "STOCKYARDS",
+            "SPECIALIZED_MARKETS"
+          ]
+        },
+        {
+          "plotUse": "SOCIAL_ESTABLISHMENT",
+          "code": "Service Establishment (SE)",
+          "subUses": [
+            "AUTO_REPAIR_WORKSHOP",
+            "CONSTRUCTION_WORKSHOP",
+            "CARPENTRY_WORKSHOP",
+            "GARAGE"
+          ]
+        },
+        {
+          "plotUse": "EDUCATION_1",
+          "code": "Educational-1 (E1)",
+          "subUses": [
+            "PRE_PRIMARY_SCHOOL",
+            "PRIMARY_SCHOOL",
+            "MIDDLE_SCHOOL"
+          ]
+        },
+        {
+          "plotUse": "EDUCATION_2",
+          "code": "Educational-2 (E2)",
+          "subUses": [
+            "SECONDARY_SCHOOL",
+            "HIGHER_SECONDARY_SCHOOL",
+            "TRAINING_CENTER_ITI"
+          ]
+        },
+        {
+          "plotUse": "EDUCATION_3",
+          "code": "Educational-3 (E3)",
+          "subUses": [
+            "COLLEGE",
+            "POLYTECHNIC",
+            "UNIVERSITY",
+            "RESEARCH_INSTITUTE"
+          ]
+        },
+        {
+          "plotUse": "ASSEMBLY_HALL_1",
+          "code": "Assembly-1 (A1)",
+          "subUses": [
+            "COMMUNITY_HALL",
+            "MARRIAGE_HALL",
+            "EXHIBITION_HALL",
+            "AUDITORIUM"
+          ]
+        },
+        {
+          "plotUse": "ASSEMBLY_HALL_2",
+          "code": "Assembly-2 (A2)",
+          "subUses": [
+            "THEATER",
+            "CINEMA_HALL",
+            "MULTIPLEX",
+            "CLUB",
+            "MUSEUM",
+            "PLANETARIUM",
+            "CONVENTION_CENTER"
+          ]
+        },
+        {
+          "plotUse": "HEALTH_1",
+          "code": "Health-1 (H1)",
+          "subUses": [
+            "DISPENSARY",
+            "CLINIC",
+            "MATERNITY_HOME",
+            "NURSING_HOME",
+            "PRIMARY_HEALTH_CENTER"
+          ]
+        },
+        {
+          "plotUse": "HEALTH_2",
+          "code": "Health-2 (H2)",
+          "subUses": [
+            "RESEARCH_CENTER",
+            "HOSPITAL",
+            "TRAUMA_CENTER",
+            "SPECIALIZED_HOSPITAL",
+            "RADIOLOGY_CENTERS"
+          ]
+        },
+        {
+          "plotUse": "RELIGIOUS_AND_CULTURAL",
+          "code": "Religious and cultural (R&C)",
+          "subUses": [
+            "PLACES_OF_WORSHIP_OF_VARIOUS_FAITHS"
+          ]
+        },
+        {
+          "plotUse": "PUBLIC_INSTITUTIONS",
+          "code": "Public Institutions (It)",
+          "subUses": [
+            "POST_OFFICE",
+            "COMMUNICATION_NETWORK",
+            "POLICE_STATION",
+            "JAIL",
+            "GOVERNMENT_AND_SEMI_GOVERNMENT_OFFICES",
+            "PUBLIC_LIBRARY"
+          ]
+        },
+        {
+          "plotUse": "PUBLIC_AMENITIES",
+          "code": "Public Amenities (PA)",
+          "subUses": [
+            "ELECTRIC_SUBSTATION",
+            "WATER_PUMPING_STATION",
+            "WATER_TREATMENT_PLANT",
+            "WATER_SUPPLY_INFRASTRUCTURE",
+            "DRAINAGE_CHANNEL",
+            "SOLID_WASTE_COLLECTIONTRANSFER_CENTER",
+            "SOLID_WASTE_DISPOSAL_CENTER",
+            "FIRE_STATION",
+            "CREMATORIUM",
+            "GRAVEYARD"
+          ]
+        },
+        {
+          "plotUse": "HOSPITALITY",
+          "code": "Hospitality (HP)",
+          "subUses": [
+            "HOTEL",
+            "MOTEL",
+            "GUEST_HOUSE",
+            "PARTY_PLOT",
+            "PATHOLOGY_LAB"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_1",
+          "code": "Industrial-1 (I1)",
+          "subUses": [
+            "GREEN_CATEGORY_INDUSTRY",
+            "SERVICE_INDUSTRY"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_2",
+          "code": "Industrial-2 (I2)",
+          "subUses": [
+            "JUNK_YARD",
+            "TEXTILE_UNITS",
+            "STONE_CRUSHING",
+            "MEAT_PROCESSING",
+            "LEATHER_PROCESSING",
+            "COLD_STORAGE",
+            "FUEL_STORAGE",
+            "FLAMMABLE_MATERIAL_STORAGE",
+            "THERMAL_POWER_PLANT",
+            "GAS_BASED_POWER_PLANT",
+            "ORANGE_CATEGORY_INDUSTRY",
+            "RED_CATEGORY_INDUSTRY",
+            "ICE_FACTORY",
+            "STONE_CRUSHING",
+            "HAZARSDOUS_INDUSTRY"
+          ]
+        },
+        {
+          "plotUse": "SPORTS_AND_LEISURE",
+          "code": "Sport & Leisure (SL)",
+          "subUses": [
+            "PLAYGROUND",
+            "STADIUM",
+            "GOLF_COURSE",
+            "SPORTS_COMPLEX",
+            "SWIMMING_POOL",
+            "INDOOR_STADIUM",
+            "AQUARIUM",
+            "SPORTS_CLUB"
+          ]
+        },
+        {
+          "plotUse": "PARKS",
+          "code": "Parks (P)",
+          "subUses": [
+            "GARDENS_AND_ORCHARDS",
+            "GARDEN",
+            "GREEN_HOUSE",
+            "BOTANICAL_GARDEN"
+          ]
+        },
+        {
+          "plotUse": "TRANSPORT",
+          "code": "Transport (TR)",
+          "subUses": [
+            "ROAD",
+            "TRUCK_TERMINAL",
+            "BUS_TERMINAL",
+            "BUS_DEPOT",
+            "BUS_STOPSTAND",
+            "RAILWAY_LINE",
+            "RAILWAY_STATION",
+            "RAILWAY_YARD",
+            "CONTAINER_TERMINALDEPOT",
+            "PARKING",
+            "MULTI_LEVEL_PARKING",
+            "AIRPORT",
+            "COLD_STORAGE",
+            "GODOWN",
+            "WEIGHBRIDGE",
+            "PETROL_PUMP",
+            "ESSENTIAL_STAFF_ACCOMMODATION"
+          ]
+        },
+        {
+          "plotUse": "AGRICULTURE_1",
+          "code": "AG1",
+          "subUses": [
+            "AGRICULTURE",
+            "GARDENING",
+            "BRICK_KILNS",
+            "HORTICULTURE",
+            "CAPACITIVE",
+            "DAIRY_DEVELOPMENT",
+            "FISHERIES",
+            "ANIMAL_HUSBANDRY_AND_BREEDING",
+            "NATURAL_RESOURCE_SANCTUARIES",
+            "BIO_ETHANOL_PLANTS",
+            "CAPTIVE_POWER_PLANTS_ONLY"
+          ]
+        },
+        {
+          "plotUse": "AGRICULTURE_2",
+          "code": "Agriculture-1 (A1)",
+          "subUses": [
+            "MINING_AND_QUARRYING",
+            "LANDFILL_SITE",
+            "AGRICULTURAL_EQUIPMENT_REPAIR_AND_SALE",
+            "SAW_MILL",
+            "ROADSIDE_DHABA",
+            "POULTRY_FARM",
+            "FARM_HOUSE",
+            "PETROL_PUMPS",
+            "FUEL_STATIONS",
+            "BIO_ETHANOL_PLANT",
+            "CAPACITIVE_POWER_PLANT",
+            "FARM_EQUIPMENT_REPAIR/SALE"
+          ]
+        }
       ]
     },
     {
-      "plotUse": "RESIDENTIAL_R1",
-      "code": "Residential (R)",
-      "subUses": [
-        "DETACHED_DWELLING_UNITS",
-        "SEMI_DETACHED_HOUSING_UNITS",
-        "ROW_HOUSING",
-        "APARTMENTS",
-        "HOSTELS",
-        "DHARAMSHALAS",
-        "GROUP_HOUSING",
-        "NIGHT_SHELTERS",
-        "CRECHES",
-        "SERVICE_APARTMENTS",
-        "INTEGRATED_TOWNSHIPS"
+      "masterPlan": [
+        "ABHANPUR MASTER PLAN"
+      ],
+      "plotSubUseData": [
+        {
+          "plotUse": "NA",
+          "code": "NA",
+          "subUses": [
+            "NA"
+          ]
+        },
+        {
+          "plotUse": "RESIDENTIAL_R1",
+          "code": "Residential (R)",
+          "subUses": [
+            "DETACHED_DWELLING_UNITS",
+            "SEMI_DETACHED_HOUSING_UNITS",
+            "ROW_HOUSING",
+            "APARTMENTS",
+            "HOSTELS",
+            "DHARAMSHALAS",
+            "GROUP_HOUSING",
+            "NIGHT_SHELTERS",
+            "CRECHES",
+            "SERVICE_APARTMENTS",
+            "INTEGRATED_TOWNSHIPS"
+          ]
+        },
+        {
+          "plotUse": "COMMERCIAL_1",
+          "code": "Commercial-1 (C1)",
+          "subUses": [
+            "CONVENIENCE_SHOPS",
+            "VEGETABLE_SHOP",
+            "MILK_BOOTH",
+            "INTERNET_CENTER",
+            "COTTAGE_INDUSTRY",
+            "KIOSK",
+            "ATM"
+          ]
+        },
+        {
+          "plotUse": "COMMERCIAL_2",
+          "code": "Commercial-2 (C2)",
+          "subUses": [
+            "SHOPPING_CENTER",
+            "SHOPPING_MALL",
+            "COMMERCIAL_BUILDING",
+            "PETROL_PUMP",
+            "FUEL_STATION",
+            "GUEST_HOUSES",
+            "CITY_CENTER",
+            "RESTAURANT",
+            "BAKERY",
+            "BANK",
+            "LODGING_AND_BOARDING"
+          ]
+        },
+        {
+          "plotUse": "COMMERCIAL_3",
+          "code": "Commercial-3 (C3)",
+          "subUses": [
+            "WAREHOUSE",
+            "GODOWN",
+            "WHOLESALE_MARKET",
+            "TIMBER_MARKETS",
+            "STOCKYARDS",
+            "SPECIALIZED_MARKETS",
+            "SLAUGHTERHOUSE"
+          ]
+        },
+        {
+          "plotUse": "SOCIAL_ESTABLISHMENT",
+          "code": "Service Establishment (SE)",
+          "subUses": [
+            "AUTO_REPAIR_WORKSHOP",
+            "CONSTRUCTION_WORKSHOP",
+            "CARPENTRY_WORKSHOP",
+            "GARAGE"
+          ]
+        },
+        {
+          "plotUse": "EDUCATION_1",
+          "code": "Educational-1 (E1)",
+          "subUses": [
+            "PRE_PRIMARY_SCHOOL",
+            "PRIMARY_SCHOOL",
+            "MIDDLE_SCHOOL"
+          ]
+        },
+        {
+          "plotUse": "EDUCATION_2",
+          "code": "Educational-2 (E2)",
+          "subUses": [
+            "SECONDARY_SCHOOL",
+            "HIGHER_SECONDARY_SCHOOL",
+            "TRAINING_CENTER_ITI"
+          ]
+        },
+        {
+          "plotUse": "EDUCATION_3",
+          "code": "Educational-3 (E3)",
+          "subUses": [
+            "COLLEGE",
+            "POLYTECHNIC",
+            "UNIVERSITY",
+            "RESEARCH_INSTITUTE"
+          ]
+        },
+        {
+          "plotUse": "ASSEMBLY_HALL_1",
+          "code": "Assembly-1 (A1)",
+          "subUses": [
+            "COMMUNITY_HALL",
+            "MARRIAGE_HALL",
+            "EXHIBITION_HALL",
+            "AUDITORIUM"
+          ]
+        },
+        {
+          "plotUse": "ASSEMBLY_HALL_2",
+          "code": "Assembly-2 (A2)",
+          "subUses": [
+            "THEATER",
+            "CINEMA_HALL",
+            "MULTIPLEX",
+            "CLUB",
+            "MUSEUM",
+            "PLANETARIUM",
+            "CONVENTION_CENTER"
+          ]
+        },
+        {
+          "plotUse": "HEALTH_1",
+          "code": "Health-1 (H1)",
+          "subUses": [
+            "DISPENSARY",
+            "CLINIC",
+            "MATERNITY_HOME",
+            "NURSING_HOME",
+            "PRIMARY_HEALTH_CENTER"
+          ]
+        },
+        {
+          "plotUse": "HEALTH_2",
+          "code": "Health-2 (H2)",
+          "subUses": [
+            "RESEARCH_CENTER",
+            "HOSPITAL",
+            "TRAUMA_CENTER",
+            "SPECIALIZED_HOSPITAL"
+          ]
+        },
+        {
+          "plotUse": "RELIGIOUS_AND_CULTURAL",
+          "code": "Religious and cultural (R&C)",
+          "subUses": [
+            "PLACES_OF_WORSHIP_OF_VARIOUS_FAITHS"
+          ]
+        },
+        {
+          "plotUse": "PUBLIC_INSTITUTIONS",
+          "code": "Public Institutions (It)",
+          "subUses": [
+            "POST_OFFICE",
+            "COMMUNICATION_NETWORK",
+            "POLICE_STATION",
+            "JAIL",
+            "GOVERNMENT_AND_SEMI_GOVERNMENT_OFFICES",
+            "GOVERNMENT_AND_SEMI_GOVERNMENT_FACILITIES",
+            "PUBLIC_LIBRARY"
+          ]
+        },
+        {
+          "plotUse": "PUBLIC_AMENITIES",
+          "code": "Public Amenities (PA)",
+          "subUses": [
+            "ELECTRIC_SUBSTATION",
+            "WATER_PUMPING_STATION",
+            "WATER_TREATMENT_PLANT",
+            "WATER_SUPPLY_INFRASTRUCTURE",
+            "DRAINAGE_CHANNEL",
+            "SOLID_WASTE_COLLECTIONTRANSFER_CENTER",
+            "SOLID_WASTE_DISPOSAL_CENTER",
+            "FIRE_STATION",
+            "CREMATORIUM",
+            "GRAVEYARD"
+          ]
+        },
+        {
+          "plotUse": "HOSPITALITY",
+          "code": "Hospitality (HP)",
+          "subUses": [
+            "HOTEL",
+            "MOTEL",
+            "PARTY_PLOT"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_1",
+          "code": "Industrial-1 (I1)",
+          "subUses": [
+            "GREEN_CATEGORY_INDUSTRY",
+            "ORANGE_CATEGORY_INDUSTRY",
+            "SERVICE_INDUSTRY"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_2",
+          "code": "Industrial-2 (I2)",
+          "subUses": [
+            "JUNK_YARD",
+            "TEXTILE_UNITS",
+            "ICE_FACTORY",
+            "STONE_CRUSHING",
+            "GRAVEL_SOIL",
+            "MEAT_PROCESSING",
+            "LEATHER_PROCESSING",
+            "COLD_STORAGE",
+            "FUEL_STORAGE",
+            "FLAMMABLE_MATERIAL_STORAGE",
+            "THERMAL_POWER_PLANT",
+            "HYDEL_POWER_PLANT",
+            "GAS_BASED_POWER_PLANT",
+            "STORAGE_OF_POLLUTING_AND_HAZARDOUS_MATERIAL",
+            "HAZARSDOUS_INDUSTRY",
+            "CHEMICAL_INDUSTRY",
+            "HOUSING_UNITS_FOR_INDUSTRIAL_WORKERS"
+          ]
+        },
+        {
+          "plotUse": "SPORTS_AND_LEISURE",
+          "code": "Sport & Leisure (SL)",
+          "subUses": [
+            "PLAYGROUND",
+            "STADIUM",
+            "GOLF_COURSE",
+            "SPORTS_COMPLEX",
+            "SWIMMING_POOL",
+            "INDOOR_STADIUM",
+            "AQUARIUM",
+            "SPORTS_CLUB"
+          ]
+        },
+        {
+          "plotUse": "PARKS",
+          "code": "Parks (P)",
+          "subUses": [
+            "PARKS",
+            "GARDEN",
+            "GREEN_HOUSE",
+            "BOTANICAL_GARDEN",
+            "AMUSEMENT_PARKS"
+          ]
+        },
+        {
+          "plotUse": "TRANSPORT",
+          "code": "Transport (TR)",
+          "subUses": [
+            "ROAD",
+            "TRUCK_TERMINAL",
+            "BUS_TERMINAL",
+            "BUS_DEPOT",
+            "BUS_STOPSTAND",
+            "RAILWAY_LINE",
+            "RAILWAY_STATION",
+            "RAILWAY_YARD",
+            "CONTAINER_TERMINALDEPOT",
+            "PARKING",
+            "MULTI_LEVEL_PARKING",
+            "AIRPORT",
+            "WEIGHBRIDGE",
+            "COLD_STORAGE",
+            "GODOWN",
+            "PETROL_PUMP",
+            "ESSENTIAL_STAFF_ACCOMMODATION"
+          ]
+        },
+        {
+          "plotUse": "AGRICULTURE_1",
+          "code": "AG1",
+          "subUses": [
+            "AGRICULTURE",
+            "HORTICULTURE",
+            "DAIRY_DEVELOPMENT",
+            "FISHERIES",
+            "ANIMAL_HUSBANDRY_AND_BREEDING",
+            "NATURAL_RESOURCE_SANCTUARIES",
+            "BRICK_KILNS"
+          ]
+        },
+        {
+          "plotUse": "AGRICULTURE_2",
+          "code": "Agriculture-1 (A1)",
+          "subUses": [
+            "MINING_AND_QUARRYING",
+            "LANDFILL_SITE",
+            "AGRICULTURAL_EQUIPMENT_REPAIR_AND_SALE",
+            "SAW_MILL",
+            "ROADSIDE_DHABA",
+            "POULTRY_FARM",
+            "FARM_HOUSE"
+          ]
+        },
+        {
+          "plotUse": "TEMPORARY_USE",
+          "code": "TU",
+          "subUses": [
+            "FAIRS",
+            "CIRCUSES",
+            "EXHIBITIONS",
+            "FAIRGROUND",
+            "PANDALS"
+          ]
+        }
       ]
     },
     {
-      "plotUse": "COMMERCIAL_1",
-      "code": "Commercial-1 (C1)",
-      "subUses": [
-        "CONVENIENCE_SHOPS",
-        "VEGETABLE_SHOP",
-        "MILK_BOOTH",
-        "INTERNET_CENTER",
-        "COTTAGE_INDUSTRY",
-        "KIOSK",
-        "ATM",
-        "RESTAURANT",
-        "BAKERY",
-        "GUMTI",
-        "BANK",
-        "LODGING_AND_BOARDING",
-        "GUEST_HOUSE"
-      ]
-    },
-    {
-      "plotUse": "COMMERCIAL_2",
-      "code": "Commercial-2 (C2)",
-      "subUses": [
-        "SHOPPING_CENTER",
-        "SHOPPING_MALL",
-        "OPEN_MALL",
-        "COMMERCIAL_BUILDING",
-        "PETROL_PUMP",
-        "FUEL_STATION",
-        "CITY_CENTER",
-        "MULTIPLEX",
-        "MINIPLEX",
-        "GUEST_HOUSES"
-      ]
-    },
-    {
-      "plotUse": "COMMERCIAL_3",
-      "code": "Commercial-3 (C3)",
-      "subUses": [
-        "WAREHOUSE",
-        "GODOWN",
-        "WHOLESALE_MARKET",
-        "SLAUGHTERHOUSE",
-        "WHOLSESALE_MANDIS",
-        "TIMBER_MARKETS",
-        "STOCKYARDS",
-        "SPECIALIZED_MARKETS"
-      ]
-    },
-    {
-      "plotUse": "SOCIAL_ESTABLISHMENT",
-      "code": "Service Establishment (SE)",
-      "subUses": [
-        "AUTO_REPAIR_WORKSHOP",
-        "CONSTRUCTION_WORKSHOP",
-        "CARPENTRY_WORKSHOP",
-        "GARAGE"
-      ]
-    },
-    {
-      "plotUse": "EDUCATION_1",
-      "code": "Educational-1 (E1)",
-      "subUses": [
-        "PRE_PRIMARY_SCHOOL",
-        "PRIMARY_SCHOOL",
-        "MIDDLE_SCHOOL"
-      ]
-    },
-    {
-      "plotUse": "EDUCATION_2",
-      "code": "Educational-2 (E2)",
-      "subUses": [
-        "SECONDARY_SCHOOL",
-        "HIGHER_SECONDARY_SCHOOL",
-        "TRAINING_CENTER_ITI"
-      ]
-    },
-    {
-      "plotUse": "EDUCATION_3",
-      "code": "Educational-3 (E3)",
-      "subUses": [
-        "COLLEGE",
-        "POLYTECHNIC",
-        "UNIVERSITY",
-        "RESEARCH_INSTITUTE"
-      ]
-    },
-    {
-      "plotUse": "ASSEMBLY_HALL_1",
-      "code": "Assembly-1 (A1)",
-      "subUses": [
-        "COMMUNITY_HALL",
-        "MARRIAGE_HALL",
-        "EXHIBITION_HALL",
-        "AUDITORIUM"
-      ]
-    },
-    {
-      "plotUse": "ASSEMBLY_HALL_2",
-      "code": "Assembly-2 (A2)",
-      "subUses": [
-        "THEATER",
-        "CINEMA_HALL",
-        "MULTIPLEX",
-        "CLUB",
-        "MUSEUM",
-        "PLANETARIUM",
-        "CONVENTION_CENTER"
-      ]
-    },
-    {
-      "plotUse": "HEALTH_1",
-      "code": "Health-1 (H1)",
-      "subUses": [
-        "DISPENSARY",
-        "CLINIC",
-        "MATERNITY_HOME",
-        "NURSING_HOME",
-        "PRIMARY_HEALTH_CENTER"
-      ]
-    },
-    {
-      "plotUse": "HEALTH_2",
-      "code": "Health-2 (H2)",
-      "subUses": [
-        "RESEARCH_CENTER",
-        "HOSPITAL",
-        "TRAUMA_CENTER",
-        "SPECIALIZED_HOSPITAL",
-        "RADIOLOGY_CENTERS"
-      ]
-    },
-    {
-      "plotUse": "RELIGIOUS_AND_CULTURAL",
-      "code": "Religious and cultural (R&C)",
-      "subUses": [
-        "PLACES_OF_WORSHIP_OF_VARIOUS_FAITHS"
-      ]
-    },
-    {
-      "plotUse": "PUBLIC_INSTITUTIONS",
-      "code": "Public Institutions (It)",
-      "subUses": [
-        "POST_OFFICE",
-        "COMMUNICATION_NETWORK",
-        "POLICE_STATION",
-        "JAIL",
-        "GOVERNMENT_AND_SEMI_GOVERNMENT_OFFICES",
-        "PUBLIC_LIBRARY"
-      ]
-    },
-    {
-      "plotUse": "PUBLIC_AMENITIES",
-      "code": "Public Amenities (PA)",
-      "subUses": [
-        "ELECTRIC_SUBSTATION",
-        "WATER_PUMPING_STATION",
-        "WATER_TREATMENT_PLANT",
-        "WATER_SUPPLY_INFRASTRUCTURE",
-        "DRAINAGE_CHANNEL",
-        "SOLID_WASTE_COLLECTIONTRANSFER_CENTER",
-        "SOLID_WASTE_DISPOSAL_CENTER",
-        "FIRE_STATION",
-        "CREMATORIUM",
-        "GRAVEYARD"
-      ]
-    },
-    {
-      "plotUse": "HOSPITALITY",
-      "code": "Hospitality (HP)",
-      "subUses": [
-        "HOTEL",
-        "MOTEL",
-        "GUEST_HOUSE",
-        "PARTY_PLOT",
-        "PATHOLOGY_LAB"
-      ]
-    },
-    {
-      "plotUse": "INDUSTRIAL_1",
-      "code": "Industrial-1 (I1)",
-      "subUses": [
-        "GREEN_CATEGORY_INDUSTRY",
-        "SERVICE_INDUSTRY"
-
-      ]
-    },
-    {
-      "plotUse": "INDUSTRIAL_2",
-      "code": "Industrial-2 (I2)",
-      "subUses": [
-        "JUNK_YARD",
-        "TEXTILE_UNITS",
-        "STONE_CRUSHING",
-        "MEAT_PROCESSING",
-        "LEATHER_PROCESSING",
-        "COLD_STORAGE",
-        "FUEL_STORAGE",
-        "FLAMMABLE_MATERIAL_STORAGE",
-        "THERMAL_POWER_PLANT",
-        "GAS_BASED_POWER_PLANT",
-        "ORANGE_CATEGORY_INDUSTRY",
-        "RED_CATEGORY_INDUSTRY",
-        "ICE_FACTORY",
-        "STONE_CRUSHING",
-        "HAZARSDOUS_INDUSTRY"
-
-      ]
-    },
-    {
-      "plotUse": "SPORTS_AND_LEISURE",
-      "code": "Sport & Leisure (SL)",
-      "subUses": [
-        "PLAYGROUND",
-        "STADIUM",
-        "GOLF_COURSE",
-        "SPORTS_COMPLEX",
-        "SWIMMING_POOL",
-        "INDOOR_STADIUM",
-        "AQUARIUM",
-        "SPORTS_CLUB"
-      ]
-    },
-    {
-      "plotUse": "PARKS",
-      "code": "Parks (P)",
-      "subUses": [
-        "GARDENS_AND_ORCHARDS",
-        "GARDEN",
-        "GREEN_HOUSE",
-        "BOTANICAL_GARDEN"
-      ]
-    },
-    {
-      "plotUse": "TRANSPORT",
-      "code": "Transport (TR)",
-      "subUses": [
-        "ROAD",
-        "TRUCK_TERMINAL",
-        "BUS_TERMINAL",
-        "BUS_DEPOT",
-        "BUS_STOPSTAND",
-        "RAILWAY_LINE",
-        "RAILWAY_STATION",
-        "RAILWAY_YARD",
-        "CONTAINER_TERMINALDEPOT",
-        "PARKING",
-        "MULTI_LEVEL_PARKING",
-        "AIRPORT",
-        "COLD_STORAGE",
-        "GODOWN",
-        "WEIGHBRIDGE",
-        "PETROL_PUMP",
-        "ESSENTIAL_STAFF_ACCOMMODATION"
-      ]
-    },
-    {
-      "plotUse": "AGRICULTURE_1",
-      "code": "AG1",
-      "subUses": [
-        "AGRICULTURE",
-        "GARDENING",
-        "BRICK_KILNS",
-        "HORTICULTURE",
-        "CAPACITIVE",
-        "DAIRY_DEVELOPMENT",
-        "FISHERIES",
-        "ANIMAL_HUSBANDRY_AND_BREEDING",
-        "NATURAL_RESOURCE_SANCTUARIES",
-        "BIO_ETHANOL_PLANTS",
-        "CAPTIVE_POWER_PLANTS_ONLY"
-
-      ]
-    },
-    {
-      "plotUse": "AGRICULTURE_2",
-      "code": "Agriculture-1 (A1)",
-      "subUses": [
-        "MINING_AND_QUARRYING",
-        "LANDFILL_SITE",
-        "AGRICULTURAL_EQUIPMENT_REPAIR_AND_SALE",
-        "SAW_MILL",
-        "ROADSIDE_DHABA",
-        "POULTRY_FARM",
-        "FARM_HOUSE",
-        "PETROL_PUMPS",
-        "FUEL_STATIONS",
-        "BIO_ETHANOL_PLANT",
-        "CAPACITIVE_POWER_PLANT",
-        "FARM_EQUIPMENT_REPAIR/SALE"
+      "masterPlan": [
+        "ARANG MASTER PLAN"
+      ],
+      "plotSubUseData": [
+        {
+          "plotUse": "NA",
+          "code": "NA",
+          "subUses": [
+            "NA"
+          ]
+        },
+        {
+          "plotUse": "RESIDENTIAL_R1",
+          "code": "Residential (R)",
+          "subUses": [
+            "DETACHED_DWELLING_UNITS",
+            "SEMI_DETACHED_HOUSING_UNITS",
+            "ROW_HOUSING",
+            "APARTMENTS",
+            "HOSTELS",
+            "DHARAMSHALAS",
+            "GROUP_HOUSING",
+            "NIGHT_SHELTERS",
+            "CRECHES",
+            "SERVICE_APARTMENTS",
+            "INTEGRATED_TOWNSHIPS"
+          ]
+        },
+        {
+          "plotUse": "COMMERCIAL_1",
+          "code": "Commercial-1 (C1)",
+          "subUses": [
+            "CONVENIENCE_SHOPS",
+            "VEGETABLE_SHOP",
+            "MILK_BOOTH",
+            "INTERNET_CENTER",
+            "COTTAGE_INDUSTRY",
+            "KIOSK",
+            "ATM"
+          ]
+        },
+        {
+          "plotUse": "COMMERCIAL_2",
+          "code": "Commercial-2 (C2)",
+          "subUses": [
+            "SHOPPING_CENTER",
+            "SHOPPING_MALL",
+            "COMMERCIAL_BUILDING",
+            "PETROL_PUMP",
+            "FUEL_STATION",
+            "GUEST_HOUSES",
+            "CITY_CENTER",
+            "RESTAURANT",
+            "BAKERY",
+            "BANK",
+            "LODGING_AND_BOARDING"
+          ]
+        },
+        {
+          "plotUse": "COMMERCIAL_3",
+          "code": "Commercial-3 (C3)",
+          "subUses": [
+            "WAREHOUSE",
+            "GODOWN",
+            "WHOLESALE_MARKET",
+            "TIMBER_MARKETS",
+            "STOCKYARDS",
+            "SPECIALIZED_MARKETS",
+            "SLAUGHTERHOUSE"
+          ]
+        },
+        {
+          "plotUse": "SOCIAL_ESTABLISHMENT",
+          "code": "Service Establishment (SE)",
+          "subUses": [
+            "AUTO_REPAIR_WORKSHOP",
+            "CONSTRUCTION_WORKSHOP",
+            "CARPENTRY_WORKSHOP",
+            "GARAGE"
+          ]
+        },
+        {
+          "plotUse": "EDUCATION_1",
+          "code": "Educational-1 (E1)",
+          "subUses": [
+            "PRE_PRIMARY_SCHOOL",
+            "PRIMARY_SCHOOL",
+            "MIDDLE_SCHOOL"
+          ]
+        },
+        {
+          "plotUse": "EDUCATION_2",
+          "code": "Educational-2 (E2)",
+          "subUses": [
+            "SECONDARY_SCHOOL",
+            "HIGHER_SECONDARY_SCHOOL",
+            "TRAINING_CENTER_ITI"
+          ]
+        },
+        {
+          "plotUse": "EDUCATION_3",
+          "code": "Educational-3 (E3)",
+          "subUses": [
+            "COLLEGE",
+            "POLYTECHNIC",
+            "UNIVERSITY",
+            "RESEARCH_INSTITUTE"
+          ]
+        },
+        {
+          "plotUse": "ASSEMBLY_HALL_1",
+          "code": "Assembly-1 (A1)",
+          "subUses": [
+            "COMMUNITY_HALL",
+            "MARRIAGE_HALL",
+            "EXHIBITION_HALL",
+            "AUDITORIUM"
+          ]
+        },
+        {
+          "plotUse": "ASSEMBLY_HALL_2",
+          "code": "Assembly-2 (A2)",
+          "subUses": [
+            "THEATER",
+            "CINEMA_HALL",
+            "MULTIPLEX",
+            "CLUB",
+            "MUSEUM",
+            "PLANETARIUM",
+            "CONVENTION_CENTER"
+          ]
+        },
+        {
+          "plotUse": "HEALTH_1",
+          "code": "Health-1 (H1)",
+          "subUses": [
+            "DISPENSARY",
+            "CLINIC",
+            "MATERNITY_HOME",
+            "NURSING_HOME",
+            "PRIMARY_HEALTH_CENTER"
+          ]
+        },
+        {
+          "plotUse": "HEALTH_2",
+          "code": "Health-2 (H2)",
+          "subUses": [
+            "RESEARCH_CENTER",
+            "HOSPITAL",
+            "TRAUMA_CENTER",
+            "SPECIALIZED_HOSPITAL"
+          ]
+        },
+        {
+          "plotUse": "RELIGIOUS_AND_CULTURAL",
+          "code": "Religious and cultural (R&C)",
+          "subUses": [
+            "WORSHIP_PLACE"
+          ]
+        },
+        {
+          "plotUse": "PUBLIC_INSTITUTIONS",
+          "code": "Public Institutions (It)",
+          "subUses": [
+            "POST_OFFICE",
+            "COMMUNICATION_NETWORK",
+            "POLICE_STATION",
+            "JAIL",
+            "GOVERNMENT_AND_SEMI_GOVERNMENT_OFFICES",
+            "GOVERNMENT_AND_SEMI_GOVERNMENT_FACILITIES",
+            "PUBLIC_LIBRARY"
+          ]
+        },
+        {
+          "plotUse": "PUBLIC_AMENITIES",
+          "code": "Public Amenities (PA)",
+          "subUses": [
+            "ELECTRIC_SUBSTATION",
+            "WATER_PUMPING_STATION",
+            "WATER_TREATMENT_PLANT",
+            "WATER_SUPPLY_INFRASTRUCTURE",
+            "DRAINAGE_CHANNEL",
+            "SOLID_WASTE_COLLECTIONTRANSFER_CENTER",
+            "SOLID_WASTE_DISPOSAL_CENTER",
+            "FIRE_STATION",
+            "CREMATORIUM",
+            "GRAVEYARD"
+          ]
+        },
+        {
+          "plotUse": "HOSPITALITY",
+          "code": "Hospitality (HP)",
+          "subUses": [
+            "HOTEL",
+            "MOTEL",
+            "PARTY_PLOT"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_1",
+          "code": "Industrial-1 (I1)",
+          "subUses": [
+            "GREEN_CATEGORY_INDUSTRY",
+            "ORANGE_CATEGORY_INDUSTRY",
+            "SERVICE_INDUSTRY"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_2",
+          "code": "Industrial-2 (I2)",
+          "subUses": [
+            "JUNK_YARD",
+            "TEXTILE_UNITS",
+            "ICE_FACTORY",
+            "STONE_CRUSHING",
+            "GRAVEL_AND_SOIL_PROCESSING_UNIT",
+            "MEAT_PROCESSING_UNIT",
+            "LEATHER_PROCESSING_UNIT",
+            "COLD_STORAGE",
+            "FUEL_STORAGE",
+            "FLAMMABLE_MATERIAL_STORAGE",
+            "THERMAL_POWER_PLANT",
+            "HYDEL_POWER_PLANT",
+            "GAS_BASED_POWER_PLANT",
+            "STORAGE_OF_POLLUTING_AND_HAZARDOUS_MATERIAL",
+            "HAZARSDOUS_INDUSTRY",
+            "CHEMICAL_INDUSTRY",
+            "HOUSING_UNITS_FOR_INDUSTRIAL_WORKERS"
+          ]
+        },
+        {
+          "plotUse": "SPORTS_AND_LEISURE",
+          "code": "Sport & Leisure (SL)",
+          "subUses": [
+            "PLAYGROUND",
+            "STADIUM",
+            "GOLF_COURSE",
+            "SPORTS_COMPLEX",
+            "SWIMMING_POOL",
+            "INDOOR_STADIUM",
+            "AQUARIUM",
+            "SPORTS_CLUB"
+          ]
+        },
+        {
+          "plotUse": "PARKS",
+          "code": "Parks (P)",
+          "subUses": [
+            "PARKS",
+            "GARDEN",
+            "GREEN_HOUSE",
+            "BOTANICAL_GARDEN"
+          ]
+        },
+        {
+          "plotUse": "TRANSPORT",
+          "code": "Transport (TR)",
+          "subUses": [
+            "ROAD",
+            "TRUCK_TERMINAL",
+            "BUS_TERMINAL",
+            "BUS_DEPOT",
+            "BUS_STOPSTAND",
+            "RAILWAY_LINE",
+            "RAILWAY_STATION",
+            "RAILWAY_YARD",
+            "CONTAINER_TERMINALDEPOT",
+            "PARKING",
+            "MULTI_LEVEL_PARKING",
+            "AIRPORT",
+            "WEIGHBRIDGE",
+            "COLD_STORAGE",
+            "GODOWN",
+            "PETROL_PUMP",
+            "ESSENTIAL_STAFF_ACCOMMODATION"
+          ]
+        },
+        {
+          "plotUse": "AGRICULTURE_1",
+          "code": "AG1",
+          "subUses": [
+            "AGRICULTURE",
+            "HORTICULTURE",
+            "DAIRY_DEVELOPMENT",
+            "FISHERIES",
+            "ANIMAL_HUSBANDRY_AND_BREEDING",
+            "NATURAL_RESOURCE_SANCTUARIES",
+            "BRICK_KILNS"
+          ]
+        },
+        {
+          "plotUse": "AGRICULTURE_2",
+          "code": "Agriculture-1 (A1)",
+          "subUses": [
+            "MINING_AND_QUARRYING",
+            "LANDFILL_SITE",
+            "AGRICULTURAL_EQUIPMENT_REPAIR_AND_SALE",
+            "SAW_MILL",
+            "ROADSIDE_DHABA",
+            "POULTRY_FARM",
+            "FARM_HOUSE"
+          ]
+        },
+        {
+          "plotUse": "TEMPORARY_USE",
+          "code": "TU",
+          "subUses": [
+            "FAIRS",
+            "CIRCUSES",
+            "EXHIBITIONS",
+            "FAIRGROUND",
+            "PANDALS"
+          ]
+        }
       ]
     }
   ]

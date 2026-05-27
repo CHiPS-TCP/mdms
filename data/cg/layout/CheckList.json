@@ -9,24 +9,238 @@
       "WFState": "L2_VERIFICATION",
       "questions": [
         {
-          "question": "DOES_PLOT_EXIST",
+          "question": "CLIENT_NAME",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": true,
+          "active": true,
+          "status": false,
+          "remarks": false,
+          "required": true
+        },
+        {
+          "question": "DATE_OF_SITE_VISIT",
+          "fieldType": "DATE",
+          "autoFetch": false,
+          "active": true,
+          "status": false,
+          "remarks": false,
+          "required": true
+        },
+        {
+          "question": "VILLAGE_NAME_WARD_NO_AND_NAME",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": true,
+          "active": true,
+          "status": false,
+          "remarks": false,
+          "required": true
+        },
+        {
+          "question": "IS_LOCATION_OF_LAND_AS_PER_APPROVED_LAYOUT_DEVELOPMENT_PLAN",
           "fieldType": "YES/NO",
-          "active": true
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
         },
         {
-          "question": "CONNECTED_TO_PUBLIC_ROAD",
+          "question": "KUTCHA_PAKKA_ROAD_IS_AVAILABLE_UP_TO_SITE",
           "fieldType": "YES/NO",
-          "active": true
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
         },
         {
-          "question": "ROAD_STATUS",
-          "fieldType": "PUBLIC/PRIVATE",
-          "active": true
+          "question": "EXISTING_ROAD_WIDTH_IN_FRONT_SIDE_OF_PLOT",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
         },
         {
-          "question": "NATURE_OF_ROAD",
-          "fieldType": "BLACKTOP/KACHA/MURUM/METALLED/CONCRETE",
-          "active": true
+          "question": "DOES_ROAD_EXIST_ON_OTHER_SIDES_OF_PLOT",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "EAST",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "WEST",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "NORTH",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "SOUTH",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "LAYOUT_OF_LAND_IN_QUESTION_NOT_APPROVED_AS_PER_RULES_BUT_DEVELOPMENT_OF_AREA_HAS_BEEN_DONE",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "HT_LINE_IS_ADJOINING_THE_SITE",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "THE_DISTANCE_OF_HT_LINE_FROM_SITE_IN_METERS",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "IS_NALAH_MAJOR_DRAIN_ADJACENT_TO_PLOT",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "NEAREST_DISTANCE_OF_NALAS_FROM_PLOT",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "DETAILS_AND_USE_OF_PRESENT_AND_PROPOSED_DEVELOPMENT_AT_THE_SITE",
+          "fieldType": "TEXT",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "DEVELOPMENT_HAS_BEEN_STARTED_ON_SITE_BEFORE_APPROVAL_OR_NOT",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "HAS_BUILDING_BEEN_COMPLETED_ON_SITE_AS_PER_SUBMITTED_DRAWING_BEFORE_APPROVAL_OF_BUILDING_PLAN",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "IS_BUILDING_PERMISSION_TAKEN_FOR_SITE",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "STATE_THE_YEAR_OF_PERMISSION_AND_DETAILS",
+          "fieldType": "DATE",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "APPROVED_AND_PRESENT_SETBACK_FRONT",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "APPROVED_AND_PRESENT_SETBACK_REAR",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "APPROVED_AND_PRESENT_SETBACK_RHS",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "APPROVED_AND_PRESENT_SETBACK_LHS",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "IS_PROPOSED_SITE_WITHIN_REGULATED_AREA_OF_EXTERNAL_AGENCIES",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
         }
       ]
     }

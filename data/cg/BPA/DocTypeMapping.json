@@ -3,68 +3,92 @@
   "moduleName": "BPA",
   "DocTypeMapping": [
     {
-      "code": "OWNER.APPLICATION_PERMISSION_SECTION16_29",
+      "code": "OWNER.REGISTRY_LEASE_DEED_MOA",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.APPLICATION_PERMISSION_SECTION16_29_DESCRIPTION",
+      "description": "OWNER.REGISTRY_LEASE_DEED_MOA_DESCRIPTION",
       "order": 1
     },
     {
-      "code": "OWNER.PROOF_OF_RESIDENCE",
+      "code": "OWNER.B1_KHASRA_ORIGINAL",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.PROOF_OF_RESIDENCE_DESCRIPTION",
+      "description": "OWNER.B1_KHASRA_ORIGINAL_DESCRIPTION",
       "order": 2
     },
     {
-      "code": "OWNER.PROOF_OF_IDENTITY",
+      "code": "OWNER.KHASRA_MAP",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.PROOF_OF_IDENTITY_DESCRIPTION",
+      "description": "OWNER.KHASRA_MAP_DESCRIPTION",
       "order": 3
     },
     {
-      "code": "OWNER.B1_KHASRA_DETAILS",
+      "code": "OWNER.APPROVED_LAYOUT",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.B1_KHASRA_DETAILS_DESCRIPTION",
+      "description": "OWNER.APPROVED_LAYOUT_DESCRIPTION",
       "order": 4
     },
     {
-      "code": "OWNER.LAYOUT_MARKING_GIS_FORMAT",
+      "code": "OWNER.DIVERSION_LETTER",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.LAYOUT_MARKING_GIS_FORMAT_DESCRIPTION",
+      "description": "OWNER.DIVERSION_LETTER_DESCRIPTION",
       "order": 5
     },
     {
-      "code": "OWNER.DRAWING_PARKING_SERVICE_PLAN",
+      "code": "OWNER.COLONY_VIKAS_ANUMATI",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
-      "description": "OWNER.DRAWING_PARKING_SERVICE_PLAN_DESCRIPTION",
+      "description": "OWNER.COLONY_VIKAS_ANUMATI_DESCRIPTION",
       "order": 6
     },
     {
-      "code": "OWNER.DRAWING_APPROACH_ROAD",
+      "code": "OWNER.LAND_MORTGAGE_INFO",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
-      "description": "OWNER.DRAWING_APPROACH_ROAD_DESCRIPTION",
+      "description": "OWNER.LAND_MORTGAGE_INFO_DESCRIPTION",
       "order": 7
     },
     {
-      "code": "OWNER.SURVEY_PLAN_MAP",
+      "code": "OWNER.AFFIDAVIT_LICENSED_TECHNICAL_PERSON",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SURVEY_PLAN_MAP_DESCRIPTION",
+      "description": "OWNER.AFFIDAVIT_LICENSED_TECHNICAL_PERSON_DESCRIPTION",
       "order": 8
+    },
+    {
+      "code": "OWNER.INDEMNITY_CUM_AFFIDAVIT",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.INDEMNITY_CUM_AFFIDAVIT_DESCRIPTION",
+      "order": 9
+    },
+    {
+      "code": "OWNER.OWNER_AFFIDAVIT",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.OWNER_AFFIDAVIT_DESCRIPTION",
+      "order": 10
+    },
+    {
+      "code": "OWNER.APPROVAL_LETTER",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.APPROVAL_LETTER_DESCRIPTION",
+      "order": 11
     },
     {
       "code": "OWNER.NAZUL_NOC",
@@ -72,7 +96,7 @@
       "required": false,
       "active": true,
       "description": "OWNER.NAZUL_NOC_DESCRIPTION",
-      "order": 9
+      "order": 12
     },
     {
       "code": "OWNER.COLONIZER_REG_CERTIFICATE",
@@ -80,23 +104,7 @@
       "required": false,
       "active": true,
       "description": "OWNER.COLONIZER_REG_CERTIFICATE_DESCRIPTION",
-      "order": 10
-    },
-    {
-      "code": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP_DESCRIPTION",
-      "order": 11
-    },
-    {
-      "code": "OWNER.ADDITIONAL_DOCUMENTS",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.ADDITIONAL_DOCUMENTS_DESCRIPTION",
-      "order": 12
+      "order": 13
     }
   ]
 }
