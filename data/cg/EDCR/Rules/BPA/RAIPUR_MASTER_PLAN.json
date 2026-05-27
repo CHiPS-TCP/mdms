@@ -39,6 +39,85 @@
 							}
 						]
 					},
+					  "basementSetback": {
+                        "type": "MAP",
+                        "valueType": "OBJECT",
+                        "value": {
+                            "front": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                   
+                                ]
+                            },
+                            "rear": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side1": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side2": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                               "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            }
+                        }
+                    },
 					"electricalLine": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -1556,6 +1635,85 @@
 							"max": 0
 						}
 					},
+					  "basementSetback": {
+                        "type": "MAP",
+                        "valueType": "OBJECT",
+                        "value": {
+                            "front": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                   
+                                ]
+                            },
+                            "rear": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side1": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side2": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                               "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            }
+                        }
+                    },
 					"mainRoadWidth": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -3072,7 +3230,7 @@
 					}
 				},
 				{
-					"OccupancyType": "C",
+					"OccupancyType": "F",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Commercial",
 					"isActive": true,
@@ -3086,6 +3244,85 @@
 							"max": 0
 						}
 					},
+						  "basementSetback": {
+                        "type": "MAP",
+                        "valueType": "OBJECT",
+                        "value": {
+                            "front": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                   
+                                ]
+                            },
+                            "rear": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side1": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side2": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                               "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            }
+                        }
+                    },
 					"mainRoadWidth": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -4401,6 +4638,85 @@
 							"max": 0
 						}
 					},
+						  "basementSetback": {
+                        "type": "MAP",
+                        "valueType": "OBJECT",
+                        "value": {
+                            "front": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                   
+                                ]
+                            },
+                            "rear": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side1": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side2": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                               "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            }
+                        }
+                    },
 					"mainRoadWidth": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -5716,6 +6032,85 @@
 							"max": 0
 						}
 					},
+						  "basementSetback": {
+                        "type": "MAP",
+                        "valueType": "OBJECT",
+                        "value": {
+                            "front": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                   
+                                ]
+                            },
+                            "rear": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side1": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side2": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                               "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            }
+                        }
+                    },
 					"mainRoadWidth": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -6987,6 +7382,85 @@
 							"max": 0
 						}
 					},
+						  "basementSetback": {
+                        "type": "MAP",
+                        "valueType": "OBJECT",
+                        "value": {
+                            "front": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                   
+                                ]
+                            },
+                            "rear": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side1": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side2": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                               "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            }
+                        }
+                    },
 					"mainRoadWidth": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -8258,6 +8732,85 @@
 							"max": 0
 						}
 					},
+						  "basementSetback": {
+                        "type": "MAP",
+                        "valueType": "OBJECT",
+                        "value": {
+                            "front": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                   
+                                ]
+                            },
+                            "rear": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side1": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side2": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                               "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            }
+                        }
+                    },
 					"mainRoadWidth": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -9529,6 +10082,85 @@
 							"max": 0
 						}
 					},
+					  "basementSetback": {
+                        "type": "MAP",
+                        "valueType": "OBJECT",
+                        "value": {
+                            "front": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                   
+                                ]
+                            },
+                            "rear": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side1": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side2": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                               "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            }
+                        }
+                    },
 					"mainRoadWidth": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -10789,6 +11421,85 @@
 							"max": 0
 						}
 					},
+						  "basementSetback": {
+                        "type": "MAP",
+                        "valueType": "OBJECT",
+                        "value": {
+                            "front": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                   
+                                ]
+                            },
+                            "rear": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side1": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side2": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                               "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            }
+                        }
+                    },
 					"mainRoadWidth": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -12049,6 +12760,85 @@
 							"max": 0
 						}
 					},
+						  "basementSetback": {
+                        "type": "MAP",
+                        "valueType": "OBJECT",
+                        "value": {
+                            "front": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                   
+                                ]
+                            },
+                            "rear": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side1": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side2": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                               "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            }
+                        }
+                    },
 					"mainRoadWidth": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -13309,6 +14099,85 @@
 							"max": 0
 						}
 					},
+						  "basementSetback": {
+                        "type": "MAP",
+                        "valueType": "OBJECT",
+                        "value": {
+                            "front": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                   
+                                ]
+                            },
+                            "rear": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side1": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            },
+                            "side2": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                               "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 17.99,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 18,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                ]
+                            }
+                        }
+                    },
 					"mainRoadWidth": {
 						"mandatory": true,
 						"type": "SLAB",

@@ -46,13 +46,27 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -87,51 +101,31 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
-				{
-					"OccupancyType": [
-						"INDUSTRIAL"
-					],
-					"zone": "CA",
-					"occVersion": "1.0.0",
-					"OccupancyName": "Industrial",
-					"isActive": true,
-					"FAR": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
-						"value": [
-							{
-								"min": 0,
-								"max": 999999999,
-								"normal": 1,
-								"purchasable": 0
-							}
-						]
-					},
-					"siteCoverage": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "DOUBLE",
-						"unit": "percent",
-						"value": [
-							{
-								"min": 0,
-								"max": 9999999999,
-								"percentage": 60
-							}
-						]
-					}
-				},
+			
 				{
 					"OccupancyType": [
 						"PUBLIC_SEMI_PUBLIC",
@@ -172,13 +166,27 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -199,7 +207,7 @@
 							{
 								"min": 0,
 								"max": 999999999,
-								"normal": 1,
+								"normal": 1.25,
 								"purchasable": 0
 							}
 						]
@@ -208,13 +216,27 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -249,17 +271,31 @@
 							}
 						]
 					},
-					"siteCoverage": {
+				"siteCoverage": {
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -290,17 +326,31 @@
 							}
 						]
 					},
-					"siteCoverage": {
+				"siteCoverage": {
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -329,13 +379,27 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 60
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -375,17 +439,31 @@
 							}
 						]
 					},
-					"siteCoverage": {
+				"siteCoverage": {
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -406,22 +484,36 @@
 							{
 								"min": 0,
 								"max": 999999999,
-								"normal": 1,
+								"normal": 1.25,
 								"purchasable": 0
 							}
 						]
 					},
-					"siteCoverage": {
+				"siteCoverage": {
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -466,13 +558,27 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -509,17 +615,31 @@
 							}
 						]
 					},
-					"siteCoverage": {
+				"siteCoverage": {
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -548,13 +668,27 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 60
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -592,13 +726,27 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -619,7 +767,7 @@
 							{
 								"min": 0,
 								"max": 999999999,
-								"normal": 1,
+								"normal": 1.25,
 								"purchasable": 0
 							}
 						]
@@ -628,13 +776,27 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -679,13 +841,27 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -726,13 +902,27 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -761,13 +951,27 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 60
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -805,13 +1009,27 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				},
@@ -832,22 +1050,36 @@
 							{
 								"min": 0,
 								"max": 999999999,
-								"normal": 1,
+								"normal": 1.25,
 								"purchasable": 0
 							}
 						]
 					},
-					"siteCoverage": {
+				"siteCoverage": {
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
 							{
 								"min": 0,
-								"max": 9999999999,
-								"percentage": 100
-							}
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
 						]
 					}
 				}
