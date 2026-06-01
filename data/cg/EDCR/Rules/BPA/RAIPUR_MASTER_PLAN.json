@@ -3230,9 +3230,9 @@
 					}
 				},
 				{
-					"OccupancyType": "F",
+					"OccupancyType": "E-OB",
 					"occVersion": "1.0.0",
-					"OccupancyName": "Commercial",
+					"OccupancyName": "Commercial (Office/Business)",
 					"isActive": true,
 					"plotArea": {
 						"mandatory": true,
