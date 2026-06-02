@@ -28160,6 +28160,11 @@
       "actionid": 7007,
       "actioncode": "",
       "tenantId": "cg"
+    },{
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "cg"
     },
     {
       "rolecode": "SWACH_ADMIN",
@@ -34430,6 +34435,11 @@
       "actionid": 8900137,
       "actioncode": "",
       "tenantId": "cg"
+    },{
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_ENGINEER",
@@ -37992,6 +38002,11 @@
       "actionid": 5029,
       "actioncode": "",
       "tenantId": "cg"
+    },{
+      "rolecode": "CITIZEN",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "cg"
     },
     {
       "rolecode": "NOC_TRACKER",
@@ -38048,6 +38063,11 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "LAYOUT_L3_VERIFIER",
+      "actionid": 8900918,
+      "actioncode": "",
+      "tenantId": "cg"
+    }, {
       "rolecode": "LAYOUT_L3_VERIFIER",
       "actionid": 8900918,
       "actioncode": "",
@@ -38164,6 +38184,79 @@
     {
       "rolecode": "NHAI_NOC_APPROVER",
       "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_QUALITY_AUDITOR",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GEO_HYDROLOGIST",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GEO_TECHNICAL_ENGINEER",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_FIRE_OFFICER",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+
+    {
+      "rolecode": "BPA_CONSTRUCTION_ENGINEER",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_STRUCTURALENGINEER",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_CONSTRUCTION_MANAGEMENT_AGENCY",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_QUALITY_AUDIT_AGENCY",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GROUP_OR_AGENCY",
+      "actionid": 1945,
       "actioncode": "",
       "tenantId": "cg"
     }
