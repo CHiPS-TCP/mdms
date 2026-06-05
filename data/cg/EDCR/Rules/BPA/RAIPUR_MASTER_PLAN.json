@@ -40,7 +40,8 @@
 						]
 					},
 					  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -51,11 +52,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -70,13 +66,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -88,13 +79,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -106,13 +92,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -1599,7 +1580,8 @@
 						}
 					},
 					  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -1610,11 +1592,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -1629,13 +1606,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -1647,13 +1619,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -1665,13 +1632,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -3171,7 +3133,8 @@
 						}
 					},
 					  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -3182,11 +3145,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -3201,13 +3159,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -3219,13 +3172,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -3237,13 +3185,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -4743,7 +4686,8 @@
 						}
 					},
 						  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -4754,11 +4698,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -4773,13 +4712,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -4791,13 +4725,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -4809,13 +4738,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -5174,7 +5098,8 @@
 						"valueType": "OBJECT",
 						"value": [
 							{
-								"divideBy": 50
+								"divideBy": 50,
+								"min": 0
 							}
 						]
 					},
@@ -6061,7 +5986,8 @@
 						}
 					},
 						  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -6072,11 +5998,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -6091,13 +6012,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -6109,13 +6025,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -6127,13 +6038,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -6492,7 +6398,8 @@
 						"valueType": "OBJECT",
 						"value": [
 							{
-								"divideBy": 75
+								"divideBy": 75,
+								"min": 0
 							}
 						]
 					},
@@ -7379,7 +7286,8 @@
 						}
 					},
 						  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -7390,11 +7298,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -7409,13 +7312,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -7427,13 +7325,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -7445,13 +7338,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -7810,7 +7698,8 @@
 						"valueType": "OBJECT",
 						"value": [
 							{
-								"divideBy": 50
+								"divideBy": 50,
+								"min": 0
 							}
 						]
 					},
@@ -8697,7 +8586,8 @@
 						}
 					},
 						  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -8708,11 +8598,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -8727,13 +8612,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -8745,13 +8625,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -8763,13 +8638,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -9128,7 +8998,8 @@
 						"valueType": "OBJECT",
 						"value": [
 							{
-								"divideBy": 50
+								"divideBy": 50,
+								"min": 0
 							}
 						]
 					},
@@ -10015,7 +9886,8 @@
 						}
 					},
 						  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -10026,11 +9898,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -10045,13 +9912,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -10063,13 +9925,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -10081,13 +9938,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -10413,7 +10265,8 @@
 						"valueType": "OBJECT",
 						"value": [
 							{
-								"divideBy": 60
+								"divideBy": 60,
+								"min": 0
 							}
 						]
 					},
@@ -11289,7 +11142,8 @@
 						}
 					},
 						  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -11300,11 +11154,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -11319,13 +11168,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -11337,13 +11181,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -11355,13 +11194,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -11687,7 +11521,8 @@
 						"valueType": "OBJECT",
 						"value": [
 							{
-								"divideBy": 100
+								"divideBy": 100,
+								"min": 0
 							}
 						]
 					},
@@ -12563,7 +12398,8 @@
 						}
 					},
 						  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -12574,11 +12410,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -12593,13 +12424,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -12611,13 +12437,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -12629,13 +12450,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -12961,7 +12777,8 @@
 						"valueType": "OBJECT",
 						"value": [
 							{
-								"divideBy": 75
+								"divideBy": 75,
+								"min": 0
 							}
 						]
 					},
@@ -13837,7 +13654,8 @@
 						}
 					},
 						  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -13848,11 +13666,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -13867,13 +13680,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -13885,13 +13693,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -13903,13 +13706,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -15150,7 +14948,8 @@
 						}
 					},
 					  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -15161,11 +14960,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -15180,13 +14974,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -15198,13 +14987,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -15216,13 +15000,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -16414,7 +16193,8 @@
 						}
 					},
 						  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -16425,11 +16205,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -16444,13 +16219,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -16462,13 +16232,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -16480,13 +16245,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -17678,7 +17438,8 @@
 						}
 					},
 						  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -17689,11 +17450,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -17708,13 +17464,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -17726,13 +17477,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -17744,13 +17490,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -18942,7 +18683,8 @@
 						}
 					},
 						  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -18953,11 +18695,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -18972,13 +18709,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -18990,13 +18722,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -19008,13 +18735,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -20098,7 +19820,8 @@
 						}
 					},
 						  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -20109,11 +19832,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -20128,13 +19846,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -20146,13 +19859,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -20164,13 +19872,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -21254,7 +20957,8 @@
 						}
 					},
 						  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -21265,11 +20969,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -21284,13 +20983,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -21302,13 +20996,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -21320,13 +21009,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
@@ -22448,7 +22132,8 @@
 						}
 					},
 						  "basementSetback": {
-                        "type": "MAP",
+                        "minPlotArea": 400,
+						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
@@ -22459,11 +22144,6 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
                                         "value": 6
                                     }
@@ -22478,13 +22158,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -22496,13 +22171,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             },
@@ -22514,13 +22184,8 @@
                                 "value": [
                                     {
                                         "min": 0,
-                                        "max": 17.99,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 18,
                                         "max": 999999999,
-                                        "value": 6
+                                        "value": 3
                                     }
                                 ]
                             }
