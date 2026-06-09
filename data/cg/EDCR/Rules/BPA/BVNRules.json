@@ -8964,54 +8964,16 @@
                         }
                     },
                     "parking": {
-                        "mandatory": true,
-                        "type": "SLAB",
-                        "valueType": "OBJECT",
-                        "value": [
-                            {
-                                "min": 0,
-                                "max": 100,
-                                "twoWheelerSpaces": 2,
-                                "ECS": 0
-                            },
-                            {
-                                "min": 101,
-                                "max": 150,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 1
-                            },
-                            {
-                                "min": 151,
-                                "max": 200,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 1
-                            },
-                            {
-                                "min": 201,
-                                "max": 300,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 2
-                            },
-                            {
-                                "min": 301,
-                                "max": 500,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 3
-                            },
-                            {
-                                "min": 501,
-                                "max": 1000,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 3
-                            },
-                            {
-                                "min": 1001,
-                                "max": 9999999999,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 3
-                            }
-                        ]
-                    },
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"divideBy": 275,
+								"min": 0
+							}
+						]
+					},
                     "generalStaircase": {
                         "mandatory": true,
                         "type": "MAP",
@@ -10406,54 +10368,16 @@
                         }
                     },
                     "parking": {
-                        "mandatory": true,
-                        "type": "SLAB",
-                        "valueType": "OBJECT",
-                        "value": [
-                            {
-                                "min": 0,
-                                "max": 100,
-                                "twoWheelerSpaces": 2,
-                                "ECS": 0
-                            },
-                            {
-                                "min": 101,
-                                "max": 150,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 1
-                            },
-                            {
-                                "min": 151,
-                                "max": 200,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 1
-                            },
-                            {
-                                "min": 201,
-                                "max": 300,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 2
-                            },
-                            {
-                                "min": 301,
-                                "max": 500,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 3
-                            },
-                            {
-                                "min": 501,
-                                "max": 1000,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 3
-                            },
-                            {
-                                "min": 1001,
-                                "max": 9999999999,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 3
-                            }
-                        ]
-                    },
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"divideBy": 275,
+								"min": 0
+							}
+						]
+					},
                     "generalStaircase": {
                         "mandatory": true,
                         "type": "MAP",
@@ -11755,54 +11679,16 @@
                         }
                     },
                     "parking": {
-                        "mandatory": true,
-                        "type": "SLAB",
-                        "valueType": "OBJECT",
-                        "value": [
-                            {
-                                "min": 0,
-                                "max": 100,
-                                "twoWheelerSpaces": 2,
-                                "ECS": 0
-                            },
-                            {
-                                "min": 101,
-                                "max": 150,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 1
-                            },
-                            {
-                                "min": 151,
-                                "max": 200,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 1
-                            },
-                            {
-                                "min": 201,
-                                "max": 300,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 2
-                            },
-                            {
-                                "min": 301,
-                                "max": 500,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 3
-                            },
-                            {
-                                "min": 501,
-                                "max": 1000,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 3
-                            },
-                            {
-                                "min": 1001,
-                                "max": 9999999999,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 3
-                            }
-                        ]
-                    },
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"divideBy": 275,
+								"min": 0
+							}
+						]
+					},
                     "generalStaircase": {
                         "mandatory": true,
                         "type": "MAP",
@@ -12682,6 +12568,52 @@
                                 "value": 8
                             }
                         }
+                    },
+					"FAR": {
+                        "type": "SLAB",
+                        "useVariable": "plotArea",
+                        "value": [
+                            {
+                                "min": 0,
+                                "max": 300,
+                                "value": 1.25
+                            },
+                            {
+                                "min": 300.01,
+                                "max": 500,
+                                "value": 1.25
+                            },
+                            {
+                                "min": 500.01,
+                                "max": 1000,
+                                "value": 1.25
+                            },
+                            {
+                                "min": 1000.01,
+                                "max": 2000,
+                                "value": 1
+                            },
+                            {
+                                "min": 2000.01,
+                                "max": 3000,
+                                "normal": 1
+                            },
+                            {
+                                "min": 3000.01,
+                                "max": 5000,
+                                "value": 1
+                            },
+                            {
+                                "min": 5000.01,
+                                "max": 10000,
+                                "value": 1
+                            },
+                            {
+                                "min": 10000.01,
+                                "max": 9999999,
+                                "value": 1
+                            }
+                        ]
                     },
                     "siteCoverage": {
                         "type": "SLAB",
@@ -12963,77 +12895,39 @@
                                 "mandatory": true,
                                 "type": "SIMPLE",
                                 "unit": "m",
-                                "value": 8
+                                "value": 12
                             },
                             "rear": {
                                 "mandatory": true,
                                 "type": "SIMPLE",
                                 "unit": "m",
-                                "value": 4.5
+                                "value": 7.5
                             },
                             "side1": {
                                 "mandatory": true,
                                 "type": "SIMPLE",
                                 "unit": "m",
-                                "value": 4.5
+                                "value": 7.5
                             },
                             "side2": {
                                 "mandatory": true,
                                 "type": "SIMPLE",
                                 "unit": "m",
-                                "value": 4.5
+                                "value": 7.5
                             }
                         }
                     },
                     "parking": {
-                        "mandatory": true,
-                        "type": "SLAB",
-                        "valueType": "OBJECT",
-                        "value": [
-                            {
-                                "min": 0,
-                                "max": 100,
-                                "twoWheelerSpaces": 2,
-                                "ECS": 0
-                            },
-                            {
-                                "min": 101,
-                                "max": 150,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 1
-                            },
-                            {
-                                "min": 151,
-                                "max": 200,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 1
-                            },
-                            {
-                                "min": 201,
-                                "max": 300,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 2
-                            },
-                            {
-                                "min": 301,
-                                "max": 500,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 3
-                            },
-                            {
-                                "min": 501,
-                                "max": 1000,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 3
-                            },
-                            {
-                                "min": 1001,
-                                "max": 9999999999,
-                                "twoWheelerSpaces": 0,
-                                "ECS": 3
-                            }
-                        ]
-                    },
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"divideBy": 275,
+								"min": 0
+							}
+						]
+					},
                     "generalStaircase": {
                         "mandatory": true,
                         "type": "MAP",
@@ -13923,7 +13817,7 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "value":50
                             },
                             {
                                 "min": 15,
@@ -13938,43 +13832,13 @@
                         "value": [
                             {
                                 "min": 0,
-                                "max": 300,
-                                "value": 1.25
+                                "max": 1499.99,
+                                "value": 0
                             },
                             {
-                                "min": 300.01,
-                                "max": 500,
-                                "value": 1.25
-                            },
-                            {
-                                "min": 500.01,
-                                "max": 1000,
-                                "value": 1.25
-                            },
-                            {
-                                "min": 1000.01,
-                                "max": 2000,
-                                "value": 1
-                            },
-                            {
-                                "min": 2000.01,
-                                "max": 3000,
-                                "normal": 1
-                            },
-                            {
-                                "min": 3000.01,
-                                "max": 5000,
-                                "value": 1
-                            },
-                            {
-                                "min": 5000.01,
-                                "max": 10000,
-                                "value": 1
-                            },
-                            {
-                                "min": 10000.01,
-                                "max": 9999999,
-                                "value": 1
+                                "min": 1500,
+                                "max": 999999999,
+                                "value": 3
                             }
                         ]
                     }
