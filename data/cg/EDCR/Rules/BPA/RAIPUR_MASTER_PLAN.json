@@ -26,6 +26,77 @@
 							"max": 0
 						}
 					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 23.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 8000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 8000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+							{
+                                "min": 24,
+                                "max": 29.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 10000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+					{
+                                "min": 30,
+                                "max": 999999999,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "percentage": 40
+                                    }
+						]
+					}
+				]
+				},
 					"mainRoadWidth": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -1105,7 +1176,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -1113,7 +1184,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -1579,6 +1650,77 @@
 							"max": 0
 						}
 					},
+							"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 23.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 8000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 8000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+							{
+                                "min": 24,
+                                "max": 29.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 10000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+					{
+                                "min": 30,
+                                "max": 999999999,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "percentage": 40
+                                    }
+						]
+					}
+				]
+				},
 					  "basementSetback": {
                         "minPlotArea": 400,
 						"type": "MAP",
@@ -2658,7 +2800,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -2666,7 +2808,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -4211,7 +4353,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -4219,7 +4361,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -5511,7 +5653,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -5519,7 +5661,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -6811,7 +6953,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -6819,7 +6961,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -8111,7 +8253,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -8119,7 +8261,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -9411,7 +9553,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -9419,7 +9561,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -10667,7 +10809,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -10675,7 +10817,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -11923,7 +12065,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -11931,7 +12073,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -13179,7 +13321,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -13187,7 +13329,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -14473,7 +14615,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -14481,7 +14623,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -15634,7 +15776,7 @@
 						"value": 0
 					},
 					"amenitiesArea": {
-						"mandatory": false,
+						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"unit": "percent",
@@ -15718,7 +15860,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -15726,7 +15868,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -16879,7 +17021,7 @@
 						"value": 0
 					},
 					"amenitiesArea": {
-						"mandatory": false,
+						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"unit": "percent",
@@ -16963,7 +17105,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -16971,7 +17113,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -18124,7 +18266,7 @@
 						"value": 0
 					},
 					"amenitiesArea": {
-						"mandatory": false,
+						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"unit": "percent",
@@ -18208,7 +18350,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -18216,7 +18358,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -19261,7 +19403,7 @@
 						"value": 0
 					},
 					"amenitiesArea": {
-						"mandatory": false,
+						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"unit": "percent",
@@ -19345,7 +19487,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -19353,7 +19495,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -20398,7 +20540,7 @@
 						"value": 0
 					},
 					"amenitiesArea": {
-						"mandatory": false,
+						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"unit": "percent",
@@ -20482,7 +20624,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -20490,7 +20632,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -21573,7 +21715,7 @@
 						"value": 0
 					},
 					"amenitiesArea": {
-						"mandatory": false,
+						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"unit": "percent",
@@ -21657,7 +21799,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -21665,7 +21807,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}
@@ -22710,7 +22852,7 @@
 						"value": 0
 					},
 					"amenitiesArea": {
-						"mandatory": false,
+						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"unit": "percent",
@@ -22794,7 +22936,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.75,
+									"min": 2.60,
 									"max": 0.0
 								}
 							},
@@ -22802,7 +22944,7 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 2.50,
+									"min": 2.40,
 									"max": 0.0
 								}
 							}

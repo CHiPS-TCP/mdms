@@ -41,34 +41,8 @@
 								"purchasable": 0
 							}
 						]
-					},
-					"siteCoverage": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "DOUBLE",
-						"useVariable": "buildingHeight",
-						"unit": "percent",
-						"value": [
-							{
-								"min": 0,
-                                "max": 14.99,
-                                "type": "SLAB",
-                                "useVariable": "plotArea",
-                                "value": [
-                                    {
-                                        "min": 0,
-                                        "max": 99999999,
-                                        "percentage": 100
-                                    }
-								]
-							},
-							{
-                                "min": 15,
-                                "max": 999999999,
-                                "percentage": 40
-                            }
-						]
 					}
+				
 				},
 				{
 					"OccupancyType": [
@@ -270,38 +244,13 @@
 								"purchasable": 0
 							}
 						]
-					},
-				"siteCoverage": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "DOUBLE",
-						"useVariable": "buildingHeight",
-						"unit": "percent",
-						"value": [
-							{
-								"min": 0,
-                                "max": 14.99,
-                                "type": "SLAB",
-                                "useVariable": "plotArea",
-                                "value": [
-                                    {
-                                        "min": 0,
-                                        "max": 99999999,
-                                        "percentage": 100
-                                    }
-								]
-							},
-							{
-                                "min": 15,
-                                "max": 999999999,
-                                "percentage": 40
-                            }
-						]
 					}
+		
 				},
 				{
 					"OccupancyType": [
-						"COMMERCIAL"
+						"COMMERCIAL",
+						"Merc"
 					],
 					"zone": "DA_01",
 					"occVersion": "1.0.0",

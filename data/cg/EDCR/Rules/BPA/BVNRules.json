@@ -11443,7 +11443,7 @@
                     }
                 },
                 {
-                    "OccupancyType": "I",
+                    "OccupancyType": "G-I",
                     "occVersion": "1.0.0",
                     "OccupancyName": "Industrial",
                     "isActive": true,
