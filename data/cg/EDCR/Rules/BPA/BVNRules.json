@@ -8862,13 +8862,8 @@
                                     },
                                     {
                                         "min": 10000.01,
-                                        "max": 20000,
-                                        "value": 12
-                                    },
-                                    {
-                                        "min": 20000.01,
                                         "max": 999999999,
-                                        "value": 18
+                                        "value": 12
                                     }
                                 ]
                             },
@@ -8880,6 +8875,11 @@
                                 "value": [
                                     {
                                         "min": 0,
+                                        "max": 500,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 500.01,
                                         "max": 1000,
                                         "value": 3
                                     },
@@ -8895,13 +8895,8 @@
                                     },
                                     {
                                         "min": 10000.01,
-                                        "max": 20000,
-                                        "value": 7.5
-                                    },
-                                    {
-                                        "min": 20000.01,
                                         "max": 999999999,
-                                        "value": 9
+                                        "value": 7.5
                                     }
                                 ]
                             },
@@ -8914,11 +8909,11 @@
                                     {
                                         "min": 0,
                                         "max": 1000,
-                                        "value": 3
+                                        "value": 0
                                     },
                                     {
-                                        "min": 1000.01,
-                                        "max": 5000,
+                                        "min": 500.01,
+                                        "max": 1000,
                                         "value": 4.5
                                     },
                                     {
@@ -9312,7 +9307,7 @@
                         "value": 0
                     },
                     "amenitiesArea": {
-                        "mandatory": false,
+                        "mandatory": true,
                         "type": "SLAB",
                         "valueType": "DOUBLE",
                         "unit": "percent",
@@ -10716,7 +10711,7 @@
                         "value": 0
                     },
                     "amenitiesArea": {
-                        "mandatory": false,
+                        "mandatory": true,
                         "type": "SLAB",
                         "valueType": "DOUBLE",
                         "unit": "percent",
@@ -11584,7 +11579,6 @@
                                         "max": 999999999,
                                         "value": 12
                                     }
-                                    
                                 ]
                             },
                             "rear": {
@@ -11595,6 +11589,11 @@
                                 "value": [
                                     {
                                         "min": 0,
+                                        "max": 500,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 500.01,
                                         "max": 1000,
                                         "value": 3
                                     },
@@ -11610,13 +11609,8 @@
                                     },
                                     {
                                         "min": 10000.01,
-                                        "max": 20000,
-                                        "value": 7.5
-                                    },
-                                    {
-                                        "min": 20000.01,
                                         "max": 999999999,
-                                        "value": 9
+                                        "value": 7.5
                                     }
                                 ]
                             },
@@ -11629,11 +11623,11 @@
                                     {
                                         "min": 0,
                                         "max": 1000,
-                                        "value": 3
+                                        "value": 0
                                     },
                                     {
-                                        "min": 1000.01,
-                                        "max": 5000,
+                                        "min": 500.01,
+                                        "max": 1000,
                                         "value": 4.5
                                     },
                                     {
@@ -12027,7 +12021,7 @@
                         "value": 0
                     },
                     "amenitiesArea": {
-                        "mandatory": false,
+                        "mandatory": true,
                         "type": "SLAB",
                         "valueType": "DOUBLE",
                         "unit": "percent",
@@ -13266,7 +13260,7 @@
                         "value": 0
                     },
                     "amenitiesArea": {
-                        "mandatory": false,
+                        "mandatory": true,
                         "type": "SLAB",
                         "valueType": "DOUBLE",
                         "unit": "percent",
