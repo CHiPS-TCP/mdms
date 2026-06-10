@@ -8830,13 +8830,16 @@
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
-                                "mandatory": true,
                                 "type": "SLAB",
                                 "useVariable": "plotArea",
-                                "unit": "m",
                                 "value": [
                                     {
                                         "min": 0,
+                                        "max": 300,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 300.01,
                                         "max": 500,
                                         "value": 3
                                     },
@@ -8852,6 +8855,11 @@
                                     },
                                     {
                                         "min": 2000.01,
+                                        "max": 3000,
+                                        "value": 7.5
+                                    },
+                                    {
+                                        "min": 3000.01,
                                         "max": 5000,
                                         "value": 7.5
                                     },
@@ -8862,97 +8870,146 @@
                                     },
                                     {
                                         "min": 10000.01,
-                                        "max": 999999999,
+                                        "max": 9999999,
                                         "value": 12
                                     }
                                 ]
                             },
                             "rear": {
-                                "mandatory": true,
                                 "type": "SLAB",
                                 "useVariable": "plotArea",
-                                "unit": "m",
                                 "value": [
                                     {
                                         "min": 0,
+                                        "max": 300,
+                                        "value": 0
+                                    },
+                                    {
+                                        "min": 300.01,
                                         "max": 500,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 500.01,
-                                        "max": 1000,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 1000.01,
-                                        "max": 3000,
-                                        "value": 4.5
-                                    },
-                                    {
-                                        "min": 3000.01,
-                                        "max": 10000,
-                                        "value": 6
-                                    },
-                                    {
-                                        "min": 10000.01,
-                                        "max": 999999999,
-                                        "value": 7.5
-                                    }
-                                ]
-                            },
-                            "side1": {
-                                "mandatory": true,
-                                "type": "SLAB",
-                                "useVariable": "plotArea",
-                                "unit": "m",
-                                "value": [
-                                    {
-                                        "min": 0,
-                                        "max": 1000,
                                         "value": 0
                                     },
                                     {
                                         "min": 500.01,
                                         "max": 1000,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 1000.01,
+                                        "max": 2000,
                                         "value": 4.5
                                     },
                                     {
-                                        "min": 5000.01,
-                                        "max": 20000,
-                                        "value": 9
+                                        "min": 2000.01,
+                                        "max": 3000,
+                                        "value": 4.5
                                     },
                                     {
-                                        "min": 20000.01,
-                                        "max": 999999999,
-                                        "value": 12
+                                        "min": 3000.01,
+                                        "max": 5000,
+                                        "value": 6
+                                    },
+                                    {
+                                        "min": 5000.01,
+                                        "max": 10000,
+                                        "value": 6
+                                    },
+                                    {
+                                        "min": 10000.01,
+                                        "max": 9999999,
+                                        "value": 7.5
                                     }
                                 ]
                             },
-                            "side2": {
-                                "mandatory": true,
+                            "side1": {
                                 "type": "SLAB",
                                 "useVariable": "plotArea",
-                                "unit": "m",
                                 "value": [
                                     {
                                         "min": 0,
+                                        "max": 300,
+                                        "value": 0
+                                    },
+                                    {
+                                        "min": 300.01,
+                                        "max": 500,
+                                        "value": 0
+                                    },
+                                    {
+                                        "min": 500.01,
                                         "max": 1000,
                                         "value": 3
                                     },
                                     {
                                         "min": 1000.01,
+                                        "max": 2000,
+                                        "value": 4.5
+                                    },
+                                    {
+                                        "min": 2000.01,
+                                        "max": 3000,
+                                        "value": 4.5
+                                    },
+                                    {
+                                        "min": 3000.01,
                                         "max": 5000,
                                         "value": 4.5
                                     },
                                     {
                                         "min": 5000.01,
-                                        "max": 20000,
+                                        "max": 10000,
                                         "value": 9
                                     },
                                     {
-                                        "min": 20000.01,
-                                        "max": 999999999,
-                                        "value": 12
+                                        "min": 10000.01,
+                                        "max": 9999999,
+                                        "value": 9
+                                    }
+                                ]
+                            },
+                            "side2": {
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 300,
+                                        "value": 0
+                                    },
+                                    {
+                                        "min": 300.01,
+                                        "max": 500,
+                                        "value": 0
+                                    },
+                                    {
+                                        "min": 500.01,
+                                        "max": 1000,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 1000.01,
+                                        "max": 2000,
+                                        "value": 4.5
+                                    },
+                                    {
+                                        "min": 2000.01,
+                                        "max": 3000,
+                                        "value": 4.5
+                                    },
+                                    {
+                                        "min": 3000.01,
+                                        "max": 5000,
+                                        "value": 4.5
+                                    },
+                                    {
+                                        "min": 5000.01,
+                                        "max": 10000,
+                                        "value": 9
+                                    },
+                                    {
+                                        "min": 10000.01,
+                                        "max": 9999999,
+                                        "value": 9
                                     }
                                 ]
                             }
@@ -11544,13 +11601,16 @@
                         "valueType": "OBJECT",
                         "value": {
                             "front": {
-                                "mandatory": true,
                                 "type": "SLAB",
                                 "useVariable": "plotArea",
-                                "unit": "m",
                                 "value": [
                                     {
                                         "min": 0,
+                                        "max": 300,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 300.01,
                                         "max": 500,
                                         "value": 3
                                     },
@@ -11566,6 +11626,11 @@
                                     },
                                     {
                                         "min": 2000.01,
+                                        "max": 3000,
+                                        "value": 7.5
+                                    },
+                                    {
+                                        "min": 3000.01,
                                         "max": 5000,
                                         "value": 7.5
                                     },
@@ -11576,97 +11641,146 @@
                                     },
                                     {
                                         "min": 10000.01,
-                                        "max": 999999999,
+                                        "max": 9999999,
                                         "value": 12
                                     }
                                 ]
                             },
                             "rear": {
-                                "mandatory": true,
                                 "type": "SLAB",
                                 "useVariable": "plotArea",
-                                "unit": "m",
                                 "value": [
                                     {
                                         "min": 0,
+                                        "max": 300,
+                                        "value": 0
+                                    },
+                                    {
+                                        "min": 300.01,
                                         "max": 500,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 500.01,
-                                        "max": 1000,
-                                        "value": 3
-                                    },
-                                    {
-                                        "min": 1000.01,
-                                        "max": 3000,
-                                        "value": 4.5
-                                    },
-                                    {
-                                        "min": 3000.01,
-                                        "max": 10000,
-                                        "value": 6
-                                    },
-                                    {
-                                        "min": 10000.01,
-                                        "max": 999999999,
-                                        "value": 7.5
-                                    }
-                                ]
-                            },
-                            "side1": {
-                                "mandatory": true,
-                                "type": "SLAB",
-                                "useVariable": "plotArea",
-                                "unit": "m",
-                                "value": [
-                                    {
-                                        "min": 0,
-                                        "max": 1000,
                                         "value": 0
                                     },
                                     {
                                         "min": 500.01,
                                         "max": 1000,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 1000.01,
+                                        "max": 2000,
                                         "value": 4.5
                                     },
                                     {
-                                        "min": 5000.01,
-                                        "max": 20000,
-                                        "value": 9
+                                        "min": 2000.01,
+                                        "max": 3000,
+                                        "value": 4.5
                                     },
                                     {
-                                        "min": 20000.01,
-                                        "max": 999999999,
-                                        "value": 12
+                                        "min": 3000.01,
+                                        "max": 5000,
+                                        "value": 6
+                                    },
+                                    {
+                                        "min": 5000.01,
+                                        "max": 10000,
+                                        "value": 6
+                                    },
+                                    {
+                                        "min": 10000.01,
+                                        "max": 9999999,
+                                        "value": 7.5
                                     }
                                 ]
                             },
-                            "side2": {
-                                "mandatory": true,
+                            "side1": {
                                 "type": "SLAB",
                                 "useVariable": "plotArea",
-                                "unit": "m",
                                 "value": [
                                     {
                                         "min": 0,
+                                        "max": 300,
+                                        "value": 0
+                                    },
+                                    {
+                                        "min": 300.01,
+                                        "max": 500,
+                                        "value": 0
+                                    },
+                                    {
+                                        "min": 500.01,
                                         "max": 1000,
                                         "value": 3
                                     },
                                     {
                                         "min": 1000.01,
+                                        "max": 2000,
+                                        "value": 4.5
+                                    },
+                                    {
+                                        "min": 2000.01,
+                                        "max": 3000,
+                                        "value": 4.5
+                                    },
+                                    {
+                                        "min": 3000.01,
                                         "max": 5000,
                                         "value": 4.5
                                     },
                                     {
                                         "min": 5000.01,
-                                        "max": 20000,
+                                        "max": 10000,
                                         "value": 9
                                     },
                                     {
-                                        "min": 20000.01,
-                                        "max": 999999999,
-                                        "value": 12
+                                        "min": 10000.01,
+                                        "max": 9999999,
+                                        "value": 9
+                                    }
+                                ]
+                            },
+                            "side2": {
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 300,
+                                        "value": 0
+                                    },
+                                    {
+                                        "min": 300.01,
+                                        "max": 500,
+                                        "value": 0
+                                    },
+                                    {
+                                        "min": 500.01,
+                                        "max": 1000,
+                                        "value": 3
+                                    },
+                                    {
+                                        "min": 1000.01,
+                                        "max": 2000,
+                                        "value": 4.5
+                                    },
+                                    {
+                                        "min": 2000.01,
+                                        "max": 3000,
+                                        "value": 4.5
+                                    },
+                                    {
+                                        "min": 3000.01,
+                                        "max": 5000,
+                                        "value": 4.5
+                                    },
+                                    {
+                                        "min": 5000.01,
+                                        "max": 10000,
+                                        "value": 9
+                                    },
+                                    {
+                                        "min": 10000.01,
+                                        "max": 9999999,
+                                        "value": 9
                                     }
                                 ]
                             }
