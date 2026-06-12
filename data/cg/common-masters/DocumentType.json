@@ -355,6 +355,10 @@
     {
       "code": "OWNER.SELF_DECLARATION_BY_SIGNATORY",
       "active": true
+    } ,
+    {
+      "code": "OWNER.AGREEMENT_OWNER_DEVELOPER",
+      "active": true
     }
 
 
