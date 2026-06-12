@@ -347,6 +347,10 @@
     {
       "code": "OWNER.SITEPHOTOGRAPHFOUR",
       "active": true
+    }  ,
+    {
+      "code": "OWNER.SIGNATORY_AUTHORIZATION_DOCUMENT",
+      "active": true
     }
 
 
