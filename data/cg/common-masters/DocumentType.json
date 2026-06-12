@@ -351,6 +351,10 @@
     {
       "code": "OWNER.SIGNATORY_AUTHORIZATION_DOCUMENT",
       "active": true
+    },
+    {
+      "code": "OWNER.SELF_DECLARATION_BY_SIGNATOR",
+      "active": true
     }
 
 
