@@ -20491,6 +20491,18 @@
       "path": ""
     },
     {
+      "id": 8900917,
+      "name": "Search layout Applications",
+      "url": "/layout-services/v1/layout/_nocslav2",
+      "parentModule": "",
+      "displayName": "nocSla layout Applications",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 8900912,
       "name": "LAYOUT Calculator",
       "url": "/layout-calculator/v1/_calculate",
