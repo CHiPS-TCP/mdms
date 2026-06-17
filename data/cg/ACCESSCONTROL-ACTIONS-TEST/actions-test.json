@@ -20491,6 +20491,18 @@
       "path": ""
     },
     {
+      "id": 8900917,
+      "name": "Search layout Applications",
+      "url": "/layout-services/v1/layout/_nocslav2",
+      "parentModule": "",
+      "displayName": "nocSla layout Applications",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 8900912,
       "name": "LAYOUT Calculator",
       "url": "/layout-calculator/v1/_calculate",
@@ -20654,6 +20666,18 @@
       "id": 1453,
       "name": "CLU document CheckList Create",
       "url": "/clu-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1430,
+      "name": "bpa edcr parameters",
+      "url": "/bpa-services/edcr/parameters",
       "displayName": "CheckList Create",
       "orderNumber": 0,
       "parentModule": "",

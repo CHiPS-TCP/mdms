@@ -58,6 +58,13 @@
       "required":false,
       "active": true,
       "description": "OWNER.ANYOTHERDOCUMENT.ANYOTHERDOCUMENT_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.SIGNATORY_AUTHORIZATION_DOCUMENT",
+      "documentType": "OWNER",
+      "required":false,
+      "active": true,
+      "description": "OWNER.SIGNATORY_AUTHORIZATION_DOCUMENT_DESCRIPTION"
     }
    
   ]

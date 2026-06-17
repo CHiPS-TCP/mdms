@@ -347,6 +347,18 @@
     {
       "code": "OWNER.SITEPHOTOGRAPHFOUR",
       "active": true
+    }  ,
+    {
+      "code": "OWNER.SIGNATORY_AUTHORIZATION_DOCUMENT",
+      "active": true
+    },
+    {
+      "code": "OWNER.SELF_DECLARATION_BY_SIGNATORY",
+      "active": true
+    } ,
+    {
+      "code": "OWNER.AGREEMENT_OWNER_DEVELOPER",
+      "active": true
     }
 
 

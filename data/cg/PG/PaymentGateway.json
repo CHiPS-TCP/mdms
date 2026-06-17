@@ -3,7 +3,7 @@
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {
-            "gateway": "RAZORPAY",
+            "gateway": "TREASURY",
             "active": true
         }
     ]
