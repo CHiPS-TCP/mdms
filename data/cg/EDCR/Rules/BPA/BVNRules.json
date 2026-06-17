@@ -8630,6 +8630,13 @@
                             "max": 0
                         }
                     },
+                    "sanitaryBlock": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "sqm",
+						"value": 50.0
+					},
                     "mainRoadWidth": {
                         "mandatory": true,
                         "type": "SLAB",
