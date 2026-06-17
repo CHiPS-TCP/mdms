@@ -1867,6 +1867,2070 @@
 					}
 				}
 			]
+		},
+				{
+			"code": "ARANG_MASTER_PLAN",
+			"name": "Arang Master Plan",
+			"Scheme": "SCHEME1",
+			"fromFY": "2026-27",
+			"startingDate": 1774981800000,
+			"endingDate": 1806517740000,
+			"active": true,
+			"OccType": [
+				{
+					"OccupancyType": [
+						"RESIDENTIAL_R1",
+						"RESIDENTIAL_R2",
+						"RESIDENTIAL_R3",
+						"RESIDENTIAL_R4",
+						"RESIDENTIAL_R5"
+					],
+					"zone": "CA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Central Residential Area",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					}
+				
+				},
+				{
+					"OccupancyType": [
+						"COMMERCIAL"
+					],
+					"zone": "CA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Commercial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+			
+				{
+					"OccupancyType": [
+						"PUBLIC_SEMI_PUBLIC",
+						"RECREATIONAL",
+						"TRANSPORTATION",
+						"MIXED_USE"
+					],
+					"zone": "CA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Public & Semi Public",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"AGRICULTURAL",
+						"RESTRICTED_AGRICULTURE"
+					],
+					"zone": "CA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Agricultural",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"RESIDENTIAL_R1",
+						"RESIDENTIAL_R2",
+						"RESIDENTIAL_R3",
+						"RESIDENTIAL_R4",
+						"RESIDENTIAL_R5"
+					],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Central Residential Area",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					}
+		
+				},
+				{
+					"OccupancyType": [
+						"COMMERCIAL",
+						"Merc"
+					],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Commercial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+				"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"INDUSTRIAL"
+					],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Industrial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"PUBLIC_SEMI_PUBLIC",
+						"RECREATIONAL",
+						"TRANSPORTATION",
+						"MIXED_USE"
+					],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Public & Semi Public",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+				"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"AGRICULTURAL",
+						"RESTRICTED_AGRICULTURE"
+					],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Agricultural",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0
+							}
+						]
+					},
+				"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"RESIDENTIAL_R1",
+						"RESIDENTIAL_R2",
+						"RESIDENTIAL_R3",
+						"RESIDENTIAL_R4",
+						"RESIDENTIAL_R5"
+					],
+					"zone": "DA_02",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Central Residential Area",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.8,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"COMMERCIAL"
+					],
+					"zone": "DA_02",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Commercial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+				"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"INDUSTRIAL"
+					],
+					"zone": "DA_02",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Industrial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"PUBLIC_SEMI_PUBLIC",
+						"RECREATIONAL",
+						"TRANSPORTATION",
+						"MIXED_USE"
+					],
+					"zone": "DA_02",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Public & Semi Public",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 999999999,
+								"normal": 1.75,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"AGRICULTURAL",
+						"RESTRICTED_AGRICULTURE"
+					],
+					"zone": "DA_02",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Agricultural",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"RESIDENTIAL_R1",
+						"RESIDENTIAL_R2",
+						"RESIDENTIAL_R3",
+						"RESIDENTIAL_R4",
+						"RESIDENTIAL_R5"
+					],
+					"zone": "DA_03",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Central Residential Area",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.8,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"COMMERCIAL"
+					],
+					"zone": "DA_03",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Commercial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"INDUSTRIAL"
+					],
+					"zone": "DA_03",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Industrial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"PUBLIC_SEMI_PUBLIC",
+						"RECREATIONAL",
+						"TRANSPORTATION",
+						"MIXED_USE"
+					],
+					"zone": "DA_03",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Public & Semi Public",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 999999999,
+								"normal": 1.75,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"AGRICULTURAL",
+						"RESTRICTED_AGRICULTURE"
+					],
+					"zone": "DA_03",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Agricultural",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0
+							}
+						]
+					},
+				"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				}
+			]
+		},
+					{
+			"code": "ABHANPUR_MASTER_PLAN",
+			"name": "Abhanpur Master Plan",
+			"Scheme": "SCHEME1",
+			"fromFY": "2026-27",
+			"startingDate": 1774981800000,
+			"endingDate": 1806517740000,
+			"active": true,
+			"OccType": [
+				{
+					"OccupancyType": [
+						"RESIDENTIAL_R1",
+						"RESIDENTIAL_R2",
+						"RESIDENTIAL_R3",
+						"RESIDENTIAL_R4",
+						"RESIDENTIAL_R5"
+					],
+					"zone": "CA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Central Residential Area",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					}
+				
+				},
+				{
+					"OccupancyType": [
+						"COMMERCIAL"
+					],
+					"zone": "CA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Commercial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+			
+				{
+					"OccupancyType": [
+						"PUBLIC_SEMI_PUBLIC",
+						"RECREATIONAL",
+						"TRANSPORTATION",
+						"MIXED_USE"
+					],
+					"zone": "CA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Public & Semi Public",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"AGRICULTURAL",
+						"RESTRICTED_AGRICULTURE"
+					],
+					"zone": "CA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Agricultural",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"RESIDENTIAL_R1",
+						"RESIDENTIAL_R2",
+						"RESIDENTIAL_R3",
+						"RESIDENTIAL_R4",
+						"RESIDENTIAL_R5"
+					],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Central Residential Area",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					}
+		
+				},
+				{
+					"OccupancyType": [
+						"COMMERCIAL",
+						"Merc"
+					],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Commercial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+				"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"INDUSTRIAL"
+					],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Industrial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"PUBLIC_SEMI_PUBLIC",
+						"RECREATIONAL",
+						"TRANSPORTATION",
+						"MIXED_USE"
+					],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Public & Semi Public",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+				"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"AGRICULTURAL",
+						"RESTRICTED_AGRICULTURE"
+					],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Agricultural",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0
+							}
+						]
+					},
+				"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"RESIDENTIAL_R1",
+						"RESIDENTIAL_R2",
+						"RESIDENTIAL_R3",
+						"RESIDENTIAL_R4",
+						"RESIDENTIAL_R5"
+					],
+					"zone": "DA_02",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Central Residential Area",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.8,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"COMMERCIAL"
+					],
+					"zone": "DA_02",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Commercial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+				"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"INDUSTRIAL"
+					],
+					"zone": "DA_02",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Industrial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"PUBLIC_SEMI_PUBLIC",
+						"RECREATIONAL",
+						"TRANSPORTATION",
+						"MIXED_USE"
+					],
+					"zone": "DA_02",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Public & Semi Public",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 999999999,
+								"normal": 1.75,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"AGRICULTURAL",
+						"RESTRICTED_AGRICULTURE"
+					],
+					"zone": "DA_02",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Agricultural",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"RESIDENTIAL_R1",
+						"RESIDENTIAL_R2",
+						"RESIDENTIAL_R3",
+						"RESIDENTIAL_R4",
+						"RESIDENTIAL_R5"
+					],
+					"zone": "DA_03",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Central Residential Area",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.8,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"COMMERCIAL"
+					],
+					"zone": "DA_03",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Commercial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"INDUSTRIAL"
+					],
+					"zone": "DA_03",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Industrial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"PUBLIC_SEMI_PUBLIC",
+						"RECREATIONAL",
+						"TRANSPORTATION",
+						"MIXED_USE"
+					],
+					"zone": "DA_03",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Public & Semi Public",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 999999999,
+								"normal": 1.75,
+								"purchasable": 0
+							}
+						]
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				},
+				{
+					"OccupancyType": [
+						"AGRICULTURAL",
+						"RESTRICTED_AGRICULTURE"
+					],
+					"zone": "DA_03",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Agricultural",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0
+							}
+						]
+					},
+				"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 999999999,
+                                "percentage": 40
+                            }
+						]
+					}
+				}
+			]
 		}
 	]
 }
