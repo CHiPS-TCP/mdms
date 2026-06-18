@@ -1,7 +1,7 @@
 {
 	"tenantId": "cg",
 	"moduleName": "EDCR.Rules.BPA",
-	"RAIPUR_MASTER_PLAN": [
+	"ABHANPUR_MASTER_PLAN": [
 		{
 			"code": "101",
 			"name": "M1",
