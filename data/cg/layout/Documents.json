@@ -42,23 +42,13 @@
       "description": "OWNER.SURVEY_PLAN_MAP_DESCRIPTION",
       "order": 5
     },
-
-    {
-      "code": "OWNER.CORRESPONDENCE_ADDRESS",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.CORRESPONDENCE_ADDRESS_DESCRIPTION",
-      "order": 6
-    },
-
     {
       "code": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP",
       "documentType": "OWNER",
       "required": true,
       "active": true,
       "description": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP_DESCRIPTION",
-      "order": 7
+      "order": 6
     },
 
     {
@@ -67,7 +57,7 @@
       "required": false,
       "active": true,
       "description": "OWNER.ADDITIONAL_DOCUMENTS_DESCRIPTION",
-      "order": 8
+      "order": 7
     },
     {
       "code": "OWNER.B1_KHASRA_DETAILS",
@@ -75,7 +65,7 @@
       "required": false,
       "active": true,
       "description": "OWNER.B1_KHASRA_DETAILS_DESCRIPTION",
-      "order": 9
+      "order": 8
     },
     {
       "code": "OWNER.AGREEMENT_OWNER_DEVELOPER",
@@ -83,7 +73,7 @@
       "required": false,
       "active": true,
       "description": "OWNER.AGREEMENT_OWNER_DEVELOPER_DESCRIPTION",
-      "order": 10
+      "order": 9
     },
     {
       "code": "OWNER.SIGNATORY_AUTHORIZATION_DOCUMENT",
@@ -91,7 +81,7 @@
       "required": false,
       "active": true,
       "description": "OWNER.SIGNATORY_AUTHORIZATION_DOCUMENT_DESCRIPTION",
-      "order": 11
+      "order": 10
     },
     {
       "code": "OWNER.SELF_DECLARATION_BY_SIGNATORY",
@@ -99,7 +89,7 @@
       "required": false,
       "active": true,
       "description": "OWNER.SELF_DECLARATION_BY_SIGNATORY_DESCRIPTION",
-      "order": 12
+      "order": 11
     },
     {
       "code": "OWNER.SITEPHOTOGRAPHONE",
@@ -107,7 +97,7 @@
       "required": true,
       "active": true,
       "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION",
-      "order": 13
+      "order": 12
     },
     {
       "code": "OWNER.SITEPHOTOGRAPHTWO",
@@ -115,7 +105,7 @@
       "required": true,
       "active": true,
       "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION",
-      "order": 14
+      "order": 13
     },
 	{
 	  "code": "OWNER.SITEPHOTOGRAPHTHREE",
@@ -123,7 +113,7 @@
 	  "required": true,
 	  "active": true,
 	  "description": "OWNER.SITEPHOTOGRAPHTHREE.SITEPHOTOGRAPHTHREE_DESCRIPTION",
-	  "order": 15
+	  "order": 14
 	},
 	{
 	  "code": "OWNER.SITEPHOTOGRAPHFOUR",
@@ -131,7 +121,7 @@
 	  "required": true,
 	  "active": true,
 	  "description": "OWNER.SITEPHOTOGRAPHFOUR.SITEPHOTOGRAPHFOUR_DESCRIPTION",
-	  "order": 16
+	  "order": 15
 	}
   ]
 }
