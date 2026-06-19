@@ -3754,6 +3754,10 @@
                                 {
                                     "code": "Public Amenities (PA)",
                                     "name": "Public Amenities (PA)"
+                                },
+                                {
+                                    "code": "Industrial-1 (I1)",
+                                    "name": "Industrial-1 (I1)"
                                 }
                             ]
                         },
@@ -3804,6 +3808,10 @@
                                 {
                                     "code": "Health-2 (H2)",
                                     "name": "Health-2 (H2)"
+                                },
+                                {
+                                    "code": "Industrial-1 (I1)",
+                                    "name": "Industrial-1 (I1)"
                                 }
                             ]
                         },
@@ -3870,6 +3878,10 @@
                                 {
                                     "code": "Temporary Use (TU)",
                                     "name": "Temporary Use (TU)"
+                                },
+                                {
+                                    "code": "Industrial-1 (I1)",
+                                    "name": "Industrial-1 (I1)"
                                 }
                             ]
                         }
