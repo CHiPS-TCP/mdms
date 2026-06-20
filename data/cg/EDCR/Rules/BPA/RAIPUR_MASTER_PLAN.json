@@ -18381,6 +18381,67 @@
 							"max": 0
 						}
 					},
+					   "siteCoverage": {
+                        "type": "SLAB",
+                        "useVariable": "buildingHeight",
+                        "unit": "%",
+                        "value": [
+                            {
+                                "min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 300,
+                                       "percentage": 70
+                                    },
+                                    {
+                                        "min": 300.01,
+                                        "max": 500,
+                                       "percentage": 70
+                                    },
+                                    {
+                                        "min": 500.01,
+                                        "max": 1000,
+                                       "percentage": 70
+                                    },
+                                    {
+                                        "min": 1000.01,
+                                        "max": 2000,
+                                       "percentage": 70
+                                    },
+                                    {
+                                        "min": 2000.01,
+                                        "max": 3000,
+                                       "percentage": 70
+                                    },
+                                    {
+                                        "min": 3000.01,
+                                        "max": 5000,
+                                       "percentage": 70
+                                    },
+                                    {
+                                        "min": 5000.01,
+                                        "max": 10000,
+                                       "percentage": 70
+                                    },
+                                    {
+                                        "min": 10000.01,
+                                        "max": 9999999,
+                                       "percentage": 70
+                                    }
+                                ]
+                               
+                            },
+                            {
+                                "min": 15,
+                                "max": 999999999,
+                                "percent": 40
+                            }
+                        ]
+                    },
 					"basementSetback": {
                         "minPlotArea": 400,
 						"type": "MAP",
@@ -19068,7 +19129,7 @@
 						"value": 0
 					},
 					"amenitiesArea": {
-						"mandatory": false,
+						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"unit": "percent",
@@ -20315,7 +20376,7 @@
 						"value": 0
 					},
 					"amenitiesArea": {
-						"mandatory": false,
+						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"unit": "percent",
@@ -21562,7 +21623,7 @@
 						"value": 0
 					},
 					"amenitiesArea": {
-						"mandatory": false,
+						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"unit": "percent",
@@ -22701,7 +22762,7 @@
 						"value": 0
 					},
 					"amenitiesArea": {
-						"mandatory": false,
+						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"unit": "percent",
@@ -23840,7 +23901,7 @@
 						"value": 0
 					},
 					"amenitiesArea": {
-						"mandatory": false,
+						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"unit": "percent",
@@ -25017,7 +25078,7 @@
 						"value": 0
 					},
 					"amenitiesArea": {
-						"mandatory": false,
+						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"unit": "percent",
@@ -26156,7 +26217,7 @@
 						"value": 0
 					},
 					"amenitiesArea": {
-						"mandatory": false,
+						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"unit": "percent",
