@@ -1770,6 +1770,10 @@
                                 {
                                     "code": "Public Amenities (PA)",
                                     "name": "Public Amenities (PA)"
+                                },
+                                {
+                                    "code": "Industrial-1 (I1)",
+                                    "name": "Industrial-1 (I1)"
                                 }
                             ]
                         },
@@ -1820,6 +1824,10 @@
                                 {
                                     "code": "Health-2 (H2)",
                                     "name": "Health-2 (H2)"
+                                },
+                                {
+                                    "code": "Industrial-1 (I1)",
+                                    "name": "Industrial-1 (I1)"
                                 }
                             ]
                         },
@@ -1882,6 +1890,10 @@
                                 {
                                     "code": "Hospitality (HP)",
                                     "name": "Hospitality (HP)"
+                                },
+                                {
+                                    "code": "Industrial-1 (I1)",
+                                    "name": "Industrial-1 (I1)"
                                 }
                             ]
                         }
