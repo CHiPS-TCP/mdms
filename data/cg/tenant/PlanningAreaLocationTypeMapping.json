@@ -1517,8 +1517,18 @@
       "active": true,
       "locationTypes": [
         {
-          "code": "NA",
-          "name": "NA",
+          "code": "OUTSIDE_TOD",
+          "name": "Outside TOD",
+          "active": true
+        },
+        {
+          "code": "TOD5",
+          "name": "TOD5",
+          "active": true
+        },
+        {
+          "code": "TOD10",
+          "name": "TOD10",
           "active": true
         }
       ]
