@@ -506,7 +506,7 @@
 						"type": "SLAB",
 						"valueType": "OBJECT",
 						"proposedSubOccupancy": ["A-R", "H-A1", "H-A2", "L-PA", "A-IT", "F-C1", "F-C2", "F-C3",
-						"B-E2", "B-E3", "C-H2", "I-HP"],
+						"B-E2", "B-E3", "C-H2", "I-HP", "E-OB"],
 						"useVariable": "plotArea",
 						"value": [
 							{
@@ -812,7 +812,7 @@
 						"type": "SLAB",
 						"valueType": "OBJECT",
 						"proposedSubOccupancy": ["A-R", "H-A1", "H-A2", "L-PA", "A-IT", "F-C1", "F-C2", "F-C3",
-						"B-E2", "B-E3", "C-H2", "I-HP"],
+						"B-E2", "B-E3", "C-H2", "I-HP", "E-OB"],
 						"useVariable": "plotArea",
 						"value": [
 							{
@@ -1118,7 +1118,7 @@
 						"type": "SLAB",
 						"valueType": "OBJECT",
 						"proposedSubOccupancy": ["A-R", "H-A1", "H-A2", "L-PA", "A-IT", "F-C1", "F-C2", "F-C3",
-						"B-E2", "B-E3", "C-H2", "I-HP"],
+						"B-E2", "B-E3", "C-H2", "I-HP", "E-OB"],
 						"useVariable": "plotArea",
 						"value": [
 							{
