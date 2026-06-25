@@ -500,10 +500,14 @@
 					"occVersion": "1.0.0",
 					"OccupancyName": "Agricultural",
 					"isActive": true,
-					"FAR": {
+					"FAR": [
+						{
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["A-R", "H-A1", "H-A2", "L-PA", "A-IT", "F-C1", "F-C2", "F-C3",
+						"B-E2", "B-E3", "C-H2", "I-HP"],
+						"useVariable": "plotArea",
 						"value": [
 							{
 								"min": 0,
@@ -512,7 +516,29 @@
 								"purchasable": 0
 							}
 						]
-					}
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["G-GI", "G-CI", "G-SI"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0
+							}
+						]
+						}
+							]
 				},
 				{
 					"OccupancyType": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5"],
@@ -776,14 +802,18 @@
 				},
 				{
 					"OccupancyType": ["AGRICULTURAL", "RECREATIONAL", "TRANSPORTATION"],
-					"zone": "DA_02",
+					"zone": "DA_01",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Agricultural",
 					"isActive": true,
-					"FAR": {
+					"FAR": [
+						{
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["A-R", "H-A1", "H-A2", "L-PA", "A-IT", "F-C1", "F-C2", "F-C3",
+						"B-E2", "B-E3", "C-H2", "I-HP"],
+						"useVariable": "plotArea",
 						"value": [
 							{
 								"min": 0,
@@ -792,7 +822,29 @@
 								"purchasable": 0
 							}
 						]
-					}
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["G-GI", "G-CI", "G-SI"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0
+							}
+						]
+						}
+							]
 				},
 				{
 					"OccupancyType": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5"],
@@ -1056,14 +1108,18 @@
 				},
 				{
 					"OccupancyType": ["AGRICULTURAL", "RECREATIONAL", "TRANSPORTATION"],
-					"zone": "DA_03",
+					"zone": "DA_01",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Agricultural",
 					"isActive": true,
-					"FAR": {
+					"FAR": [
+						{
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["A-R", "H-A1", "H-A2", "L-PA", "A-IT", "F-C1", "F-C2", "F-C3",
+						"B-E2", "B-E3", "C-H2", "I-HP"],
+						"useVariable": "plotArea",
 						"value": [
 							{
 								"min": 0,
@@ -1072,13 +1128,35 @@
 								"purchasable": 0
 							}
 						]
-					}
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["G-GI", "G-CI", "G-SI"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0
+							}
+						]
+						}
+							]
 				}
 			]
 		},
 		{
-			"code": "MAHASAMUND_MASTER_PLAN",
-			"name": "Mahasamund Master Plan",
+			"code": "NAVA_RAIPUR_MASTER_PLAN",
+			"name": "Nava Raipur Master Plan",
 			"Scheme": "SCHEME1",
 			"fromFY": "2026-27",
 			"startingDate": 1774981800000,
@@ -1086,8 +1164,8 @@
 			"active": true,
 			"OccType": [
 				{
-					"OccupancyType": "RESIDENTIAL_R1",
-					"zone": "NA",
+					"OccupancyType": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5"],
+					"zone": "CA",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Central Residential Area",
 					"isActive": true,
@@ -1098,96 +1176,23 @@
 						"value": [
 							{
 								"min": 0,
-								"max": 999999999,
-								"normal": 1.25,
-								"purchasable": 0.5
-							}
-						]
-					}
-				},
-				{
-					"OccupancyType": "RESIDENTIAL_R2",
-					"zone": "NA",
-					"occVersion": "1.0.0",
-					"OccupancyName": "RESIDENTIAL R2",
-					"isActive": true,
-					"FAR": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
-						"value": [
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
 							{
-								"min": 0,
-								"max": 999999999,
-								"normal": 1.25,
-								"purchasable": 0.25
-							}
-						]
-					}
-				},
-				{
-					"OccupancyType": "RESIDENTIAL_R3",
-					"zone": "NA",
-					"occVersion": "1.0.0",
-					"OccupancyName": "RESIDENTIAL R3",
-					"isActive": true,
-					"FAR": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
-						"value": [
-							{
-								"min": 0,
-								"max": 999999999,
-								"normal": 1.25,
-								"purchasable": 0.5
-							}
-						]
-					}
-				},
-				{
-					"OccupancyType": "RESIDENTIAL_R4",
-					"zone": "NA",
-					"occVersion": "1.0.0",
-					"OccupancyName": "RESIDENTIAL R4",
-					"isActive": true,
-					"FAR": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
-						"value": [
-							{
-								"min": 0,
-								"max": 999999999,
-								"normal": 1.75,
-								"purchasable": 0.75
-							}
-						]
-					}
-				},
-				{
-					"OccupancyType": "RESIDENTIAL_R5",
-					"zone": "NA",
-					"occVersion": "1.0.0",
-					"OccupancyName": "RESIDENTIAL R5",
-					"isActive": true,
-					"FAR": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
-						"value": [
-							{
-								"min": 0,
+								"min": 1000.01,
 								"max": 999999999,
 								"normal": 2.5,
 								"purchasable": 0
 							}
 						]
 					}
+				
 				},
 				{
-					"OccupancyType": "COMMERCIAL",
-					"zone": "NA",
+					"OccupancyType": ["COMMERCIAL"],
+					"zone": "CA",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Commercial",
 					"isActive": true,
@@ -1198,56 +1203,145 @@
 						"value": [
 							{
 								"min": 0,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
 								"max": 999999999,
-								"normal": 1.75,
-								"purchasable": 0.75
+								"normal": 2.5,
+								"purchasable": 0
 							}
 						]
 					}
 				},
 				{
-					"OccupancyType": "INDUSTRIAL",
-					"zone": "NA",
+					"OccupancyType": ["MIXED_USE"],
+					"zone": "CA",
 					"occVersion": "1.0.0",
-					"OccupancyName": "Industrial",
+					"OccupancyName": "Mixed Use",
 					"isActive": true,
-					"FAR": {
+					"FAR": [
+						{
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["A-R"],
+						"useVariable": "plotArea",
 						"value": [
 							{
 								"min": 0,
+								"max": 240,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 240.01,
+								"max": 500,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
 								"max": 999999999,
-								"normal": 1.0,
-								"purchasable": 0.0
+								"normal": 1.25,
+								"purchasable": 0
 							}
 						]
-					}
-				},
-				{
-					"OccupancyType": "MIXED_USE",
-					"zone": "NA",
-					"occVersion": "1.0.0",
-					"OccupancyName": "Mix-Use Zone",
-					"isActive": true,
-					"FAR": {
+						},
+						{
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["A-AF", "A-FH"],
+						"useVariable": "plotArea",
 						"value": [
 							{
 								"min": 0,
+								"max": 240,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 240.01,
+								"max": 500,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
 								"max": 999999999,
-								"normal": 1.75,
-								"purchasable": 0.75
+								"normal": 2.5,
+								"purchasable": 0
 							}
 						]
-					}
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT", "F-CB", "F-CA"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 2.0,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["B-E", "C-I", "D-AS"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 6000,
+								"normal": 2.0,
+								"purchasable": 0
+							},
+							{
+								"min": 6000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+						}
+							]
 				},
 				{
-					"OccupancyType": "PUBLIC_SEMI_PUBLIC",
-					"zone": "NA",
+					"OccupancyType": ["PUBLIC_SEMI_PUBLIC"],
+					"zone": "CA",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Public & Semi Public",
 					"isActive": true,
@@ -1258,18 +1352,273 @@
 						"value": [
 							{
 								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": ["AGRICULTURAL", "RECREATIONAL", "TRANSPORTATION"],
+					"zone": "CA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Agricultural",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5"],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Central Residential Area",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					}
+		
+				},
+				{
+					"OccupancyType": ["COMMERCIAL"],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Commercial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": ["INDUSTRIAL"],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Industrial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 1.0,
+								"purchasable": 0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": ["MIXED_USE"],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Mixed Use",
+					"isActive": true,
+					"FAR": [
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["A-R"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 240,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 240.01,
+								"max": 500,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0
+							}
+						]
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["A-AF", "A-FH"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 240,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 240.01,
+								"max": 500,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT", "F-CB", "F-CA"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 2.0,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["B-E", "C-I", "D-AS"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 6000,
+								"normal": 2.0,
+								"purchasable": 0
+							},
+							{
+								"min": 6000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["G-WT"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
 								"max": 999999999,
 								"normal": 1,
-								"purchasable": 0.8
+								"purchasable": 0
 							}
 						]
-					}
+						}
+							]
 				},
 				{
-					"OccupancyType": "RECREATIONAL",
-					"zone": "NA",
+					"OccupancyType": ["PUBLIC_SEMI_PUBLIC"],
+					"zone": "DA_01",
 					"occVersion": "1.0.0",
-					"OccupancyName": "RECREATIONAL",
+					"OccupancyName": "Public & Semi Public",
 					"isActive": true,
 					"FAR": {
 						"mandatory": true,
@@ -1278,89 +1627,682 @@
 						"value": [
 							{
 								"min": 0,
-								"max": 999999999,
-								"normal": 0.15,
+								"max": 500,
+								"normal": 1.5,
 								"purchasable": 0
-							}
-						]
-					}
-				},
-				{
-					"OccupancyType": "TRANSPORTATION",
-					"zone": "NA",
-					"occVersion": "1.0.0",
-					"OccupancyName": "TRANSPORTATION",
-					"isActive": true,
-					"FAR": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
-						"value": [
+							},
 							{
-								"min": 0,
-								"max": 999999999,
-								"normal": 1,
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
 								"purchasable": 0
-							}
-						]
-					}
-				},
-				{
-					"OccupancyType": "RESTRICTED_AGRICULTURE",
-					"zone": "NA",
-					"occVersion": "1.0.0",
-					"OccupancyName": "RESTRICTED AGRICULTURE",
-					"isActive": true,
-					"FAR": {
-						"mandatory": true,
-						"type": "SLAB",
-						"valueType": "OBJECT",
-						"value": [
+							},
 							{
-								"min": 0,
+								"min": 1000.01,
 								"max": 999999999,
-								"normal": 0.1,
+								"normal": 2.5,
 								"purchasable": 0
 							}
 						]
 					}
 				},
 				{
-					"OccupancyType": "AGRICULTURAL",
-					"zone": "NA",
+					"OccupancyType": ["AGRICULTURAL", "RECREATIONAL", "TRANSPORTATION"],
+					"zone": "DA_01",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Agricultural",
 					"isActive": true,
 					"FAR": [
-					{
+						{
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
-						"proposedSubOccupancy": ["H-A1", "H-A2", "A-IT", "F-C1", "F-C2", "I-HP"],
+						"proposedSubOccupancy": ["A-R", "H-A1", "H-A2", "L-PA", "A-IT", "F-C1", "F-C2", "F-C3",
+						"B-E2", "B-E3", "C-H2", "I-HP"],
+						"useVariable": "plotArea",
 						"value": [
 							{
 								"min": 0,
 								"max": 999999999,
-								"normal": 0.15,
-								"purchasable": 0.05
+								"normal": 1.25,
+								"purchasable": 0
 							}
 						]
-					},
-					{
+						},
+						{
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
-						"proposedSubOccupancy": ["F-C3", "B-E2", "B-E3", "L-PA", "C-H2"],
+						"proposedSubOccupancy": ["G-GI", "G-CI", "G-SI"],
+						"useVariable": "plotArea",
 						"value": [
 							{
 								"min": 0,
+								"max": 1000,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
 								"max": 999999999,
 								"normal": 1,
-								"purchasable": 0.0
+								"purchasable": 0
+							}
+						]
+						}
+							]
+				},
+				{
+					"OccupancyType": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5"],
+					"zone": "DA_02",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Central Residential Area",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.8,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
 							}
 						]
 					}
-					]
+				},
+				{
+					"OccupancyType": ["COMMERCIAL"],
+					"zone": "DA_02",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Commercial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": ["INDUSTRIAL"],
+					"zone": "DA_02",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Industrial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 1.0,
+								"purchasable": 0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": ["MIXED_USE"],
+					"zone": "DA_02",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Mixed Use",
+					"isActive": true,
+					"FAR": [
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["A-R"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 240,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 240.01,
+								"max": 500,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0
+							}
+						]
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["A-AF", "A-FH"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 240,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 240.01,
+								"max": 500,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT", "F-CB", "F-CA"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 2.0,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["B-E", "C-I", "D-AS"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 6000,
+								"normal": 2.0,
+								"purchasable": 0
+							},
+							{
+								"min": 6000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["G-WT"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0
+							}
+						]
+						}
+							]
+				},
+				{
+					"OccupancyType": ["PUBLIC_SEMI_PUBLIC"],
+					"zone": "DA_02",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Public & Semi Public",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 999999999,
+								"normal": 1.75,
+								"purchasable": 0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": ["AGRICULTURAL", "RECREATIONAL", "TRANSPORTATION"],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Agricultural",
+					"isActive": true,
+					"FAR": [
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["A-R", "H-A1", "H-A2", "L-PA", "A-IT", "F-C1", "F-C2", "F-C3",
+						"B-E2", "B-E3", "C-H2", "I-HP"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0
+							}
+						]
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["G-GI", "G-CI", "G-SI"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0
+							}
+						]
+						}
+							]
+				},
+				{
+					"OccupancyType": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5"],
+					"zone": "DA_03",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Central Residential Area",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.8,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": ["COMMERCIAL"],
+					"zone": "DA_03",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Commercial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": ["INDUSTRIAL"],
+					"zone": "DA_03",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Industrial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 1.0,
+								"purchasable": 0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": ["MIXED_USE"],
+					"zone": "DA_03",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Mixed Use",
+					"isActive": true,
+					"FAR": [
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["A-R"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 240,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 240.01,
+								"max": 500,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0
+							}
+						]
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["A-AF", "A-FH"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 240,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 240.01,
+								"max": 500,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 1000,
+								"normal": 2,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT", "F-CB", "F-CA"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 2.0,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["B-E", "C-I", "D-AS"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 6000,
+								"normal": 2.0,
+								"purchasable": 0
+							},
+							{
+								"min": 6000.01,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["G-WT"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0
+							}
+						]
+						}
+							]
+				},
+				{
+					"OccupancyType": ["PUBLIC_SEMI_PUBLIC"],
+					"zone": "DA_03",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Public & Semi Public",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 500,
+								"normal": 1.5,
+								"purchasable": 0
+							},
+							{
+								"min": 500.01,
+								"max": 999999999,
+								"normal": 1.75,
+								"purchasable": 0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": ["AGRICULTURAL", "RECREATIONAL", "TRANSPORTATION"],
+					"zone": "DA_01",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Agricultural",
+					"isActive": true,
+					"FAR": [
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["A-R", "H-A1", "H-A2", "L-PA", "A-IT", "F-C1", "F-C2", "F-C3",
+						"B-E2", "B-E3", "C-H2", "I-HP"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0
+							}
+						]
+						},
+						{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["G-GI", "G-CI", "G-SI"],
+						"useVariable": "plotArea",
+						"value": [
+							{
+								"min": 0,
+								"max": 1000,
+								"normal": 1.25,
+								"purchasable": 0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0
+							}
+						]
+						}
+							]
 				}
 			]
 		},
@@ -1903,6 +2845,294 @@
 				},
 				{
 					"OccupancyType": "A",
+					"zone": "NA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Agricultural",
+					"isActive": true,
+					"FAR": [
+					{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["H-A1", "H-A2", "A-IT", "F-C1", "F-C2", "I-HP"],
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 0.15,
+								"purchasable": 0.05
+							}
+						]
+					},
+					{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["F-C3", "B-E2", "B-E3", "L-PA", "C-H2"],
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0.0
+							}
+						]
+					}
+					]
+				}
+			]
+		},
+		{
+			"code": "MAHASAMUND_MASTER_PLAN",
+			"name": "Mahasamund Master Plan",
+			"Scheme": "SCHEME1",
+			"fromFY": "2026-27",
+			"startingDate": 1774981800000,
+			"endingDate": 1806517740000,
+			"active": true,
+			"OccType": [
+				{
+					"OccupancyType": "RESIDENTIAL_R1",
+					"zone": "NA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Central Residential Area",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0.5
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": "RESIDENTIAL_R2",
+					"zone": "NA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "RESIDENTIAL R2",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0.25
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": "RESIDENTIAL_R3",
+					"zone": "NA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "RESIDENTIAL R3",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.25,
+								"purchasable": 0.5
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": "RESIDENTIAL_R4",
+					"zone": "NA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "RESIDENTIAL R4",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.75,
+								"purchasable": 0.75
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": "RESIDENTIAL_R5",
+					"zone": "NA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "RESIDENTIAL R5",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 2.5,
+								"purchasable": 0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": "COMMERCIAL",
+					"zone": "NA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Commercial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.75,
+								"purchasable": 0.75
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": "INDUSTRIAL",
+					"zone": "NA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Industrial",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.0,
+								"purchasable": 0.0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": "MIXED_USE",
+					"zone": "NA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Mix-Use Zone",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1.75,
+								"purchasable": 0.75
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": "PUBLIC_SEMI_PUBLIC",
+					"zone": "NA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Public & Semi Public",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0.8
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": "RECREATIONAL",
+					"zone": "NA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "RECREATIONAL",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 0.15,
+								"purchasable": 0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": "TRANSPORTATION",
+					"zone": "NA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "TRANSPORTATION",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": "RESTRICTED_AGRICULTURE",
+					"zone": "NA",
+					"occVersion": "1.0.0",
+					"OccupancyName": "RESTRICTED AGRICULTURE",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 0.1,
+								"purchasable": 0
+							}
+						]
+					}
+				},
+				{
+					"OccupancyType": "AGRICULTURAL",
 					"zone": "NA",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Agricultural",

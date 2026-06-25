@@ -1,7 +1,7 @@
 {
 	"tenantId": "cg",
 	"moduleName": "EDCR.Rules.BPA",
-	"RAIPUR_MASTER_PLAN": [
+	"NAVA_RAIPUR_MASTER_PLAN": [
 		{
 			"code": "101",
 			"name": "M1",
@@ -5162,7 +5162,7 @@
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
-									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "AGRICULTURAL" ],
+									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
@@ -20547,15 +20547,7 @@
                             {
                                 "min": 15,
                                 "max": 999999999,
-                               "type": "SLAB",
-                                "useVariable": "plotArea",
-                                "value": [
-                                    {
-                                        "min": 0,
-                                        "max": 99999999,
-                                       "percentage": 40
-                                    }
-								]
+                                "percent": 40
                             }
                         ]
                     },
