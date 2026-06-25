@@ -802,7 +802,7 @@
 				},
 				{
 					"OccupancyType": ["AGRICULTURAL", "RECREATIONAL", "TRANSPORTATION"],
-					"zone": "DA_01",
+					"zone": "DA_02",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Agricultural",
 					"isActive": true,
@@ -1108,7 +1108,7 @@
 				},
 				{
 					"OccupancyType": ["AGRICULTURAL", "RECREATIONAL", "TRANSPORTATION"],
-					"zone": "DA_01",
+					"zone": "DA_03",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Agricultural",
 					"isActive": true,
