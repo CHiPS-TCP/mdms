@@ -452,22 +452,26 @@
         {
           "code": "CHURRA",
           "name": "Churra",
-          "active": true
+          "active": true,
+          "tehsilcode": "3336"
         },
         {
           "code": "GARIYABAND_FINGESHWAR",
           "name": "Fingeshwar",
-          "active": true
+          "active": true,
+          "tehsilcode": "7343"
         },
         {
           "code": "GARIYABAND",
           "name": "Gariyaband",
-          "active": true
+          "active": true,
+          "tehsilcode": "3335"
         },
         {
           "code": "RAJIM",
           "name": "Rajim",
-          "active": true
+          "active": true,
+          "tehsilcode": "3333"
         }
       ]
     },
@@ -873,42 +877,50 @@
         {
           "code": "ABHANPUR",
           "name": "Abhanpur",
-          "active": true
+          "active": true,
+          "tehsilcode": "3331"
         },
         {
           "code": "ARANG",
           "name": "Arang",
-          "active": true
+          "active": true,
+          "tehsilcode": "3330"
         },
         {
           "code": "DHARSIWA",
           "name": "Dharsiwa",
-          "active": true
+          "active": true,
+          "tehsilcode": "7292"
         },
         {
           "code": "GOBRA_NAWAPARA",
           "name": "Gobra nawapara",
-          "active": true
+          "active": true,
+          "tehsilcode": "7259"
         },
         {
           "code": "MANDIR_HASUAD",
           "name": "Mandir hasuad",
-          "active": true
+          "active": true,
+          "tehsilcode": "7308"
         },
         {
           "code": "KHARORA",
           "name": "Kharora",
-          "active": true
+          "active": true,
+          "tehsilcode": "7262"
         },
         {
           "code": "RAIPUR",
           "name": "Raipur",
-          "active": true
+          "active": true,
+          "tehsilcode": "3332"
         },
         {
           "code": "TILDA",
           "name": "Tilda",
-          "active": true
+          "active": true,
+          "tehsilcode": "3334"
         }
       ]
     },

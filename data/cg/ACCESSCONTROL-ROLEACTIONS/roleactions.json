@@ -37999,6 +37999,12 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 5088,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 5029,
       "actioncode": "",
       "tenantId": "cg"
@@ -38031,6 +38037,11 @@
       "actionid": 5028,
       "actioncode": "",
       "tenantId": "cg"
+    },{
+      "rolecode": "LAYOUT_L1_VERIFIER",
+      "actionid": 5088,
+      "actioncode": "",
+      "tenantId": "cg"
     },
     {
       "rolecode": "LAYOUT_L1_VERIFIER",
@@ -38062,6 +38073,12 @@
     },
     {
       "rolecode": "LAYOUT_L2_VERIFIER",
+      "actionid": 5088,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "LAYOUT_L2_VERIFIER",
       "actionid": 8900917,
       "actioncode": "",
       "tenantId": "cg"
@@ -38085,6 +38102,12 @@
     {
       "rolecode": "LAYOUT_L3_VERIFIER",
       "actionid": 5028,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "LAYOUT_L3_VERIFIER",
+      "actionid": 5088,
       "actioncode": "",
       "tenantId": "cg"
     },
@@ -38125,6 +38148,12 @@
     {
       "rolecode": "LAYOUT_D1_VERIFIER",
       "actionid": 5028,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "LAYOUT_D1_VERIFIER",
+      "actionid": 5088,
       "actioncode": "",
       "tenantId": "cg"
     },
@@ -38156,7 +38185,14 @@
       "actionid": 5028,
       "actioncode": "",
       "tenantId": "cg"
-    },{
+    },
+    {
+      "rolecode": "LAYOUT_D2_VERIFIER",
+      "actionid": 5088,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "LAYOUT_D2_VERIFIER",
       "actionid": 8900137,
       "actioncode": "",
@@ -38183,6 +38219,12 @@
     {
       "rolecode": "LAYOUT_D3_VERIFIER",
       "actionid": 5028,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "LAYOUT_D3_VERIFIER",
+      "actionid": 5088,
       "actioncode": "",
       "tenantId": "cg"
     },
