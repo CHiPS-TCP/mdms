@@ -1,5 +1,5 @@
 {
-  "tenantId": "cg.risali",
+  "tenantId": "cg.risalimc",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "cg.risali",
+        "code": "cg.risalimc",
         "children": [
           {
             "id": "2c03cce5-7749-448c-bcff-2018a3952978",

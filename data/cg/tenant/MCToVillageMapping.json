@@ -60,6 +60,70 @@
         "Urla"
       ],
       "tenantId": "cg.birgaonmc"
+    },
+    {
+      "name": "Durg Municipal Corporation",
+      "village": [
+        "Durg",
+        "Kasaridih",
+        "Titurdih",
+        "Sikola",
+        "Urla",
+        "Baghera",
+        "Katulbod",
+        "Pulgaon",
+        "Borsi",
+        "Potiyakala"
+      ],
+      "tenantId": "cg.durgmc"
+    },
+    {
+      "name": "Bhilai Municipal Corporation",
+      "village": [
+        "Kurud",
+        "Khamhariya",
+        "Kohka",
+        "Junwani",
+        "Amdi",
+        "Supela",
+        "Chhawni",
+        "Kosa",
+        "Jamul"
+      ],
+      "tenantId": "cg.bhilaimc"
+    },
+    {
+      "name": "Risali Municipal Corporation",
+      "village": [
+        "Risali",
+        "Madoda",
+        "Joratarai",
+        "Newai",
+        "Dundera",
+        "Ruabandha",
+        "Purena"
+      ],
+      "tenantId": "cg.risalimc"
+    },
+    {
+      "name": "Bhilai-Charoda Municipal Corporation",
+      "village": [
+        "Charoda",
+        "Bhilai",
+        "Aklordih",
+        "Hathkhoj",
+        "Dadar",
+        "Patharra",
+        "Jarway",
+        "Umda",
+        "Devbaloda",
+        "Sirsakala",
+        "Urla",
+        "Somani",
+        "Morid",
+        "Ganiyari"
+      ],
+      "tenantId": "cg.bhilaicharodamc"
     }
   ]
 }
