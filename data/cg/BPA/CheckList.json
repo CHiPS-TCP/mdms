@@ -9,849 +9,239 @@
       "WFState": "L2_VERIFICATION",
       "questions": [
         {
-          "question": "INSPECTION_REPORT_QUESTION_1",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_2",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_3",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_4",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_5",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_6",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_7",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_8",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_9",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_10",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_11",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_12",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_13",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_14",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_15",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_16",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_17",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_18",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_19",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        }
-      ],
-      "docTypes": [
-        {
-          "code": "FI.FIR",
-          "required": false
-        },
-        {
-          "code": "FI.SINS",
-          "required": false
-        },
-        {
-          "code": "FI.SISS",
-          "required": false
-        },
-        {
-          "code": "FI.SIES",
-          "required": false
-        },
-        {
-          "code": "FI.SIWS",
-          "required": false
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
-      "WFState": "L2_VERIFICATION",
-      "questions": [
-        {
-          "question": "INSPECTION_REPORT_QUESTION_1",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_2",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_3",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_4",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_5",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_6",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_7",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_8",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_9",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_10",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_11",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_12",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_13",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_14",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_15",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_16",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_17",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_18",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_19",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        }
-      ],
-      "docTypes": [
-        {
-          "code": "FI.FIR",
-          "required": false
-        },
-        {
-          "code": "FI.SINS",
-          "required": false
-        },
-        {
-          "code": "FI.SISS",
-          "required": false
-        },
-        {
-          "code": "FI.SIES",
-          "required": false
-        },
-        {
-          "code": "FI.SIWS",
-          "required": false
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "MEDIUM",
-      "WFState": "L2_VERIFICATION",
-      "questions": [
-        {
-          "question": "INSPECTION_REPORT_QUESTION_1",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_2",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_3",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_4",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_5",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_6",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_7",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_8",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_9",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_10",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_11",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_12",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_13",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_14",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_15",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_16",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_17",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_18",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_19",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        }
-      ],
-      "docTypes": [
-        {
-          "code": "FI.FIR",
-          "required": false
-        },
-        {
-          "code": "FI.SINS",
-          "required": false
-        },
-        {
-          "code": "FI.SISS",
-          "required": false
-        },
-        {
-          "code": "FI.SIES",
-          "required": false
-        },
-        {
-          "code": "FI.SIWS",
-          "required": false
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "LOW",
-      "WFState": "PENDINGAPPROVAL",
-      "conditions": [
-        "The development shall be undertaken strictly according to plans enclosed with necessary permission endorsement.",
-        "The land in question must be in lawful ownership and peaceful possession of the applicant.",
-        "The permission is valid for period of X(this is the validity period in years) years with effect from the date of issue.",
-        "Permission accorded under the provision cannot be construed as evidence in respect of right title interest of the plot over which the plan is approved.",
-        "Any dispute arising out of land record or in respect of right/ title/ interest after this approval the plan shall be treated automatically cancelled during the period of dispute.",
-        "Adequate safety precaution shall be provided at all stages of construction for safe guarding the life of workers and any public hazard.",
-        "The land/ Building shall be used exclusively for the above occupancy for which you applied and the uses shall not be changed to any other use without prior approval of this Authority.",
-        "Adequate space mentioned in the approved plan shall be kept open for parking and no part of it will be built upon.",
-        "The land over which construction is proposed is accessible by an approved means of access with sufficient road width."
-      ]
-    },
-    {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
-      "WFState": "PENDINGAPPROVAL",
-      "conditions": [
-        "The development shall be undertaken strictly according to plans enclosed with necessary permission endorsement.",
-        "The land in question must be in lawful ownership and peaceful possession of the applicant.",
-        "The permission is valid for period of X(this is the validity period in years) years with effect from the date of issue.",
-        "Permission accorded under the provision cannot be construed as evidence in respect of right title interest of the plot over which the plan is approved.",
-        "Any dispute arising out of land record or in respect of right/ title/ interest after this approval the plan shall be treated automatically cancelled during the period of dispute.",
-        "Adequate safety precaution shall be provided at all stages of construction for safe guarding the life of workers and any public hazard.",
-        "The land/ Building shall be used exclusively for the above occupancy for which you applied and the uses shall not be changed to any other use without prior approval of this Authority.",
-        "Adequate space mentioned in the approved plan shall be kept open for parking and no part of it will be built upon.",
-        "The land over which construction is proposed is accessible by an approved means of access with sufficient road width."
-      ]
-    },
-    {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "MEDIUM",
-      "WFState": "PENDINGAPPROVAL",
-      "conditions": [
-        "The development shall be undertaken strictly according to plans enclosed with necessary permission endorsement.",
-        "The land in question must be in lawful ownership and peaceful possession of the applicant.",
-        "The permission is valid for period of X(this is the validity period in years) years with effect from the date of issue.",
-        "Permission accorded under the provision cannot be construed as evidence in respect of right title interest of the plot over which the plan is approved.",
-        "Any dispute arising out of land record or in respect of right/ title/ interest after this approval the plan shall be treated automatically cancelled during the period of dispute.",
-        "Adequate safety precaution shall be provided at all stages of construction for safe guarding the life of workers and any public hazard.",
-        "The land/ Building shall be used exclusively for the above occupancy for which you applied and the uses shall not be changed to any other use without prior approval of this Authority.",
-        "Adequate space mentioned in the approved plan shall be kept open for parking and no part of it will be built upon.",
-        "The land over which construction is proposed is accessible by an approved means of access with sufficient road width."
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "LOW",
-      "WFState": "L2_VERIFICATION",
-      "questions": [
-        {
-          "question": "INSPECTION_REPORT_QUESTION_1",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_2",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_3",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_4",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_5",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_6",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_7",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_8",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_9",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_10",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_11",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_12",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_13",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_14",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_15",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_16",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_17",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_18",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_19",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        }
-      ],
-      "docTypes": [
-        {
-          "code": "FI.FIR",
+          "question": "CLIENT_NAME",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": true,
+          "active": true,
+          "status": false,
+          "remarks": false,
           "required": true
         },
         {
-          "code": "FI.SINS",
+          "question": "DATE_OF_SITE_VISIT",
+          "fieldType": "DATE",
+          "autoFetch": false,
+          "active": true,
+          "status": false,
+          "remarks": false,
           "required": true
         },
         {
-          "code": "FI.SISS",
+          "question": "VILLAGE_NAME_WARD_NO_AND_NAME",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": true,
+          "active": true,
+          "status": false,
+          "remarks": false,
           "required": true
         },
         {
-          "code": "FI.SIES",
+          "question": "IS_LOCATION_OF_LAND_AS_PER_APPROVED_LAYOUT_DEVELOPMENT_PLAN",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
           "required": true
         },
         {
-          "code": "FI.SIWS",
+          "question": "KUTCHA_PAKKA_ROAD_IS_AVAILABLE_UP_TO_SITE",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "EXISTING_ROAD_WIDTH_IN_FRONT_SIDE_OF_PLOT",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "DOES_ROAD_EXIST_ON_OTHER_SIDES_OF_PLOT",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "EAST",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "WEST",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "NORTH",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "SOUTH",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "LAYOUT_OF_LAND_IN_QUESTION_NOT_APPROVED_AS_PER_RULES_BUT_DEVELOPMENT_OF_AREA_HAS_BEEN_DONE",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "HT_LINE_IS_ADJOINING_THE_SITE",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "THE_DISTANCE_OF_HT_LINE_FROM_SITE_IN_METERS",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "IS_NALAH_MAJOR_DRAIN_ADJACENT_TO_PLOT",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "NEAREST_DISTANCE_OF_NALAS_FROM_PLOT",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "DETAILS_AND_USE_OF_PRESENT_AND_PROPOSED_DEVELOPMENT_AT_THE_SITE",
+          "fieldType": "TEXT",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "DEVELOPMENT_HAS_BEEN_STARTED_ON_SITE_BEFORE_APPROVAL_OR_NOT",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "HAS_BUILDING_BEEN_COMPLETED_ON_SITE_AS_PER_SUBMITTED_DRAWING_BEFORE_APPROVAL_OF_BUILDING_PLAN",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "IS_BUILDING_PERMISSION_TAKEN_FOR_SITE",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "STATE_THE_YEAR_OF_PERMISSION_AND_DETAILS",
+          "fieldType": "DATE",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "APPROVED_AND_PRESENT_SETBACK_FRONT",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "APPROVED_AND_PRESENT_SETBACK_REAR",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "APPROVED_AND_PRESENT_SETBACK_RHS",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "APPROVED_AND_PRESENT_SETBACK_LHS",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": false
+        },
+        {
+          "question": "IS_PROPOSED_SITE_WITHIN_REGULATED_AREA_OF_EXTERNAL_AGENCIES",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
           "required": true
         }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
-      "WFState": "L2_VERIFICATION",
-      "questions": [
-        {
-          "question": "INSPECTION_REPORT_QUESTION_1",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_2",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_3",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_4",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_5",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_6",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_7",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_8",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_9",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_10",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_11",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_12",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_13",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_14",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_15",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_16",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_17",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_18",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_19",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        }
-      ],
-      "docTypes": [
-        {
-          "code": "FI.FIR",
-          "required": true
-        },
-        {
-          "code": "FI.SINS",
-          "required": true
-        },
-        {
-          "code": "FI.SISS",
-          "required": true
-        },
-        {
-          "code": "FI.SIES",
-          "required": true
-        },
-        {
-          "code": "FI.SIWS",
-          "required": true
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "MEDIUM",
-      "WFState": "L2_VERIFICATION",
-      "questions": [
-        {
-          "question": "INSPECTION_REPORT_QUESTION_1",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_2",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_3",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_4",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_5",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_6",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_7",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_8",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_9",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_10",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_11",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_12",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_13",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_14",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_15",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_16",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_17",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_18",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "INSPECTION_REPORT_QUESTION_19",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        }
-      ],
-      "docTypes": [
-        {
-          "code": "FI.FIR",
-          "required": true
-        },
-        {
-          "code": "FI.SINS",
-          "required": true
-        },
-        {
-          "code": "FI.SISS",
-          "required": true
-        },
-        {
-          "code": "FI.SIES",
-          "required": true
-        },
-        {
-          "code": "FI.SIWS",
-          "required": true
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "LOW",
-      "WFState": "PENDINGAPPROVAL",
-      "conditions": [
-        "The development shall be undertaken strictly according to plans enclosed with necessary permission endorsement.",
-        "The land in question must be in lawful ownership and peaceful possession of the applicant.",
-        "The permission is valid for period of X(this is the validity period in years) years with effect from the date of issue.",
-        "Permission accorded under the provision cannot be construed as evidence in respect of right title interest of the plot over which the plan is approved.",
-        "Any dispute arising out of land record or in respect of right/ title/ interest after this approval the plan shall be treated automatically cancelled during the period of dispute.",
-        "Adequate safety precaution shall be provided at all stages of construction for safe guarding the life of workers and any public hazard.",
-        "The land/ Building shall be used exclusively for the above occupancy for which you applied and the uses shall not be changed to any other use without prior approval of this Authority.",
-        "Adequate space mentioned in the approved plan shall be kept open for parking and no part of it will be built upon.",
-        "The land over which construction is proposed is accessible by an approved means of access with sufficient road width."
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
-      "WFState": "PENDINGAPPROVAL",
-      "conditions": [
-        "The development shall be undertaken strictly according to plans enclosed with necessary permission endorsement.",
-        "The land in question must be in lawful ownership and peaceful possession of the applicant.",
-        "The permission is valid for period of X(this is the validity period in years) years with effect from the date of issue.",
-        "Permission accorded under the provision cannot be construed as evidence in respect of right title interest of the plot over which the plan is approved.",
-        "Any dispute arising out of land record or in respect of right/ title/ interest after this approval the plan shall be treated automatically cancelled during the period of dispute.",
-        "Adequate safety precaution shall be provided at all stages of construction for safe guarding the life of workers and any public hazard.",
-        "The land/ Building shall be used exclusively for the above occupancy for which you applied and the uses shall not be changed to any other use without prior approval of this Authority.",
-        "Adequate space mentioned in the approved plan shall be kept open for parking and no part of it will be built upon.",
-        "The land over which construction is proposed is accessible by an approved means of access with sufficient road width."
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "MEDIUM",
-      "WFState": "PENDINGAPPROVAL",
-      "conditions": [
-        "The development shall be undertaken strictly according to plans enclosed with necessary permission endorsement.",
-        "The land in question must be in lawful ownership and peaceful possession of the applicant.",
-        "The permission is valid for period of X(this is the validity period in years) years with effect from the date of issue.",
-        "Permission accorded under the provision cannot be construed as evidence in respect of right title interest of the plot over which the plan is approved.",
-        "Any dispute arising out of land record or in respect of right/ title/ interest after this approval the plan shall be treated automatically cancelled during the period of dispute.",
-        "Adequate safety precaution shall be provided at all stages of construction for safe guarding the life of workers and any public hazard.",
-        "The land/ Building shall be used exclusively for the above occupancy for which you applied and the uses shall not be changed to any other use without prior approval of this Authority.",
-        "Adequate space mentioned in the approved plan shall be kept open for parking and no part of it will be built upon.",
-        "The land over which construction is proposed is accessible by an approved means of access with sufficient road width."
       ]
     }
   ]

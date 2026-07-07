@@ -3,100 +3,12 @@
   "moduleName": "BPA",
   "DocTypeMapping": [
     {
-      "code": "OWNER.REGISTRY_LEASE_DEED_MOA",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.REGISTRY_LEASE_DEED_MOA_DESCRIPTION",
-      "order": 1
-    },
-    {
-      "code": "OWNER.B1_KHASRA_ORIGINAL",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.B1_KHASRA_ORIGINAL_DESCRIPTION",
-      "order": 2
-    },
-    {
-      "code": "OWNER.KHASRA_MAP",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.KHASRA_MAP_DESCRIPTION",
-      "order": 3
-    },
-    {
-      "code": "OWNER.APPROVED_LAYOUT",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.APPROVED_LAYOUT_DESCRIPTION",
-      "order": 4
-    },
-    {
-      "code": "OWNER.DIVERSION_LETTER",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.DIVERSION_LETTER_DESCRIPTION",
-      "order": 5
-    },
-    {
-      "code": "OWNER.COLONY_VIKAS_ANUMATI",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.COLONY_VIKAS_ANUMATI_DESCRIPTION",
-      "order": 6
-    },
-    {
-      "code": "OWNER.LAND_MORTGAGE_INFO",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.LAND_MORTGAGE_INFO_DESCRIPTION",
-      "order": 7
-    },
-    {
-      "code": "OWNER.AFFIDAVIT_LICENSED_TECHNICAL_PERSON",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.AFFIDAVIT_LICENSED_TECHNICAL_PERSON_DESCRIPTION",
-      "order": 8
-    },
-    {
-      "code": "OWNER.INDEMNITY_CUM_AFFIDAVIT",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.INDEMNITY_CUM_AFFIDAVIT_DESCRIPTION",
-      "order": 9
-    },
-    {
-      "code": "OWNER.OWNER_AFFIDAVIT",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.OWNER_AFFIDAVIT_DESCRIPTION",
-      "order": 10
-    },
-    {
-      "code": "OWNER.APPROVAL_LETTER",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.APPROVAL_LETTER_DESCRIPTION",
-      "order": 11
-    },
-    {
       "code": "OWNER.NAZUL_NOC",
       "documentType": "OWNER",
       "required": false,
       "active": true,
       "description": "OWNER.NAZUL_NOC_DESCRIPTION",
-      "order": 12
+      "order": 1
     },
     {
       "code": "OWNER.COLONIZER_REG_CERTIFICATE",
@@ -104,7 +16,103 @@
       "required": false,
       "active": true,
       "description": "OWNER.COLONIZER_REG_CERTIFICATE_DESCRIPTION",
+      "order": 2
+    },
+    {
+      "code": "OWNER.REGISTRY_LEASE_DEED_MOA",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.REGISTRY_LEASE_DEED_MOA_DESCRIPTION",
+      "order": 3
+    },
+    {
+      "code": "OWNER.KHASRA_MAP",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.KHASRA_MAP_DESCRIPTION",
+      "order": 4
+    },
+    {
+      "code": "OWNER.APPROVED_LAYOUT",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.APPROVED_LAYOUT_DESCRIPTION",
+      "order": 5
+    },
+    {
+      "code": "OWNER.DIVERSION_LETTER",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.DIVERSION_LETTER_DESCRIPTION",
+      "order": 6
+    },
+    {
+      "code": "OWNER.COLONY_VIKAS_ANUMATI",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.COLONY_VIKAS_ANUMATI_DESCRIPTION",
+      "order": 7
+    },
+    {
+      "code": "OWNER.LAND_MORTGAGE_INFO",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.LAND_MORTGAGE_INFO_DESCRIPTION",
+      "order": 8
+    },
+    {
+      "code": "OWNER.AFFIDAVIT_LICENSED_TECHNICAL_PERSON",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.AFFIDAVIT_LICENSED_TECHNICAL_PERSON_DESCRIPTION",
+      "order": 9
+    },
+    {
+      "code": "OWNER.INDEMNITY_CUM_AFFIDAVIT",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.INDEMNITY_CUM_AFFIDAVIT_DESCRIPTION",
+      "order": 10
+    },
+    {
+      "code": "OWNER.OWNER_AFFIDAVIT",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.OWNER_AFFIDAVIT_DESCRIPTION",
+      "order": 11
+    },
+    {
+      "code": "OWNER.APPROVAL_LETTER",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.APPROVAL_LETTER_DESCRIPTION",
+      "order": 12
+    },
+    {
+      "code": "OWNER.NAZUL_NOC",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.NAZUL_NOC_DESCRIPTION",
       "order": 13
+    },
+    {
+      "code": "OWNER.COLONIZER_REG_CERTIFICATE",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.COLONIZER_REG_CERTIFICATE_DESCRIPTION",
+      "order": 14
     }
   ]
 }
