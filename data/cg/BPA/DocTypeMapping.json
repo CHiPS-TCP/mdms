@@ -97,22 +97,6 @@
       "active": true,
       "description": "OWNER.APPROVAL_LETTER_DESCRIPTION",
       "order": 12
-    },
-    {
-      "code": "OWNER.NAZUL_NOC",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.NAZUL_NOC_DESCRIPTION",
-      "order": 13
-    },
-    {
-      "code": "OWNER.COLONIZER_REG_CERTIFICATE",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.COLONIZER_REG_CERTIFICATE_DESCRIPTION",
-      "order": 14
     }
   ]
 }
