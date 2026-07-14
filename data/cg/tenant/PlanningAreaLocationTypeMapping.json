@@ -692,8 +692,8 @@
       ]
     },
     {
-      "code": "DHAMTARI_PLANNING_AREA",
-      "name": "Dhamtari Planning Area",
+      "code": "DHAMTARI_MASTER_PLAN",
+      "name": "Dhamtari Master Plan",
       "isMasterPlan": false,
       "active": true,
       "locationTypes": [

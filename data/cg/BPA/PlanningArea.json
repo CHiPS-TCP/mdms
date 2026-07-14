@@ -14319,8 +14319,8 @@
       ]
     },
     {
-      "code": "DHAMTARI_PLANNING_AREA",
-      "name": "Dhamtari Planning Area",
+      "code": "DHAMTARI_MASTER_PLAN",
+      "name": "Dhamtari Master Plan",
       "active": true,
       "district": "Dhamtari",
       "districtCode": "DHAMTARI",
