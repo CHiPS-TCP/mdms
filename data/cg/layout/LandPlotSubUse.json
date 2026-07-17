@@ -126,7 +126,7 @@
           "code": "Commercial-2 (C2)",
           "subUses": [
             "SHOPPING_CENTER (F-SCC)",
-            "SHOPPING_MALL (F-SCC)",
+            "SHOPPING_MALL (F-SM)",
             "OPEN_MALL (F-SCC)",
             "COMMERCIAL_BUILDING (F-CB)",
             "PETROL_PUMP (F-PS)",
@@ -440,7 +440,7 @@
           "code": "Commercial-2 (C2)",
           "subUses": [
             "SHOPPING_CENTER (F-SCC)",
-            "SHOPPING_MALL (F-SCC)",
+            "SHOPPING_MALL (F-SM)",
             "COMMERCIAL_BUILDING (F-CB)",
             "PETROL_PUMP (F-PS)",
             "FUEL_STATION (F-PS)",
@@ -758,7 +758,7 @@
           "code": "Commercial-2 (C2)",
           "subUses": [
             "SHOPPING_CENTER (F-SCC)",
-            "SHOPPING_MALL (F-SCC)",
+            "SHOPPING_MALL (F-SM)",
             "COMMERCIAL_BUILDING (F-CB)",
             "PETROL_PUMP (F-PS)",
             "FUEL_STATION (F-PS)",
