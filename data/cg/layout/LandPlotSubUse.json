@@ -93,164 +93,164 @@
             "SEMI_DETACHED_HOUSING_UNITS (A-R)",
             "ROW_HOUSING (A-R)",
             "APARTMENTS (A-AF)",
-            "HOSTELS (A-HE)",
-            "DHARAMSHALAS (A-SR)",
+            "HOSTELS (A-H)",
+            "DHARAMSHALAS (A-DNS)",
             "GROUP_HOUSING (A-AF)",
-            "NIGHT_SHELTERS (A-SR)",
+            "NIGHT_SHELTERS (A-DNS)",
             "CRECHES (L-C)",
             "SERVICE_APARTMENTS (A-SA)",
-            "INTEGRATED_TOWNSHIPS (A-SR)"
+            "INTEGRATED_TOWNSHIPS (A-IT)"
           ]
         },
         {
           "plotUse": "COMMERCIAL_1",
           "code": "Commercial-1 (C1)",
           "subUses": [
-            "CONVENIENCE_SHOPS (F-SCC)",
-            "VEGETABLE_SHOP (F-SCC)",
-            "MILK_BOOTH (F-K)",
-            "INTERNET_CENTER (F-IT)",
-            "COTTAGE_INDUSTRY (G-NPHI)",
-            "KIOSK (F-K)",
-            "ATM (F-B)",
+            "CONVENIENCE_SHOPS (F-C1)",
+            "VEGETABLE_SHOP (F-C1)",
+            "MILK_BOOTH (F-C1)",
+            "INTERNET_CENTER (F-C1)",
+            "COTTAGE_INDUSTRY (G-CI)",
+            "KIOSK (F-C1)",
+            "ATM (F-C1)",
             "RESTAURANT (F-RT)",
-            "BAKERY (F-SCC)",
-            "GUMTI (F-K)",
-            "BANK (F-B)",
-            "LODGING_AND_BOARDING (F-LB)",
-            "GUEST_HOUSE (F-LB)"
+            "BAKERY (F-C1)",
+            "GUMTI (F-C1)",
+            "BANK (F-C1)",
+            "LODGING_AND_BOARDING (A-LB)",
+            "GUEST_HOUSE (A-LB)"
           ]
         },
         {
           "plotUse": "COMMERCIAL_2",
           "code": "Commercial-2 (C2)",
           "subUses": [
-            "SHOPPING_CENTER (F-SCC)",
+            "SHOPPING_CENTER (F-C2)",
             "SHOPPING_MALL (F-SM)",
-            "OPEN_MALL (F-SCC)",
-            "COMMERCIAL_BUILDING (F-CB)",
+            "OPEN_MALL (F-OM)",
+            "COMMERCIAL_BUILDING (F-C2)",
             "PETROL_PUMP (F-PS)",
             "FUEL_STATION (F-PS)",
-            "CITY_CENTER (F-CB)",
-            "MULTIPLEX (F-CA)",
-            "MINIPLEX (F-CA)",
-            "GUEST_HOUSES (F-LB)"
+            "CITY_CENTER (F-C2)",
+            "MULTIPLEX (D-M)",
+            "MINIPLEX (D-CA)",
+            "GUEST_HOUSES (A-LB)"
           ]
         },
         {
           "plotUse": "COMMERCIAL_3",
           "code": "Commercial-3 (C3)",
           "subUses": [
-            "WAREHOUSE (G-W)",
-            "GODOWN (G-W)",
-            "WHOLESALE_MARKET (G-WT)",
+            "WAREHOUSE (F-SWG)",
+            "GODOWN (F-SWG)",
+            "WHOLESALE_MARKET (F-C3)",
             "SLAUGHTERHOUSE (G-HI)",
-            "WHOLSESALE_MANDIS (G-WT)",
-            "TIMBER_MARKETS (G-WT)",
-            "STOCKYARDS (G-W)",
-            "SPECIALIZED_MARKETS (F-SCC)"
+            "WHOLSESALE_MANDIS (F-C3)",
+            "TIMBER_MARKETS (F-C3)",
+            "STOCKYARDS (F-SWG)",
+            "SPECIALIZED_MARKETS (F-C3)"
           ]
         },
         {
           "plotUse": "SOCIAL_ESTABLISHMENT",
           "code": "Service Establishment (SE)",
           "subUses": [
-            "AUTO_REPAIR_WORKSHOP (G-RS)",
-            "CONSTRUCTION_WORKSHOP (G-RS)",
-            "CARPENTRY_WORKSHOP (G-RS)",
-            "GARAGE (G-RS)"
+            "AUTO_REPAIR_WORKSHOP (F-SE)",
+            "CONSTRUCTION_WORKSHOP (F-SE)",
+            "CARPENTRY_WORKSHOP (F-SE)",
+            "GARAGE (F-SE)"
           ]
         },
         {
           "plotUse": "EDUCATION_1",
           "code": "Educational-1 (E1)",
           "subUses": [
-            "PRE_PRIMARY_SCHOOL (E-NS)",
-            "PRIMARY_SCHOOL (B-PS)",
-            "MIDDLE_SCHOOL (B-PS)"
+            "PRE_PRIMARY_SCHOOL (B-E1)",
+            "PRIMARY_SCHOOL (B-E1)",
+            "MIDDLE_SCHOOL (B-E1)"
           ]
         },
         {
           "plotUse": "EDUCATION_2",
           "code": "Educational-2 (E2)",
           "subUses": [
-            "SECONDARY_SCHOOL (B2)",
-            "HIGHER_SECONDARY_SCHOOL (L-EB-HSS)",
-            "TRAINING_CENTER_ITI (B-HEI)"
+            "SECONDARY_SCHOOL (B-E2)",
+            "HIGHER_SECONDARY_SCHOOL (B-E2)",
+            "TRAINING_CENTER_ITI (B-E2)"
           ]
         },
         {
           "plotUse": "EDUCATION_3",
           "code": "Educational-3 (E3)",
           "subUses": [
-            "COLLEGE (E-CLG)",
-            "POLYTECHNIC (B-HEI)",
-            "UNIVERSITY (B-HEI)",
-            "RESEARCH_INSTITUTE (L-ERC)"
+            "COLLEGE (B-E3)",
+            "POLYTECHNIC (B-E3)",
+            "UNIVERSITY (B-E3)",
+            "RESEARCH_INSTITUTE (B-E3)"
           ]
         },
         {
           "plotUse": "ASSEMBLY_HALL_1",
           "code": "Assembly-1 (A1)",
           "subUses": [
-            "COMMUNITY_HALL (S-MCH)",
-            "MARRIAGE_HALL (L-MP)",
-            "EXHIBITION_HALL (S-ECFG)",
-            "AUDITORIUM (F-CA)"
+            "COMMUNITY_HALL (D-MCH)",
+            "MARRIAGE_HALL (D-MCH)",
+            "EXHIBITION_HALL (D-AS1)",
+            "AUDITORIUM (D-AS1)"
           ]
         },
         {
           "plotUse": "ASSEMBLY_HALL_2",
           "code": "Assembly-2 (A2)",
           "subUses": [
-            "THEATER (F-CA)",
-            "CINEMA_HALL (F-CA)",
-            "MULTIPLEX (F-CA)",
-            "CLUB (F-LB)",
-            "MUSEUM (L-GPB)",
-            "PLANETARIUM (L-GPB)",
-            "CONVENTION_CENTER (S-ICC)"
+            "THEATER (D-AS2)",
+            "CINEMA_HALL (D-CA)",
+            "MULTIPLEX (D-M)",
+            "CLUB (D-AS2)",
+            "MUSEUM (D-AS2)",
+            "PLANETARIUM (D-AS2)",
+            "CONVENTION_CENTER (D-AS2)"
           ]
         },
         {
           "plotUse": "HEALTH_1",
           "code": "Health-1 (H1)",
           "subUses": [
-            "DISPENSARY (C-MOP)",
-            "CLINIC (C-MOP)",
-            "MATERNITY_HOME (L-NH)",
-            "NURSING_HOME (L-NH)",
-            "PRIMARY_HEALTH_CENTER (C-MOP)"
+            "DISPENSARY (C-H1)",
+            "CLINIC (C-H1)",
+            "MATERNITY_HOME (C-H1)",
+            "NURSING_HOME (C-H1)",
+            "PRIMARY_HEALTH_CENTER (C-H1)"
           ]
         },
         {
           "plotUse": "HEALTH_2",
           "code": "Health-2 (H2)",
           "subUses": [
-            "RESEARCH_CENTER (L-ERC)",
-            "HOSPITAL (M-HOTHC)",
-            "TRAUMA_CENTER (M-HOTHC)",
-            "SPECIALIZED_HOSPITAL (M-HOTHC)",
-            "RADIOLOGY_CENTERS (C-MOP)"
+            "RESEARCH_CENTER (C-H2)",
+            "HOSPITAL (C-H2)",
+            "TRAUMA_CENTER (C-H2)",
+            "SPECIALIZED_HOSPITAL (C-H2)",
+            "RADIOLOGY_CENTERS (C-H2)"
           ]
         },
         {
           "plotUse": "RELIGIOUS_AND_CULTURAL",
           "code": "Religious and cultural (R&C)",
           "subUses": [
-            "PLACES_OF_WORSHIP_OF_VARIOUS_FAITHS (D-A)"
+            "PLACES_OF_WORSHIP_OF_VARIOUS_FAITHS (J-J)"
           ]
         },
         {
           "plotUse": "PUBLIC_INSTITUTIONS",
           "code": "Public Institutions (It)",
           "subUses": [
-            "POST_OFFICE (L-GO)",
-            "COMMUNICATION_NETWORK (L-GPB)",
-            "POLICE_STATION (L-GO)",
-            "JAIL (L-GO)",
-            "GOVERNMENT_AND_SEMI_GOVERNMENT_OFFICES (L-GO)",
-            "PUBLIC_LIBRARY (L-GPB)"
+            "POST_OFFICE (C-I)",
+            "COMMUNICATION_NETWORK (C-I)",
+            "POLICE_STATION (C-I)",
+            "JAIL (C-I)",
+            "GOVERNMENT_AND_SEMI_GOVERNMENT_OFFICES (C-I)",
+            "PUBLIC_LIBRARY (C-I)"
           ]
         },
         {
@@ -273,19 +273,19 @@
           "plotUse": "HOSPITALITY",
           "code": "Hospitality (HP)",
           "subUses": [
-            "HOTEL (F-HM)",
-            "MOTEL (F-HM)",
-            "GUEST_HOUSE (F-LB)",
-            "PARTY_PLOT (S-BH)",
-            "PATHOLOGY_LAB (C-MOP)"
+            "HOTEL (I-H)",
+            "MOTEL (I-M)",
+            "GUEST_HOUSE (A-LB)",
+            "PARTY_PLOT (I-HP)",
+            "PATHOLOGY_LAB (C-H1)"
           ]
         },
         {
           "plotUse": "INDUSTRIAL_1",
           "code": "Industrial-1 (I1)",
           "subUses": [
-            "GREEN_CATEGORY_INDUSTRY (G-NPHI)",
-            "SERVICE_INDUSTRY (G-RS)"
+            "GREEN_CATEGORY_INDUSTRY (G-GI)",
+            "SERVICE_INDUSTRY (G-SI)"
           ]
         },
         {
@@ -297,13 +297,13 @@
             "STONE_CRUSHING (G-PHI)",
             "MEAT_PROCESSING (G-PHI)",
             "LEATHER_PROCESSING (G-PHI)",
-            "COLD_STORAGE (G-S)",
+            "COLD_STORAGE (F-SWG)",
             "FUEL_STORAGE (G-S)",
             "FLAMMABLE_MATERIAL_STORAGE (I-1)",
             "THERMAL_POWER_PLANT (G-PHI)",
             "GAS_BASED_POWER_PLANT (G-PHI)",
-            "ORANGE_CATEGORY_INDUSTRY (G-PHI)",
-            "RED_CATEGORY_INDUSTRY (G-HI)",
+            "ORANGE_CATEGORY_INDUSTRY (G-OI)",
+            "RED_CATEGORY_INDUSTRY (G-OI)",
             "ICE_FACTORY (G-GI)",
             "STONE_CRUSHING (G-PHI)",
             "HAZARSDOUS_INDUSTRY (G-HI)"
@@ -358,37 +358,37 @@
         },
         {
           "plotUse": "AGRICULTURE_1",
-          "code": "AG1",
+          "code": "Agriculture-1 (A1)",
           "subUses": [
-            "AGRICULTURE (NA)",
-            "GARDENING (NA)",
-            "BRICK_KILNS (G-PHI)",
-            "HORTICULTURE (NA)",
-            "CAPACITIVE (NA)",
-            "DAIRY_DEVELOPMENT (NA)",
-            "FISHERIES (NA)",
-            "ANIMAL_HUSBANDRY_AND_BREEDING (M-VH)",
-            "NATURAL_RESOURCE_SANCTUARIES (NA)",
-            "BIO_ETHANOL_PLANTS (G-PHI)",
-            "CAPTIVE_POWER_PLANTS_ONLY (G-PHI)"
+            "AGRICULTURE (H-A1)",
+            "GARDENING (H-A1)",
+            "BRICK_KILNS (H-A1I)",
+            "HORTICULTURE (H-A1)",
+            "CAPACITIVE (H-A2I)",
+            "DAIRY_DEVELOPMENT (H-A1C)",
+            "FISHERIES (H-A1C)",
+            "ANIMAL_HUSBANDRY_AND_BREEDING (H-A1C)",
+            "NATURAL_RESOURCE_SANCTUARIES (H-A1)",
+            "BIO_ETHANOL_PLANTS (H-A2I)",
+            "CAPTIVE_POWER_PLANTS_ONLY (H-A2I)"
           ]
         },
         {
           "plotUse": "AGRICULTURE_2",
-          "code": "Agriculture-1 (A1)",
+          "code": "Agriculture-2 (A2)",
           "subUses": [
-            "MINING_AND_QUARRYING (G-PHI)",
-            "LANDFILL_SITE (NA)",
-            "AGRICULTURAL_EQUIPMENT_REPAIR_AND_SALE (G-RS)",
-            "SAW_MILL (G-RS)",
-            "ROADSIDE_DHABA (F-D)",
-            "POULTRY_FARM (A-FH)",
+            "MINING_AND_QUARRYING (H-A2I)",
+            "LANDFILL_SITE (H-A2I)",
+            "AGRICULTURAL_EQUIPMENT_REPAIR_AND_SALE (H-A2C)",
+            "SAW_MILL (H-A2C)",
+            "ROADSIDE_DHABA (H-A2C)",
+            "POULTRY_FARM (H-A2C)",
             "FARM_HOUSE (A-FH)",
             "PETROL_PUMPS (F-PS)",
             "FUEL_STATIONS (F-PS)",
-            "BIO_ETHANOL_PLANT (G-PHI)",
-            "CAPACITIVE_POWER_PLANT (G-PHI)",
-            "FARM_EQUIPMENT_REPAIR/SALE (G-RS)"
+            "BIO_ETHANOL_PLANT (H-A2I)",
+            "CAPACITIVE_POWER_PLANT (H-A2I)",
+            "FARM_EQUIPMENT_REPAIR/SALE (H-A2C)"
           ]
         }
       ]
@@ -413,55 +413,55 @@
             "SEMI_DETACHED_HOUSING_UNITS (A-R)",
             "ROW_HOUSING (A-R)",
             "APARTMENTS (A-AF)",
-            "HOSTELS (A-HE)",
-            "DHARAMSHALAS (A-SR)",
+            "HOSTELS (A-H)",
+            "DHARAMSHALAS (A-DNS)",
             "GROUP_HOUSING (A-AF)",
-            "NIGHT_SHELTERS (A-SR)",
+            "NIGHT_SHELTERS (A-DNS)",
             "CRECHES (L-C)",
             "SERVICE_APARTMENTS (A-SA)",
-            "INTEGRATED_TOWNSHIPS (A-SR)"
+            "INTEGRATED_TOWNSHIPS (A-IT)"
           ]
         },
         {
           "plotUse": "COMMERCIAL_1",
           "code": "Commercial-1 (C1)",
           "subUses": [
-            "CONVENIENCE_SHOPS (F-SCC)",
-            "VEGETABLE_SHOP (F-SCC)",
-            "MILK_BOOTH (F-K)",
-            "INTERNET_CENTER (F-IT)",
-            "COTTAGE_INDUSTRY (G-NPHI)",
-            "KIOSK (F-K)",
-            "ATM (F-B)"
+            "CONVENIENCE_SHOPS (F-C1)",
+            "VEGETABLE_SHOP (F-C1)",
+            "MILK_BOOTH (F-C1)",
+            "INTERNET_CENTER (F-C1)",
+            "COTTAGE_INDUSTRY (G-CI)",
+            "KIOSK (F-C1)",
+            "ATM (F-C1)"
           ]
         },
         {
           "plotUse": "COMMERCIAL_2",
           "code": "Commercial-2 (C2)",
           "subUses": [
-            "SHOPPING_CENTER (F-SCC)",
+            "SHOPPING_CENTER (F-C2)",
             "SHOPPING_MALL (F-SM)",
-            "COMMERCIAL_BUILDING (F-CB)",
+            "COMMERCIAL_BUILDING (F-C2)",
             "PETROL_PUMP (F-PS)",
             "FUEL_STATION (F-PS)",
-            "GUEST_HOUSES (F-LB)",
-            "CITY_CENTER (F-CB)",
+            "GUEST_HOUSES (A-LB)",
+            "CITY_CENTER (F-C2)",
             "RESTAURANT (F-RT)",
-            "BAKERY (F-SCC)",
-            "BANK (F-B)",
-            "LODGING_AND_BOARDING (F-LB)"
+            "BAKERY (F-C2)",
+            "BANK (F-C2)",
+            "LODGING_AND_BOARDING (A-LB)"
           ]
         },
         {
           "plotUse": "COMMERCIAL_3",
           "code": "Commercial-3 (C3)",
           "subUses": [
-            "WAREHOUSE (G-W)",
-            "GODOWN (G-W)",
-            "WHOLESALE_MARKET (G-WT)",
-            "TIMBER_MARKETS (G-WT)",
-            "STOCKYARDS (G-W)",
-            "SPECIALIZED_MARKETS (F-SCC)",
+            "WAREHOUSE (F-SWG)",
+            "GODOWN (F-SWG)",
+            "WHOLESALE_MARKET (F-C3)",
+            "TIMBER_MARKETS (F-C3)",
+            "STOCKYARDS (F-SWG)",
+            "SPECIALIZED_MARKETS (F-C3)",
             "SLAUGHTERHOUSE (G-HI)"
           ]
         },
@@ -469,102 +469,102 @@
           "plotUse": "SOCIAL_ESTABLISHMENT",
           "code": "Service Establishment (SE)",
           "subUses": [
-            "AUTO_REPAIR_WORKSHOP (G-RS)",
-            "CONSTRUCTION_WORKSHOP (G-RS)",
-            "CARPENTRY_WORKSHOP (G-RS)",
-            "GARAGE (G-RS)"
+            "AUTO_REPAIR_WORKSHOP (F-SE)",
+            "CONSTRUCTION_WORKSHOP (F-SE)",
+            "CARPENTRY_WORKSHOP (F-SE)",
+            "GARAGE (F-SE)"
           ]
         },
         {
           "plotUse": "EDUCATION_1",
           "code": "Educational-1 (E1)",
           "subUses": [
-            "PRE_PRIMARY_SCHOOL (E-NS)",
-            "PRIMARY_SCHOOL (B-PS)",
-            "MIDDLE_SCHOOL (B-PS)"
+            "PRE_PRIMARY_SCHOOL (B-E1)",
+            "PRIMARY_SCHOOL (B-E1)",
+            "MIDDLE_SCHOOL (B-E1)"
           ]
         },
         {
           "plotUse": "EDUCATION_2",
           "code": "Educational-2 (E2)",
           "subUses": [
-            "SECONDARY_SCHOOL (B2)",
-            "HIGHER_SECONDARY_SCHOOL (L-EB-HSS)",
-            "TRAINING_CENTER_ITI (B-HEI)"
+            "SECONDARY_SCHOOL (B-E2)",
+            "HIGHER_SECONDARY_SCHOOL (B-E2)",
+            "TRAINING_CENTER_ITI (B-E2)"
           ]
         },
         {
           "plotUse": "EDUCATION_3",
           "code": "Educational-3 (E3)",
           "subUses": [
-            "COLLEGE (E-CLG)",
-            "POLYTECHNIC (B-HEI)",
-            "UNIVERSITY (B-HEI)",
-            "RESEARCH_INSTITUTE (L-ERC)"
+            "COLLEGE (B-E3)",
+            "POLYTECHNIC (B-E3)",
+            "UNIVERSITY (B-E3)",
+            "RESEARCH_INSTITUTE (B-E3)"
           ]
         },
         {
           "plotUse": "ASSEMBLY_HALL_1",
           "code": "Assembly-1 (A1)",
           "subUses": [
-            "COMMUNITY_HALL (S-MCH)",
-            "MARRIAGE_HALL (L-MP)",
-            "EXHIBITION_HALL (S-ECFG)",
-            "AUDITORIUM (F-CA)"
+            "COMMUNITY_HALL (D-MCH)",
+            "MARRIAGE_HALL (D-MCH)",
+            "EXHIBITION_HALL (D-AS1)",
+            "AUDITORIUM (D-AS1)"
           ]
         },
         {
           "plotUse": "ASSEMBLY_HALL_2",
           "code": "Assembly-2 (A2)",
           "subUses": [
-            "THEATER (F-CA)",
-            "CINEMA_HALL (F-CA)",
-            "MULTIPLEX (F-CA)",
-            "CLUB (F-LB)",
-            "MUSEUM (L-GPB)",
-            "PLANETARIUM (L-GPB)",
-            "CONVENTION_CENTER (S-ICC)"
+            "THEATER (D-AS2)",
+            "CINEMA_HALL (D-CA)",
+            "MULTIPLEX (D-M)",
+            "CLUB (D-AS2)",
+            "MUSEUM (D-AS2)",
+            "PLANETARIUM (D-AS2)",
+            "CONVENTION_CENTER (D-AS2)"
           ]
         },
         {
           "plotUse": "HEALTH_1",
           "code": "Health-1 (H1)",
           "subUses": [
-            "DISPENSARY (C-MOP)",
-            "CLINIC (C-MOP)",
-            "MATERNITY_HOME (L-NH)",
-            "NURSING_HOME (L-NH)",
-            "PRIMARY_HEALTH_CENTER (C-MOP)"
+            "DISPENSARY (C-H1)",
+            "CLINIC (C-H1)",
+            "MATERNITY_HOME (C-H1)",
+            "NURSING_HOME (C-H1)",
+            "PRIMARY_HEALTH_CENTER (C-H1)"
           ]
         },
         {
           "plotUse": "HEALTH_2",
           "code": "Health-2 (H2)",
           "subUses": [
-            "RESEARCH_CENTER (L-ERC)",
-            "HOSPITAL (M-HOTHC)",
-            "TRAUMA_CENTER (M-HOTHC)",
-            "SPECIALIZED_HOSPITAL (M-HOTHC)"
+            "RESEARCH_CENTER (C-H2)",
+            "HOSPITAL (C-H2)",
+            "TRAUMA_CENTER (C-H2)",
+            "SPECIALIZED_HOSPITAL (C-H2)"
           ]
         },
         {
           "plotUse": "RELIGIOUS_AND_CULTURAL",
           "code": "Religious and cultural (R&C)",
           "subUses": [
-            "PLACES_OF_WORSHIP_OF_VARIOUS_FAITHS (D-A)"
+            "PLACES_OF_WORSHIP_OF_VARIOUS_FAITHS (J-J)"
           ]
         },
         {
           "plotUse": "PUBLIC_INSTITUTIONS",
           "code": "Public Institutions (It)",
           "subUses": [
-            "POST_OFFICE (L-GO)",
-            "COMMUNICATION_NETWORK (L-GPB)",
-            "POLICE_STATION (L-GO)",
-            "JAIL (L-GO)",
-            "GOVERNMENT_AND_SEMI_GOVERNMENT_OFFICES (L-GO)",
-            "GOVERNMENT_AND_SEMI_GOVERNMENT_FACILITIES (L-GO)",
-            "PUBLIC_LIBRARY (L-GPB)"
+            "POST_OFFICE (C-I)",
+            "COMMUNICATION_NETWORK (C-I)",
+            "POLICE_STATION (C-I)",
+            "JAIL (C-I)",
+            "GOVERNMENT_AND_SEMI_GOVERNMENT_OFFICES (C-I)",
+            "GOVERNMENT_AND_SEMI_GOVERNMENT_FACILITIES (C-I)",
+            "PUBLIC_LIBRARY (C-I)"
           ]
         },
         {
@@ -587,18 +587,18 @@
           "plotUse": "HOSPITALITY",
           "code": "Hospitality (HP)",
           "subUses": [
-            "HOTEL (F-HM)",
-            "MOTEL (F-HM)",
-            "PARTY_PLOT (S-BH)"
+            "HOTEL (I-H)",
+            "MOTEL (I-M)",
+            "PARTY_PLOT (I-HP)"
           ]
         },
         {
           "plotUse": "INDUSTRIAL_1",
           "code": "Industrial-1 (I1)",
           "subUses": [
-            "GREEN_CATEGORY_INDUSTRY (G-NPHI)",
-            "ORANGE_CATEGORY_INDUSTRY (G-PHI)",
-            "SERVICE_INDUSTRY (G-RS)"
+            "GREEN_CATEGORY_INDUSTRY (G-GI)",
+            "ORANGE_CATEGORY_INDUSTRY (G-OI)",
+            "SERVICE_INDUSTRY (G-SI)"
           ]
         },
         {
@@ -612,7 +612,7 @@
             "GRAVEL_SOIL (G-PHI)",
             "MEAT_PROCESSING (G-PHI)",
             "LEATHER_PROCESSING (G-PHI)",
-            "COLD_STORAGE (G-S)",
+            "COLD_STORAGE (F-SWG)",
             "FUEL_STORAGE (G-S)",
             "FLAMMABLE_MATERIAL_STORAGE (I-1)",
             "THERMAL_POWER_PLANT (G-PHI)",
@@ -621,7 +621,7 @@
             "STORAGE_OF_POLLUTING_AND_HAZARDOUS_MATERIAL (I-2)",
             "HAZARSDOUS_INDUSTRY (G-HI)",
             "CHEMICAL_INDUSTRY (G-HI)",
-            "HOUSING_UNITS_FOR_INDUSTRIAL_WORKERS (A-SR)"
+            "HOUSING_UNITS_FOR_INDUSTRIAL_WORKERS (A-AF)"
           ]
         },
         {
@@ -674,27 +674,27 @@
         },
         {
           "plotUse": "AGRICULTURE_1",
-          "code": "AG1",
+          "code": "Agriculture-1 (A1)",
           "subUses": [
-            "AGRICULTURE (NA)",
-            "HORTICULTURE (NA)",
-            "DAIRY_DEVELOPMENT (NA)",
-            "FISHERIES (NA)",
-            "ANIMAL_HUSBANDRY_AND_BREEDING (M-VH)",
-            "NATURAL_RESOURCE_SANCTUARIES (NA)",
-            "BRICK_KILNS (G-PHI)"
+            "AGRICULTURE (H-A1)",
+            "HORTICULTURE (H-A1)",
+            "DAIRY_DEVELOPMENT (H-A1C)",
+            "FISHERIES (H-A1C)",
+            "ANIMAL_HUSBANDRY_AND_BREEDING (H-A1C)",
+            "NATURAL_RESOURCE_SANCTUARIES (H-A1)",
+            "BRICK_KILNS (H-A1I)"
           ]
         },
         {
           "plotUse": "AGRICULTURE_2",
-          "code": "Agriculture-1 (A1)",
+          "code": "Agriculture-2 (A2)",
           "subUses": [
-            "MINING_AND_QUARRYING (G-PHI)",
-            "LANDFILL_SITE (NA)",
-            "AGRICULTURAL_EQUIPMENT_REPAIR_AND_SALE (G-RS)",
-            "SAW_MILL (G-RS)",
-            "ROADSIDE_DHABA (F-D)",
-            "POULTRY_FARM (A-FH)",
+            "MINING_AND_QUARRYING (H-A2I)",
+            "LANDFILL_SITE (H-A2I)",
+            "AGRICULTURAL_EQUIPMENT_REPAIR_AND_SALE (H-A2C)",
+            "SAW_MILL (H-A2C)",
+            "ROADSIDE_DHABA (H-A2C)",
+            "POULTRY_FARM (H-A2C)",
             "FARM_HOUSE (A-FH)"
           ]
         },
@@ -731,55 +731,55 @@
             "SEMI_DETACHED_HOUSING_UNITS (A-R)",
             "ROW_HOUSING (A-R)",
             "APARTMENTS (A-AF)",
-            "HOSTELS (A-HE)",
-            "DHARAMSHALAS (A-SR)",
+            "HOSTELS (A-H)",
+            "DHARAMSHALAS (A-DNS)",
             "GROUP_HOUSING (A-AF)",
-            "NIGHT_SHELTERS (A-SR)",
+            "NIGHT_SHELTERS (A-DNS)",
             "CRECHES (L-C)",
             "SERVICE_APARTMENTS (A-SA)",
-            "INTEGRATED_TOWNSHIPS (A-SR)"
+            "INTEGRATED_TOWNSHIPS (A-IT)"
           ]
         },
         {
           "plotUse": "COMMERCIAL_1",
           "code": "Commercial-1 (C1)",
           "subUses": [
-            "CONVENIENCE_SHOPS (F-SCC)",
-            "VEGETABLE_SHOP (F-SCC)",
-            "MILK_BOOTH (F-K)",
-            "INTERNET_CENTER (F-IT)",
-            "COTTAGE_INDUSTRY (G-NPHI)",
-            "KIOSK (F-K)",
-            "ATM (F-B)"
+            "CONVENIENCE_SHOPS (F-C1)",
+            "VEGETABLE_SHOP (F-C1)",
+            "MILK_BOOTH (F-C1)",
+            "INTERNET_CENTER (F-C1)",
+            "COTTAGE_INDUSTRY (G-CI)",
+            "KIOSK (F-C1)",
+            "ATM (F-C1)"
           ]
         },
         {
           "plotUse": "COMMERCIAL_2",
           "code": "Commercial-2 (C2)",
           "subUses": [
-            "SHOPPING_CENTER (F-SCC)",
+            "SHOPPING_CENTER (F-C2)",
             "SHOPPING_MALL (F-SM)",
-            "COMMERCIAL_BUILDING (F-CB)",
+            "COMMERCIAL_BUILDING (F-C2)",
             "PETROL_PUMP (F-PS)",
             "FUEL_STATION (F-PS)",
-            "GUEST_HOUSES (F-LB)",
-            "CITY_CENTER (F-CB)",
+            "GUEST_HOUSES (A-LB)",
+            "CITY_CENTER (F-C2)",
             "RESTAURANT (F-RT)",
-            "BAKERY (F-SCC)",
-            "BANK (F-B)",
-            "LODGING_AND_BOARDING (F-LB)"
+            "BAKERY (F-C2)",
+            "BANK (F-C2)",
+            "LODGING_AND_BOARDING (A-LB)"
           ]
         },
         {
           "plotUse": "COMMERCIAL_3",
           "code": "Commercial-3 (C3)",
           "subUses": [
-            "WAREHOUSE (G-W)",
-            "GODOWN (G-W)",
-            "WHOLESALE_MARKET (G-WT)",
-            "TIMBER_MARKETS (G-WT)",
-            "STOCKYARDS (G-W)",
-            "SPECIALIZED_MARKETS (F-SCC)",
+            "WAREHOUSE (F-SWG)",
+            "GODOWN (F-SWG)",
+            "WHOLESALE_MARKET (F-C3)",
+            "TIMBER_MARKETS (F-C3)",
+            "STOCKYARDS (F-SWG)",
+            "SPECIALIZED_MARKETS (F-C3)",
             "SLAUGHTERHOUSE (G-HI)"
           ]
         },
@@ -787,102 +787,102 @@
           "plotUse": "SOCIAL_ESTABLISHMENT",
           "code": "Service Establishment (SE)",
           "subUses": [
-            "AUTO_REPAIR_WORKSHOP (G-RS)",
-            "CONSTRUCTION_WORKSHOP (G-RS)",
-            "CARPENTRY_WORKSHOP (G-RS)",
-            "GARAGE (G-RS)"
+            "AUTO_REPAIR_WORKSHOP (F-SE)",
+            "CONSTRUCTION_WORKSHOP (F-SE)",
+            "CARPENTRY_WORKSHOP (F-SE)",
+            "GARAGE (F-SE)"
           ]
         },
         {
           "plotUse": "EDUCATION_1",
           "code": "Educational-1 (E1)",
           "subUses": [
-            "PRE_PRIMARY_SCHOOL (E-NS)",
-            "PRIMARY_SCHOOL (B-PS)",
-            "MIDDLE_SCHOOL (B-PS)"
+            "PRE_PRIMARY_SCHOOL (B-E1)",
+            "PRIMARY_SCHOOL (B-E1)",
+            "MIDDLE_SCHOOL (B-E1)"
           ]
         },
         {
           "plotUse": "EDUCATION_2",
           "code": "Educational-2 (E2)",
           "subUses": [
-            "SECONDARY_SCHOOL (B2)",
-            "HIGHER_SECONDARY_SCHOOL (L-EB-HSS)",
-            "TRAINING_CENTER_ITI (B-HEI)"
+            "SECONDARY_SCHOOL (B-E2)",
+            "HIGHER_SECONDARY_SCHOOL (B-E2)",
+            "TRAINING_CENTER_ITI (B-E2)"
           ]
         },
         {
           "plotUse": "EDUCATION_3",
           "code": "Educational-3 (E3)",
           "subUses": [
-            "COLLEGE (E-CLG)",
-            "POLYTECHNIC (B-HEI)",
-            "UNIVERSITY (B-HEI)",
-            "RESEARCH_INSTITUTE (L-ERC)"
+            "COLLEGE (B-E3)",
+            "POLYTECHNIC (B-E3)",
+            "UNIVERSITY (B-E3)",
+            "RESEARCH_INSTITUTE (B-E3)"
           ]
         },
         {
           "plotUse": "ASSEMBLY_HALL_1",
           "code": "Assembly-1 (A1)",
           "subUses": [
-            "COMMUNITY_HALL (S-MCH)",
-            "MARRIAGE_HALL (L-MP)",
-            "EXHIBITION_HALL (S-ECFG)",
-            "AUDITORIUM (F-CA)"
+            "COMMUNITY_HALL (D-MCH)",
+            "MARRIAGE_HALL (D-MCH)",
+            "EXHIBITION_HALL (D-AS1)",
+            "AUDITORIUM (D-AS1)"
           ]
         },
         {
           "plotUse": "ASSEMBLY_HALL_2",
           "code": "Assembly-2 (A2)",
           "subUses": [
-            "THEATER (F-CA)",
-            "CINEMA_HALL (F-CA)",
-            "MULTIPLEX (F-CA)",
-            "CLUB (F-LB)",
-            "MUSEUM (L-GPB)",
-            "PLANETARIUM (L-GPB)",
-            "CONVENTION_CENTER (S-ICC)"
+            "THEATER (D-AS2)",
+            "CINEMA_HALL (D-CA)",
+            "MULTIPLEX (D-M)",
+            "CLUB (D-AS2)",
+            "MUSEUM (D-AS2)",
+            "PLANETARIUM (D-AS2)",
+            "CONVENTION_CENTER (D-AS2)"
           ]
         },
         {
           "plotUse": "HEALTH_1",
           "code": "Health-1 (H1)",
           "subUses": [
-            "DISPENSARY (C-MOP)",
-            "CLINIC (C-MOP)",
-            "MATERNITY_HOME (L-NH)",
-            "NURSING_HOME (L-NH)",
-            "PRIMARY_HEALTH_CENTER (C-MOP)"
+            "DISPENSARY (C-H1)",
+            "CLINIC (C-H1)",
+            "MATERNITY_HOME (C-H1)",
+            "NURSING_HOME (C-H1)",
+            "PRIMARY_HEALTH_CENTER (C-H1)"
           ]
         },
         {
           "plotUse": "HEALTH_2",
           "code": "Health-2 (H2)",
           "subUses": [
-            "RESEARCH_CENTER (L-ERC)",
-            "HOSPITAL (M-HOTHC)",
-            "TRAUMA_CENTER (M-HOTHC)",
-            "SPECIALIZED_HOSPITAL (M-HOTHC)"
+            "RESEARCH_CENTER (C-H2)",
+            "HOSPITAL (C-H2)",
+            "TRAUMA_CENTER (C-H2)",
+            "SPECIALIZED_HOSPITAL (C-H2)"
           ]
         },
         {
           "plotUse": "RELIGIOUS_AND_CULTURAL",
           "code": "Religious and cultural (R&C)",
           "subUses": [
-            "WORSHIP_PLACE (D-A)"
+            "WORSHIP_PLACE (J-J)"
           ]
         },
         {
           "plotUse": "PUBLIC_INSTITUTIONS",
           "code": "Public Institutions (It)",
           "subUses": [
-            "POST_OFFICE (L-GO)",
-            "COMMUNICATION_NETWORK (L-GPB)",
-            "POLICE_STATION (L-GO)",
-            "JAIL (L-GO)",
-            "GOVERNMENT_AND_SEMI_GOVERNMENT_OFFICES (L-GO)",
-            "GOVERNMENT_AND_SEMI_GOVERNMENT_FACILITIES (L-GO)",
-            "PUBLIC_LIBRARY (L-GPB)"
+            "POST_OFFICE (C-I)",
+            "COMMUNICATION_NETWORK (C-I)",
+            "POLICE_STATION (C-I)",
+            "JAIL (C-I)",
+            "GOVERNMENT_AND_SEMI_GOVERNMENT_OFFICES (C-I)",
+            "GOVERNMENT_AND_SEMI_GOVERNMENT_FACILITIES (C-I)",
+            "PUBLIC_LIBRARY (C-I)"
           ]
         },
         {
@@ -905,18 +905,18 @@
           "plotUse": "HOSPITALITY",
           "code": "Hospitality (HP)",
           "subUses": [
-            "HOTEL (F-HM)",
-            "MOTEL (F-HM)",
-            "PARTY_PLOT (S-BH)"
+            "HOTEL (I-H)",
+            "MOTEL (I-M)",
+            "PARTY_PLOT (I-HP)"
           ]
         },
         {
           "plotUse": "INDUSTRIAL_1",
           "code": "Industrial-1 (I1)",
           "subUses": [
-            "GREEN_CATEGORY_INDUSTRY (G-NPHI)",
-            "ORANGE_CATEGORY_INDUSTRY (G-PHI)",
-            "SERVICE_INDUSTRY (G-RS)"
+            "GREEN_CATEGORY_INDUSTRY (G-GI)",
+            "ORANGE_CATEGORY_INDUSTRY (G-OI)",
+            "SERVICE_INDUSTRY (G-SI)"
           ]
         },
         {
@@ -930,7 +930,7 @@
             "GRAVEL_AND_SOIL_PROCESSING_UNIT (G-PHI)",
             "MEAT_PROCESSING_UNIT (G-PHI)",
             "LEATHER_PROCESSING_UNIT (G-PHI)",
-            "COLD_STORAGE (G-S)",
+            "COLD_STORAGE (F-SWG)",
             "FUEL_STORAGE (G-S)",
             "FLAMMABLE_MATERIAL_STORAGE (I-1)",
             "THERMAL_POWER_PLANT (G-PHI)",
@@ -939,7 +939,7 @@
             "STORAGE_OF_POLLUTING_AND_HAZARDOUS_MATERIAL (I-2)",
             "HAZARSDOUS_INDUSTRY (G-HI)",
             "CHEMICAL_INDUSTRY (G-HI)",
-            "HOUSING_UNITS_FOR_INDUSTRIAL_WORKERS (A-SR)"
+            "HOUSING_UNITS_FOR_INDUSTRIAL_WORKERS (A-AF)"
           ]
         },
         {
@@ -991,27 +991,27 @@
         },
         {
           "plotUse": "AGRICULTURE_1",
-          "code": "AG1",
+          "code": "Agriculture-1 (A1)",
           "subUses": [
-            "AGRICULTURE (NA)",
-            "HORTICULTURE (NA)",
-            "DAIRY_DEVELOPMENT (NA)",
-            "FISHERIES (NA)",
-            "ANIMAL_HUSBANDRY_AND_BREEDING (M-VH)",
-            "NATURAL_RESOURCE_SANCTUARIES (NA)",
-            "BRICK_KILNS (G-PHI)"
+            "AGRICULTURE (H-A1)",
+            "HORTICULTURE (H-A1)",
+            "DAIRY_DEVELOPMENT (H-A1C)",
+            "FISHERIES (H-A1C)",
+            "ANIMAL_HUSBANDRY_AND_BREEDING (H-A1C)",
+            "NATURAL_RESOURCE_SANCTUARIES (H-A1)",
+            "BRICK_KILNS (H-A1I)"
           ]
         },
         {
           "plotUse": "AGRICULTURE_2",
-          "code": "Agriculture-1 (A1)",
+          "code": "Agriculture-2 (A2)",
           "subUses": [
-            "MINING_AND_QUARRYING (G-PHI)",
-            "LANDFILL_SITE (NA)",
-            "AGRICULTURAL_EQUIPMENT_REPAIR_AND_SALE (G-RS)",
-            "SAW_MILL (G-RS)",
-            "ROADSIDE_DHABA (F-D)",
-            "POULTRY_FARM (A-FH)",
+            "MINING_AND_QUARRYING (H-A2I)",
+            "LANDFILL_SITE (H-A2I)",
+            "AGRICULTURAL_EQUIPMENT_REPAIR_AND_SALE (H-A2C)",
+            "SAW_MILL (H-A2C)",
+            "ROADSIDE_DHABA (H-A2C)",
+            "POULTRY_FARM (H-A2C)",
             "FARM_HOUSE (A-FH)"
           ]
         },
