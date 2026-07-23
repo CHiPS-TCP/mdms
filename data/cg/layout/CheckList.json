@@ -25,7 +25,7 @@
           "status": false,
           "remarks": false,
           "required": true,
-          "maxFutureDays": "7"
+          "maxFutureDays": "SEVEN"
         },
         {
           "question": "VILLAGE_NAME_WARD_NO_AND_NAME",
