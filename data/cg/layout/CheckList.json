@@ -19,13 +19,13 @@
         },
         {
           "question": "DATE_OF_SITE_VISIT",
-          "maxFutureDays": "7",
           "fieldType": "DATE",
           "autoFetch": false,
           "active": true,
           "status": false,
           "remarks": false,
-          "required": true
+          "required": true,
+          "maxFutureDays": "7"
         },
         {
           "question": "VILLAGE_NAME_WARD_NO_AND_NAME",
