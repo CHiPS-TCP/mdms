@@ -15,7 +15,8 @@
           "active": true,
           "status": false,
           "remarks": false,
-          "required": true
+          "required": true,
+          "maxFutureDays": "0"
         },
         {
           "question": "DATE_OF_SITE_VISIT",
@@ -25,7 +26,7 @@
           "status": false,
           "remarks": false,
           "required": true,
-          "maxFutureDays": "SEVEN"
+          "maxFutureDays": "7"
         },
         {
           "question": "VILLAGE_NAME_WARD_NO_AND_NAME",
@@ -34,7 +35,8 @@
           "active": true,
           "status": false,
           "remarks": false,
-          "required": true
+          "required": true,
+          "maxFutureDays": "0"
         },
         {
           "question": "IS_LOCATION_OF_LAND_AS_PER_APPROVED_LAYOUT_DEVELOPMENT_PLAN",
@@ -43,7 +45,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": true
+          "required": true,
+          "maxFutureDays": "0"
         },
         {
           "question": "KUTCHA_PAKKA_ROAD_IS_AVAILABLE_UP_TO_SITE",
@@ -52,7 +55,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": true
+          "required": true,
+          "maxFutureDays": "0"
         },
         {
           "question": "EXISTING_ROAD_WIDTH_IN_FRONT_SIDE_OF_PLOT",
@@ -61,7 +65,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": true
+          "required": true,
+          "maxFutureDays": "0"
         },
         {
           "question": "DOES_ROAD_EXIST_ON_OTHER_SIDES_OF_PLOT",
@@ -70,7 +75,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": true
+          "required": true,
+          "maxFutureDays": "0"
         },
         {
           "question": "EAST",
@@ -79,7 +85,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": false
+          "required": false,
+          "maxFutureDays": "0"
         },
         {
           "question": "WEST",
@@ -88,7 +95,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": false
+          "required": false,
+          "maxFutureDays": "0"
         },
         {
           "question": "NORTH",
@@ -97,7 +105,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": false
+          "required": false,
+          "maxFutureDays": "0"
         },
         {
           "question": "SOUTH",
@@ -106,7 +115,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": false
+          "required": false,
+          "maxFutureDays": "0"
         },
         {
           "question": "LAYOUT_OF_LAND_IN_QUESTION_NOT_APPROVED_AS_PER_RULES_BUT_DEVELOPMENT_OF_AREA_HAS_BEEN_DONE",
@@ -115,7 +125,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": true
+          "required": true,
+          "maxFutureDays": "0"
         },
         {
           "question": "HT_LINE_IS_ADJOINING_THE_SITE",
@@ -124,7 +135,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": true
+          "required": true,
+          "maxFutureDays": "0"
         },
         {
           "question": "THE_DISTANCE_OF_HT_LINE_FROM_SITE_IN_METERS",
@@ -133,7 +145,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": false
+          "required": false,
+          "maxFutureDays": "0"
         },
         {
           "question": "IS_NALAH_MAJOR_DRAIN_ADJACENT_TO_PLOT",
@@ -142,7 +155,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": true
+          "required": true,
+          "maxFutureDays": "0"
         },
         {
           "question": "NEAREST_DISTANCE_OF_NALAS_FROM_PLOT",
@@ -151,7 +165,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": false
+          "required": false,
+          "maxFutureDays": "0"
         },
         {
           "question": "DETAILS_AND_USE_OF_PRESENT_AND_PROPOSED_DEVELOPMENT_AT_THE_SITE",
@@ -160,7 +175,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": true
+          "required": true,
+          "maxFutureDays": "0"
         },
         {
           "question": "DEVELOPMENT_HAS_BEEN_STARTED_ON_SITE_BEFORE_APPROVAL_OR_NOT",
@@ -169,7 +185,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": true
+          "required": true,
+          "maxFutureDays": "0"
         },
         {
           "question": "HAS_BUILDING_BEEN_COMPLETED_ON_SITE_AS_PER_SUBMITTED_DRAWING_BEFORE_APPROVAL_OF_BUILDING_PLAN",
@@ -178,7 +195,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": true
+          "required": true,
+          "maxFutureDays": "0"
         },
         {
           "question": "IS_BUILDING_PERMISSION_TAKEN_FOR_SITE",
@@ -187,7 +205,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": true
+          "required": true,
+          "maxFutureDays": "0"
         },
         {
           "question": "STATE_THE_YEAR_OF_PERMISSION_AND_DETAILS",
@@ -196,7 +215,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": false
+          "required": false,
+          "maxFutureDays": "0"
         },
         {
           "question": "APPROVED_AND_PRESENT_SETBACK_FRONT",
@@ -205,7 +225,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": false
+          "required": false,
+          "maxFutureDays": "0"
         },
         {
           "question": "APPROVED_AND_PRESENT_SETBACK_REAR",
@@ -214,7 +235,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": false
+          "required": false,
+          "maxFutureDays": "0"
         },
         {
           "question": "APPROVED_AND_PRESENT_SETBACK_RHS",
@@ -223,7 +245,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": false
+          "required": false,
+          "maxFutureDays": "0"
         },
         {
           "question": "APPROVED_AND_PRESENT_SETBACK_LHS",
@@ -232,7 +255,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": false
+          "required": false,
+          "maxFutureDays": "0"
         },
         {
           "question": "IS_PROPOSED_SITE_WITHIN_REGULATED_AREA_OF_EXTERNAL_AGENCIES",
@@ -241,7 +265,8 @@
           "active": true,
           "status": true,
           "remarks": true,
-          "required": true
+          "required": true,
+          "maxFutureDays": "0"
         }
       ]
     }
