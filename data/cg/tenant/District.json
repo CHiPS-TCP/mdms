@@ -10,17 +10,20 @@
         {
           "code": "BALRAMPUR",
           "name": "Balrampur",
-          "active": true
+          "active": true,
+          "districtId": 38
         },
         {
           "code": "SURGUJA",
           "name": "Surguja",
-          "active": true
+          "active": true,
+          "districtId": 39
         },
         {
           "code": "SURJAPUR",
           "name": "Surjapur",
-          "active": true
+          "active": true,
+          "districtId": 37
         }
       ]
     },
@@ -32,7 +35,8 @@
         {
           "code": "BALODABAZAR_BHATAPARA",
           "name": "Balodabazar-Bhatapara",
-          "active": true
+          "active": true,
+          "districtId": 52
         }
       ]
     },
@@ -44,17 +48,20 @@
         {
           "code": "BILASPUR",
           "name": "Bilaspur",
-          "active": true
+          "active": true,
+          "districtId": 40
         },
         {
           "code": "GAURELA_PENDRA_MARWAHI",
           "name": "Gaurela-Pendra-Marwahi",
-          "active": true
+          "active": true,
+          "districtId": 64
         },
         {
           "code": "MUNGELI",
           "name": "Mungeli",
-          "active": true
+          "active": true,
+          "districtId": 63
         }
       ]
     },
@@ -66,7 +73,8 @@
         {
           "code": "DANTEWADA",
           "name": "Dantewada",
-          "active": true
+          "active": true,
+          "districtId": 61
         }
       ]
     },
@@ -78,7 +86,8 @@
         {
           "code": "DHAMTARI",
           "name": "Dhamtari",
-          "active": true
+          "active": true,
+          "districtId": 59
         }
       ]
     },
@@ -90,12 +99,14 @@
         {
           "code": "BEMETARA",
           "name": "Bemetara",
-          "active": true
+          "active": true,
+          "districtId": 50
         },
         {
           "code": "DURG",
           "name": "Durg",
-          "active": true
+          "active": true,
+          "districtId": 43
         }
       ]
     },
@@ -107,27 +118,32 @@
         {
           "code": "BASTAR",
           "name": "Bastar",
-          "active": true
+          "active": true,
+          "districtId": 45
         },
         {
           "code": "BIJAPUR",
           "name": "Bijapur",
-          "active": true
+          "active": true,
+          "districtId": 62
         },
         {
           "code": "KONDAGAON",
           "name": "Kondagaon",
-          "active": true
+          "active": true,
+          "districtId": 48
         },
         {
           "code": "NARAYANPUR",
           "name": "Narayanpur",
-          "active": true
+          "active": true,
+          "districtId": 46
         },
         {
           "code": "SUKMA",
           "name": "Sukma",
-          "active": true
+          "active": true,
+          "districtId": 47
         }
       ]
     },
@@ -139,12 +155,14 @@
         {
           "code": "JANJGIR_CHAMPA",
           "name": "Janjgir Champa",
-          "active": true
+          "active": true,
+          "districtId": 54
         },
         {
           "code": "SAKTI",
           "name": "Sakti",
-          "active": true
+          "active": true,
+          "districtId": 67
         }
       ]
     },
@@ -156,7 +174,8 @@
         {
           "code": "JASHPUR",
           "name": "Jashpur",
-          "active": true
+          "active": true,
+          "districtId": 56
         }
       ]
     },
@@ -168,7 +187,8 @@
         {
           "code": "KANKER",
           "name": "Kanker",
-          "active": true
+          "active": true,
+          "districtId": 60
         }
       ]
     },
@@ -180,7 +200,8 @@
         {
           "code": "KAWARDHA",
           "name": "Kawardha",
-          "active": true
+          "active": true,
+          "districtId": 57
         }
       ]
     },
@@ -192,7 +213,8 @@
         {
           "code": "KORBA",
           "name": "Korba",
-          "active": true
+          "active": true,
+          "districtId": 55
         }
       ]
     },
@@ -204,12 +226,14 @@
         {
           "code": "KOREA",
           "name": "Korea",
-          "active": true
+          "active": true,
+          "districtId": 53
         },
         {
           "code": "MANENDRAGARH_CHIRIMIRI_BHARATPUR",
           "name": "Manendragarh-Chirimiri-Bharatpur",
-          "active": true
+          "active": true,
+          "districtId": 68
         }
       ]
     },
@@ -221,7 +245,8 @@
         {
           "code": "MAHASAMUND",
           "name": "Mahasamund",
-          "active": true
+          "active": true,
+          "districtId": 58
         }
       ]
     },
@@ -233,12 +258,14 @@
         {
           "code": "RAIGARH",
           "name": "Raigarh",
-          "active": true
+          "active": true,
+          "districtId": 41
         },
         {
           "code": "SARANGARH_BILAIGARH",
           "name": "Sarangarh-Bilaigarh",
-          "active": true
+          "active": true,
+          "districtId": 69
         }
       ]
     },
@@ -250,12 +277,14 @@
         {
           "code": "RAIPUR",
           "name": "Raipur",
-          "active": true
+          "active": true,
+          "districtId": 44
         },
         {
           "code": "GARIYABAND",
           "name": "Gariyaband",
-          "active": true
+          "active": true,
+          "districtId": 51
         }
       ]
     },
@@ -267,17 +296,20 @@
         {
           "code": "KAIRAGARH_CHHUIKHADAN_GANDAI",
           "name": "Kairagarh-Chhuikhadan-Gandai",
-          "active": true
+          "active": true,
+          "districtId": 66
         },
         {
           "code": "MOHLA_MANPUR_AMBAGARH_CHOWKI",
           "name": "Mohla-Manpur-Ambagarh Chowki",
-          "active": true
+          "active": true,
+          "districtId": 65
         },
         {
           "code": "RAJNANDGAON",
           "name": "Rajnandgaon",
-          "active": true
+          "active": true,
+          "districtId": 42
         }
       ]
     },
@@ -289,7 +321,8 @@
         {
           "code": "BALOD",
           "name": "Balod",
-          "active": true
+          "active": true,
+          "districtId": 49
         }
       ]
     }
