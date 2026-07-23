@@ -19,7 +19,7 @@
         },
         {
           "question": "DATE_OF_SITE_VISIT",
-          "maxFutureDays": 7,
+          "maxFutureDays": "7",
           "fieldType": "DATE",
           "autoFetch": false,
           "active": true,
