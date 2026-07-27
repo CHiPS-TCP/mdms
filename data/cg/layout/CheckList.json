@@ -28,6 +28,15 @@
           "maxFutureDays": "7"
         },
         {
+          "question": "TIME_OF_SITE_VISIT",
+          "fieldType": "TIME",
+          "autoFetch": false,
+          "active": true,
+          "status": false,
+          "remarks": false,
+          "required": true
+        },
+        {
           "question": "VILLAGE_NAME_WARD_NO_AND_NAME",
           "fieldType": "ALPHANUMERIC",
           "autoFetch": true,
