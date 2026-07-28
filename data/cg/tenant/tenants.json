@@ -43,7 +43,11 @@
         "jointOfficerDesig": "Joint Director",
         "ddrName": "Raipur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "उप संचालक , नगर तथा ग्राम निवेश",
+        "headerLine2": "टीसीपी (छ.ग.)",
+        "headerLine3": "Deputy Director of Town and Country Planning Department",
+        "headerLine4": "Chhattisgarh TCP Regional-C.G."
       },
       "address": "Town and Country Planning Department, Nava Raipur, Chhattisgarh",
       "regionalOfficeAddress": "R.D.A Bhawan Shashtri Chowk, Raipur (C.G.)",
@@ -90,7 +94,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Ambikapur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "अंबिकापुर (छ.ग.)",
+        "headerLine3": "Executive Officer of Ambikapur Municipal Corporation",
+        "headerLine4": "Ambikapur Regional-C.G."
       },
       "address": "Ambikapur, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -108,7 +116,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-ambikapur@cg.gov.in",
+      "emailId": "nagarnigamambikapur14@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
@@ -134,11 +142,16 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Ambikapur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Ambikapur Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Administrative Building, Kedarpur, Ambikapur, Chhattisgarh 497001",
+        "headerLine4": ""
       },
-      "address": "Ambikapur, Chhattisgarh",
-      "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "address": "Administrative Building, Kedarpur, Ambikapur, Chhattisgarh 497001",
+      "contactNumber": "+91-7774-236396, +91-9826177084",
+      "PGRMasterContact": null,
+      "fax": null
     },
     {
       "code": "cg.bhilai",
@@ -178,7 +191,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Bhilai",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "भिलाई  (छ.ग.)",
+        "headerLine3": "Executive Officer of Bhilai Municipal Corporation",
+        "headerLine4": "Bhilai Regional-C.G."
       },
       "address": "Bhilai, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -196,7 +213,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-bhilai@cg.gov.in",
+      "emailId": "nigam_bhilai@yahoo.co.in",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
@@ -222,11 +239,16 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Bhilai",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Bhilai Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "G.E. Road, Supela, Bhilai, Durg, Chhattisgarh 490023",
+        "headerLine4": ""
       },
-      "address": "Bhilai, Chhattisgarh",
-      "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "address": "G.E. Road, Supela, Bhilai, Durg, Chhattisgarh 490023",
+      "contactNumber": "+91-788-2295055",
+      "PGRMasterContact": null,
+      "fax": null
     },
     {
       "code": "cg.balod",
@@ -262,13 +284,16 @@
         "municipalityName": "Balod Municipal Council",
         "ddrName": "Balod",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Balod Municipal Council",
+        "headerLine2": "",
+        "headerLine3": "Balod, Chhattisgarh",
+        "headerLine4": ""
       },
       "address": "Balod, Chhattisgarh",
       "contactNumber": null,
       "PGRMasterContact": null
     },
-
     {
       "code": "cg.balodabazar",
       "ulbCode": "BBA",
@@ -303,7 +328,11 @@
         "municipalityName": "Balodabazar Municipal Corporation",
         "ddrName": "Balodabazar",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Balodabazar Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Balodabazar, Chhattisgarh",
+        "headerLine4": ""
       },
       "address": "Balodabazar, Chhattisgarh",
       "contactNumber": null,
@@ -343,7 +372,11 @@
         "municipalityName": "Bilaspur Municipal Corporation",
         "ddrName": "Bilaspur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Bilaspur Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Bilaspur, Chhattisgarh",
+        "headerLine4": ""
       },
       "address": "Bilaspur, Chhattisgarh",
       "contactNumber": null,
@@ -361,7 +394,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-bilaspur@cg.gov.in",
+      "emailId": "commissionerbmcbilaspur@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
@@ -383,11 +416,16 @@
         "municipalityName": "Bilaspur Municipal Corporation",
         "ddrName": "Bilaspur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Bilaspur Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Vikas Bhawan, Nehru Chowk, Bilaspur, Chhattisgarh 495001",
+        "headerLine4": ""
       },
-      "address": "Bilaspur, Chhattisgarh",
-      "contactNumber": null,
-      "PGRMasterContact": null
+      "address": "Vikas Bhawan, Nehru Chowk, Bilaspur, Chhattisgarh 495001",
+      "contactNumber": "+91-7752-222642",
+      "PGRMasterContact": null,
+      "fax": "+91-7752-413888"
     },
     {
       "code": "cg.charoda",
@@ -427,7 +465,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Charoda",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "चरौदा  (छ.ग.)",
+        "headerLine3": "Executive Officer of Charoda Municipal Corporation",
+        "headerLine4": "Charoda Regional-C.G."
       },
       "address": "Charoda, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -471,7 +513,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Chirmiri",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "चिरमिरी  (छ.ग.)",
+        "headerLine3": "Executive Officer of Chirmiri Municipal Corporation",
+        "headerLine4": "Chirmiri Regional-C.G."
       },
       "address": "Chirmiri, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -489,7 +535,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-chirmiri@cg.gov.in",
+      "emailId": "comm.chrmkorea@uad.cg.gov.in",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
@@ -515,11 +561,16 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Chirmiri",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Chirmiri Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Nagar Nigam Office, Chirmiri, Korea District, Chhattisgarh 497773",
+        "headerLine4": ""
       },
-      "address": "Chirmiri, Chhattisgarh",
-      "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "address": "Nagar Nigam Office, Chirmiri, Korea District, Chhattisgarh 497773",
+      "contactNumber": "+91-9179984177",
+      "PGRMasterContact": null,
+      "fax": null
     },
     {
       "code": "cg.birgaon",
@@ -559,7 +610,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Birgaon",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "बीरगांव  (छ.ग.)",
+        "headerLine3": "Executive Officer of Birgaon Municipal Corporation",
+        "headerLine4": "Birgaon Regional-C.G."
       },
       "address": "Birgaon, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -599,7 +654,11 @@
         "municipalityName": "Dantewada Municipal Council",
         "ddrName": "Dantewada",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Dantewada Municipal Council",
+        "headerLine2": "",
+        "headerLine3": "Dantewada, Chhattisgarh",
+        "headerLine4": ""
       },
       "address": "Dantewada, Chhattisgarh",
       "contactNumber": null,
@@ -639,7 +698,11 @@
         "municipalityName": "Dhamtari Municipal Corporation",
         "ddrName": "Dhamtari",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Dhamtari Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Dhamtari, Chhattisgarh",
+        "headerLine4": ""
       },
       "address": "Dhamtari, Chhattisgarh",
       "contactNumber": null,
@@ -657,7 +720,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-dhamtari@cg.gov.in",
+      "emailId": "commissionerdhamtari@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
@@ -679,11 +742,16 @@
         "municipalityName": "Dhamtari Municipal Corporation",
         "ddrName": "Dhamtari",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Dhamtari Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Itwari Bazar, Dhamtari, Chhattisgarh 493773",
+        "headerLine4": ""
       },
-      "address": "Dhamtari, Chhattisgarh",
-      "contactNumber": null,
-      "PGRMasterContact": null
+      "address": "Itwari Bazar, Dhamtari, Chhattisgarh 493773",
+      "contactNumber": "+91-7722-223603",
+      "PGRMasterContact": null,
+      "fax": null
     },
     {
       "code": "cg.durg",
@@ -719,7 +787,11 @@
         "municipalityName": "Durg Municipal Corporation",
         "ddrName": "Durg",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Durg Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Durg, Chhattisgarh",
+        "headerLine4": ""
       },
       "address": "Durg, Chhattisgarh",
       "contactNumber": null,
@@ -759,7 +831,11 @@
         "municipalityName": "Jagdalpur Municipal Corporation",
         "ddrName": "Jagdalpur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Jagdalpur Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Jagdalpur, Chhattisgarh",
+        "headerLine4": ""
       },
       "address": "Jagdalpur, Chhattisgarh",
       "contactNumber": null,
@@ -777,7 +853,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-jagdalpur@cg.gov.in",
+      "emailId": "jagdalpurnagarnigam@yahoo.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
@@ -799,11 +875,16 @@
         "municipalityName": "Jagdalpur Municipal Corporation",
         "ddrName": "Jagdalpur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Jagdalpur Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Near Indira Priyadarshini Stadium, Jagdalpur, Bastar, Chhattisgarh 494001",
+        "headerLine4": ""
       },
-      "address": "Jagdalpur, Chhattisgarh",
-      "contactNumber": null,
-      "PGRMasterContact": null
+      "address": "Near Indira Priyadarshini Stadium, Jagdalpur, Bastar, Chhattisgarh 494001",
+      "contactNumber": "+91-7782-221055",
+      "PGRMasterContact": null,
+      "fax": null
     },
     {
       "code": "cg.jangirchampa",
@@ -839,7 +920,11 @@
         "municipalityName": "Janjgir Champa Nagar Panchayat",
         "ddrName": "Janjgir Champa",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Janjgir Champa Nagar Panchayat",
+        "headerLine2": "",
+        "headerLine3": "Janjgir Champa, Chhattisgarh",
+        "headerLine4": ""
       },
       "address": "Janjgir Champa, Chhattisgarh",
       "contactNumber": null,
@@ -879,7 +964,11 @@
         "municipalityName": "Jashpur Municipal Corporation",
         "ddrName": "Jashpur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Jashpur Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Jashpur, Chhattisgarh",
+        "headerLine4": ""
       },
       "address": "Jashpur, Chhattisgarh",
       "contactNumber": null,
@@ -919,7 +1008,11 @@
         "municipalityName": "Kanker Municipal Council",
         "ddrName": "Kanker",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Kanker Municipal Council",
+        "headerLine2": "",
+        "headerLine3": "Kanker, Chhattisgarh",
+        "headerLine4": ""
       },
       "address": "Kanker, Chhattisgarh",
       "contactNumber": null,
@@ -959,7 +1052,11 @@
         "municipalityName": "Kawardha Nagar Panchayat",
         "ddrName": "Kawardha",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Kawardha Nagar Panchayat",
+        "headerLine2": "",
+        "headerLine3": "Kawardha, Chhattisgarh",
+        "headerLine4": ""
       },
       "address": "Kawardha, Chhattisgarh",
       "contactNumber": null,
@@ -999,7 +1096,11 @@
         "municipalityName": "Korba Municipal Corporation",
         "ddrName": "Korba",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Korba Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Korba, Chhattisgarh",
+        "headerLine4": ""
       },
       "address": "Korba, Chhattisgarh",
       "contactNumber": null,
@@ -1017,7 +1118,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-korba@cg.gov.in",
+      "emailId": "corporationkorba@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
@@ -1039,11 +1140,16 @@
         "municipalityName": "Korba Municipal Corporation",
         "ddrName": "Korba",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Korba Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Saket Bhawan, ITI Chowk, Rampur, Korba, Chhattisgarh 495677",
+        "headerLine4": ""
       },
-      "address": "Korba, Chhattisgarh",
-      "contactNumber": null,
-      "PGRMasterContact": null
+      "address": "Saket Bhawan, ITI Chowk, Rampur, Korba, Chhattisgarh 495677",
+      "contactNumber": "+91-7759-221288",
+      "PGRMasterContact": null,
+      "fax": null
     },
     {
       "code": "cg.korea",
@@ -1079,7 +1185,11 @@
         "municipalityName": "Korea Municipal Council",
         "ddrName": "Korea",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Korea Municipal Council",
+        "headerLine2": "",
+        "headerLine3": "Korea, Chhattisgarh",
+        "headerLine4": ""
       },
       "address": "Korea, Chhattisgarh",
       "contactNumber": null,
@@ -1123,7 +1233,11 @@
         "officerDesig": "Chief Municipal Officer",
         "ddrName": "Mahasamund",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "मुख्य नगर पालिका अधिकारी , नगर पालिका परिषद",
+        "headerLine2": "महासमुंद (छ.ग.)",
+        "headerLine3": "Chief Municipal Officer of Mahasamund Municipal Council",
+        "headerLine4": "Mahasamund Regional-C.G."
       },
       "address": "Mahasamund, Chhattisgarh",
       "contactNumber": "0773-0000000",
@@ -1167,7 +1281,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Kabirdham",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "कबीरधाम   (छ.ग.)",
+        "headerLine3": "Executive Officer of Kabirdham Municipal Corporation",
+        "headerLine4": "Kabirdham Regional-C.G."
       },
       "address": "Kabirdham, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -1207,7 +1325,11 @@
         "municipalityName": "Raigarh Municipal Corporation",
         "ddrName": "Raigarh",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Raigarh Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Raigarh, Chhattisgarh",
+        "headerLine4": ""
       },
       "address": "Raigarh, Chhattisgarh",
       "contactNumber": null,
@@ -1225,7 +1347,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-raigarh@cg.gov.in",
+      "emailId": "Corporationraigarh@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
@@ -1247,11 +1369,16 @@
         "municipalityName": "Raigarh Municipal Corporation",
         "ddrName": "Raigarh",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Raigarh Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Municipal Corporation, Inside Town Hall, Near District Hospital, New Road, Raigarh, Chhattisgarh 496001",
+        "headerLine4": ""
       },
-      "address": "Raigarh, Chhattisgarh",
-      "contactNumber": null,
-      "PGRMasterContact": null
+      "address": "Municipal Corporation, Inside Town Hall, Near District Hospital, New Road, Raigarh, Chhattisgarh 496001",
+      "contactNumber": "+91-7762-222911",
+      "PGRMasterContact": null,
+      "fax": "+91-7762-222923"
     },
     {
       "code": "cg.raipur",
@@ -1291,7 +1418,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Raipur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "रायपुर (छ.ग.)",
+        "headerLine3": "Executive Officer of Raipur Municipal Corporation",
+        "headerLine4": "Raipur Regional-C.G."
       },
       "address": "Raipur, Chhattisgarh",
       "contactNumber": "0772-0000001",
@@ -1335,7 +1466,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Risali",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "रिसाली  (छ.ग.)",
+        "headerLine3": "Executive Officer of Risali Municipal Corporation",
+        "headerLine4": "Risali Regional-C.G."
       },
       "address": "Risali, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -1353,7 +1488,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-risali@cg.gov.in",
+      "emailId": "nagarnigamrisali@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
@@ -1379,11 +1514,16 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Risali",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Risali Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Main Office, BSP School No. 35, Near Kalyani Sheetla Mandir, Risali, Chhattisgarh 490006",
+        "headerLine4": ""
       },
-      "address": "Risali, Chhattisgarh",
-      "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "address": "Main Office, BSP School No. 35, Near Kalyani Sheetla Mandir, Risali, Chhattisgarh 490006",
+      "contactNumber": "+91-788-4049469",
+      "PGRMasterContact": null,
+      "fax": null
     },
     {
       "code": "cg.bhilaicharodamc",
@@ -1397,7 +1537,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-bhilaicharoda@cg.gov.in",
+      "emailId": "nagarnigambhilaicharoda@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
@@ -1423,11 +1563,16 @@
         "officerDesig": "Executive Officer",
         "ddrName": "BhilaiCharoda",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of BhilaiCharoda Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Near Government Hospital, Bhilai-3, Bhilai-Charoda, Chhattisgarh 490001",
+        "headerLine4": ""
       },
-      "address": "BhilaiCharoda, Chhattisgarh",
-      "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "address": "Near Government Hospital, Bhilai-3, Bhilai-Charoda, Chhattisgarh 490001",
+      "contactNumber": "+91-788-2283410",
+      "PGRMasterContact": null,
+      "fax": null
     },
     {
       "code": "cg.rajnandgaon",
@@ -1463,7 +1608,11 @@
         "municipalityName": "Rajnandgaon Municipal Corporation",
         "ddrName": "Rajnandgaon",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Rajnandgaon Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Rajnandgaon, Chhattisgarh",
+        "headerLine4": ""
       },
       "address": "Rajnandgaon, Chhattisgarh",
       "contactNumber": null,
@@ -1481,7 +1630,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-rajnandgaon@cg.gov.in",
+      "emailId": "nigamrajnandgaon@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
@@ -1503,11 +1652,16 @@
         "municipalityName": "Rajnandgaon Municipal Corporation",
         "ddrName": "Rajnandgaon",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Rajnandgaon Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Nagar Palik Nigam, Near Mahaveer Chowk, Rajnandgaon, Chhattisgarh 491441",
+        "headerLine4": ""
       },
-      "address": "Rajnandgaon, Chhattisgarh",
-      "contactNumber": null,
-      "PGRMasterContact": null
+      "address": "Nagar Palik Nigam, Near Mahaveer Chowk, Rajnandgaon, Chhattisgarh 491441",
+      "contactNumber": "+91-7744-404893",
+      "PGRMasterContact": null,
+      "fax": null
     },
     {
       "code": "cg.raipurmc",
@@ -1521,7 +1675,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-raipur@cg.gov.in",
+      "emailId": "dc_rmc@rediffmail.com, nigam.raipur.cg@nic.in",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
@@ -1547,11 +1701,16 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Raipur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Raipur Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "White House Building, Near Mahila Police Station, Gandhi Udyan, Raipur, Chhattisgarh 492001",
+        "headerLine4": ""
       },
-      "address": "Raipur, Chhattisgarh",
-      "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "address": "White House Building, Near Mahila Police Station, Gandhi Udyan, Raipur, Chhattisgarh 492001",
+      "contactNumber": "+91-771-2535780, +91-771-2535790",
+      "PGRMasterContact": null,
+      "fax": "+91-771-2227395"
     },
     {
       "code": "cg.birgaonmc",
@@ -1565,7 +1724,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-birgaon@cg.gov.in",
+      "emailId": "birgaonmcp@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
@@ -1591,11 +1750,16 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Birgaon",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Birgaon Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "Municipal Corporation, Durga Nagar, Birgaon, Raipur, Chhattisgarh 493221",
+        "headerLine4": ""
       },
-      "address": "Birgaon, Chhattisgarh",
-      "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "address": "Municipal Corporation, Durga Nagar, Birgaon, Raipur, Chhattisgarh 493221",
+      "contactNumber": "+91-84638-58501",
+      "PGRMasterContact": null,
+      "fax": null
     },
     {
       "code": "cg.balrampurd",
@@ -1635,7 +1799,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Balrampur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "बलरामपुर (छ.ग.)",
+        "headerLine3": "Executive Officer of Balrampur Municipal Corporation",
+        "headerLine4": "Balrampur Regional-C.G."
       },
       "address": "Balrampur, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -1679,7 +1847,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Surguja",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "सरगुजा (छ.ग.)",
+        "headerLine3": "Executive Officer of Surguja Municipal Corporation",
+        "headerLine4": "Surguja Regional-C.G."
       },
       "address": "Surguja, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -1723,7 +1895,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Surjapur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "सूरजपुर (छ.ग.)",
+        "headerLine3": "Executive Officer of Surjapur Municipal Corporation",
+        "headerLine4": "Surjapur Regional-C.G."
       },
       "address": "Surjapur, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -1767,7 +1943,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Balodabazar-Bhatapara",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "बालोदाबाज़ार-भाटापारा (छ.ग.)",
+        "headerLine3": "Executive Officer of Balodabazar-Bhatapara Municipal Corporation",
+        "headerLine4": "Balodabazar-Bhatapara Regional-C.G."
       },
       "address": "Balodabazar-Bhatapara, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -1811,7 +1991,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Bilaspur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "बिलासपुर (छ.ग.)",
+        "headerLine3": "Executive Officer of Bilaspur Municipal Corporation",
+        "headerLine4": "Bilaspur Regional-C.G."
       },
       "address": "Bilaspur, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -1855,7 +2039,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Gaurela-Pendra-Marwahi",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "गौरेला-पेंड्रा-मरवाही (छ.ग.)",
+        "headerLine3": "Executive Officer of Gaurela-Pendra-Marwahi Municipal Corporation",
+        "headerLine4": "Gaurela-Pendra-Marwahi Regional-C.G."
       },
       "address": "Gaurela-Pendra-Marwahi, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -1899,7 +2087,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Mungeli",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "मुंगेली (छ.ग.)",
+        "headerLine3": "Executive Officer of Mungeli Municipal Corporation",
+        "headerLine4": "Mungeli Regional-C.G."
       },
       "address": "Mungeli, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -1943,7 +2135,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Dantewada",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "दंतेवाड़ा (छ.ग.)",
+        "headerLine3": "Executive Officer of Dantewada Municipal Corporation",
+        "headerLine4": "Dantewada Regional-C.G."
       },
       "address": "Dantewada, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -1987,7 +2183,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Dhamtari",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "धमतरी (छ.ग.)",
+        "headerLine3": "Executive Officer of Dhamtari Municipal Corporation",
+        "headerLine4": "Dhamtari Regional-C.G."
       },
       "address": "Dhamtari, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2031,7 +2231,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Bemetara",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "बेमेतरा (छ.ग.)",
+        "headerLine3": "Executive Officer of Bemetara Municipal Corporation",
+        "headerLine4": "Bemetara Regional-C.G."
       },
       "address": "Bemetara, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2075,7 +2279,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Durg",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "दुर्ग (छ.ग.)",
+        "headerLine3": "Executive Officer of Durg Municipal Corporation",
+        "headerLine4": "Durg Regional-C.G."
       },
       "address": "Durg, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2093,7 +2301,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-durg@cg.gov.in",
+      "emailId": "durgmc@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
@@ -2119,11 +2327,16 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Durg",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "Office of Durg Municipal Corporation",
+        "headerLine2": "",
+        "headerLine3": "In Front of Labour Court, Gaurav Path, Durg, Chhattisgarh 490006",
+        "headerLine4": ""
       },
-      "address": "Durg, Chhattisgarh",
-      "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "address": "In Front of Labour Court, Gaurav Path, Durg, Chhattisgarh 490006",
+      "contactNumber": "+91-788-2322148",
+      "PGRMasterContact": null,
+      "fax": null
     },
     {
       "code": "cg.bastard",
@@ -2163,7 +2376,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Bastar",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "बस्तर (छ.ग.)",
+        "headerLine3": "Executive Officer of Bastar Municipal Corporation",
+        "headerLine4": "Bastar Regional-C.G."
       },
       "address": "Bastar, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2207,7 +2424,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Bijapur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "बीजापुर (छ.ग.)",
+        "headerLine3": "Executive Officer of Bijapur Municipal Corporation",
+        "headerLine4": "Bijapur Regional-C.G."
       },
       "address": "Bijapur, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2251,7 +2472,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Kondagaon",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "कोंडागांव (छ.ग.)",
+        "headerLine3": "Executive Officer of Kondagaon Municipal Corporation",
+        "headerLine4": "Kondagaon Regional-C.G."
       },
       "address": "Kondagaon, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2295,7 +2520,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Narayanpur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "नारायणपुर (छ.ग.)",
+        "headerLine3": "Executive Officer of Narayanpur Municipal Corporation",
+        "headerLine4": "Narayanpur Regional-C.G."
       },
       "address": "Narayanpur, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2339,7 +2568,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Sukma",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "सुकमा (छ.ग.)",
+        "headerLine3": "Executive Officer of Sukma Municipal Corporation",
+        "headerLine4": "Sukma Regional-C.G."
       },
       "address": "Sukma, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2383,7 +2616,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Janjgir Champa",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "जांजगीर-चाम्पा (छ.ग.)",
+        "headerLine3": "Executive Officer of Janjgir Champa Municipal Corporation",
+        "headerLine4": "Janjgir Champa Regional-C.G."
       },
       "address": "Janjgir Champa, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2427,7 +2664,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Sakti",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "सक्ती (छ.ग.)",
+        "headerLine3": "Executive Officer of Sakti Municipal Corporation",
+        "headerLine4": "Sakti Regional-C.G."
       },
       "address": "Sakti, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2471,7 +2712,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Jashpur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "जशपुर (छ.ग.)",
+        "headerLine3": "Executive Officer of Jashpur Municipal Corporation",
+        "headerLine4": "Jashpur Regional-C.G."
       },
       "address": "Jashpur, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2515,7 +2760,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Kanker",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "कांकेर (छ.ग.)",
+        "headerLine3": "Executive Officer of Kanker Municipal Corporation",
+        "headerLine4": "Kanker Regional-C.G."
       },
       "address": "Kanker, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2559,7 +2808,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Kawardha",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "कबीरधाम (छ.ग.)",
+        "headerLine3": "Executive Officer of Kawardha Municipal Corporation",
+        "headerLine4": "Kawardha Regional-C.G."
       },
       "address": "Kawardha, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2603,7 +2856,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Korba",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "कोरबा (छ.ग.)",
+        "headerLine3": "Executive Officer of Korba Municipal Corporation",
+        "headerLine4": "Korba Regional-C.G."
       },
       "address": "Korba, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2647,7 +2904,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Korea",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "कोरिया (छ.ग.)",
+        "headerLine3": "Executive Officer of Korea Municipal Corporation",
+        "headerLine4": "Korea Regional-C.G."
       },
       "address": "Korea, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2691,7 +2952,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Manendragarh-Chirimiri-Bharatpur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "मनेन्द्रगढ़-चिरमिरी-भरतपुर (छ.ग.)",
+        "headerLine3": "Executive Officer of Manendragarh-Chirimiri-Bharatpur Municipal Corporation",
+        "headerLine4": "Manendragarh-Chirimiri-Bharatpur Regional-C.G."
       },
       "address": "Manendragarh-Chirimiri-Bharatpur, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2735,7 +3000,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Mahasamund",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "महासमुंद (छ.ग.)",
+        "headerLine3": "Executive Officer of Mahasamund Municipal Corporation",
+        "headerLine4": "Mahasamund Regional-C.G."
       },
       "address": "Mahasamund, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2779,7 +3048,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Raigarh",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "रायगढ़ (छ.ग.)",
+        "headerLine3": "Executive Officer of Raigarh Municipal Corporation",
+        "headerLine4": "Raigarh Regional-C.G."
       },
       "address": "Raigarh, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2823,7 +3096,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Sarangarh-Bilaigarh",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "सारंगढ़-बिलाईगढ़ (छ.ग.)",
+        "headerLine3": "Executive Officer of Sarangarh-Bilaigarh Municipal Corporation",
+        "headerLine4": "Sarangarh-Bilaigarh Regional-C.G."
       },
       "address": "Sarangarh-Bilaigarh, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2867,7 +3144,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Raipur",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "रायपुर (छ.ग.)",
+        "headerLine3": "Executive Officer of Raipur Municipal Corporation",
+        "headerLine4": "Raipur Regional-C.G."
       },
       "address": "Raipur, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2911,7 +3192,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Gariyaband",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "गरियाबंद (छ.ग.)",
+        "headerLine3": "Executive Officer of Gariyaband Municipal Corporation",
+        "headerLine4": "Gariyaband Regional-C.G."
       },
       "address": "Gariyaband, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2955,7 +3240,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Kairagarh-Chhuikhadan-Gandai",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "खैरागढ़-छुईखदान-गंडई (छ.ग.)",
+        "headerLine3": "Executive Officer of Kairagarh-Chhuikhadan-Gandai Municipal Corporation",
+        "headerLine4": "Kairagarh-Chhuikhadan-Gandai Regional-C.G."
       },
       "address": "Kairagarh-Chhuikhadan-Gandai, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -2999,7 +3288,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Mohla-Manpur-Ambagarh Chowki",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "मोहला-मानपुर-अम्बागढ़ चौकी (छ.ग.)",
+        "headerLine3": "Executive Officer of Mohla-Manpur-Ambagarh Chowki Municipal Corporation",
+        "headerLine4": "Mohla-Manpur-Ambagarh Chowki Regional-C.G."
       },
       "address": "Mohla-Manpur-Ambagarh Chowki, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -3043,7 +3336,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Rajnandgaon",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "राजनांदगांव (छ.ग.)",
+        "headerLine3": "Executive Officer of Rajnandgaon Municipal Corporation",
+        "headerLine4": "Rajnandgaon Regional-C.G."
       },
       "address": "Rajnandgaon, Chhattisgarh",
       "contactNumber": "0772-0000000",
@@ -3087,7 +3384,11 @@
         "officerDesig": "Executive Officer",
         "ddrName": "Balod",
         "pwssb": false,
-        "pwssbGrade": null
+        "pwssbGrade": null,
+        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
+        "headerLine2": "बालोद (छ.ग.)",
+        "headerLine3": "Executive Officer of Balod Municipal Corporation",
+        "headerLine4": "Balod Regional-C.G."
       },
       "address": "Balod, Chhattisgarh",
       "contactNumber": "0772-0000000",
