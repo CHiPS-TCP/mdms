@@ -1392,13 +1392,13 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-raipur@cg.gov.in",
+      "emailId": "cgtownplan.raipur@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
       "city": {
         "name": "Raipur",
-        "nameHindi": "रायपुर (छ.ग.)",
+        "nameHindi": "आर. डी. ए. भवन, शास्त्री चौक, रायपुर (छ. ग.)",
         "localName": "Raipur",
         "districtCode": "CG",
         "districtName": "Raipur",
@@ -1414,19 +1414,20 @@
         "regionCode": "CG",
         "municipalityName": "Raipur Municipal Corporation",
         "municipalityNameHindi": "नगर निगम",
-        "officerDesigHindi": "कार्यपालन अभियंता",
-        "officerDesig": "Executive Officer",
+        "officerDesigHindi": "संयुक्त संचालक",
+        "officerDesig": "Joint Director of Town & Country Planning",
         "ddrName": "Raipur",
         "pwssb": false,
         "pwssbGrade": null,
-        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
-        "headerLine2": "रायपुर (छ.ग.)",
-        "headerLine3": "Executive Officer of Raipur Municipal Corporation",
-        "headerLine4": "Raipur Regional-C.G."
+        "headerLine1": "संयुक्त संचालक, नगर तथा ग्राम निवेश",
+        "headerLine2": "क्षेत्रीय कार्यालय रायपुर (छ.ग.)",
+        "headerLine3": "Joint Director of Town & Country Planning, Raipur Regional-C.G.",
+        "headerLine4": " "
       },
-      "address": "Raipur, Chhattisgarh",
-      "contactNumber": "0772-0000001",
-      "PGRMasterContact": null
+      "address": "R.D.A Bhawan Shashtri Chowk, Raipur (C.G.)",
+      "contactNumber": "0771-2223728",
+      "PGRMasterContact": null,
+      "fax": "0771-2223728"
     },
     {
       "code": "cg.risali",
