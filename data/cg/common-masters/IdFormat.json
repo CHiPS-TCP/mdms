@@ -824,6 +824,10 @@
     {
       "format": "CG-CLU-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_CLU_APPLICATION]",
       "idname": "clu.application.number"
+    },
+    {
+      "format": "CG/[DISTRICT.CODE]/TNCP/PL/[cy:yyyy]/[SEQ_EG_PLINTH_APPLICATION]",
+      "idname": "plinth.application.number"
     }
   ]
 }
