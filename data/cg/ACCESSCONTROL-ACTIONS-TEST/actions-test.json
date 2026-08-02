@@ -7490,6 +7490,17 @@
       "path": ""
     },
     {
+      "id": 883304,
+      "name": "Pdf Generator inject signature",
+      "url": "/pdf-service/v1/_injectSignature",
+      "displayName": "Pdf Generator inject signature",
+      "orderNumber": 4,
+      "enabled": false,
+      "serviceCode": "pdf-generator-injectsignature",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 1957,
       "name": "MiscReceipt_v2",
       "url": "url",

@@ -38479,6 +38479,49 @@
       "actionid": 1430,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 883304,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 883304,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "TL_CEMP_FORLEGACY",
+      "actionid": 883304,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 883304,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 883304,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 883304,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "UC_COWCESS_USER",
+      "actionid": 883304,
+      "actioncode": "",
+      "tenantId": "cg"
     }
   ]
 }
