@@ -828,6 +828,10 @@
     {
       "format": "CG/[DISTRICT.CODE]/TNCP/PL/[cy:yyyy]/[SEQ_EG_PLINTH_APPLICATION]",
       "idname": "plinth.application.number"
+    },
+    {
+      "format": "CG/[DISTRICT.CODE]/TNCP/PL/[cy:yyyy]/[SEQ_EG_PLINTH_COMMENCEMENT]",
+      "idname": "plinth.commencement.number"
     }
   ]
 }
