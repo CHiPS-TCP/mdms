@@ -20443,6 +20443,51 @@
       "code": "null",
       "path": ""
     },
+
+    {
+      "id": 883400,
+      "name": "create commencement application",
+      "url": "/plinth-services/commencement/_create",
+      "displayName": "create commencement application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "plinth-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883401,
+      "name": "search commencement application",
+      "url": "/plinth-services/commencement/_search",
+      "displayName": "search commencement application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "plinth-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883402,
+      "name": "search plinth application",
+      "url": "/plinth-services/v1/plinth/_search",
+      "displayName": "search plinth application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "plinth-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883403,
+      "name": "create plinth application",
+      "url": "/plinth-services/v1/plinth/_create",
+      "displayName": "create plinth application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "plinth-services",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 883342,
       "name": "Noc Collection Search Reciept",

@@ -156,6 +156,11 @@
       "groupId": "031",
       "groupName": "Third-Party",
       "description": "Roles related to Third-Party"
+    },
+    {
+      "groupId": "032",
+      "groupName": "PLINTH Service",
+      "description": "Roles related to PLINTH"
     }
   ]
 }
