@@ -20478,6 +20478,17 @@
       "path": ""
     },
     {
+      "id": 883405,
+      "name": "update plinth application",
+      "url": "/plinth-services/v1/plinth/_update",
+      "displayName": "update plinth application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "plinth-services",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 883403,
       "name": "create plinth application",
       "url": "/plinth-services/v1/plinth/_create",

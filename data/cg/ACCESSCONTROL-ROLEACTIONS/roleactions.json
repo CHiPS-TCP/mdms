@@ -38844,6 +38844,132 @@
       "actionid": 883403,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L1_VERIFIER",
+      "actionid": 883405,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L2_VERIFIER",
+      "actionid": 883405,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L3_VERIFIER",
+      "actionid": 883405,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L1_VERIFIER",
+      "actionid": 883402,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L2_VERIFIER",
+      "actionid": 883402,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L3_VERIFIER",
+      "actionid": 883402,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L1_VERIFIER",
+      "actionid": 7007,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L2_VERIFIER",
+      "actionid": 7007,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L3_VERIFIER",
+      "actionid": 7007,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L1_VERIFIER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L2_VERIFIER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L3_VERIFIER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L1_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L2_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L3_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L1_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L2_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L3_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L1_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L2_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L3_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantid": "cg"
     }
   ]
 }
