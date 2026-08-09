@@ -798,16 +798,24 @@
       "idname": "layout.application.number"
     },
     {
-      "format": "LT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_LT_RECEIPT_ID]",
+      "format": "LT/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "layout.receipt.id"
     },
     {
-      "format": "LT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_LT_RECEIPT_ID]",
+      "format": "LT-PAY1/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "layout.pay1.receipt.id"
     },
     {
-      "format": "LT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_LT_RECEIPT_ID]",
+      "format": "LT-PAY2/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "layout.pay2.receipt.id"
+    },
+	{
+      "format": "BPA-PAY1/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "bpa.pay1.receipt.id"
+    },
+    {
+      "format": "BPA-PAY2/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "bpa.pay2.receipt.id"
     },
     {
       "format": "LT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CL_RECEIPT_ID]",
