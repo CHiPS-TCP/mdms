@@ -1599,6 +1599,10 @@
         {
           "planningAreaCode": "RAIPUR_MASTER_PLAN",
           "planningAreaName": "Raipur Master Plan"
+        },
+        {
+          "planningAreaCode": "KUNRA_PLANNING_AREA",
+          "planningAreaName": "Kunra Planning Area"
         }
       ]
     },
@@ -2664,16 +2668,6 @@
     },
     {
       "tehsilCode": "DHARSIWA",
-      "villageCode": "AKOLI",
-      "planningAreas": [
-        {
-          "planningAreaCode": "KUNRA_PLANNING_AREA",
-          "planningAreaName": "Kunra Planning Area"
-        }
-      ]
-    },
-    {
-      "tehsilCode": "DHARSIWA",
       "villageCode": "MANHORA",
       "planningAreas": [
         {
@@ -2839,6 +2833,10 @@
         {
           "planningAreaCode": "PURA_PLANNING_AREA",
           "planningAreaName": "Pura Planning Area"
+        },
+        {
+          "planningAreaCode": "NAYA_RAIPUR_MASTER_PLAN",
+          "planningAreaName": "Naya Raipur Master Plan"
         }
       ]
     },
@@ -16087,6 +16085,10 @@
         {
           "planningAreaCode": "SAKTI_PLANNING_AREA",
           "planningAreaName": "Sakti Planning Area"
+        },
+        {
+          "planningAreaCode": "JETHA_PLANNING_AREA",
+          "planningAreaName": "Jetha Planning Area"
         }
       ]
     },
@@ -16097,6 +16099,10 @@
         {
           "planningAreaCode": "SAKTI_PLANNING_AREA",
           "planningAreaName": "Sakti Planning Area"
+        },
+        {
+          "planningAreaCode": "JETHA_PLANNING_AREA",
+          "planningAreaName": "Jetha Planning Area"
         }
       ]
     },
@@ -16107,6 +16113,10 @@
         {
           "planningAreaCode": "SAKTI_PLANNING_AREA",
           "planningAreaName": "Sakti Planning Area"
+        },
+        {
+          "planningAreaCode": "JETHA_PLANNING_AREA",
+          "planningAreaName": "Jetha Planning Area"
         }
       ]
     },
@@ -16117,6 +16127,10 @@
         {
           "planningAreaCode": "SAKTI_PLANNING_AREA",
           "planningAreaName": "Sakti Planning Area"
+        },
+        {
+          "planningAreaCode": "JETHA_PLANNING_AREA",
+          "planningAreaName": "Jetha Planning Area"
         }
       ]
     },
@@ -16127,6 +16141,10 @@
         {
           "planningAreaCode": "SAKTI_PLANNING_AREA",
           "planningAreaName": "Sakti Planning Area"
+        },
+        {
+          "planningAreaCode": "JETHA_PLANNING_AREA",
+          "planningAreaName": "Jetha Planning Area"
         }
       ]
     },
@@ -16137,6 +16155,10 @@
         {
           "planningAreaCode": "SAKTI_PLANNING_AREA",
           "planningAreaName": "Sakti Planning Area"
+        },
+        {
+          "planningAreaCode": "JETHA_PLANNING_AREA",
+          "planningAreaName": "Jetha Planning Area"
         }
       ]
     },
@@ -17687,6 +17709,10 @@
         {
           "planningAreaCode": "DHAMTARI_MASTER_PLAN",
           "planningAreaName": "Dhamtari Master Plan"
+        },
+        {
+          "planningAreaCode": "KURUD_PLANNING_AREA",
+          "planningAreaName": "Kurud Planning Area"
         }
       ]
     },
@@ -17747,6 +17773,10 @@
         {
           "planningAreaCode": "DHAMTARI_MASTER_PLAN",
           "planningAreaName": "Dhamtari Master Plan"
+        },
+        {
+          "planningAreaCode": "KURUD_PLANNING_AREA",
+          "planningAreaName": "Kurud Planning Area"
         }
       ]
     },
@@ -18187,6 +18217,10 @@
         {
           "planningAreaCode": "BHAKHARA_PLANNING_AREA",
           "planningAreaName": "Bhakhara Planning Area"
+        },
+        {
+          "planningAreaCode": "AMADI_PLANNING_AREA",
+          "planningAreaName": "Amadi Planning Area"
         }
       ]
     },
@@ -22059,6 +22093,10 @@
         {
           "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
           "planningAreaName": "Bilaspur Development Plan  Master Plan"
+        },
+        {
+          "planningAreaCode": "ARPA_MASTER_PLAN",
+          "planningAreaName": "Arpa Master Plan"
         }
       ]
     },
@@ -28079,6 +28117,7284 @@
         {
           "planningAreaCode": "PREMNGAR_PLANNING_AREA",
           "planningAreaName": "Premngar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KOMAKHAN",
+      "villageCode": "KHOGSA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BHAWARPUR__CLUSTER__PLANNING_AREA",
+          "planningAreaName": "Bhawarpur (Cluster) Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MAHASAMUND",
+      "villageCode": "BANSKURA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SIRPUR__SADA__PLANNING_AREA",
+          "planningAreaName": "Sirpur \"Sada\" Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BASNA",
+      "villageCode": "CHOTE_TEMRI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BASNA_PLANNING_AREA",
+          "planningAreaName": "Basna Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BASNA",
+      "villageCode": "BADE_TEMRI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BASNA_PLANNING_AREA",
+          "planningAreaName": "Basna Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURGKONDUL",
+      "villageCode": "BHIRAWAHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KANKER_MASTER_PLAN",
+          "planningAreaName": "Kanker Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NARHARPUR",
+      "villageCode": "PANDRIPANI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KANKER_MASTER_PLAN",
+          "planningAreaName": "Kanker Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHANUPRATAPPUR",
+      "villageCode": "BHANUPRATAPPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BHANUPTATAPPUR_MASTER_PLAN",
+          "planningAreaName": "Bhanuptatappur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHANUPRATAPPUR",
+      "villageCode": "MULLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BHANUPTATAPPUR_MASTER_PLAN",
+          "planningAreaName": "Bhanuptatappur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHANUPRATAPPUR",
+      "villageCode": "CHAUGEL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BHANUPTATAPPUR_MASTER_PLAN",
+          "planningAreaName": "Bhanuptatappur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHANUPRATAPPUR",
+      "villageCode": "KARATHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BHANUPTATAPPUR_MASTER_PLAN",
+          "planningAreaName": "Bhanuptatappur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHANUPRATAPPUR",
+      "villageCode": "KANHARGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BHANUPTATAPPUR_MASTER_PLAN",
+          "planningAreaName": "Bhanuptatappur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHANUPRATAPPUR",
+      "villageCode": "NARAYAPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BHANUPTATAPPUR_MASTER_PLAN",
+          "planningAreaName": "Bhanuptatappur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHANUPRATAPPUR",
+      "villageCode": "RANWAHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BHANUPTATAPPUR_MASTER_PLAN",
+          "planningAreaName": "Bhanuptatappur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHAARAMA",
+      "villageCode": "CHARAMA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHARAMA_PLANNING_AREA",
+          "planningAreaName": "Charama Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHAARAMA",
+      "villageCode": "MAHUD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHARAMA_PLANNING_AREA",
+          "planningAreaName": "Charama Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHAARAMA",
+      "villageCode": "BHELAI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHARAMA_PLANNING_AREA",
+          "planningAreaName": "Charama Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHAARAMA",
+      "villageCode": "KANDEL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHARAMA_PLANNING_AREA",
+          "planningAreaName": "Charama Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHAARAMA",
+      "villageCode": "TELGUDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHARAMA_PLANNING_AREA",
+          "planningAreaName": "Charama Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHAARAMA",
+      "villageCode": "GIRHOLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHARAMA_PLANNING_AREA",
+          "planningAreaName": "Charama Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARONA",
+      "villageCode": "BHIRAUD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHARAMA_PLANNING_AREA",
+          "planningAreaName": "Charama Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHAARAMA",
+      "villageCode": "KARRAJAISA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHARAMA_PLANNING_AREA",
+          "planningAreaName": "Charama Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHAARAMA",
+      "villageCode": "DARGAHAN",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHARAMA_PLANNING_AREA",
+          "planningAreaName": "Charama Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHAARAMA",
+      "villageCode": "SIRSIDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHARAMA_PLANNING_AREA",
+          "planningAreaName": "Charama Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NARHARPUR",
+      "villageCode": "NARHARPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NARHARPUR_PLANNING_AREA",
+          "planningAreaName": "Narharpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NARHARPUR",
+      "villageCode": "MARRAMPANI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NARHARPUR_PLANNING_AREA",
+          "planningAreaName": "Narharpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NARHARPUR",
+      "villageCode": "BEHNAPANI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NARHARPUR_PLANNING_AREA",
+          "planningAreaName": "Narharpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NARHARPUR",
+      "villageCode": "KOCHWAHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NARHARPUR_PLANNING_AREA",
+          "planningAreaName": "Narharpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NARHARPUR",
+      "villageCode": "SURHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NARHARPUR_PLANNING_AREA",
+          "planningAreaName": "Narharpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ANTAGADH",
+      "villageCode": "ANTAGARH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ANTAGADH_PLANNING_AREA",
+          "planningAreaName": "Antagadh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ANTAGADH",
+      "villageCode": "IMLIPADAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ANTAGADH_PLANNING_AREA",
+          "planningAreaName": "Antagadh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ANTAGADH",
+      "villageCode": "KUHCHE",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ANTAGADH_PLANNING_AREA",
+          "planningAreaName": "Antagadh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ANTAGADH",
+      "villageCode": "KALGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ANTAGADH_PLANNING_AREA",
+          "planningAreaName": "Antagadh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ANTAGADH",
+      "villageCode": "HIMODA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ANTAGADH_PLANNING_AREA",
+          "planningAreaName": "Antagadh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "PAKHANJUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PANKHAJUR_PLANNING_AREA",
+          "planningAreaName": "Pankhajur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "SATYANANDPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PANKHAJUR_PLANNING_AREA",
+          "planningAreaName": "Pankhajur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "HARIHARPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PANKHAJUR_PLANNING_AREA",
+          "planningAreaName": "Pankhajur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "PAKHANJUR_COLONY",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PANKHAJUR_PLANNING_AREA",
+          "planningAreaName": "Pankhajur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "INDRAPRASTHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PANKHAJUR_PLANNING_AREA",
+          "planningAreaName": "Pankhajur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "UDAIPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PANKHAJUR_PLANNING_AREA",
+          "planningAreaName": "Pankhajur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "SOHGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PANKHAJUR_PLANNING_AREA",
+          "planningAreaName": "Pankhajur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "VIDYANAGAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PANKHAJUR_PLANNING_AREA",
+          "planningAreaName": "Pankhajur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "SUBHASHNAGAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PANKHAJUR_PLANNING_AREA",
+          "planningAreaName": "Pankhajur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "BADE_KAPSI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BADE_KAPASI_PLANNING_AREA",
+          "planningAreaName": "Bade Kapasi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "SMALL_KAPSI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BADE_KAPASI_PLANNING_AREA",
+          "planningAreaName": "Bade Kapasi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "ALOUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BADE_KAPASI_PLANNING_AREA",
+          "planningAreaName": "Bade Kapasi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "VISHRAMPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BADE_KAPASI_PLANNING_AREA",
+          "planningAreaName": "Bade Kapasi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "PREMNAGAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BADE_KAPASI_PLANNING_AREA",
+          "planningAreaName": "Bade Kapasi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "BAPUNAGAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BADE_KAPASI_PLANNING_AREA",
+          "planningAreaName": "Bade Kapasi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "SRINAGAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BADE_KAPASI_PLANNING_AREA",
+          "planningAreaName": "Bade Kapasi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "HARANGARH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BADE_KAPASI_PLANNING_AREA",
+          "planningAreaName": "Bade Kapasi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "DONDE",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BADE_KAPASI_PLANNING_AREA",
+          "planningAreaName": "Bade Kapasi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PAKHAANJUR",
+      "villageCode": "DEVIPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BADE_KAPASI_PLANNING_AREA",
+          "planningAreaName": "Bade Kapasi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KUNKURI",
+      "villageCode": "DIPATOLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JASHPUR_MASTER_PLAN",
+          "planningAreaName": "Jashpur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANORA",
+      "villageCode": "NAWATOLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JASHPUR_MASTER_PLAN",
+          "planningAreaName": "Jashpur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANORA",
+      "villageCode": "BHABHARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JASHPUR_MASTER_PLAN",
+          "planningAreaName": "Jashpur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KUNKURI",
+      "villageCode": "DOOMARTOLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAGICHA_PLANNING_AREA",
+          "planningAreaName": "Bagicha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHALGAON",
+      "villageCode": "KUMEKELA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHALGAON_PLANNING_AREA",
+          "planningAreaName": "Pathalgaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHALGAON",
+      "villageCode": "MADANPUR_INJKO",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHALGAON_PLANNING_AREA",
+          "planningAreaName": "Pathalgaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHALGAON",
+      "villageCode": "PAKARGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHALGAON_PLANNING_AREA",
+          "planningAreaName": "Pathalgaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BAGBAHAR",
+      "villageCode": "KOTBA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KOTBA_PLANNING_AREA",
+          "planningAreaName": "Kotba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BAGBAHAR",
+      "villageCode": "AMATOLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KOTBA_PLANNING_AREA",
+          "planningAreaName": "Kotba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BAGBAHAR",
+      "villageCode": "MADHUBAN",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KOTBA_PLANNING_AREA",
+          "planningAreaName": "Kotba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "FARSABAHAR",
+      "villageCode": "DONGADARHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KOTBA_PLANNING_AREA",
+          "planningAreaName": "Kotba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BAGBAHAR",
+      "villageCode": "ROKBAHAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KOTBA_PLANNING_AREA",
+          "planningAreaName": "Kotba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BAGBAHAR",
+      "villageCode": "KHAJRIDHAP",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KOTBA_PLANNING_AREA",
+          "planningAreaName": "Kotba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BAGBAHAR",
+      "villageCode": "GOLIYAGADH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KOTBA_PLANNING_AREA",
+          "planningAreaName": "Kotba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALOD",
+      "villageCode": "KHAIRTARAI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALOD_MASTER_PLAN",
+          "planningAreaName": "Balod Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALOD",
+      "villageCode": "BAGHMARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALOD_MASTER_PLAN",
+          "planningAreaName": "Balod Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALOD",
+      "villageCode": "HIRAPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALOD_MASTER_PLAN",
+          "planningAreaName": "Balod Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI_LOHARA",
+      "villageCode": "SEONI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALOD_MASTER_PLAN",
+          "planningAreaName": "Balod Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALOD",
+      "villageCode": "PARRAS",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALOD_MASTER_PLAN",
+          "planningAreaName": "Balod Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALOD",
+      "villageCode": "BALOD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALOD_MASTER_PLAN",
+          "planningAreaName": "Balod Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALOD",
+      "villageCode": "JHALMALA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALOD_MASTER_PLAN",
+          "planningAreaName": "Balod Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALOD",
+      "villageCode": "DEORBHAT",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALOD_MASTER_PLAN",
+          "planningAreaName": "Balod Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALOD",
+      "villageCode": "PAKURBHAT",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALOD_MASTER_PLAN",
+          "planningAreaName": "Balod Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALOD",
+      "villageCode": "UMRADAH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALOD_MASTER_PLAN",
+          "planningAreaName": "Balod Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "CHIKHLAKASA.",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "PATHRATOLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "KHAMHAR_TILA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "AHMURKASA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "KUSUMCHAKSI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "KURUBHATA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "PUTARWAHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "PADRIDALLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "CHICHLI_BAZAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "BHARRATOLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "MALKUVAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "KAMKASUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "GHATULMUDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "KOKAN",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "SINGANWAL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "PARGODA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "TEKATOLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "SALHE",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "DHOTIMATOLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI_LOHARA",
+      "villageCode": "BHIMATOLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "JAMRUVA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "JHARANDALLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "MAHULJHAPPI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "KANDKASA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "DALLI_RAJHARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DALLI_RAJHARA_PLANNING_AREA",
+          "planningAreaName": "Dalli Rajhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "KHAIRWAHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDI_PLANNING_AREA",
+          "planningAreaName": "Dondi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "AURATOLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDI_PLANNING_AREA",
+          "planningAreaName": "Dondi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "UKARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDI_PLANNING_AREA",
+          "planningAreaName": "Dondi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "GANGOLIDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDI_PLANNING_AREA",
+          "planningAreaName": "Dondi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "KANDE",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDI_PLANNING_AREA",
+          "planningAreaName": "Dondi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "AWARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDI_PLANNING_AREA",
+          "planningAreaName": "Dondi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "CHHINDGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDI_PLANNING_AREA",
+          "planningAreaName": "Dondi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "BELAR_GODI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDI_PLANNING_AREA",
+          "planningAreaName": "Dondi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI",
+      "villageCode": "DONDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDI_PLANNING_AREA",
+          "planningAreaName": "Dondi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI_LOHARA",
+      "villageCode": "KOTERA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDILOHARA_PLANNING_AREA",
+          "planningAreaName": "Dondilohara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI_LOHARA",
+      "villageCode": "DHANGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDILOHARA_PLANNING_AREA",
+          "planningAreaName": "Dondilohara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI_LOHARA",
+      "villageCode": "ANDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDILOHARA_PLANNING_AREA",
+          "planningAreaName": "Dondilohara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI_LOHARA",
+      "villageCode": "SAMBALPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDILOHARA_PLANNING_AREA",
+          "planningAreaName": "Dondilohara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI_LOHARA",
+      "villageCode": "KASAHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDILOHARA_PLANNING_AREA",
+          "planningAreaName": "Dondilohara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI_LOHARA",
+      "villageCode": "BATERA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDILOHARA_PLANNING_AREA",
+          "planningAreaName": "Dondilohara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI_LOHARA",
+      "villageCode": "BHENDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDILOHARA_PLANNING_AREA",
+          "planningAreaName": "Dondilohara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI_LOHARA",
+      "villageCode": "JOGIBHAT",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDILOHARA_PLANNING_AREA",
+          "planningAreaName": "Dondilohara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI_LOHARA",
+      "villageCode": "KHADNADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDILOHARA_PLANNING_AREA",
+          "planningAreaName": "Dondilohara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI_LOHARA",
+      "villageCode": "BADGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDILOHARA_PLANNING_AREA",
+          "planningAreaName": "Dondilohara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI_LOHARA",
+      "villageCode": "BHARDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDILOHARA_PLANNING_AREA",
+          "planningAreaName": "Dondilohara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONDI_LOHARA",
+      "villageCode": "DONDI_LOHARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONDILOHARA_PLANNING_AREA",
+          "planningAreaName": "Dondilohara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "GURUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "DHOBANPURI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "CHHEDIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "BHARDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "DHANORA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "TARRI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "KHAIRWAHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "TENGNA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "SONAIDONGRI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "BORTARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "KANHARPURI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "MOKHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "DANITOLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "KOLIHAMAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "TEKWADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "MUJGAHAN",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "BOHARDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "DARGAHAN",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "KHARRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "KULIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "DOKLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GURUR",
+      "villageCode": "NAVAGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GURUR_PLANNING_AREA",
+          "planningAreaName": "Gurur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "BAGHMARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ARJUNDA",
+      "villageCode": "CHICHALGODI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "KHUTEDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "RANGKATHERA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "CHAINGANJ",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "KHARRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "KACHANDUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "SAJA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "BHANDERA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "MACHOUD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "TEKAPAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "KHALARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "RUDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "DHARMI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "DEORI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "GUNDERDEHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GUNDERDEHI_PLANNING_AREA",
+          "planningAreaName": "Gunderdehi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ARJUNDA",
+      "villageCode": "DUDIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARJUNDA_PLANNING_AREA",
+          "planningAreaName": "Arjunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MARRI_BANGLA_DEVARI",
+      "villageCode": "KATHIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARJUNDA_PLANNING_AREA",
+          "planningAreaName": "Arjunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MARRI_BANGLA_DEVARI",
+      "villageCode": "TELITOLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARJUNDA_PLANNING_AREA",
+          "planningAreaName": "Arjunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MARRI_BANGLA_DEVARI",
+      "villageCode": "MANKI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARJUNDA_PLANNING_AREA",
+          "planningAreaName": "Arjunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ARJUNDA",
+      "villageCode": "BORGAHAN",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARJUNDA_PLANNING_AREA",
+          "planningAreaName": "Arjunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GUNDERDEHI",
+      "villageCode": "ARJUNI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARJUNDA_PLANNING_AREA",
+          "planningAreaName": "Arjunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ARJUNDA",
+      "villageCode": "TIKRI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARJUNDA_PLANNING_AREA",
+          "planningAreaName": "Arjunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ARJUNDA",
+      "villageCode": "KHAIRBANA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARJUNDA_PLANNING_AREA",
+          "planningAreaName": "Arjunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ARJUNDA",
+      "villageCode": "MATIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARJUNDA_PLANNING_AREA",
+          "planningAreaName": "Arjunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ARJUNDA",
+      "villageCode": "MATEWA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARJUNDA_PLANNING_AREA",
+          "planningAreaName": "Arjunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ARJUNDA",
+      "villageCode": "PARASTRAI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARJUNDA_PLANNING_AREA",
+          "planningAreaName": "Arjunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ARJUNDA",
+      "villageCode": "KHAPRI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARJUNDA_PLANNING_AREA",
+          "planningAreaName": "Arjunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ARJUNDA",
+      "villageCode": "KANDUL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARJUNDA_PLANNING_AREA",
+          "planningAreaName": "Arjunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ARJUNDA",
+      "villageCode": "ARJUNDA.",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARJUNDA_PLANNING_AREA",
+          "planningAreaName": "Arjunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHHURA",
+      "villageCode": "RANWABHATHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAIPUR_MASTER_PLAN",
+          "planningAreaName": "Raipur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DHARSINWA",
+      "villageCode": "BIRGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAIPUR_MASTER_PLAN",
+          "planningAreaName": "Raipur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DHARSIWA",
+      "villageCode": "DHANELI1",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAIPUR_MASTER_PLAN",
+          "planningAreaName": "Raipur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "RAIPUR",
+      "villageCode": "SAKARI3",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAIPUR_MASTER_PLAN",
+          "planningAreaName": "Raipur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ARANG",
+      "villageCode": "AKOLIKHURD2",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARANG_MASTER_PLAN",
+          "planningAreaName": "Arang Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "TILDA",
+      "villageCode": "SINODHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "TILDA_NEVRA_PLANNING_AREA",
+          "planningAreaName": "Tilda-Nevra Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "TILDA",
+      "villageCode": "TILDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "TILDA_NEVRA_PLANNING_AREA",
+          "planningAreaName": "Tilda-Nevra Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KHARORA",
+      "villageCode": "KURRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAYA_RAIPUR_MASTER_PLAN",
+          "planningAreaName": "Naya Raipur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GARIYABAND_FINGESHWAR",
+      "villageCode": "GADHIDIHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "FINGESHWAR_PLANNING_AREA",
+          "planningAreaName": "Fingeshwar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "RAJIM",
+      "villageCode": "CHAUBEBANDHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAJIM_PLANNING_AREA",
+          "planningAreaName": "Rajim Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LAVAN",
+      "villageCode": "PAHANDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALODA_BAZAR_MASTER_PLAN",
+          "planningAreaName": "Baloda Bazar Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHATAPARA",
+      "villageCode": "AURETHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SIMGA_PLANNING_AREA",
+          "planningAreaName": "Simga Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PALARI",
+      "villageCode": "HARINBHATTA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SIMGA_PLANNING_AREA",
+          "planningAreaName": "Simga Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILAIGARH",
+      "villageCode": "KORKOTI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "TUNDRA_PLANNING_AREA",
+          "planningAreaName": "Tundra Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "TUNDRA",
+      "villageCode": "TUNDRA_AMALIDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "TUNDRA_PLANNING_AREA",
+          "planningAreaName": "Tundra Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "TUNDRA",
+      "villageCode": "GIROUD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GIRODPURI_PLANNING_AREA",
+          "planningAreaName": "Girodpuri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "TUNDRA",
+      "villageCode": "KAUWATAAL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GIRODPURI_PLANNING_AREA",
+          "planningAreaName": "Girodpuri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "TUNDRA",
+      "villageCode": "DARRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GIRODPURI_PLANNING_AREA",
+          "planningAreaName": "Girodpuri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "TUNDRA",
+      "villageCode": "MADHWA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GIRODPURI_PLANNING_AREA",
+          "planningAreaName": "Girodpuri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "TUNDRA",
+      "villageCode": "AMODI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GIRODPURI_PLANNING_AREA",
+          "planningAreaName": "Girodpuri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "TUNDRA",
+      "villageCode": "DERADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GIRODPURI_PLANNING_AREA",
+          "planningAreaName": "Girodpuri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIMGA",
+      "villageCode": "DAMAKHEDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DAMAKHEDA_PLANNING_AREA",
+          "planningAreaName": "Damakheda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIMGA",
+      "villageCode": "KIRWAI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DAMAKHEDA_PLANNING_AREA",
+          "planningAreaName": "Damakheda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIMGA",
+      "villageCode": "DHOBNI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DAMAKHEDA_PLANNING_AREA",
+          "planningAreaName": "Damakheda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALODA_BAZAR",
+      "villageCode": "SONADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONADIH_PLANNING_AREA",
+          "planningAreaName": "Sonadih Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALODA_BAZAR",
+      "villageCode": "RASEDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONADIH_PLANNING_AREA",
+          "planningAreaName": "Sonadih Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALODA_BAZAR",
+      "villageCode": "RASEDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONADIH_PLANNING_AREA",
+          "planningAreaName": "Sonadih Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SUHELA",
+      "villageCode": "HIRMI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "HIRMI_PLANNING_AREA",
+          "planningAreaName": "Hirmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SUHELA",
+      "villageCode": "SKALOR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "HIRMI_PLANNING_AREA",
+          "planningAreaName": "Hirmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SUHELA",
+      "villageCode": "KUTHRAUD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "HIRMI_PLANNING_AREA",
+          "planningAreaName": "Hirmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALODA_BAZAR",
+      "villageCode": "RAAVAN",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAAVAN_PLANNING_AREA",
+          "planningAreaName": "Raavan Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SUHELA",
+      "villageCode": "JHIPAN",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAAVAN_PLANNING_AREA",
+          "planningAreaName": "Raavan Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SUHELA",
+      "villageCode": "RAVELI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAAVAN_PLANNING_AREA",
+          "planningAreaName": "Raavan Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SUHELA",
+      "villageCode": "RAVAAN",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAAVAN_PLANNING_AREA",
+          "planningAreaName": "Raavan Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALODA_BAZAR",
+      "villageCode": "ARJUNI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAAVAN_PLANNING_AREA",
+          "planningAreaName": "Raavan Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALODA_BAZAR",
+      "villageCode": "BHADRAPALI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAAVAN_PLANNING_AREA",
+          "planningAreaName": "Raavan Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALODA_BAZAR",
+      "villageCode": "KHAIRTAL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAAVAN_PLANNING_AREA",
+          "planningAreaName": "Raavan Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALODA_BAZAR",
+      "villageCode": "RISDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RISDA_PLANNING_AREA",
+          "planningAreaName": "Risda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALODA_BAZAR",
+      "villageCode": "PURAAN",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RISDA_PLANNING_AREA",
+          "planningAreaName": "Risda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALODA_BAZAR",
+      "villageCode": "DHABADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RISDA_PLANNING_AREA",
+          "planningAreaName": "Risda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SUHELA",
+      "villageCode": "KHAPARADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHAPARADIH_PLANNING_AREA",
+          "planningAreaName": "Khaparadih Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SUHELA",
+      "villageCode": "CHANDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHAPARADIH_PLANNING_AREA",
+          "planningAreaName": "Khaparadih Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALODA_BAZAR",
+      "villageCode": "BHARUWADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHAPARADIH_PLANNING_AREA",
+          "planningAreaName": "Khaparadih Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALODA_BAZAR",
+      "villageCode": "SEMRADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHAPARADIH_PLANNING_AREA",
+          "planningAreaName": "Khaparadih Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SUHELA",
+      "villageCode": "KARHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHAPARADIH_PLANNING_AREA",
+          "planningAreaName": "Khaparadih Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIMGA",
+      "villageCode": "HATHBAND",
+      "planningAreas": [
+        {
+          "planningAreaCode": "HATHBAND_PLANNING_AREA",
+          "planningAreaName": "Hathband Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIMGA",
+      "villageCode": "SITAPAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "HATHBAND_PLANNING_AREA",
+          "planningAreaName": "Hathband Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIMGA",
+      "villageCode": "UDELA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "HATHBAND_PLANNING_AREA",
+          "planningAreaName": "Hathband Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIMGA",
+      "villageCode": "DHODHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "HATHBAND_PLANNING_AREA",
+          "planningAreaName": "Hathband Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIMGA",
+      "villageCode": "LAVAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "HATHBAND_PLANNING_AREA",
+          "planningAreaName": "Hathband Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIMGA",
+      "villageCode": "DONGARIA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "HATHBAND_PLANNING_AREA",
+          "planningAreaName": "Hathband Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIMGA",
+      "villageCode": "MOHABHATTHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "HATHBAND_PLANNING_AREA",
+          "planningAreaName": "Hathband Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIMGA",
+      "villageCode": "RINGNI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "HATHBAND_PLANNING_AREA",
+          "planningAreaName": "Hathband Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIMGA",
+      "villageCode": "KESDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "HATHBAND_PLANNING_AREA",
+          "planningAreaName": "Hathband Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIMGA",
+      "villageCode": "NEVDHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "HATHBAND_PLANNING_AREA",
+          "planningAreaName": "Hathband Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "RAIGARH",
+      "villageCode": "GORKA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAIGARH_MASTER_PLAN",
+          "planningAreaName": "Raigarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "POUSAUR",
+      "villageCode": "SAHDEVPALI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAIGARH_MASTER_PLAN",
+          "planningAreaName": "Raigarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "RAIGARH",
+      "villageCode": "KODATARAI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAIGARH_MASTER_PLAN",
+          "planningAreaName": "Raigarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GHARGHODA",
+      "villageCode": "GHARGHODA_NAWAPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GHARGHODA_PLANNING_AREA",
+          "planningAreaName": "Gharghoda Planning Area"
+        },
+        {
+          "planningAreaCode": "TAMNAR_PLANNING_AREA",
+          "planningAreaName": "Tamnar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARANGARH_BILAIGARH_RAIGARH",
+      "villageCode": "BIJEPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SARANGARH_MASTER_PLAN",
+          "planningAreaName": "Sarangarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARANGARH",
+      "villageCode": "JHARPIDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SARANGARH_MASTER_PLAN",
+          "planningAreaName": "Sarangarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "TAMNAR",
+      "villageCode": "TAMNAR_BARPALI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "TAMNAR_PLANNING_AREA",
+          "planningAreaName": "Tamnar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "TAMNAR",
+      "villageCode": "TILAIPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "TAMNAR_PLANNING_AREA",
+          "planningAreaName": "Tamnar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARAGAON",
+      "villageCode": "BAHERADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHAMPA_MASTER_PLAN",
+          "planningAreaName": "Champa Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_SHIVRINARAYAN",
+      "villageCode": "KOTIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAVAGARH_PLANNING_AREA",
+          "planningAreaName": "Navagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_SHIVRINARAYAN",
+      "villageCode": "NEGURDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAVAGARH_PLANNING_AREA",
+          "planningAreaName": "Navagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "PENDRI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAVAGARH_PLANNING_AREA",
+          "planningAreaName": "Navagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "MEHANDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAHOD_PLANNING_AREA",
+          "planningAreaName": "Rahod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "MAHKA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAHOD_PLANNING_AREA",
+          "planningAreaName": "Rahod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "PAKARIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAHOD_PLANNING_AREA",
+          "planningAreaName": "Rahod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "KHOKHRI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAHOD_PLANNING_AREA",
+          "planningAreaName": "Rahod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "TANOD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAHOD_PLANNING_AREA",
+          "planningAreaName": "Rahod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "BUNDELI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAHOD_PLANNING_AREA",
+          "planningAreaName": "Rahod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "BILARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAHOD_PLANNING_AREA",
+          "planningAreaName": "Rahod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "RAHOD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAHOD_PLANNING_AREA",
+          "planningAreaName": "Rahod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "SIGALDEEP",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAHOD_PLANNING_AREA",
+          "planningAreaName": "Rahod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "GHARDEHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAHOD_PLANNING_AREA",
+          "planningAreaName": "Rahod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "KOHKA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAHOD_PLANNING_AREA",
+          "planningAreaName": "Rahod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "HADHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAHOD_PLANNING_AREA",
+          "planningAreaName": "Rahod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "LOHARSHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAHOD_PLANNING_AREA",
+          "planningAreaName": "Rahod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "KHORSHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAHOD_PLANNING_AREA",
+          "planningAreaName": "Rahod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "DEVRI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAHOD_PLANNING_AREA",
+          "planningAreaName": "Rahod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARAGAON",
+      "villageCode": "SARHAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BARADWAR_PLANNING_AREA",
+          "planningAreaName": "Baradwar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARAGAON",
+      "villageCode": "BHAGODIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BARADWAR_PLANNING_AREA",
+          "planningAreaName": "Baradwar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARAGAON",
+      "villageCode": "MUKTARAJA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BARADWAR_PLANNING_AREA",
+          "planningAreaName": "Baradwar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAKTI_SARAGAON",
+      "villageCode": "DURAPA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BARADWAR_PLANNING_AREA",
+          "planningAreaName": "Baradwar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ADBHAAR",
+      "villageCode": "DHIMANI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ADBHAR_PLANNING_AREA",
+          "planningAreaName": "Adbhar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ADBHAAR",
+      "villageCode": "BUNDELI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ADBHAR_PLANNING_AREA",
+          "planningAreaName": "Adbhar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ADBHAAR",
+      "villageCode": "BANDORA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ADBHAR_PLANNING_AREA",
+          "planningAreaName": "Adbhar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ADBHAAR",
+      "villageCode": "ADBHAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ADBHAR_PLANNING_AREA",
+          "planningAreaName": "Adbhar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ADBHAAR",
+      "villageCode": "HARDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ADBHAR_PLANNING_AREA",
+          "planningAreaName": "Adbhar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ADBHAAR",
+      "villageCode": "BANJARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ADBHAR_PLANNING_AREA",
+          "planningAreaName": "Adbhar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ADBHAAR",
+      "villageCode": "SANJARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ADBHAR_PLANNING_AREA",
+          "planningAreaName": "Adbhar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "ADBHAAR",
+      "villageCode": "CHARODA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ADBHAR_PLANNING_AREA",
+          "planningAreaName": "Adbhar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_SHIVRINARAYAN",
+      "villageCode": "TUSMA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVRINARAYAN_PLANNING_AREA",
+          "planningAreaName": "Shivrinarayan Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_SHIVRINARAYAN",
+      "villageCode": "BHOGHAPARASHIVRINARAYAN",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVRINARAYAN_PLANNING_AREA",
+          "planningAreaName": "Shivrinarayan Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_SHIVRINARAYAN",
+      "villageCode": "MAHANT_PARASHIVRINARAYAN",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVRINARAYAN_PLANNING_AREA",
+          "planningAreaName": "Shivrinarayan Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_SHIVRINARAYAN",
+      "villageCode": "DURAPA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVRINARAYAN_PLANNING_AREA",
+          "planningAreaName": "Shivrinarayan Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_SHIVRINARAYAN",
+      "villageCode": "MUDHPAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVRINARAYAN_PLANNING_AREA",
+          "planningAreaName": "Shivrinarayan Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_SHIVRINARAYAN",
+      "villageCode": "SINGHUL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVRINARAYAN_PLANNING_AREA",
+          "planningAreaName": "Shivrinarayan Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "PARSAHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AKALTARA_PLANNING_AREA",
+          "planningAreaName": "Akaltara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "KHATOLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AKALTARA_PLANNING_AREA",
+          "planningAreaName": "Akaltara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "BARGAWAN",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AKALTARA_PLANNING_AREA",
+          "planningAreaName": "Akaltara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "KHOND",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AKALTARA_PLANNING_AREA",
+          "planningAreaName": "Akaltara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "KHISORA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AKALTARA_PLANNING_AREA",
+          "planningAreaName": "Akaltara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "LILWADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AKALTARA_PLANNING_AREA",
+          "planningAreaName": "Akaltara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "AMARTAL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AKALTARA_PLANNING_AREA",
+          "planningAreaName": "Akaltara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "KIRARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AKALTARA_PLANNING_AREA",
+          "planningAreaName": "Akaltara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "TARAUD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AKALTARA_PLANNING_AREA",
+          "planningAreaName": "Akaltara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "ROGDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AKALTARA_PLANNING_AREA",
+          "planningAreaName": "Akaltara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "MURALIDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AKALTARA_PLANNING_AREA",
+          "planningAreaName": "Akaltara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "PAKARIA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AKALTARA_PLANNING_AREA",
+          "planningAreaName": "Akaltara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "LATIA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AKALTARA_PLANNING_AREA",
+          "planningAreaName": "Akaltara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_BALODA",
+      "villageCode": "BALODA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALODA_PLANNING_AREA",
+          "planningAreaName": "Baloda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_BALODA",
+      "villageCode": "CHARPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALODA_PLANNING_AREA",
+          "planningAreaName": "Baloda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_BALODA",
+      "villageCode": "BELANDIYADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALODA_PLANNING_AREA",
+          "planningAreaName": "Baloda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_BALODA",
+      "villageCode": "JHARRADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALODA_PLANNING_AREA",
+          "planningAreaName": "Baloda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "BUCHIHARDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BALODA_PLANNING_AREA",
+          "planningAreaName": "Baloda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "CHANDIPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PAMGARH_PLANNING_AREA",
+          "planningAreaName": "Pamgarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "ROJHANDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PAMGARH_PLANNING_AREA",
+          "planningAreaName": "Pamgarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "PAMGARH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PAMGARH_PLANNING_AREA",
+          "planningAreaName": "Pamgarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "DONGAKHAHRAUD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PAMGARH_PLANNING_AREA",
+          "planningAreaName": "Pamgarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "KUTRABOD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PAMGARH_PLANNING_AREA",
+          "planningAreaName": "Pamgarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "BARGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PAMGARH_PLANNING_AREA",
+          "planningAreaName": "Pamgarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "CHEUDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PAMGARH_PLANNING_AREA",
+          "planningAreaName": "Pamgarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "GODADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MULMULA_PLANNING_AREA",
+          "planningAreaName": "Mulmula Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "ARASMETA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MULMULA_PLANNING_AREA",
+          "planningAreaName": "Mulmula Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "KONAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MULMULA_PLANNING_AREA",
+          "planningAreaName": "Mulmula Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "KOSA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MULMULA_PLANNING_AREA",
+          "planningAreaName": "Mulmula Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "AMORA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MULMULA_PLANNING_AREA",
+          "planningAreaName": "Mulmula Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "GHAGHRAVOD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MULMULA_PLANNING_AREA",
+          "planningAreaName": "Mulmula Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "SONSARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MULMULA_PLANNING_AREA",
+          "planningAreaName": "Mulmula Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "MULMULA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MULMULA_PLANNING_AREA",
+          "planningAreaName": "Mulmula Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "MASTURIDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MULMULA_PLANNING_AREA",
+          "planningAreaName": "Mulmula Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "NANDELI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MULMULA_PLANNING_AREA",
+          "planningAreaName": "Mulmula Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "NARIYARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MULMULA_PLANNING_AREA",
+          "planningAreaName": "Mulmula Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "TAWANDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MULMULA_PLANNING_AREA",
+          "planningAreaName": "Mulmula Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_AKALTARA",
+      "villageCode": "JHILMILA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MULMULA_PLANNING_AREA",
+          "planningAreaName": "Mulmula Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "JHILMILI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MULMULA_PLANNING_AREA",
+          "planningAreaName": "Mulmula Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "BHAISO",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MULMULA_PLANNING_AREA",
+          "planningAreaName": "Mulmula Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAKTI_BARADWAR",
+      "villageCode": "LAVSARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JETHA_PLANNING_AREA",
+          "planningAreaName": "Jetha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAKTI_BARADWAR",
+      "villageCode": "BELHADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JETHA_PLANNING_AREA",
+          "planningAreaName": "Jetha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAKTI_BARADWAR",
+      "villageCode": "RANIGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JETHA_PLANNING_AREA",
+          "planningAreaName": "Jetha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAKTI_BARADWAR",
+      "villageCode": "PASID",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JETHA_PLANNING_AREA",
+          "planningAreaName": "Jetha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAKTI_BARADWAR",
+      "villageCode": "SARAIPALI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JETHA_PLANNING_AREA",
+          "planningAreaName": "Jetha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAKTI_BARADWAR",
+      "villageCode": "KHUNTADAHRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JETHA_PLANNING_AREA",
+          "planningAreaName": "Jetha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAKTI_BARADWAR",
+      "villageCode": "BHURSIDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JETHA_PLANNING_AREA",
+          "planningAreaName": "Jetha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_SHIVRINARAYAN",
+      "villageCode": "KAMTA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHAROD_PLANNING_AREA",
+          "planningAreaName": "Kharod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_SHIVRINARAYAN",
+      "villageCode": "VORDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHAROD_PLANNING_AREA",
+          "planningAreaName": "Kharod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_SHIVRINARAYAN",
+      "villageCode": "RINGANI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHAROD_PLANNING_AREA",
+          "planningAreaName": "Kharod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_SHIVRINARAYAN",
+      "villageCode": "BELHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHAROD_PLANNING_AREA",
+          "planningAreaName": "Kharod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "TIWARI_PARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHAROD_PLANNING_AREA",
+          "planningAreaName": "Kharod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "MANJHA_PARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHAROD_PLANNING_AREA",
+          "planningAreaName": "Kharod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "SUKULU_PARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHAROD_PLANNING_AREA",
+          "planningAreaName": "Kharod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "BHADRIYA_PARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHAROD_PLANNING_AREA",
+          "planningAreaName": "Kharod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JANJGIR_CHAMPA_PAMGARH",
+      "villageCode": "JARHA_PARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHAROD_PLANNING_AREA",
+          "planningAreaName": "Kharod Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BODLA",
+      "villageCode": "JEVDANKALA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KAWARDHA_MASTER_PLAN",
+          "planningAreaName": "Kawardha Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAHASPUR_LOHARA",
+      "villageCode": "SINGARPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PANDARIYA_PLANNING_AREA",
+          "planningAreaName": "Pandariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PANDARIYA",
+      "villageCode": "LALPURKHURD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BODLA_PLANNING_AREA",
+          "planningAreaName": "Bodla Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KAWARDHA",
+      "villageCode": "MADMADA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PANDATARAI_PLANNING_AREA",
+          "planningAreaName": "Pandatarai Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BODLA",
+      "villageCode": "CHANTA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PANDATARAI_PLANNING_AREA",
+          "planningAreaName": "Pandatarai Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KAWARDHA",
+      "villageCode": "DASHARANGPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PANDATARAI_PLANNING_AREA",
+          "planningAreaName": "Pandatarai Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KAWARDHA",
+      "villageCode": "GHUGHARIKALA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BIRKONA_PLANNING_AREA",
+          "planningAreaName": "Birkona Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KAWARDHA",
+      "villageCode": "MAGARDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BIRKONA_PLANNING_AREA",
+          "planningAreaName": "Birkona Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "RENGAKHARKALA",
+      "villageCode": "JUNWANI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BIRKONA_PLANNING_AREA",
+          "planningAreaName": "Birkona Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KAWARDHA",
+      "villageCode": "NAVAGAON_TIWARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BIRKONA_PLANNING_AREA",
+          "planningAreaName": "Birkona Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KAWARDHA",
+      "villageCode": "BHIMPURI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BIRKONA_PLANNING_AREA",
+          "planningAreaName": "Birkona Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KAWARDHA",
+      "villageCode": "LIMO",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BIRKONA_PLANNING_AREA",
+          "planningAreaName": "Birkona Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KAWARDHA",
+      "villageCode": "BHEDLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BIRKONA_PLANNING_AREA",
+          "planningAreaName": "Birkona Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KAWARDHA",
+      "villageCode": "THUADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BIRKONA_PLANNING_AREA",
+          "planningAreaName": "Birkona Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAHASPUR_LOHARA",
+      "villageCode": "KUTKIPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BIRKONA_PLANNING_AREA",
+          "planningAreaName": "Birkona Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PANDARIYA",
+      "villageCode": "KESHALMARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUNDA_PLANNING_AREA",
+          "planningAreaName": "Kunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BODLA",
+      "villageCode": "KHARHATTA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUNDA_PLANNING_AREA",
+          "planningAreaName": "Kunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GIDAM",
+      "villageCode": "KARLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DANTEWADA_PLANNING_AREA",
+          "planningAreaName": "Dantewada Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BARSUR",
+      "villageCode": "BARSOOR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BACHELI__KIRANDUL_PLANNING_AREA",
+          "planningAreaName": "Bacheli -Kirandul Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GIDAM",
+      "villageCode": "GEEDAM",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BACHELI__KIRANDUL_PLANNING_AREA",
+          "planningAreaName": "Bacheli -Kirandul Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GIDAM",
+      "villageCode": "HAARAM",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BACHELI__KIRANDUL_PLANNING_AREA",
+          "planningAreaName": "Bacheli -Kirandul Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BARSUR",
+      "villageCode": "HITAMETA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BACHELI__KIRANDUL_PLANNING_AREA",
+          "planningAreaName": "Bacheli -Kirandul Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GIDAM",
+      "villageCode": "HOARNAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BACHELI__KIRANDUL_PLANNING_AREA",
+          "planningAreaName": "Bacheli -Kirandul Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "KURUD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KURUD_PLANNING_AREA",
+          "planningAreaName": "Kurud Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "RAKHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KURUD_PLANNING_AREA",
+          "planningAreaName": "Kurud Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "CHARMUDIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KURUD_PLANNING_AREA",
+          "planningAreaName": "Kurud Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "BHOTHLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KURUD_PLANNING_AREA",
+          "planningAreaName": "Kurud Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "KUHKUHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KURUD_PLANNING_AREA",
+          "planningAreaName": "Kurud Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "UMARDAA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KURUD_PLANNING_AREA",
+          "planningAreaName": "Kurud Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "CHHARRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KURUD_PLANNING_AREA",
+          "planningAreaName": "Kurud Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "KANHARPURI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KURUD_PLANNING_AREA",
+          "planningAreaName": "Kurud Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "NAGARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "GOREGAO",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "AMALI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "SAMBALPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "CHIPLIPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "BHILBHADAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "DOGARDULA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "HARDIBHAT",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "BHITARRAS",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "SIHAWA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "SIRSIDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "BODSEMRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "BIRANPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "MODE",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "SAKARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "CHURIYARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "CHIPLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NAGRI",
+      "villageCode": "DEVPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARI_PLANNING_AREA",
+          "planningAreaName": "Nagari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAKHARA",
+      "villageCode": "BHAKHARA_KURRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BHAKHARA_PLANNING_AREA",
+          "planningAreaName": "Bhakhara Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "DARBA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "KHURSENGA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "KODAPAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "KARGA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "CHATUD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "MURA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "KOTGAO",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "THETHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "KULADHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "BIRJHAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "JAMGAO",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "MULLE",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "GATAPA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "SIRRI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "KALLE",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "AVARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "SONPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "KODEBOD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "ALEKHUTA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "ACHOTTI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "SHIVNIKALA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "MARAUD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DHAMTARI",
+      "villageCode": "BANJARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "ATUNG",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DARBA_PLANNING_AREA",
+          "planningAreaName": "Darba Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DHAMTARI",
+      "villageCode": "AMADI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMADI_PLANNING_AREA",
+          "planningAreaName": "Amadi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAKHARA",
+      "villageCode": "MOKHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMADI_PLANNING_AREA",
+          "planningAreaName": "Amadi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAKHARA",
+      "villageCode": "AMLIDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMADI_PLANNING_AREA",
+          "planningAreaName": "Amadi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAKHARA",
+      "villageCode": "MADAIBHAT",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMADI_PLANNING_AREA",
+          "planningAreaName": "Amadi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAKHARA",
+      "villageCode": "BAGTARAI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMADI_PLANNING_AREA",
+          "planningAreaName": "Amadi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DHAMTARI",
+      "villageCode": "RAWA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMADI_PLANNING_AREA",
+          "planningAreaName": "Amadi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DHAMTARI",
+      "villageCode": "TARSIWA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMADI_PLANNING_AREA",
+          "planningAreaName": "Amadi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DHAMTARI",
+      "villageCode": "BHANPURI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMADI_PLANNING_AREA",
+          "planningAreaName": "Amadi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DHAMTARI",
+      "villageCode": "POTIYADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMADI_PLANNING_AREA",
+          "planningAreaName": "Amadi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DHAMTARI",
+      "villageCode": "PARASTARAI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMADI_PLANNING_AREA",
+          "planningAreaName": "Amadi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DHAMTARI",
+      "villageCode": "KHARTULI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMADI_PLANNING_AREA",
+          "planningAreaName": "Amadi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DHAMTARI",
+      "villageCode": "LOHARSI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMADI_PLANNING_AREA",
+          "planningAreaName": "Amadi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MOHLA",
+      "villageCode": "BOIRDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMBAGARH_CHOWKI_PLANNING_AREA",
+          "planningAreaName": "Ambagarh Chowki Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHHURIYA",
+      "villageCode": "GHUPASAAL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHHURIYA_PLANNING_AREA",
+          "planningAreaName": "Chhuriya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "MURMUNDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MURMUNDA_PLANNING_AREA",
+          "planningAreaName": "Murmunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "BHANDARPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MURMUNDA_PLANNING_AREA",
+          "planningAreaName": "Murmunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "JAAMRI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MURMUNDA_PLANNING_AREA",
+          "planningAreaName": "Murmunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "JATKANHAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MURMUNDA_PLANNING_AREA",
+          "planningAreaName": "Murmunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "MEDHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MURMUNDA_PLANNING_AREA",
+          "planningAreaName": "Murmunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "MUDHPAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MURMUNDA_PLANNING_AREA",
+          "planningAreaName": "Murmunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LALBAHADUR_NAGAR",
+      "villageCode": "PINKAPAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MURMUNDA_PLANNING_AREA",
+          "planningAreaName": "Murmunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "PIPARIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MURMUNDA_PLANNING_AREA",
+          "planningAreaName": "Murmunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "MAATEKATA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MURMUNDA_PLANNING_AREA",
+          "planningAreaName": "Murmunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LALBAHADUR_NAGAR",
+      "villageCode": "PATPAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MURMUNDA_PLANNING_AREA",
+          "planningAreaName": "Murmunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "KHALLARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MURMUNDA_PLANNING_AREA",
+          "planningAreaName": "Murmunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "MEREGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MURMUNDA_PLANNING_AREA",
+          "planningAreaName": "Murmunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "GAAJMARRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MURMUNDA_PLANNING_AREA",
+          "planningAreaName": "Murmunda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "DURG_GANIYARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "PIPERCHHEDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "RASMEDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "THANAUD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "KAUDIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "DURG_KHAMHARIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "KURUD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "KOHKA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "JUNWANI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "AMDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "SUPELA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "CHHAWNI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "KOSA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "KOTRABHATHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "KHURSIPAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "RUABANDHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "NAWAGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "BORIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "BAWLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DURG",
+      "villageCode": "HINGNA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHILAI",
+      "villageCode": "BHILAI_3",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHILAI",
+      "villageCode": "SIRSAKALA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATAN",
+      "villageCode": "PANCHPEDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATAN",
+      "villageCode": "PATAN_KHAMHARIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "PACHDEVRI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "SANKRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "DHABA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "MURRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "NANDAURI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "RIGNI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "CHETUA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "MOHADI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "LIMTARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "SURJIDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "KADRAKA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "BORAI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "ACHHOTI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "MURMUNDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "OKHARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "NARDHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "KHERDHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "SEMRIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "BAGDUMAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "AHERI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BORI",
+      "villageCode": "SEWTI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BORI",
+      "villageCode": "POTIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DURG___BHILAI_MASTER_PLAN",
+          "planningAreaName": "Durg - Bhilai Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "AHIWARA",
+      "villageCode": "DEURJHAL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AHIVARA_MASTER_PLAN",
+          "planningAreaName": "Ahivara Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA",
+      "villageCode": "SINGHAURI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BEMETARA_MASTER_PLAN",
+          "planningAreaName": "Bemetara Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA",
+      "villageCode": "BHOYINA_BHATHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BEMETARA_MASTER_PLAN",
+          "planningAreaName": "Bemetara Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA",
+      "villageCode": "BAHUNAWAGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BEMETARA_MASTER_PLAN",
+          "planningAreaName": "Bemetara Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA",
+      "villageCode": "BHURKI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BEMETARA_MASTER_PLAN",
+          "planningAreaName": "Bemetara Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA",
+      "villageCode": "KANTELI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BEMETARA_MASTER_PLAN",
+          "planningAreaName": "Bemetara Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA",
+      "villageCode": "PHARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BEMETARA_MASTER_PLAN",
+          "planningAreaName": "Bemetara Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA",
+      "villageCode": "BIJABHAT",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BEMETARA_MASTER_PLAN",
+          "planningAreaName": "Bemetara Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA",
+      "villageCode": "CHORBHATTHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BEMETARA_MASTER_PLAN",
+          "planningAreaName": "Bemetara Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHIMBHORI",
+      "villageCode": "BANSA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BERLA_PLANNING_AREA",
+          "planningAreaName": "Berla Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NANDGHAT",
+      "villageCode": "MARO",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MARO_PLANNING_AREA",
+          "planningAreaName": "Maro Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NANDGHAT",
+      "villageCode": "DOHTRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MARO_PLANNING_AREA",
+          "planningAreaName": "Maro Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NANDGHAT",
+      "villageCode": "LALPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MARO_PLANNING_AREA",
+          "planningAreaName": "Maro Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NANDGHAT",
+      "villageCode": "JHULNA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MARO_PLANNING_AREA",
+          "planningAreaName": "Maro Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NANDGHAT",
+      "villageCode": "CHAKRAWAY",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MARO_PLANNING_AREA",
+          "planningAreaName": "Maro Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "NANDGHAT",
+      "villageCode": "GUNJERA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MARO_PLANNING_AREA",
+          "planningAreaName": "Maro Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DEVKAR",
+      "villageCode": "PARPODI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PARPODI_PLANNING_AREA",
+          "planningAreaName": "Parpodi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DEVKAR",
+      "villageCode": "BHATGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PARPODI_PLANNING_AREA",
+          "planningAreaName": "Parpodi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DEVKAR",
+      "villageCode": "PATHARI_KHURD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PARPODI_PLANNING_AREA",
+          "planningAreaName": "Parpodi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DEVKAR",
+      "villageCode": "DHAURABHATHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PARPODI_PLANNING_AREA",
+          "planningAreaName": "Parpodi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DEVKAR",
+      "villageCode": "KURLU",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PARPODI_PLANNING_AREA",
+          "planningAreaName": "Parpodi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DEVKAR",
+      "villageCode": "GATAPAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PARPODI_PLANNING_AREA",
+          "planningAreaName": "Parpodi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DEVKAR",
+      "villageCode": "JANO",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PARPODI_PLANNING_AREA",
+          "planningAreaName": "Parpodi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DEVKAR",
+      "villageCode": "TIRIYA_BHATH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PARPODI_PLANNING_AREA",
+          "planningAreaName": "Parpodi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "NAWAGARH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "GOPAL_BHAINA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "TURASEMARIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "RISA_AMLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "BHIMPURI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "GANGPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "JHAL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "MADANPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "KAUDIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "MURTA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "CHHITAPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "SAMESAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "MANPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "CHAKLAKUNDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "CHHERKAPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BEMETARA_NAWAGARH",
+      "villageCode": "SALHEGHORI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAWAGARH_PLANNING_AREA",
+          "planningAreaName": "Nawagarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BERLA",
+      "villageCode": "BACHEDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DEVKAR__PLANNING_AREA",
+          "planningAreaName": "Devkar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KATGHORA",
+      "villageCode": "GHUDDEVA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KORBA_MASTER_PLAN",
+          "planningAreaName": "Korba Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KATGHORA",
+      "villageCode": "MONGRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KORBA_MASTER_PLAN",
+          "planningAreaName": "Korba Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DARRI",
+      "villageCode": "NAGOIKHAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KORBA_MASTER_PLAN",
+          "planningAreaName": "Korba Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DARRI",
+      "villageCode": "SURAKHACHHAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KORBA_MASTER_PLAN",
+          "planningAreaName": "Korba Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DARRI",
+      "villageCode": "CHANDRANAGAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KORBA_MASTER_PLAN",
+          "planningAreaName": "Korba Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DARRI",
+      "villageCode": "DARRIKHAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KORBA_MASTER_PLAN",
+          "planningAreaName": "Korba Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DARRI",
+      "villageCode": "LATA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KORBA_MASTER_PLAN",
+          "planningAreaName": "Korba Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DEEPKA",
+      "villageCode": "SALORA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHHURIKALA_PLANNING_AREA",
+          "planningAreaName": "Chhurikala Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PODI_UPRODA",
+      "villageCode": "DHAURAMUDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PODI___UPRODA_PLANNING_AREA",
+          "planningAreaName": "Podi - Uproda Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "HARDIBAZAR",
+      "villageCode": "NEWSA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "HARDIBAZAR_PLANNING_AREA",
+          "planningAreaName": "Hardibazar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DEEPKA",
+      "villageCode": "BINJHARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DEEPKA_PLANNING_AREA",
+          "planningAreaName": "Deepka Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DEEPKA",
+      "villageCode": "BARELI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DEEPKA_PLANNING_AREA",
+          "planningAreaName": "Deepka Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DEEPKA",
+      "villageCode": "BINJHARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DEEPKA_PLANNING_AREA",
+          "planningAreaName": "Deepka Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DEEPKA",
+      "villageCode": "DHURENA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DEEPKA_PLANNING_AREA",
+          "planningAreaName": "Deepka Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PASAAN",
+      "villageCode": "SIRKI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DEEPKA_PLANNING_AREA",
+          "planningAreaName": "Deepka Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "HARDIBAZAR",
+      "villageCode": "SUABHODI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DEEPKA_PLANNING_AREA",
+          "planningAreaName": "Deepka Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "HARDIBAZAR",
+      "villageCode": "TIVARTA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DEEPKA_PLANNING_AREA",
+          "planningAreaName": "Deepka Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KATGHORA",
+      "villageCode": "DEVAGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DEEPKA_PLANNING_AREA",
+          "planningAreaName": "Deepka Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAISMA",
+      "villageCode": "DHAURABHATHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KARTALA_PLANNING_AREA",
+          "planningAreaName": "Kartala Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAISMA",
+      "villageCode": "CHACHIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KARTALA_PLANNING_AREA",
+          "planningAreaName": "Kartala Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAISMA",
+      "villageCode": "TAULIPALI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KARTALA_PLANNING_AREA",
+          "planningAreaName": "Kartala Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAISMA",
+      "villageCode": "BATATI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KARTALA_PLANNING_AREA",
+          "planningAreaName": "Kartala Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PALI",
+      "villageCode": "PALI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PALI_PLANNING_AREA",
+          "planningAreaName": "Pali Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PALI",
+      "villageCode": "BUDBUD",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PALI_PLANNING_AREA",
+          "planningAreaName": "Pali Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "HARDIBAZAR",
+      "villageCode": "RANGOLE",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PALI_PLANNING_AREA",
+          "planningAreaName": "Pali Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PALI",
+      "villageCode": "NAAN_PULALI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PALI_PLANNING_AREA",
+          "planningAreaName": "Pali Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "BAIKUNTHPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAIKUNTHPUR_PLANNING_AREA",
+          "planningAreaName": "Baikunthpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "TALWAPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAIKUNTHPUR_PLANNING_AREA",
+          "planningAreaName": "Baikunthpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "DHAURATIKRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAIKUNTHPUR_PLANNING_AREA",
+          "planningAreaName": "Baikunthpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "HARRATOLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAIKUNTHPUR_PLANNING_AREA",
+          "planningAreaName": "Baikunthpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "CHER",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAIKUNTHPUR_PLANNING_AREA",
+          "planningAreaName": "Baikunthpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "JUNAPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAIKUNTHPUR_PLANNING_AREA",
+          "planningAreaName": "Baikunthpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "KENAPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAIKUNTHPUR_PLANNING_AREA",
+          "planningAreaName": "Baikunthpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "JAMPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAIKUNTHPUR_PLANNING_AREA",
+          "planningAreaName": "Baikunthpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "KANCHANPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAIKUNTHPUR_PLANNING_AREA",
+          "planningAreaName": "Baikunthpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "BHANDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAIKUNTHPUR_PLANNING_AREA",
+          "planningAreaName": "Baikunthpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "JANAKPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAIKUNTHPUR_PLANNING_AREA",
+          "planningAreaName": "Baikunthpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "RAMPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAIKUNTHPUR_PLANNING_AREA",
+          "planningAreaName": "Baikunthpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "SAGARPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAIKUNTHPUR_PLANNING_AREA",
+          "planningAreaName": "Baikunthpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "ODGI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAIKUNTHPUR_PLANNING_AREA",
+          "planningAreaName": "Baikunthpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "SALKA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BAIKUNTHPUR_PLANNING_AREA",
+          "planningAreaName": "Baikunthpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "SHIVPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVPUR_CHARCHA_PLANNING_AREA",
+          "planningAreaName": "Shivpur-Charcha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "CHHINDDAND",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVPUR_CHARCHA_PLANNING_AREA",
+          "planningAreaName": "Shivpur-Charcha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "BISHUNPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVPUR_CHARCHA_PLANNING_AREA",
+          "planningAreaName": "Shivpur-Charcha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "CHHARCHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVPUR_CHARCHA_PLANNING_AREA",
+          "planningAreaName": "Shivpur-Charcha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "RAKEYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVPUR_CHARCHA_PLANNING_AREA",
+          "planningAreaName": "Shivpur-Charcha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "SITAPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVPUR_CHARCHA_PLANNING_AREA",
+          "planningAreaName": "Shivpur-Charcha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "CHERWAPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVPUR_CHARCHA_PLANNING_AREA",
+          "planningAreaName": "Shivpur-Charcha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "UDULDUGA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVPUR_CHARCHA_PLANNING_AREA",
+          "planningAreaName": "Shivpur-Charcha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "AANI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVPUR_CHARCHA_PLANNING_AREA",
+          "planningAreaName": "Shivpur-Charcha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "AMGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVPUR_CHARCHA_PLANNING_AREA",
+          "planningAreaName": "Shivpur-Charcha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "SARDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVPUR_CHARCHA_PLANNING_AREA",
+          "planningAreaName": "Shivpur-Charcha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BHAIRAMGADH",
+      "villageCode": "KHARWAT",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SHIVPUR_CHARCHA_PLANNING_AREA",
+          "planningAreaName": "Shivpur-Charcha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SONHAT",
+      "villageCode": "MAHUAPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONHAT_PLANNING_AREA",
+          "planningAreaName": "Sonhat Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SONHAT",
+      "villageCode": "BHAINSAWAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONHAT_PLANNING_AREA",
+          "planningAreaName": "Sonhat Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SONHAT",
+      "villageCode": "BHATTHIPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONHAT_PLANNING_AREA",
+          "planningAreaName": "Sonhat Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SONHAT",
+      "villageCode": "JAMTIKRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONHAT_PLANNING_AREA",
+          "planningAreaName": "Sonhat Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SONHAT",
+      "villageCode": "DUMMADAND",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONHAT_PLANNING_AREA",
+          "planningAreaName": "Sonhat Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SONHAT",
+      "villageCode": "KARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONHAT_PLANNING_AREA",
+          "planningAreaName": "Sonhat Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SONHAT",
+      "villageCode": "TELIMURA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONHAT_PLANNING_AREA",
+          "planningAreaName": "Sonhat Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SONHAT",
+      "villageCode": "KESHGANWA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONHAT_PLANNING_AREA",
+          "planningAreaName": "Sonhat Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SONHAT",
+      "villageCode": "GHUGHRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONHAT_PLANNING_AREA",
+          "planningAreaName": "Sonhat Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SONHAT",
+      "villageCode": "PIPARDAND",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONHAT_PLANNING_AREA",
+          "planningAreaName": "Sonhat Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SONHAT",
+      "villageCode": "KEWRABAHRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONHAT_PLANNING_AREA",
+          "planningAreaName": "Sonhat Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SONHAT",
+      "villageCode": "BODARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONHAT_PLANNING_AREA",
+          "planningAreaName": "Sonhat Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SONHAT",
+      "villageCode": "KACHHAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SONHAT_PLANNING_AREA",
+          "planningAreaName": "Sonhat Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "MANENDRAGARH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MANENDRAGARH_PLANNING_AREA",
+          "planningAreaName": "Manendragarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "CHAINPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MANENDRAGARH_PLANNING_AREA",
+          "planningAreaName": "Manendragarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "CHANWARIDAND",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MANENDRAGARH_PLANNING_AREA",
+          "planningAreaName": "Manendragarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "LALPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MANENDRAGARH_PLANNING_AREA",
+          "planningAreaName": "Manendragarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHIRMIRI",
+      "villageCode": "CHIRMIRI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGARH",
+      "villageCode": "LAI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "HARRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "NAGPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "SARAULA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "MUKHTIARPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "SALKA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "SIRIYAKHOH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "CHIRAIPANI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "SARBHONKA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHIRMIRI",
+      "villageCode": "CHITAJHOR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHIRMIRI",
+      "villageCode": "KERADOH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "SEMRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGARH",
+      "villageCode": "SENDHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGARH",
+      "villageCode": "MORGA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGARH",
+      "villageCode": "DARRITOLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGARH",
+      "villageCode": "LOHARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGARH",
+      "villageCode": "NAWAPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHIRMIRI",
+      "villageCode": "BHANDARDEI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHIRMIRI",
+      "villageCode": "BHUKBHUKI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHIRMIRI",
+      "villageCode": "DUBCHHOLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "CHIRMIRI",
+      "villageCode": "KHURASIA_COLLIERY",
+      "planningAreas": [
+        {
+          "planningAreaCode": "CHIRMIRI_PLANNING_AREA",
+          "planningAreaName": "Chirmiri Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "KHONGAPANI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHONGAPANI_JHAGRAKHAND_NEW_LEDARI_PLANNING_AREA",
+          "planningAreaName": "Khongapani, Jhagrakhand, New Ledari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "JHAGRAKHAND",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHONGAPANI_JHAGRAKHAND_NEW_LEDARI_PLANNING_AREA",
+          "planningAreaName": "Khongapani, Jhagrakhand, New Ledari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "NEW_LEDARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHONGAPANI_JHAGRAKHAND_NEW_LEDARI_PLANNING_AREA",
+          "planningAreaName": "Khongapani, Jhagrakhand, New Ledari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "NARAYANPUR_ALIAS_TENDUDAND",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHONGAPANI_JHAGRAKHAND_NEW_LEDARI_PLANNING_AREA",
+          "planningAreaName": "Khongapani, Jhagrakhand, New Ledari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "PURANI_LEDARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHONGAPANI_JHAGRAKHAND_NEW_LEDARI_PLANNING_AREA",
+          "planningAreaName": "Khongapani, Jhagrakhand, New Ledari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "GIDWADAND",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHONGAPANI_JHAGRAKHAND_NEW_LEDARI_PLANNING_AREA",
+          "planningAreaName": "Khongapani, Jhagrakhand, New Ledari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MANENDRAGADH",
+      "villageCode": "PARSAGARHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KHONGAPANI_JHAGRAKHAND_NEW_LEDARI_PLANNING_AREA",
+          "planningAreaName": "Khongapani, Jhagrakhand, New Ledari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JAGDALPUR",
+      "villageCode": "UPANAPAL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARNAR_PLANNING_AREA",
+          "planningAreaName": "Nagarnar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JAGDALPUR",
+      "villageCode": "KUMHALI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARNAR_PLANNING_AREA",
+          "planningAreaName": "Nagarnar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BAKAWAND",
+      "villageCode": "BELPUTI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARNAR_PLANNING_AREA",
+          "planningAreaName": "Nagarnar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BAKAWAND",
+      "villageCode": "CHITALUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "NAGARNAR_PLANNING_AREA",
+          "planningAreaName": "Nagarnar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PHARSAGAON",
+      "villageCode": "PHARSGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PHARSAGAON_PLANNING_AREA",
+          "planningAreaName": "Pharsagaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PHARSAGAON",
+      "villageCode": "GATTIPALNA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PHARSAGAON_PLANNING_AREA",
+          "planningAreaName": "Pharsagaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PHARSAGAON",
+      "villageCode": "PATORI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PHARSAGAON_PLANNING_AREA",
+          "planningAreaName": "Pharsagaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PHARSAGAON",
+      "villageCode": "MAJHIATHGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PHARSAGAON_PLANNING_AREA",
+          "planningAreaName": "Pharsagaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PHARSAGAON",
+      "villageCode": "PATLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PHARSAGAON_PLANNING_AREA",
+          "planningAreaName": "Pharsagaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PHARSAGAON",
+      "villageCode": "JUGADAI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PHARSAGAON_PLANNING_AREA",
+          "planningAreaName": "Pharsagaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PHARSAGAON",
+      "villageCode": "PANDEYAATHGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PHARSAGAON_PLANNING_AREA",
+          "planningAreaName": "Pharsagaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MAKDI",
+      "villageCode": "BARKAI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PHARSAGAON_PLANNING_AREA",
+          "planningAreaName": "Pharsagaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PHARSAGAON",
+      "villageCode": "KOTVEL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PHARSAGAON_PLANNING_AREA",
+          "planningAreaName": "Pharsagaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BADERAJPUR",
+      "villageCode": "SARGIPAL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KESHKAL_PLANNING_AREA",
+          "planningAreaName": "Keshkal Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "GANGALUR",
+      "villageCode": "PUSNAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BHAIRAMGARH_PLANNING_AREA",
+          "planningAreaName": "Bhairamgarh Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SUKMA_BADERAJPUR",
+      "villageCode": "DHONDRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KONTA_PLANNING_AREA",
+          "planningAreaName": "Konta Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LATORI",
+      "villageCode": "SANJAYNAGAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMBIKAPUR_MASTER_PLAN",
+          "planningAreaName": "Ambikapur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LATORI",
+      "villageCode": "MAHAVIR_PUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMBIKAPUR_MASTER_PLAN",
+          "planningAreaName": "Ambikapur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LATORI",
+      "villageCode": "RAVINDRANAGAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMBIKAPUR_MASTER_PLAN",
+          "planningAreaName": "Ambikapur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LATORI",
+      "villageCode": "AJABNAGAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "AMBIKAPUR_MASTER_PLAN",
+          "planningAreaName": "Ambikapur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MAINPAT",
+      "villageCode": "KHADGAWA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SITAPUR_PLANNING_AREA",
+          "planningAreaName": "Sitapur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DARIMA",
+      "villageCode": "KATKALA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SITAPUR_PLANNING_AREA",
+          "planningAreaName": "Sitapur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LUNDRA",
+      "villageCode": "LAMGAOW",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAGHUNATHPUR_PLANNING_AREA",
+          "planningAreaName": "Raghunathpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LUNDRA",
+      "villageCode": "BATWAHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAGHUNATHPUR_PLANNING_AREA",
+          "planningAreaName": "Raghunathpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LUNDRA",
+      "villageCode": "SUMERPUR_ALIAS_CHENDRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAGHUNATHPUR_PLANNING_AREA",
+          "planningAreaName": "Raghunathpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LUNDRA",
+      "villageCode": "SAYAR_RAI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAGHUNATHPUR_PLANNING_AREA",
+          "planningAreaName": "Raghunathpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LUNDRA",
+      "villageCode": "DARRIDIHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAGHUNATHPUR_PLANNING_AREA",
+          "planningAreaName": "Raghunathpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "RAMANUJGANJ",
+      "villageCode": "ARAGAHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAMANUJGANJ_PLANNING_AREA",
+          "planningAreaName": "Ramanujganj Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "RAMANUJGANJ",
+      "villageCode": "KANAKPUR__TATU",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAMANUJGANJ_PLANNING_AREA",
+          "planningAreaName": "Ramanujganj Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BALRAMPUR_RAGHUNATHPUR",
+      "villageCode": "MADANPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "WADAFNAGAR_PLANNING_AREA",
+          "planningAreaName": "Wadafnagar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "KUSMI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "SAHAPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "RAMNGAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "RATASILLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "NATWARNAGAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "GAJADHARPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "KANAJIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "SEMRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "SEMRA_TALA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BIHARPUR",
+      "villageCode": "NAWADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "PAKARI_TOLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "KANCHAN_TOLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "NILKANTHPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "KARKARI_PURVA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "KARKARI_PACHIM",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "GHUTRADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SURJAPUR_DARIMA",
+      "villageCode": "PAMPAPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SURAJPUR_PLANNING_AREA",
+          "planningAreaName": "Surajpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LATORI",
+      "villageCode": "SHIVNANDANPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BISHRAMPUR_PLANNING_AREA",
+          "planningAreaName": "Bishrampur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LATORI",
+      "villageCode": "SATPATA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BISHRAMPUR_PLANNING_AREA",
+          "planningAreaName": "Bishrampur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LATORI",
+      "villageCode": "JAYNAGAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BISHRAMPUR_PLANNING_AREA",
+          "planningAreaName": "Bishrampur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LATORI",
+      "villageCode": "KUNJNAGAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BISHRAMPUR_PLANNING_AREA",
+          "planningAreaName": "Bishrampur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LATORI",
+      "villageCode": "HARRI_TIKARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BISHRAMPUR_PLANNING_AREA",
+          "planningAreaName": "Bishrampur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SURAJPUR",
+      "villageCode": "DEDARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BISHRAMPUR_PLANNING_AREA",
+          "planningAreaName": "Bishrampur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SURAJPUR",
+      "villageCode": "KESHAVNAGAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BISHRAMPUR_PLANNING_AREA",
+          "planningAreaName": "Bishrampur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SURAJPUR",
+      "villageCode": "GORAKHNATHPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BISHRAMPUR_PLANNING_AREA",
+          "planningAreaName": "Bishrampur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PRATAPPUR",
+      "villageCode": "JARHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JARHI_PLANNING_AREA",
+          "planningAreaName": "Jarhi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SURJAPUR_SITAPUR",
+      "villageCode": "BANSIPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JARHI_PLANNING_AREA",
+          "planningAreaName": "Jarhi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PRATAPUR",
+      "villageCode": "KORANDHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JARHI_PLANNING_AREA",
+          "planningAreaName": "Jarhi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PRATAPPUR",
+      "villageCode": "DURTI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JARHI_PLANNING_AREA",
+          "planningAreaName": "Jarhi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PRATAPUR",
+      "villageCode": "SUNDHOPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JARHI_PLANNING_AREA",
+          "planningAreaName": "Jarhi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PRATAPPUR",
+      "villageCode": "MARHATA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JARHI_PLANNING_AREA",
+          "planningAreaName": "Jarhi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PRATAPPUR",
+      "villageCode": "GONDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JARHI_PLANNING_AREA",
+          "planningAreaName": "Jarhi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PRATAPPUR",
+      "villageCode": "SATIPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "JARHI_PLANNING_AREA",
+          "planningAreaName": "Jarhi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SURJAPUR_BALRAMPUR",
+      "villageCode": "BISHRAMPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BISHRAMPUR_PLANNING_AREA",
+          "planningAreaName": "Bishrampur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MASTURI",
+      "villageCode": "KONI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARPA_MASTER_PLAN",
+          "planningAreaName": "Arpa Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAKARI",
+      "villageCode": "SAKARI_GHUTKU",
+      "planningAreas": [
+        {
+          "planningAreaCode": "ARPA_MASTER_PLAN",
+          "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "GANIARI_PLANNING_AREA",
+          "planningAreaName": "Ganiari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIPAT",
+      "villageCode": "USLAPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILHA",
+      "villageCode": "AMERI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR",
+      "villageCode": "BIRKONI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "NAGPURA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR",
+      "villageCode": "SEMARTAL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BELTARA",
+      "villageCode": "BAIMA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BELTARA",
+      "villageCode": "NAGOI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "KHAPRAKHOL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "MAGARUCHHALA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "LIMTARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "NAGARODI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "KADAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "DHAMANI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "CHAKARBHATHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "TILSARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "MUDHIPAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "BHATGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "PENDRIDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "HARDI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "RAHANGI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "FADHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "BODRI_NP",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PACHPEDI",
+      "villageCode": "HARDIKALA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "SILPAHARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "BODSARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "TAKHATPUR",
+      "villageCode": "SAKARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIPAT",
+      "villageCode": "PODI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILHA",
+      "villageCode": "BILHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILHA_PLANNING_AREA",
+          "planningAreaName": "Bilha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAKARI",
+      "villageCode": "GHONGHADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GANIARI_PLANNING_AREA",
+          "planningAreaName": "Ganiari Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "RATANPUR",
+      "villageCode": "UMARMARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KOTA_PLANNING_AREA",
+          "planningAreaName": "Kota Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PACHPEDI",
+      "villageCode": "BIDIYADIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MALHAR_PLANNING_AREA",
+          "planningAreaName": "Malhar Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "JARHAGAON",
+      "villageCode": "VIRGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MUNGELI_MASTER_PLAN",
+          "planningAreaName": "Mungeli Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAKOLA",
+      "villageCode": "KESLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PENDRA_PLANNING_AREA",
+          "planningAreaName": "Pendra Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PENDRA_ROAD",
+      "villageCode": "GAURELA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GAURELA_PLANNING_AREA",
+          "planningAreaName": "Gaurela Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PENDRA_ROAD",
+      "villageCode": "SARBAHARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GAURELA_PLANNING_AREA",
+          "planningAreaName": "Gaurela Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PENDRA_ROAD",
+      "villageCode": "SEMRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GAURELA_PLANNING_AREA",
+          "planningAreaName": "Gaurela Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PENDRA_ROAD",
+      "villageCode": "DUMARIA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GAURELA_PLANNING_AREA",
+          "planningAreaName": "Gaurela Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PENDRA_ROAD",
+      "villageCode": "GIRWAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GAURELA_PLANNING_AREA",
+          "planningAreaName": "Gaurela Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PENDRA_ROAD",
+      "villageCode": "BELGAHNA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GAURELA_PLANNING_AREA",
+          "planningAreaName": "Gaurela Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PENDRA_ROAD",
+      "villageCode": "GORAKHPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GAURELA_PLANNING_AREA",
+          "planningAreaName": "Gaurela Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PENDRA_ROAD",
+      "villageCode": "ANJANI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GAURELA_PLANNING_AREA",
+          "planningAreaName": "Gaurela Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PENDRA_ROAD",
+      "villageCode": "MADNA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "GAURELA_PLANNING_AREA",
+          "planningAreaName": "Gaurela Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR",
+      "villageCode": "MATIYARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SIPAT_MASTER_PLAN",
+          "planningAreaName": "Sipat Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR",
+      "villageCode": "MOHRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SIPAT_MASTER_PLAN",
+          "planningAreaName": "Sipat Master Plan"
         }
       ]
     }
