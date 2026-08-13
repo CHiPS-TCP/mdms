@@ -3,741 +3,38 @@
   "moduleName": "tenant",
   "Tehsil": [
     {
-      "districtCode": "TCP_DUMMY_DISTRICT",
+      "districtCode": "MAHASAMUND",
       "active": true,
       "tehsils": [
         {
-          "code": "TCP_DUMMY_TEHSIL",
-          "name": "TCP Dummy Tehsil",
+          "code": "BAGBAHARA",
+          "name": "Bagbahara",
           "active": true
         },
         {
-          "code": "TCP_DUMMY_TEHSIL_2",
-          "name": "TCP Dummy Tehsil 2",
+          "code": "BASNA",
+          "name": "Basna",
           "active": true
         },
         {
-          "code": "TCP_DUMMY_TEHSIL_3",
-          "name": "TCP Dummy Tehsil 3",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "TCP_DUMMY_DISTRICT_2",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "TCP_DUMMY_TEHSIL_4",
-          "name": "TCP Dummy Tehsil 4",
+          "code": "KOMAKHAN",
+          "name": "Komakhan",
           "active": true
         },
         {
-          "code": "TCP_DUMMY_TEHSIL_5",
-          "name": "TCP Dummy Tehsil 5",
+          "code": "MAHASAMUND",
+          "name": "Mahasamund",
           "active": true
         },
         {
-          "code": "TCP_DUMMY_TEHSIL_6",
-          "name": "TCP Dummy Tehsil 6",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "TCP_DUMMY_DISTRICT_3",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "TCP_DUMMY_TEHSIL_7",
-          "name": "TCP Dummy Tehsil 7",
+          "code": "PITHORA",
+          "name": "Pithora",
           "active": true
         },
         {
-          "code": "TCP_DUMMY_TEHSIL_8",
-          "name": "TCP Dummy Tehsil 8",
+          "code": "SARAIPALI",
+          "name": "Saraipali",
           "active": true
-        },
-        {
-          "code": "TCP_DUMMY_TEHSIL_9",
-          "name": "TCP Dummy Tehsil 9",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "TCP_DUMMY_DISTRICT_4",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "TCP_DUMMY_TEHSIL_10",
-          "name": "TCP Dummy Tehsil 10",
-          "active": true
-        },
-        {
-          "code": "TCP_DUMMY_TEHSIL_11",
-          "name": "TCP Dummy Tehsil 11",
-          "active": true
-        },
-        {
-          "code": "TCP_DUMMY_TEHSIL_12",
-          "name": "TCP Dummy Tehsil 12",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "BALODABAZAR_BHATAPARA",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "BALODA_BAZAR",
-          "name": "Baloda Bazar",
-          "active": true,
-          "tehsilcode": "3326"
-        },
-        {
-          "code": "BHATAPARA",
-          "name": "Bhatapara",
-          "active": true,
-          "tehsilcode": "3325"
-        },
-        {
-          "code": "BALODABAZAR_BHATAPARA_BHATGAON",
-          "name": "Bhatgaon",
-          "active": true,
-          "tehsilcode": "3720"
-        },
-        {
-          "code": "BILAIGARH",
-          "name": "Bilaigarh",
-          "active": true,
-          "tehsilcode": "3329"
-        },
-        {
-          "code": "DAMAKHEDA",
-          "name": "Damakheda",
-          "active": true
-        },
-        {
-          "code": "GIRODPURI",
-          "name": "Girodpuri",
-          "active": true
-        },
-        {
-          "code": "HATHBAND",
-          "name": "Hathband",
-          "active": true
-        },
-        {
-          "code": "HIRMI",
-          "name": "Hirmi",
-          "active": true
-        },
-        {
-          "code": "KASDOL",
-          "name": "Kasdol",
-          "active": true,
-          "tehsilcode": "3328"
-        },
-        {
-          "code": "KHAPARADIH",
-          "name": "Khaparadih",
-          "active": true
-        },
-        {
-          "code": "LAVAN",
-          "name": "Lavan",
-          "active": true,
-          "tehsilcode": "7246"
-        },
-        {
-          "code": "PALARI",
-          "name": "Palari",
-          "active": true,
-          "tehsilcode": "3327"
-        },
-        {
-          "code": "RAAVAN",
-          "name": "Raavan",
-          "active": true
-        },
-        {
-          "code": "RISDA",
-          "name": "Risda",
-          "active": true
-        },
-        {
-          "code": "SIMGA",
-          "name": "Simga",
-          "active": true,
-          "tehsilcode": "3324"
-        },
-        {
-          "code": "SONADIH",
-          "name": "Sonadih",
-          "active": true
-        },
-        {
-          "code": "TUNDRA",
-          "name": "Tundra",
-          "active": true,
-          "tehsilcode": "7295"
-        },
-        {
-          "code": "SUHELA",
-          "name": "Suhela",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "BALRAMPUR",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "BALRAMPUR",
-          "name": "Balrampur",
-          "active": true,
-          "tehsilcode": "3237"
-        },
-        {
-          "code": "KUSMI",
-          "name": "Kusmi",
-          "active": true
-        },
-        {
-          "code": "RAJPUR",
-          "name": "Rajpur",
-          "active": true,
-          "tehsilcode": "3250"
-        },
-        {
-          "code": "RAMANUJGANJ",
-          "name": "Ramanujganj",
-          "active": true,
-          "tehsilcode": "3236"
-        },
-        {
-          "code": "WADAFNAGAR",
-          "name": "Wadafnagar",
-          "active": true,
-          "tehsilcode": "3238"
-        },
-        {
-          "code": "BALRAMPUR_RAGHUNATHPUR",
-          "name": "Raghunathpur",
-          "active": true
-        },
-        {
-          "code": "BIHARPUR",
-          "name": "Biharpur",
-          "active": true
-        },
-        {
-          "code": "SAMRI",
-          "name": "Samri",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "BASTAR",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "JAGDALPUR",
-          "name": "Jagdalpur",
-          "active": true,
-          "tehsilcode": "3360"
-        },
-        {
-          "code": "BAKAWAND",
-          "name": "Bakawand",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "BEMETARA",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "BEMETARA",
-          "name": "Bemetara",
-          "active": true,
-          "tehsilcode": "3312"
-        },
-        {
-          "code": "BERLA",
-          "name": "Berla",
-          "active": true,
-          "tehsilcode": "3315"
-        },
-        {
-          "code": "DEVKAR",
-          "name": "Devkar",
-          "active": true,
-          "tehsilcode": "7298"
-        },
-        {
-          "code": "MARO",
-          "name": "Maro",
-          "active": true
-        },
-        {
-          "code": "BEMETARA_NAWAGARH",
-          "name": "Nawagarh",
-          "active": true
-        },
-        {
-          "code": "PARPORI",
-          "name": "Parpori",
-          "active": true
-        },
-        {
-          "code": "SAJA",
-          "name": "Saja",
-          "active": true,
-          "tehsilcode": "3313"
-        },
-        {
-          "code": "THAN_KHAMHARIYA",
-          "name": "Than Khamhariya",
-          "active": true,
-          "tehsilcode": "3314"
-        },
-        {
-          "code": "NANDGHAT",
-          "name": "Nandghat",
-          "active": true
-        },
-        {
-          "code": "BHIMBHORI",
-          "name": "Bhimbhori",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "BIJAPUR",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "BHAIRAMGARH",
-          "name": "Bhairamgarh",
-          "active": true,
-          "tehsilcode": "3379"
-        },
-        {
-          "code": "BIJAPUR",
-          "name": "Bijapur",
-          "active": true,
-          "tehsilcode": "3378"
-        },
-        {
-          "code": "GANGALUR",
-          "name": "Gangalur",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "BILASPUR",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "BELTARA",
-          "name": "Beltara",
-          "active": true,
-          "tehsilcode": "7281"
-        },
-        {
-          "code": "BILASPUR",
-          "name": "Bilaspur",
-          "active": true,
-          "tehsilcode": "3295"
-        },
-        {
-          "code": "BILHA",
-          "name": "Bilha",
-          "active": true,
-          "tehsilcode": "3297"
-        },
-        {
-          "code": "BILASPUR_BODRI",
-          "name": "Bodri",
-          "active": true,
-          "tehsilcode": "7250"
-        },
-        {
-          "code": "JARAHAGAON",
-          "name": "Jarahagaon",
-          "active": true
-        },
-        {
-          "code": "KOTA",
-          "name": "Kota",
-          "active": true,
-          "tehsilcode": "3291"
-        },
-        {
-          "code": "MASTURI",
-          "name": "Masturi",
-          "active": true,
-          "tehsilcode": "3296"
-        },
-        {
-          "code": "PACHPEDI",
-          "name": "Pachpedi",
-          "active": true,
-          "tehsilcode": "7349"
-        },
-        {
-          "code": "RATANPUR",
-          "name": "Ratanpur",
-          "active": true,
-          "tehsilcode": "7239"
-        },
-        {
-          "code": "SAKARI",
-          "name": "Sakari",
-          "active": true,
-          "tehsilcode": "7235"
-        },
-        {
-          "code": "SAKRI",
-          "name": "Sakri",
-          "active": true,
-          "tehsilcode": "7235"
-        },
-        {
-          "code": "SIPAT",
-          "name": "Sipat",
-          "active": true,
-          "tehsilcode": "7247"
-        },
-        {
-          "code": "TAKHATPUR",
-          "name": "Takhatpur",
-          "active": true,
-          "tehsilcode": "3294"
-        }
-      ]
-    },
-    {
-      "districtCode": "DANTEWADA",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "BADE_BACHELI",
-          "name": "Bade-Bacheli",
-          "active": true,
-          "tehsilcode": "3618"
-        },
-        {
-          "code": "BARSOOR",
-          "name": "Barsoor",
-          "active": true,
-          "tehsilcode": "7232"
-        },
-        {
-          "code": "DANTEWADA",
-          "name": "Dantewada",
-          "active": true,
-          "tehsilcode": "3369"
-        },
-        {
-          "code": "GIDAM",
-          "name": "Gidam",
-          "active": true
-        },
-        {
-          "code": "BARSUR",
-          "name": "Barsur",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "DHAMTARI",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "AMADI",
-          "name": "Amadi",
-          "active": true
-        },
-        {
-          "code": "BHAKHARA",
-          "name": "Bhakhara",
-          "active": true,
-          "tehsilcode": "7315"
-        },
-        {
-          "code": "DARBA",
-          "name": "Darba",
-          "active": true
-        },
-        {
-          "code": "DHAMTARI",
-          "name": "Dhamtari",
-          "active": true,
-          "tehsilcode": "3346"
-        },
-        {
-          "code": "MAGARLOD",
-          "name": "Magarlod",
-          "active": true,
-          "tehsilcode": "3345"
-        },
-        {
-          "code": "SIHAWA",
-          "name": "Sihawa",
-          "active": true
-        },
-        {
-          "code": "KURUD",
-          "name": "Kurud",
-          "active": true
-        },
-        {
-          "code": "NAGRI",
-          "name": "Nagri",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "DURG",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "AHIWARA",
-          "name": "Ahiwara",
-          "active": true,
-          "tehsilcode": "7331"
-        },
-        {
-          "code": "BHILAI",
-          "name": "Bhilai",
-          "active": true,
-          "tehsilcode": "7329"
-        },
-        {
-          "code": "DHAMDHA",
-          "name": "Dhamdha",
-          "active": true,
-          "tehsilcode": "3316"
-        },
-        {
-          "code": "DURG",
-          "name": "Durg",
-          "active": true,
-          "tehsilcode": "3317"
-        },
-        {
-          "code": "PATAN",
-          "name": "Patan",
-          "active": true,
-          "tehsilcode": "3318"
-        },
-        {
-          "code": "BORI",
-          "name": "Bori",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "GARIYABAND",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "CHURRA",
-          "name": "Churra",
-          "active": true,
-          "tehsilcode": "3336"
-        },
-        {
-          "code": "GARIYABAND_FINGESHWAR",
-          "name": "Fingeshwar",
-          "active": true,
-          "tehsilcode": "7343"
-        },
-        {
-          "code": "GARIYABAND",
-          "name": "Gariyaband",
-          "active": true,
-          "tehsilcode": "3335"
-        },
-        {
-          "code": "RAJIM",
-          "name": "Rajim",
-          "active": true,
-          "tehsilcode": "3333"
-        }
-      ]
-    },
-    {
-      "districtCode": "GAURELA_PENDRA_MARWAHI",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "GAURELA",
-          "name": "Gaurela",
-          "active": true
-        },
-        {
-          "code": "MARWAHI",
-          "name": "Marwahi",
-          "active": true,
-          "tehsilcode": "3288"
-        },
-        {
-          "code": "PENDRA",
-          "name": "Pendra",
-          "active": true,
-          "tehsilcode": "3289"
-        },
-        {
-          "code": "PENDRA_ROAD",
-          "name": "Pendra Road",
-          "active": true
-        },
-        {
-          "code": "SAKOLA",
-          "name": "Sakola",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "JANJGIR_CHAMPA",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "JANJGIR_CHAMPA_BARADWAR",
-          "name": "Baradwar",
-          "active": true
-        },
-        {
-          "code": "CHAMPA",
-          "name": "Champa",
-          "active": true,
-          "tehsilcode": "3281"
-        },
-        {
-          "code": "JANJGIR",
-          "name": "Janjgir",
-          "active": true,
-          "tehsilcode": "3277"
-        },
-        {
-          "code": "JANJGIR_CHAMPA_NAVAGARH",
-          "name": "Navagarh",
-          "active": true,
-          "tehsilcode": "3280"
-        },
-        {
-          "code": "RAHOD",
-          "name": "Rahod",
-          "active": true
-        },
-        {
-          "code": "SARAGAON",
-          "name": "Saragaon",
-          "active": true,
-          "tehsilcode": "7274"
-        },
-        {
-          "code": "JANJGIR_CHAMPA_AKALTARA",
-          "name": "Akaltara",
-          "active": true
-        },
-        {
-          "code": "JANJGIR_CHAMPA_PAMGARH",
-          "name": "Pamgarh",
-          "active": true
-        },
-        {
-          "code": "JANJGIR_CHAMPA_BALODA",
-          "name": "Baloda",
-          "active": true
-        },
-        {
-          "code": "JANJGIR_CHAMPA_SHIVRINARAYAN",
-          "name": "Shivrinarayan",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "JASHPUR",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "BAGICHA",
-          "name": "Bagicha",
-          "active": true,
-          "tehsilcode": "3255"
-        },
-        {
-          "code": "JASHPUR",
-          "name": "Jashpur",
-          "active": true,
-          "tehsilcode": "3257"
-        },
-        {
-          "code": "KUNKURI",
-          "name": "Kunkuri",
-          "active": true,
-          "tehsilcode": "3259"
-        },
-        {
-          "code": "PATHALGAON",
-          "name": "Pathalgaon",
-          "active": true,
-          "tehsilcode": "3262"
-        },
-        {
-          "code": "MANORA",
-          "name": "Manora",
-          "active": true
-        },
-        {
-          "code": "FARSABAHAR",
-          "name": "Farsabahar",
-          "active": true
-        },
-        {
-          "code": "BAGBAHAR",
-          "name": "Bagbahar",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "KAIRAGARH_CHHUIKHADAN_GANDAI",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "CHHUIKHDAN",
-          "name": "Chhuikhdan",
-          "active": true,
-          "tehsilcode": "3302"
-        },
-        {
-          "code": "GANDAI",
-          "name": "Gandai",
-          "active": true,
-          "tehsilcode": "7264"
-        },
-        {
-          "code": "KHAIRAGARH",
-          "name": "Khairagarh",
-          "active": true,
-          "tehsilcode": "3303"
         }
       ]
     },
@@ -745,6 +42,11 @@
       "districtCode": "KANKER",
       "active": true,
       "tehsils": [
+        {
+          "code": "ANTAGADH",
+          "name": "Antagadh",
+          "active": true
+        },
         {
           "code": "BHANUPRATAPPUR",
           "name": "Bhanupratappur",
@@ -756,24 +58,13 @@
           "active": true
         },
         {
+          "code": "DURGKONDUL",
+          "name": "DurgKondul",
+          "active": true
+        },
+        {
           "code": "KANKER",
           "name": "Kanker",
-          "active": true,
-          "tehsilcode": "3351"
-        },
-        {
-          "code": "KOYALIBEDA",
-          "name": "Koyalibeda",
-          "active": true
-        },
-        {
-          "code": "PAKHAANJUR",
-          "name": "Pakhaanjur",
-          "active": true
-        },
-        {
-          "code": "ANTAGADH",
-          "name": "Antagadh",
           "active": true
         },
         {
@@ -782,374 +73,95 @@
           "active": true
         },
         {
+          "code": "PAKHAANJUR",
+          "name": "Pakhaanjur",
+          "active": true
+        },
+        {
           "code": "SARONA",
           "name": "Sarona",
           "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "JASHPUR",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "BAGBAHAR",
+          "name": "Bagbahar",
+          "active": true
         },
         {
-          "code": "DURGKONDUL",
-          "name": "DurgKondul",
+          "code": "BAGICHA",
+          "name": "Bagicha",
+          "active": true
+        },
+        {
+          "code": "FARSABAHAR",
+          "name": "Farsabahar",
+          "active": true
+        },
+        {
+          "code": "JASHPUR",
+          "name": "Jashpur",
+          "active": true
+        },
+        {
+          "code": "KUNKURI",
+          "name": "Kunkuri",
+          "active": true
+        },
+        {
+          "code": "MANORA",
+          "name": "Manora",
+          "active": true
+        },
+        {
+          "code": "PATHALGAON",
+          "name": "Pathalgaon",
           "active": true
         }
       ]
     },
     {
-      "districtCode": "KAWARDHA",
+      "districtCode": "BALOD",
       "active": true,
       "tehsils": [
         {
-          "code": "BODLA",
-          "name": "Bodla",
-          "active": true,
-          "tehsilcode": "3299"
-        },
-        {
-          "code": "KAWARDHA",
-          "name": "Kawardha",
-          "active": true,
-          "tehsilcode": "3298"
-        },
-        {
-          "code": "KUNDA",
-          "name": "Kunda",
-          "active": true,
-          "tehsilcode": "7323"
-        },
-        {
-          "code": "PANDARIYA",
-          "name": "Pandariya",
-          "active": true,
-          "tehsilcode": "3301"
-        },
-        {
-          "code": "PIPARIYA",
-          "name": "Pipariya",
-          "active": true,
-          "tehsilcode": "7324"
-        },
-        {
-          "code": "S_LOHARA",
-          "name": "S. Lohara",
-          "active": true,
-          "tehsilcode": "3300"
-        },
-        {
-          "code": "SAHASPUR_LOHARA",
-          "name": "Sahaspur Lohara",
+          "code": "ARJUNDA",
+          "name": "Arjunda",
           "active": true
         },
         {
-          "code": "RENGAKHARKALA",
-          "name": "Rengakharkala",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "KONDAGAON",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "FARASGAON",
-          "name": "Farasgaon",
+          "code": "BALOD",
+          "name": "Balod",
           "active": true
         },
         {
-          "code": "KESHKAL",
-          "name": "Keshkal",
-          "active": true,
-          "tehsilcode": "3355"
-        },
-        {
-          "code": "KONDAGAON",
-          "name": "Kondagaon",
-          "active": true,
-          "tehsilcode": "3357"
-        },
-        {
-          "code": "PHARSAGAON",
-          "name": "Pharsagaon",
-          "active": true,
-          "tehsilcode": "3359"
-        },
-        {
-          "code": "PHARSGAON",
-          "name": "Pharsgaon",
+          "code": "DONDI",
+          "name": "Dondi",
           "active": true
         },
         {
-          "code": "BADERAJPUR",
-          "name": "Baderajpur",
+          "code": "DONDI_LOHARA",
+          "name": "Dondi Lohara",
           "active": true
         },
         {
-          "code": "MAKDI",
-          "name": "Makdi",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "KORBA",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "BHAISMA",
-          "name": "Bhaisma",
-          "active": true,
-          "tehsilcode": "7328"
-        },
-        {
-          "code": "DARRI",
-          "name": "Darri",
-          "active": true,
-          "tehsilcode": "7266"
-        },
-        {
-          "code": "DEEPKA",
-          "name": "Deepka",
-          "active": true,
-          "tehsilcode": "7293"
-        },
-        {
-          "code": "HARDIBAZAR",
-          "name": "Hardibazar",
-          "active": true,
-          "tehsilcode": "7271"
-        },
-        {
-          "code": "KARTALA",
-          "name": "Kartala",
-          "active": true,
-          "tehsilcode": "3276"
-        },
-        {
-          "code": "KATGHORA",
-          "name": "Katghora",
-          "active": true,
-          "tehsilcode": "3272"
-        },
-        {
-          "code": "KORBA",
-          "name": "Korba",
-          "active": true,
-          "tehsilcode": "3275"
-        },
-        {
-          "code": "PALI",
-          "name": "Pali",
-          "active": true,
-          "tehsilcode": "3274"
-        },
-        {
-          "code": "PODI_UPRODA",
-          "name": "Podi - Uproda",
-          "active": true,
-          "tehsilcode": "3273"
-        },
-        {
-          "code": "PULALI",
-          "name": "Pulali",
+          "code": "GUNDERDEHI",
+          "name": "Gunderdehi",
           "active": true
         },
         {
-          "code": "PASAAN",
-          "name": "Pasaan",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "KOREA",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "BAIKUNTHPUR",
-          "name": "Baikunthpur",
+          "code": "GURUR",
+          "name": "Gurur",
           "active": true
         },
         {
-          "code": "SONHAT",
-          "name": "Sonhat",
-          "active": true,
-          "tehsilcode": "3233"
-        },
-        {
-          "code": "BHAIRAMGADH",
-          "name": "BhairamGadh",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "MAHASAMUND",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "BAGBAHARA",
-          "name": "Bagbahara",
-          "active": true,
-          "tehsilcode": "3343"
-        },
-        {
-          "code": "BASNA",
-          "name": "Basna",
-          "active": true,
-          "tehsilcode": "3339"
-        },
-        {
-          "code": "MAHASAMUND",
-          "name": "Mahasamund",
-          "active": true,
-          "tehsilcode": "3341"
-        },
-        {
-          "code": "PITHORA",
-          "name": "Pithora",
-          "active": true,
-          "tehsilcode": "3342"
-        },
-        {
-          "code": "SARAIPALI",
-          "name": "Saraipali",
-          "active": true,
-          "tehsilcode": "3340"
-        },
-        {
-          "code": "KOMAKHAN",
-          "name": "Komakhan",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "MANENDRAGARH_CHIRIMIRI_BHARATPUR",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "KHARGAWAN",
-          "name": "Khargawan",
-          "active": true
-        },
-        {
-          "code": "MANENDRAGARH",
-          "name": "Manendragarh",
-          "active": true,
-          "tehsilcode": "3234"
-        },
-        {
-          "code": "MANENDRAGADH",
-          "name": "Manendragadh",
-          "active": true
-        },
-        {
-          "code": "CHIRMIRI",
-          "name": "Chirmiri",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "MOHLA_MANPUR_AMBAGARH_CHOWKI",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "AMBAGARH_CHOWKI",
-          "name": "Ambagarh Chowki",
-          "active": true,
-          "tehsilcode": "3310"
-        },
-        {
-          "code": "MOHLA",
-          "name": "Mohla",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "MUNGELI",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "MUNGELI_BODRI",
-          "name": "Bodri",
-          "active": true,
-          "tehsilcode": "7250"
-        },
-        {
-          "code": "MUNGELI",
-          "name": "Mungeli",
-          "active": true,
-          "tehsilcode": "3292"
-        },
-        {
-          "code": "JARHAGAON",
-          "name": "Jarhagaon",
-          "active": true
-        }
-      ]
-    },
-    {
-      "districtCode": "NARAYANPUR",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "NARAYANPUR",
-          "name": "Narayanpur",
-          "active": true,
-          "tehsilcode": "3600"
-        }
-      ]
-    },
-    {
-      "districtCode": "RAIGARH",
-      "active": true,
-      "tehsils": [
-        {
-          "code": "DHARAMJAIGARH",
-          "name": "Dharamjaigarh",
-          "active": true,
-          "tehsilcode": "3263"
-        },
-        {
-          "code": "GHARGHODA",
-          "name": "Gharghoda",
-          "active": true,
-          "tehsilcode": "3265"
-        },
-        {
-          "code": "KHARSIA",
-          "name": "Kharsia",
-          "active": true,
-          "tehsilcode": "3269"
-        },
-        {
-          "code": "LAILUNGA",
-          "name": "Lailunga",
-          "active": true,
-          "tehsilcode": "3264"
-        },
-        {
-          "code": "PUSSORE",
-          "name": "Pussore",
-          "active": true,
-          "tehsilcode": "3268"
-        },
-        {
-          "code": "RAIGARH",
-          "name": "Raigarh",
-          "active": true,
-          "tehsilcode": "3267"
-        },
-        {
-          "code": "TAMNAR",
-          "name": "Tamnar",
-          "active": true,
-          "tehsilcode": "3266"
-        },
-        {
-          "code": "POUSAUR",
-          "name": "Pousaur",
+          "code": "MARRI_BANGLA_DEVARI",
+          "name": "Marri Bangla Devari",
           "active": true
         }
       ]
@@ -1159,56 +171,18 @@
       "active": true,
       "tehsils": [
         {
+          "code": "AARANG",
+          "name": "Aarang",
+          "active": true
+        },
+        {
           "code": "ABHANPUR",
           "name": "Abhanpur",
-          "active": true,
-          "tehsilcode": "3331"
+          "active": true
         },
         {
           "code": "ARANG",
           "name": "Arang",
-          "active": true,
-          "tehsilcode": "3330"
-        },
-        {
-          "code": "DHARSIWA",
-          "name": "Dharsiwa",
-          "active": true,
-          "tehsilcode": "7292"
-        },
-        {
-          "code": "GOBRA_NAWAPARA",
-          "name": "Gobra nawapara",
-          "active": true,
-          "tehsilcode": "7259"
-        },
-        {
-          "code": "MANDIR_HASUAD",
-          "name": "Mandir hasuad",
-          "active": true,
-          "tehsilcode": "7308"
-        },
-        {
-          "code": "KHARORA",
-          "name": "Kharora",
-          "active": true,
-          "tehsilcode": "7262"
-        },
-        {
-          "code": "RAIPUR",
-          "name": "Raipur",
-          "active": true,
-          "tehsilcode": "3332"
-        },
-        {
-          "code": "TILDA",
-          "name": "Tilda",
-          "active": true,
-          "tehsilcode": "3334"
-        },
-        {
-          "code": "AARANG",
-          "name": "Aarang",
           "active": true
         },
         {
@@ -1220,45 +194,240 @@
           "code": "DHARSINWA",
           "name": "Dharsinwa",
           "active": true
+        },
+        {
+          "code": "DHARSIWA",
+          "name": "Dharsiwa",
+          "active": true
+        },
+        {
+          "code": "GOBRA_NAWAPARA",
+          "name": "Gobra Nawapara",
+          "active": true
+        },
+        {
+          "code": "KHARORA",
+          "name": "Kharora",
+          "active": true
+        },
+        {
+          "code": "MANDIR_HASUAD",
+          "name": "Mandir Hasuad",
+          "active": true
+        },
+        {
+          "code": "RAIPUR",
+          "name": "Raipur",
+          "active": true
+        },
+        {
+          "code": "TILDA",
+          "name": "Tilda",
+          "active": true
         }
       ]
     },
     {
-      "districtCode": "RAJNANDGAON",
+      "districtCode": "GARIYABAND",
       "active": true,
       "tehsils": [
         {
-          "code": "CHHURIYA",
-          "name": "Chhuriya",
-          "active": true,
-          "tehsilcode": "3306"
-        },
-        {
-          "code": "DONGARGAON",
-          "name": "Dongargaon",
-          "active": true,
-          "tehsilcode": "3307"
-        },
-        {
-          "code": "DONGARGARH",
-          "name": "Dongargarh",
-          "active": true,
-          "tehsilcode": "3304"
-        },
-        {
-          "code": "MURMUNDA",
-          "name": "Murmunda",
+          "code": "CHURRA",
+          "name": "Churra",
           "active": true
         },
         {
-          "code": "RAJNANDGAON",
-          "name": "Rajnandgaon",
-          "active": true,
-          "tehsilcode": "3305"
+          "code": "FINGESHWAR",
+          "name": "Fingeshwar",
+          "active": true
         },
         {
-          "code": "LALBAHADUR_NAGAR",
-          "name": "Lalbahadur Nagar",
+          "code": "GARIYABAND",
+          "name": "Gariyaband",
+          "active": true
+        },
+        {
+          "code": "RAJIM",
+          "name": "Rajim",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "BALODABAZAR_BHATAPARA",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "BALODABAZAR_BHATAPARA_BHATGAON",
+          "name": "Bhatgaon",
+          "active": true
+        },
+        {
+          "code": "BALODA_BAZAR",
+          "name": "Baloda Bazar",
+          "active": true
+        },
+        {
+          "code": "BHATAPARA",
+          "name": "Bhatapara",
+          "active": true
+        },
+        {
+          "code": "BILAIGARH",
+          "name": "Bilaigarh",
+          "active": true
+        },
+        {
+          "code": "GIRODPURI",
+          "name": "Girodpuri",
+          "active": true
+        },
+        {
+          "code": "KASDOL",
+          "name": "Kasdol",
+          "active": true
+        },
+        {
+          "code": "LAVAN",
+          "name": "Lavan",
+          "active": true
+        },
+        {
+          "code": "PALARI",
+          "name": "Palari",
+          "active": true
+        },
+        {
+          "code": "SIMGA",
+          "name": "Simga",
+          "active": true
+        },
+        {
+          "code": "SUHELA",
+          "name": "Suhela",
+          "active": true
+        },
+        {
+          "code": "TUNDRA",
+          "name": "Tundra",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "RAIGARH",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "DHARAMJAIGARH",
+          "name": "Dharamjaigarh",
+          "active": true
+        },
+        {
+          "code": "GHARGHODA",
+          "name": "Gharghoda",
+          "active": true
+        },
+        {
+          "code": "KHARSIA",
+          "name": "Kharsia",
+          "active": true
+        },
+        {
+          "code": "LAILUNGA",
+          "name": "Lailunga",
+          "active": true
+        },
+        {
+          "code": "POUSAUR",
+          "name": "Pousaur",
+          "active": true
+        },
+        {
+          "code": "PUSSORE",
+          "name": "Pussore",
+          "active": true
+        },
+        {
+          "code": "RAIGARH_RAIGARH",
+          "name": "Raigarh",
+          "active": true
+        },
+        {
+          "code": "TAMNAR",
+          "name": "Tamnar",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "SARANGARH_BILAIGARH",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "BARAMKELA",
+          "name": "Baramkela",
+          "active": true
+        },
+        {
+          "code": "SARANGARH",
+          "name": "Sarangarh",
+          "active": true
+        },
+        {
+          "code": "SARANGARH_BILAIGARH_RAIGARH",
+          "name": "Raigarh",
+          "active": true
+        },
+        {
+          "code": "SARIYA",
+          "name": "Sariya",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "JANJGIR_CHAMPA",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "AKALTARA",
+          "name": "Akaltara",
+          "active": true
+        },
+        {
+          "code": "BALODA",
+          "name": "Baloda",
+          "active": true
+        },
+        {
+          "code": "CHAMPA",
+          "name": "Champa",
+          "active": true
+        },
+        {
+          "code": "JANJGIR",
+          "name": "Janjgir",
+          "active": true
+        },
+        {
+          "code": "JANJGIR_CHAMPA_SARAGAON",
+          "name": "Saragaon",
+          "active": true
+        },
+        {
+          "code": "NAVAGARH",
+          "name": "Navagarh",
+          "active": true
+        },
+        {
+          "code": "PAMGARH",
+          "name": "Pamgarh",
+          "active": true
+        },
+        {
+          "code": "SHIVRINARAYAN",
+          "name": "Shivrinarayan",
           "active": true
         }
       ]
@@ -1273,59 +442,33 @@
           "active": true
         },
         {
-          "code": "AKALTARA",
-          "name": "Akaltara",
-          "active": true
-        },
-        {
-          "code": "BALODA",
-          "name": "Baloda",
-          "active": true
-        },
-        {
-          "code": "SAKTI_BARADWAR",
+          "code": "BARADWAR",
           "name": "Baradwar",
-          "active": true,
-          "tehsilcode": "7267"
+          "active": true
         },
         {
           "code": "CHANDRAPUR",
           "name": "Chandrapur",
-          "active": true,
-          "tehsilcode": "7354"
+          "active": true
         },
         {
           "code": "DABHRA",
           "name": "Dabhra",
-          "active": true,
-          "tehsilcode": "3284"
+          "active": true
         },
         {
           "code": "JAIJEPUR",
           "name": "Jaijepur",
-          "active": true,
-          "tehsilcode": "3286"
+          "active": true
         },
         {
           "code": "MALKHARODA",
           "name": "Malkharoda",
-          "active": true,
-          "tehsilcode": "3285"
-        },
-        {
-          "code": "PAMGARH",
-          "name": "Pamgarh",
           "active": true
         },
         {
           "code": "SAKTI",
           "name": "Sakti",
-          "active": true,
-          "tehsilcode": "3282"
-        },
-        {
-          "code": "SHIVRINARAYAN",
-          "name": "Shivrinarayan",
           "active": true
         },
         {
@@ -1336,30 +479,431 @@
       ]
     },
     {
-      "districtCode": "SARANGARH_BILAIGARH",
+      "districtCode": "KAWARDHA",
       "active": true,
       "tehsils": [
         {
-          "code": "BARAMKELA",
-          "name": "Baramkela",
-          "active": true,
-          "tehsilcode": "3271"
+          "code": "BODLA",
+          "name": "Bodla",
+          "active": true
         },
         {
-          "code": "SARANGARH",
-          "name": "Sarangarh",
-          "active": true,
-          "tehsilcode": "3270"
+          "code": "KAWARDHA",
+          "name": "Kawardha",
+          "active": true
         },
         {
-          "code": "SARIYA",
-          "name": "Sariya",
-          "active": true,
-          "tehsilcode": "7244"
+          "code": "KUNDA",
+          "name": "Kunda",
+          "active": true
         },
         {
-          "code": "SARANGARH_BILAIGARH_RAIGARH",
-          "name": "Raigarh",
+          "code": "PANDARIYA",
+          "name": "Pandariya",
+          "active": true
+        },
+        {
+          "code": "PIPARIYA",
+          "name": "Pipariya",
+          "active": true
+        },
+        {
+          "code": "RENGAKHARKALA",
+          "name": "Rengakharkala",
+          "active": true
+        },
+        {
+          "code": "SAHASPUR_LOHARA",
+          "name": "Sahaspur Lohara",
+          "active": true
+        },
+        {
+          "code": "S_LOHARA",
+          "name": "S. Lohara",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "DANTEWADA",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "BADE_BACHELI",
+          "name": "Bade-Bacheli",
+          "active": true
+        },
+        {
+          "code": "BARSOOR",
+          "name": "Barsoor",
+          "active": true
+        },
+        {
+          "code": "BARSUR",
+          "name": "Barsur",
+          "active": true
+        },
+        {
+          "code": "DANTEWADA",
+          "name": "Dantewada",
+          "active": true
+        },
+        {
+          "code": "GIDAM",
+          "name": "Gidam",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "DHAMTARI",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "BHAKHARA",
+          "name": "Bhakhara",
+          "active": true
+        },
+        {
+          "code": "DHAMTARI",
+          "name": "Dhamtari",
+          "active": true
+        },
+        {
+          "code": "KURUD",
+          "name": "Kurud",
+          "active": true
+        },
+        {
+          "code": "MAGARLOD",
+          "name": "Magarlod",
+          "active": true
+        },
+        {
+          "code": "NAGRI",
+          "name": "Nagri",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "MOHLA_MANPUR_AMBAGARH_CHOWKI",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "AMBAGARH_CHOWKI",
+          "name": "Ambagarh Chowki",
+          "active": true
+        },
+        {
+          "code": "MOHLA",
+          "name": "Mohla",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "KAIRAGARH_CHHUIKHADAN_GANDAI",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "CHHUIKHDAN",
+          "name": "Chhuikhdan",
+          "active": true
+        },
+        {
+          "code": "GANDAI",
+          "name": "Gandai",
+          "active": true
+        },
+        {
+          "code": "KHAIRAGARH",
+          "name": "Khairagarh",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "RAJNANDGAON",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "CHHURIYA",
+          "name": "Chhuriya",
+          "active": true
+        },
+        {
+          "code": "DONGARGAON",
+          "name": "Dongargaon",
+          "active": true
+        },
+        {
+          "code": "DONGARGARH",
+          "name": "Dongargarh",
+          "active": true
+        },
+        {
+          "code": "LALBAHADUR_NAGAR",
+          "name": "Lalbahadur Nagar",
+          "active": true
+        },
+        {
+          "code": "RAJNANDGAON",
+          "name": "Rajnandgaon",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "DURG",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "AHIWARA",
+          "name": "Ahiwara",
+          "active": true
+        },
+        {
+          "code": "BHILAI",
+          "name": "Bhilai",
+          "active": true
+        },
+        {
+          "code": "BORI",
+          "name": "Bori",
+          "active": true
+        },
+        {
+          "code": "DHAMDHA",
+          "name": "Dhamdha",
+          "active": true
+        },
+        {
+          "code": "DURG",
+          "name": "Durg",
+          "active": true
+        },
+        {
+          "code": "PATAN",
+          "name": "Patan",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "BEMETARA",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "BEMETARA",
+          "name": "Bemetara",
+          "active": true
+        },
+        {
+          "code": "BERLA",
+          "name": "Berla",
+          "active": true
+        },
+        {
+          "code": "BHIMBHORI",
+          "name": "Bhimbhori",
+          "active": true
+        },
+        {
+          "code": "DEVKAR",
+          "name": "Devkar",
+          "active": true
+        },
+        {
+          "code": "NANDGHAT",
+          "name": "Nandghat",
+          "active": true
+        },
+        {
+          "code": "NAWAGARH",
+          "name": "Nawagarh",
+          "active": true
+        },
+        {
+          "code": "SAJA",
+          "name": "Saja",
+          "active": true
+        },
+        {
+          "code": "THAN_KHAMHARIYA",
+          "name": "Than Khamhariya",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "KORBA",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "BHAISMA",
+          "name": "Bhaisma",
+          "active": true
+        },
+        {
+          "code": "DARRI",
+          "name": "Darri",
+          "active": true
+        },
+        {
+          "code": "DEEPKA",
+          "name": "Deepka",
+          "active": true
+        },
+        {
+          "code": "HARDIBAZAR",
+          "name": "Hardibazar",
+          "active": true
+        },
+        {
+          "code": "KARTALA",
+          "name": "Kartala",
+          "active": true
+        },
+        {
+          "code": "KATGHORA",
+          "name": "Katghora",
+          "active": true
+        },
+        {
+          "code": "KORBA",
+          "name": "Korba",
+          "active": true
+        },
+        {
+          "code": "PALI",
+          "name": "Pali",
+          "active": true
+        },
+        {
+          "code": "PASAAN",
+          "name": "Pasaan",
+          "active": true
+        },
+        {
+          "code": "PODI_UPRODA",
+          "name": "Podi - Uproda",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "KOREA",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "BHAIRAMGADH",
+          "name": "BhairamGadh",
+          "active": true
+        },
+        {
+          "code": "SONHAT",
+          "name": "Sonhat",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "MANENDRAGARH_CHIRIMIRI_BHARATPUR",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "CHIRMIRI",
+          "name": "Chirmiri",
+          "active": true
+        },
+        {
+          "code": "MANENDRAGADH",
+          "name": "Manendragadh",
+          "active": true
+        },
+        {
+          "code": "MANENDRAGARH",
+          "name": "Manendragarh",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "BASTAR",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "BAKAWAND",
+          "name": "Bakawand",
+          "active": true
+        },
+        {
+          "code": "JAGDALPUR",
+          "name": "Jagdalpur",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "NARAYANPUR",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "NARAYANPUR",
+          "name": "Narayanpur",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "KONDAGAON",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "KESHKAL",
+          "name": "Keshkal",
+          "active": true
+        },
+        {
+          "code": "KONDAGAON",
+          "name": "Kondagaon",
+          "active": true
+        },
+        {
+          "code": "KONDAGAON_BADERAJPUR",
+          "name": "Baderajpur",
+          "active": true
+        },
+        {
+          "code": "MAKDI",
+          "name": "Makdi",
+          "active": true
+        },
+        {
+          "code": "PHARSAGAON",
+          "name": "Pharsagaon",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "BIJAPUR",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "BHAIRAMGARH",
+          "name": "Bhairamgarh",
+          "active": true
+        },
+        {
+          "code": "BIJAPUR",
+          "name": "Bijapur",
+          "active": true
+        },
+        {
+          "code": "GANGALUR",
+          "name": "Gangalur",
           "active": true
         }
       ]
@@ -1371,14 +915,12 @@
         {
           "code": "KONTA",
           "name": "Konta",
-          "active": true,
-          "tehsilcode": "3373"
+          "active": true
         },
         {
           "code": "SUKMA",
           "name": "Sukma",
-          "active": true,
-          "tehsilcode": "3375"
+          "active": true
         },
         {
           "code": "SUKMA_BADERAJPUR",
@@ -1394,26 +936,17 @@
         {
           "code": "AMBIKAPUR",
           "name": "Ambikapur",
-          "active": true,
-          "tehsilcode": "3247"
+          "active": true
         },
         {
           "code": "LAKHANPUR",
           "name": "Lakhanpur",
-          "active": true,
-          "tehsilcode": "3248"
+          "active": true
         },
         {
-          "code": "RAGHUNATHPUR",
-          "name": "Raghunathpur",
-          "active": true,
-          "tehsilcode": "7257"
-        },
-        {
-          "code": "SITAPUR",
-          "name": "Sitapur",
-          "active": true,
-          "tehsilcode": "3252"
+          "code": "LUNDRA",
+          "name": "Lundra",
+          "active": true
         },
         {
           "code": "MAINPAT",
@@ -1421,13 +954,18 @@
           "active": true
         },
         {
-          "code": "DARIMA",
+          "code": "SURGUJA_DARIMA",
           "name": "Darima",
           "active": true
         },
         {
-          "code": "LUNDRA",
-          "name": "Lundra",
+          "code": "SURGUJA_RAGHUNATHPUR",
+          "name": "Raghunathpur",
+          "active": true
+        },
+        {
+          "code": "SURGUJA_SITAPUR",
+          "name": "Sitapur",
           "active": true
         }
       ]
@@ -1437,47 +975,8 @@
       "active": true,
       "tehsils": [
         {
-          "code": "SURJAPUR_BHATGAON",
-          "name": "Bhatgaon",
-          "active": true,
-          "tehsilcode": "3720"
-        },
-        {
-          "code": "BISHRAMPUR",
-          "name": "Bishrampur",
-          "active": true
-        },
-        {
-          "code": "JARHI",
-          "name": "Jarhi",
-          "active": true
-        },
-        {
-          "code": "PRATAPUR",
-          "name": "Pratapur",
-          "active": true,
-          "tehsilcode": "3239"
-        },
-        {
-          "code": "PREMNGAR",
-          "name": "Premngar",
-          "active": true,
-          "tehsilcode": "3246"
-        },
-        {
-          "code": "SURAJPUR",
-          "name": "Surajpur",
-          "active": true,
-          "tehsilcode": "3242"
-        },
-        {
-          "code": "SURJAPUR_SITAPUR",
-          "name": "Sitapur",
-          "active": true
-        },
-        {
-          "code": "SURJAPUR_DARIMA",
-          "name": "Darima",
+          "code": "LATORI",
+          "name": "Latori",
           "active": true
         },
         {
@@ -1486,60 +985,192 @@
           "active": true
         },
         {
-          "code": "LATORI",
-          "name": "Latori",
+          "code": "PRATAPUR",
+          "name": "Pratapur",
+          "active": true
+        },
+        {
+          "code": "PREMNGAR",
+          "name": "Premngar",
+          "active": true
+        },
+        {
+          "code": "SURAJPUR",
+          "name": "Surajpur",
           "active": true
         },
         {
           "code": "SURJAPUR_BALRAMPUR",
           "name": "Balrampur",
           "active": true
+        },
+        {
+          "code": "SURJAPUR_BHATGAON",
+          "name": "Bhatgaon",
+          "active": true
+        },
+        {
+          "code": "SURJAPUR_DARIMA",
+          "name": "Darima",
+          "active": true
+        },
+        {
+          "code": "SURJAPUR_SITAPUR",
+          "name": "Sitapur",
+          "active": true
         }
       ]
     },
     {
-      "districtCode": "BALOD",
+      "districtCode": "BALRAMPUR",
       "active": true,
       "tehsils": [
         {
-          "code": "ARJUNDA",
-          "name": "Arjunda",
-          "active": true,
-          "tehsilcode": "7253"
+          "code": "BALRAMPUR_BALRAMPUR",
+          "name": "Balrampur",
+          "active": true
         },
         {
-          "code": "BALOD",
-          "name": "Balod",
-          "active": true,
-          "tehsilcode": "3321"
+          "code": "BALRAMPUR_RAGHUNATHPUR",
+          "name": "Raghunathpur",
+          "active": true
         },
         {
-          "code": "DONDI",
-          "name": "Dondi",
-          "active": true,
-          "tehsilcode": "3322"
+          "code": "BIHARPUR",
+          "name": "Biharpur",
+          "active": true
         },
         {
-          "code": "DONDI_LOHARA",
-          "name": "Dondi Lohara",
-          "active": true,
-          "tehsilcode": "3320"
+          "code": "RAJPUR",
+          "name": "Rajpur",
+          "active": true
         },
         {
-          "code": "GUNDERDEHI",
-          "name": "Gunderdehi",
-          "active": true,
-          "tehsilcode": "3319"
+          "code": "RAMANUJGANJ",
+          "name": "Ramanujganj",
+          "active": true
         },
         {
-          "code": "GURUR",
-          "name": "Gurur",
-          "active": true,
-          "tehsilcode": "3323"
+          "code": "SAMRI",
+          "name": "Samri",
+          "active": true
         },
         {
-          "code": "MARRI_BANGLA_DEVARI",
-          "name": "Marri Bangla Devari",
+          "code": "WADAFNAGAR",
+          "name": "Wadafnagar",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "BILASPUR",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "BELTARA",
+          "name": "Beltara",
+          "active": true
+        },
+        {
+          "code": "BILASPUR",
+          "name": "Bilaspur",
+          "active": true
+        },
+        {
+          "code": "BILASPUR_BODRI",
+          "name": "Bodri",
+          "active": true
+        },
+        {
+          "code": "BILHA",
+          "name": "Bilha",
+          "active": true
+        },
+        {
+          "code": "KOTA",
+          "name": "Kota",
+          "active": true
+        },
+        {
+          "code": "MASTURI",
+          "name": "Masturi",
+          "active": true
+        },
+        {
+          "code": "PACHPEDI",
+          "name": "Pachpedi",
+          "active": true
+        },
+        {
+          "code": "RATANPUR",
+          "name": "Ratanpur",
+          "active": true
+        },
+        {
+          "code": "SAKARI",
+          "name": "Sakari",
+          "active": true
+        },
+        {
+          "code": "SAKRI",
+          "name": "Sakri",
+          "active": true
+        },
+        {
+          "code": "SIPAT",
+          "name": "Sipat",
+          "active": true
+        },
+        {
+          "code": "TAKHATPUR",
+          "name": "Takhatpur",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "MUNGELI",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "JARHAGAON",
+          "name": "Jarhagaon",
+          "active": true
+        },
+        {
+          "code": "MUNGELI",
+          "name": "Mungeli",
+          "active": true
+        },
+        {
+          "code": "MUNGELI_BODRI",
+          "name": "Bodri",
+          "active": true
+        }
+      ]
+    },
+    {
+      "districtCode": "GAURELA_PENDRA_MARWAHI",
+      "active": true,
+      "tehsils": [
+        {
+          "code": "MARWAHI",
+          "name": "Marwahi",
+          "active": true
+        },
+        {
+          "code": "PENDRA",
+          "name": "Pendra",
+          "active": true
+        },
+        {
+          "code": "PENDRA_ROAD",
+          "name": "Pendra Road",
+          "active": true
+        },
+        {
+          "code": "SAKOLA",
+          "name": "Sakola",
           "active": true
         }
       ]
