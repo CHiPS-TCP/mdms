@@ -3588,18 +3588,6 @@
           ]
         },
         {
-          "code": "CHHURA",
-          "name": "Chhura",
-          "active": true,
-          "villages": [
-            {
-              "code": "RANWABHATHA",
-              "name": "Ranwabhatha",
-              "active": true
-            }
-          ]
-        },
-        {
           "code": "DHARSINWA",
           "name": "Dharsinwa",
           "active": true,
@@ -3645,6 +3633,11 @@
               "active": true,
               "halkaNumber": "00028",
               "riNumber": "02"
+            },
+            {
+              "code": "RANWABHATHA",
+              "name": "Ranwabhatha",
+              "active": true
             }
           ]
         },
@@ -5896,20 +5889,11 @@
               "active": true,
               "halkaNumber": "00014",
               "riNumber": "01"
-            }
-          ]
-        },
-        {
-          "code": "BHATAPARA",
-          "name": "Bhatapara",
-          "active": true,
-          "villages": [
+            },
             {
               "code": "AURETHI",
               "name": "Aurethi",
-              "active": true,
-              "halkaNumber": "",
-              "riNumber": ""
+              "active": true
             }
           ]
         },
@@ -6570,18 +6554,6 @@
               "active": true,
               "halkaNumber": "",
               "riNumber": ""
-            }
-          ]
-        },
-        {
-          "code": "GIRODPURI",
-          "name": "Girodpuri",
-          "active": true,
-          "villages": [
-            {
-              "code": "MAHARAJI",
-              "name": "Maharaji",
-              "active": true
             }
           ]
         }
@@ -7603,13 +7575,6 @@
             {
               "code": "AMLITIKARA",
               "name": "Amlitikara",
-              "active": true,
-              "halkaNumber": "",
-              "riNumber": ""
-            },
-            {
-              "code": "KHAMHAR",
-              "name": "Khamhar",
               "active": true,
               "halkaNumber": "",
               "riNumber": ""
@@ -11164,11 +11129,6 @@
           "active": true,
           "villages": [
             {
-              "code": "KHAROUD",
-              "name": "Kharoud",
-              "active": true
-            },
-            {
               "code": "KAMTA",
               "name": "Kamta",
               "active": true,
@@ -12684,6 +12644,11 @@
               "active": true,
               "halkaNumber": "00032",
               "riNumber": "04"
+            },
+            {
+              "code": "BHATAGAO",
+              "name": "Bhatagao",
+              "active": true
             }
           ]
         },
@@ -12692,13 +12657,6 @@
           "name": "Dhamtari",
           "active": true,
           "villages": [
-            {
-              "code": "BHATAGAO",
-              "name": "Bhatagao",
-              "active": true,
-              "halkaNumber": "00046",
-              "riNumber": "07"
-            },
             {
               "code": "NAWAGAO",
               "name": "Nawagao",
@@ -18422,13 +18380,6 @@
               "riNumber": "03"
             },
             {
-              "code": "DUDHANIA",
-              "name": "Dudhania",
-              "active": true,
-              "halkaNumber": "00006",
-              "riNumber": "03"
-            },
-            {
               "code": "CHERWAPARA",
               "name": "Cherwapara",
               "active": true,
@@ -21053,13 +21004,6 @@
               "riNumber": "01"
             },
             {
-              "code": "RAMNGAR",
-              "name": "Ramngar",
-              "active": true,
-              "halkaNumber": "00008",
-              "riNumber": "01"
-            },
-            {
               "code": "RATASILLI",
               "name": "Ratasilli",
               "active": true,
@@ -21140,6 +21084,11 @@
               "active": true,
               "halkaNumber": "00010",
               "riNumber": "01"
+            },
+            {
+              "code": "AMTAHI",
+              "name": "Amtahi",
+              "active": true
             }
           ]
         },
@@ -22513,6 +22462,11 @@
               "active": true,
               "halkaNumber": "",
               "riNumber": ""
+            },
+            {
+              "code": "KAMODA",
+              "name": "Kamoda",
+              "active": true
             }
           ]
         },
@@ -23858,13 +23812,6 @@
             {
               "code": "PADARIA",
               "name": "Padaria",
-              "active": true,
-              "halkaNumber": "",
-              "riNumber": ""
-            },
-            {
-              "code": "BELSARI",
-              "name": "Belsari",
               "active": true,
               "halkaNumber": "",
               "riNumber": ""

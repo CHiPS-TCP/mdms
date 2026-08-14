@@ -2831,14 +2831,7 @@
       "districtCode": "RAIPUR",
       "tehsilCode": "CHHURA",
       "active": true,
-      "villages": [
-        {
-          "code": "RANWABHATHA",
-          "name": "Ranwabhatha",
-          "active": true,
-          "villageCode": "956137"
-        }
-      ]
+      "villages": []
     },
     {
       "districtCode": "RAIPUR",
@@ -2880,6 +2873,12 @@
           "name": "Achholi-2",
           "active": true,
           "villageCode": "956160"
+        },
+        {
+          "code": "RANWABHATHA",
+          "name": "Ranwabhatha",
+          "active": true,
+          "villageCode": "956137"
         }
       ]
     },
@@ -4363,12 +4362,6 @@
           "name": "Kholwa",
           "active": true,
           "villageCode": "443618"
-        },
-        {
-          "code": "AURETHI",
-          "name": "Aurethi",
-          "active": true,
-          "villageCode": "443518"
         }
       ]
     },
@@ -4847,6 +4840,12 @@
           "name": "Nevdha",
           "active": true,
           "villageCode": "443536"
+        },
+        {
+          "code": "AURETHI",
+          "name": "Aurethi",
+          "active": true,
+          "villageCode": "443518"
         }
       ]
     },
@@ -5242,14 +5241,7 @@
       "districtCode": "BALODABAZAR_BHATAPARA",
       "tehsilCode": "GIRODPURI",
       "active": true,
-      "villages": [
-        {
-          "code": "MAHARAJI",
-          "name": "Maharaji",
-          "active": true,
-          "villageCode": null
-        }
-      ]
+      "villages": []
     },
     {
       "districtCode": "BALODABAZAR_BHATAPARA",
@@ -5914,12 +5906,6 @@
           "name": "Amlitikara",
           "active": true,
           "villageCode": "434358"
-        },
-        {
-          "code": "KHAMHAR",
-          "name": "Khamhar",
-          "active": true,
-          "villageCode": null
         },
         {
           "code": "LAXMINAGAR",
@@ -7911,12 +7897,6 @@
           "villageCode": "436799"
         },
         {
-          "code": "KHAROUD",
-          "name": "Kharoud",
-          "active": true,
-          "villageCode": null
-        },
-        {
           "code": "KAMTA",
           "name": "Kamta",
           "active": true,
@@ -9703,12 +9683,6 @@
           "villageCode": "447068"
         },
         {
-          "code": "BHATAGAO",
-          "name": "Bhatagao",
-          "active": true,
-          "villageCode": "446841"
-        },
-        {
           "code": "NAWAGAO",
           "name": "Nawagao",
           "active": true,
@@ -9978,6 +9952,12 @@
           "name": "Atung.",
           "active": true,
           "villageCode": "446840"
+        },
+        {
+          "code": "BHATAGAO",
+          "name": "Bhatagao",
+          "active": true,
+          "villageCode": "446841"
         }
       ]
     },
@@ -14284,12 +14264,6 @@
           "villageCode": "431386"
         },
         {
-          "code": "DUDHANIA",
-          "name": "Dudhania",
-          "active": true,
-          "villageCode": null
-        },
-        {
           "code": "CHERWAPARA",
           "name": "Cherwapara",
           "active": true,
@@ -16392,12 +16366,6 @@
           "villageCode": "432376"
         },
         {
-          "code": "RAMNGAR",
-          "name": "Ramngar",
-          "active": true,
-          "villageCode": "432340"
-        },
-        {
           "code": "RATASILLI",
           "name": "Ratasilli",
           "active": true,
@@ -16468,6 +16436,12 @@
           "name": "Ghutradih",
           "active": true,
           "villageCode": "432345"
+        },
+        {
+          "code": "AMTAHI",
+          "name": "Amtahi",
+          "active": true,
+          "villageCode": "432340"
         }
       ]
     },
@@ -18109,12 +18083,6 @@
           "villageCode": "438548"
         },
         {
-          "code": "BELSARI",
-          "name": "Belsari",
-          "active": true,
-          "villageCode": "438607"
-        },
-        {
           "code": "NGOI",
           "name": "Ngoi",
           "active": true,
@@ -18185,6 +18153,12 @@
           "name": "Tihaldih",
           "active": true,
           "villageCode": "438549"
+        },
+        {
+          "code": "KAMODA",
+          "name": "Kamoda",
+          "active": true,
+          "villageCode": "438607"
         }
       ]
     },

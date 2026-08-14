@@ -1,7 +1,7 @@
 {
   "tenantId": "cg",
   "moduleName": "BPA",
-  "VillageToPlanningArea": [
+  "VillageToPlanningArea":[
     {
       "tehsilCode": "BASNA",
       "villageCode": "BHANWARPUR",
@@ -4123,16 +4123,6 @@
       ]
     },
     {
-      "tehsilCode": "CHHURA",
-      "villageCode": "RANWABHATHA",
-      "planningAreas": [
-        {
-          "planningAreaCode": "RAIPUR_MASTER_PLAN",
-          "planningAreaName": "Raipur Master Plan"
-        }
-      ]
-    },
-    {
       "tehsilCode": "RAIPUR",
       "villageCode": "URKURA",
       "planningAreas": [
@@ -7013,16 +7003,6 @@
       ]
     },
     {
-      "tehsilCode": "BHATAPARA",
-      "villageCode": "AURETHI",
-      "planningAreas": [
-        {
-          "planningAreaCode": "SIMGA_PLANNING_AREA",
-          "planningAreaName": "Simga Planning Area"
-        }
-      ]
-    },
-    {
       "tehsilCode": "SIMGA",
       "villageCode": "BINIKA",
       "planningAreas": [
@@ -7815,16 +7795,6 @@
     {
       "tehsilCode": "TUNDRA",
       "villageCode": "GIROUD",
-      "planningAreas": [
-        {
-          "planningAreaCode": "GIRODPURI_PLANNING_AREA",
-          "planningAreaName": "Girodpuri Planning Area"
-        }
-      ]
-    },
-    {
-      "tehsilCode": "GIRODPURI",
-      "villageCode": "MAHARAJI",
       "planningAreas": [
         {
           "planningAreaCode": "GIRODPURI_PLANNING_AREA",
@@ -8885,16 +8855,6 @@
     {
       "tehsilCode": "DHARAMJAIGARH",
       "villageCode": "AMLITIKARA",
-      "planningAreas": [
-        {
-          "planningAreaCode": "DHARAMJAIGARH_JANJATIYA_CLUSTER_PLANNING_AREA",
-          "planningAreaName": "Dharamjaigarh Janjatiya Cluster Planning Area"
-        }
-      ]
-    },
-    {
-      "tehsilCode": "DHARAMJAIGARH",
-      "villageCode": "KHAMHAR",
       "planningAreas": [
         {
           "planningAreaCode": "DHARAMJAIGARH_JANJATIYA_CLUSTER_PLANNING_AREA",
@@ -13394,16 +13354,6 @@
     },
     {
       "tehsilCode": "SHIVRINARAYAN",
-      "villageCode": "KHAROUD",
-      "planningAreas": [
-        {
-          "planningAreaCode": "KHAROD_PLANNING_AREA",
-          "planningAreaName": "Kharod Planning Area"
-        }
-      ]
-    },
-    {
-      "tehsilCode": "SHIVRINARAYAN",
       "villageCode": "KAMTA",
       "planningAreas": [
         {
@@ -15055,16 +15005,6 @@
     {
       "tehsilCode": "KURUD",
       "villageCode": "KURUD",
-      "planningAreas": [
-        {
-          "planningAreaCode": "KURUD_PLANNING_AREA",
-          "planningAreaName": "Kurud Planning Area"
-        }
-      ]
-    },
-    {
-      "tehsilCode": "DHAMTARI",
-      "villageCode": "BHATAGAO",
       "planningAreas": [
         {
           "planningAreaCode": "KURUD_PLANNING_AREA",
@@ -22234,16 +22174,6 @@
     },
     {
       "tehsilCode": "BHAIRAMGADH",
-      "villageCode": "DUDHANIA",
-      "planningAreas": [
-        {
-          "planningAreaCode": "SHIVPUR_CHARCHA_PLANNING_AREA",
-          "planningAreaName": "Shivpur-Charcha Planning Area"
-        }
-      ]
-    },
-    {
-      "tehsilCode": "BHAIRAMGADH",
       "villageCode": "CHERWAPARA",
       "planningAreas": [
         {
@@ -25315,16 +25245,6 @@
     {
       "tehsilCode": "SAMRI",
       "villageCode": "SAHAPUR",
-      "planningAreas": [
-        {
-          "planningAreaCode": "KUSMI_PLANNING_AREA",
-          "planningAreaName": "Kusmi Planning Area"
-        }
-      ]
-    },
-    {
-      "tehsilCode": "SAMRI",
-      "villageCode": "RAMNGAR",
       "planningAreas": [
         {
           "planningAreaCode": "KUSMI_PLANNING_AREA",
@@ -28724,16 +28644,6 @@
     },
     {
       "tehsilCode": "TAKHATPUR",
-      "villageCode": "BELSARI",
-      "planningAreas": [
-        {
-          "planningAreaCode": "TAKHATPUR_PLANNING_AREA",
-          "planningAreaName": "Takhatpur Planning Area"
-        }
-      ]
-    },
-    {
-      "tehsilCode": "TAKHATPUR",
       "villageCode": "NGOI",
       "planningAreas": [
         {
@@ -28849,6 +28759,56 @@
         {
           "planningAreaCode": "TAKHATPUR_PLANNING_AREA",
           "planningAreaName": "Takhatpur Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SAMRI",
+      "villageCode": "AMTAHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KUSMI_PLANNING_AREA",
+          "planningAreaName": "Kusmi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DHARSINWA",
+      "villageCode": "RANWABHATHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAIPUR_MASTER_PLAN",
+          "planningAreaName": "Raipur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIMGA",
+      "villageCode": "AURETHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SIMGA_PLANNING_AREA",
+          "planningAreaName": "Simga Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "TAKHATPUR",
+      "villageCode": "KAMODA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KURUD",
+      "villageCode": "BHATAGAO",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KURUD_PLANNING_AREA",
+          "planningAreaName": "Kurud Planning Area"
         }
       ]
     }
