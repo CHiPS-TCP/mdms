@@ -1,0 +1,83 @@
+{
+  "tenantId": "cg",
+  "moduleName": "PLINTH",
+  "CheckList": [
+    {
+      "WFState": "L1_VERIFICATION",
+      "questions": [
+        {
+          "question": "IS_LOCATION_AS_PER_APPROVED_LAYOUT_OF_TOWN_AND_COUNTRY_PLANNING_DEPARTMENT",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "ARE_THE_DIRECTION_ORIENTATION_AND_SIZE_OF_PLOT_SAME_AS_PER_DRAWING",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "PRESENT_SETBACK_FRONT",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "PRESENT_SETBACK_REAR",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "PRESENT_SETBACK_SIDE1_RHS",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "PRESENT_SETBACK_SIDE2_LHS",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "ANY_DEVIATION_FOUND_WITH_RESPECT_TO_APPROVED_PLAN_PREVIOUS_SITE_INSPECTION_REPORT_SUBMITTED_DURING_BUILDING_PERMISSION",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "IF_YES_THEN_DEVIATION_DETAILS",
+          "fieldType": "TEXT",
+          "autoFetch": false,
+          "active": true,
+          "status": false,
+          "remarks": true,
+          "required": false
+        }
+      ]
+    }
+  ]
+}
