@@ -884,6 +884,24 @@
       "name": "NOC_TRACKER",
       "description": "Employee can Read the NOC Application",
       "groupId": "004"
+    },
+    {
+      "code": "PLINTH_L1_VERIFIER",
+      "name": "PLINTH_L1_VERIFIER",
+      "description": "OBPAS PLINTH workflow Approver",
+      "groupId": "032"
+    },
+    {
+      "code": "PLINTH_L2_VERIFIER",
+      "name": "PLINTH_L2_VERIFIER",
+      "description": "OBPAS PLINTH workflow Approver",
+      "groupId": "032"
+    },
+    {
+      "code": "PLINTH_L3_VERIFIER",
+      "name": "PLINTH_L3_VERIFIER",
+      "description": "OBPAS PLINTH workflow Approver",
+      "groupId": "032"
     }
   ]
 }

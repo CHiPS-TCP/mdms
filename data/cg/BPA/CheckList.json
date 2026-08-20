@@ -24,6 +24,16 @@
           "active": true,
           "status": false,
           "remarks": false,
+          "required": true,
+          "maxFutureDays": "7"
+        },
+        {
+          "question": "TIME_OF_SITE_VISIT",
+          "fieldType": "TIME",
+          "autoFetch": false,
+          "active": true,
+          "status": false,
+          "remarks": false,
           "required": true
         },
         {

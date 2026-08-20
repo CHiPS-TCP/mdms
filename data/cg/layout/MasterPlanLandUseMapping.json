@@ -4,9 +4,7 @@
     "MasterPlanLandUseMapping": [
         {
             "masterPlan": [
-                "MAHASAMUND MASTER PLAN",
-                "ARANG MASTER PLAN",
-                "ABHANPUR MASTER PLAN"
+                "MAHASAMUND MASTER PLAN"
             ],
             "landUseZone": [
                 {
@@ -65,8 +63,321 @@
         },
         {
             "masterPlan": [
-                "RAIPUR MASTER PLAN",
+                "ABHANPUR MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "RESIDENTIAL_R1",
+                    "name": "Residential R1"
+                },
+                {
+                    "code": "RESIDENTIAL_R2",
+                    "name": "Residential R2"
+                },
+                {
+                    "code": "RESIDENTIAL_R3",
+                    "name": "Residential R3"
+                },
+                {
+                    "code": "RESIDENTIAL_R4A",
+                    "name": "Residential R4A"
+                },
+                {
+                    "code": "RESIDENTIAL_R4B",
+                    "name": "Residential R4B"
+                },
+                {
+                    "code": "RESIDENTIAL_R5",
+                    "name": "Residential R5"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "Commercial"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "Industrial"
+                },
+                {
+                    "code": "PUBLIC_SEMI_PUBLIC",
+                    "name": "Public & Semi Public"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "Recreational"
+                },
+                {
+                    "code": "TRANSPORTATION",
+                    "name": "Transportation"
+                },
+                {
+                    "code": "AGRICULTURAL",
+                    "name": "Agricultural"
+                },
+                {
+                    "code": "RESTRICTED_AGRICULTURE",
+                    "name": "Restricted Agriculture"
+                },
+                {
+                    "code": "MIXED_USE",
+                    "name": "Mixed Use"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "ARANG MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "RESIDENTIAL_R1",
+                    "name": "Residential R1"
+                },
+                {
+                    "code": "RESIDENTIAL_R2",
+                    "name": "Residential R2"
+                },
+                {
+                    "code": "RESIDENTIAL_R3",
+                    "name": "Residential R3"
+                },
+                {
+                    "code": "RESIDENTIAL_R4",
+                    "name": "Residential R4"
+                },
+                {
+                    "code": "RESIDENTIAL_R5",
+                    "name": "Residential R5"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "Commercial"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "Industrial"
+                },
+                {
+                    "code": "PUBLIC_SEMI_PUBLIC",
+                    "name": "Public & Semi Public"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "Recreational"
+                },
+                {
+                    "code": "TRANSPORTATION",
+                    "name": "Transportation"
+                },
+                {
+                    "code": "AGRICULTURAL",
+                    "name": "Agricultural"
+                },
+                {
+                    "code": "RESTRICTED_AGRICULTURE",
+                    "name": "Restricted Agriculture"
+                },
+                {
+                    "code": "MIXED_USE",
+                    "name": "Mixed Use"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "BALODABAZAR MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "RESIDENTIAL_R2",
+                    "name": "Residential R2"
+                },
+                {
+                    "code": "RESIDENTIAL_R3",
+                    "name": "Residential R3"
+                },
+                {
+                    "code": "RESIDENTIAL_R4",
+                    "name": "Residential R4"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "Commercial"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "Industrial"
+                },
+                {
+                    "code": "PUBLIC_SEMI_PUBLIC",
+                    "name": "Public & Semi Public"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "Recreational"
+                },
+                {
+                    "code": "TRANSPORTATION",
+                    "name": "Transportation"
+                },
+                {
+                    "code": "AGRICULTURAL",
+                    "name": "Agricultural"
+                },
+                {
+                    "code": "RESTRICTED_AGRICULTURE",
+                    "name": "Restricted Agriculture"
+                },
+                {
+                    "code": "MIXED_USE",
+                    "name": "Mixed Use"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "RAIPUR MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "RESIDENTIAL_R1",
+                    "name": "Residential R1"
+                },
+                {
+                    "code": "RESIDENTIAL_R2",
+                    "name": "Residential R2"
+                },
+                {
+                    "code": "RESIDENTIAL_R3",
+                    "name": "Residential R3"
+                },
+                {
+                    "code": "RESIDENTIAL_R4",
+                    "name": "Residential R4"
+                },
+                {
+                    "code": "RESIDENTIAL_R5",
+                    "name": "Residential R5"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "Commercial"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "Industrial"
+                },
+                {
+                    "code": "PUBLIC_SEMI_PUBLIC",
+                    "name": "Public & Semi Public"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "Recreational"
+                },
+                {
+                    "code": "TRANSPORTATION",
+                    "name": "Transportation"
+                },
+                {
+                    "code": "AGRICULTURAL",
+                    "name": "Agricultural"
+                },
+                {
+                    "code": "RESTRICTED_AGRICULTURE",
+                    "name": "Restricted Agriculture"
+                },
+                {
+                    "code": "MIXED_USE",
+                    "name": "Mixed Use"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
                 "NAYA RAIPUR MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "Residential"
+                },
+                {
+                    "code": "Commercial_Retail",
+                    "name": "Commercial Retail"
+                },
+                {
+                    "code": "Commercial_Wholesale",
+                    "name": "Commercial Wholesale"
+                },
+                {
+                    "code": "Industrial",
+                    "name": "Industrial"
+                },
+                {
+                    "code": "Special_Industrial",
+                    "name": "Special Industrial"
+                },
+                {
+                    "code": "PUBLIC_SEMI_PUBLIC",
+                    "name": "Public & Semi Public"
+                },
+                {
+                    "code": "Utility_Zone",
+                    "name": "Utility Zone"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "Recreational"
+                },
+                {
+                    "code": "TRANSPORTATION_GENRAL",
+                    "name": "Transportation General"
+                },
+                {
+                    "code": "TRANSPORTATION_AIRPORT",
+                    "name": "Transportation Airport"
+                },
+                {
+                    "code": "Composite_USE_ZONE",
+                    "name": "Composite Use Zone"
+                },
+                {
+                    "code": "Rural_Zone",
+                    "name": "Rural Zone"
+                },
+                {
+                    "code": "Green_Belt",
+                    "name": "GREEN_BELT"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "BHATAPARA MASTER PLAN",
+                "AHIWARA MASTER PLAN",
+                "BEMETARA MASTER PLAN",
+                "KHAIRAGARH MASTER PLAN",
+                "NARAYANPUR MASTER PLAN",
+                "KANKER MASTER PLAN",
+                "MUNGELI MASTER PLAN",
+                "KHARSIA MASTER PLAN",
+                "SARANGARH MASTER PLAN",
+                "JASHPUR MASTER PLAN",
+                "BALRAMPUR MASTER PLAN",
+                "KAWARDHA MASTER PLAN",
+                "KASDOL MASTER PLAN",
+                "SARAIPALI MASTER PLAN",
+                "BAGBAHARA MASTER PLAN",
+                "PITHORA MASTER PLAN",
+                "THANKHAMHARIA MASTER PLAN",
+                "BIJAPUR MASTER PLAN",
+                "BHANUPRATAPPUR MASTER PLAN",
+                "KURUD MASTER PLAN",
+                "KORBA MASTER PLAN",
+                "SUKMA MASTER PLAN",
+                "PATAN MASTER PLAN",
+                "DHAMTARI MASTER PLAN"
             ],
             "landUseZone": [
                 {
