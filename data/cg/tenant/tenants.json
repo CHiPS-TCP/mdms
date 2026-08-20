@@ -306,12 +306,13 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-balodabazar@cg.gov.in",
+      "emailId": "cgtownplan.balodabazar@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
       "city": {
         "name": "Balodabazar",
+        "nameHindi": "पुराना निर्वाचन कार्यालय, कलेक्टर परिसर, बलौदाबाजार (छ.ग.)",
         "localName": "Balodabazar",
         "districtCode": "CG",
         "districtName": "Balodabazar",
@@ -329,13 +330,13 @@
         "ddrName": "Balodabazar",
         "pwssb": false,
         "pwssbGrade": null,
-        "headerLine1": "Office of Balodabazar Municipal Corporation",
-        "headerLine2": " ",
-        "headerLine3": "Balodabazar, Chhattisgarh",
-        "headerLine4": " "
+        "headerLine1": "सहायक संचालक,नगर तथा ग्राम निवेश",
+        "headerLine2": "बलौदाबाजार (छ.ग.)",
+        "headerLine3": " ",
+        "headerLine4": "Assistant Director of Town & Country Planning, Balodabazar Regional-C.G."
       },
-      "address": "Balodabazar, Chhattisgarh",
-      "contactNumber": null,
+      "address": "Old Election Office, Collector Campus, Balodabazar (C.G.)",
+      "contactNumber": "07727-223224",
       "PGRMasterContact": null
     },
     {
@@ -632,12 +633,13 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-dantewada@cg.gov.in",
+      "emailId": "cgtownplan.dantewada@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
       "city": {
         "name": "Dantewada",
+        "nameHindi" : "भूतल कक्ष क्रमांक -44 संयुक्त जिला कार्यालय भवन, दंतेवाड़ा (छ. ग.)- 494449",
         "localName": "Dantewada",
         "districtCode": "CG",
         "districtName": "Dantewada",
@@ -655,13 +657,13 @@
         "ddrName": "Dantewada",
         "pwssb": false,
         "pwssbGrade": null,
-        "headerLine1": "Office of Dantewada Municipal Council",
-        "headerLine2": " ",
-        "headerLine3": "Dantewada, Chhattisgarh",
-        "headerLine4": " "
+        "headerLine1": "सहायक संचालक, नगर तथा ग्राम निवेश,",
+        "headerLine2": "दंतेवाड़ा (छ.ग.)",
+        "headerLine3": " ",
+        "headerLine4": "Assistant Director of Town & Country Planning, Dhantewada Regional-C.G."
       },
-      "address": "Dantewada, Chhattisgarh",
-      "contactNumber": null,
+      "address": "Ground Floor Room No .- 44 Joint District Office, Building, Dantewada (C.G.)494449",
+      "contactNumber": "-",
       "PGRMasterContact": null
     },
     {
@@ -942,12 +944,13 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-jashpur@cg.gov.in",
+      "emailId": "cgtownplanjaspur@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
       "city": {
         "name": "Jashpur",
+        "nameHindi": "कलेक्टोरेट भवन, प्रथम तल, जशपुर(छ. ग.)",
         "localName": "Jashpur",
         "districtCode": "CG",
         "districtName": "Jashpur",
@@ -965,13 +968,13 @@
         "ddrName": "Jashpur",
         "pwssb": false,
         "pwssbGrade": null,
-        "headerLine1": "Office of Jashpur Municipal Corporation",
-        "headerLine2": " ",
-        "headerLine3": "Jashpur, Chhattisgarh",
-        "headerLine4": " "
+        "headerLine1": "सहायक संचालक, नगर तथा ग्राम निवेश,",
+        "headerLine2": "जशपुर (छ.ग.)",
+        "headerLine3": " ",
+        "headerLine4": "Assistant Director of Town & Country Planning, Jashpur Regional-C.G."
       },
-      "address": "Jashpur, Chhattisgarh",
-      "contactNumber": null,
+      "address": "Collectorate Bhawan, First Floor Jashpur (C.G.)",
+      "contactNumber": "07763 299103",
       "PGRMasterContact": null
     },
     {
@@ -986,12 +989,13 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-kanker@cg.gov.in",
+      "emailId": "cgtownplankanker@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
       "city": {
         "name": "Kanker",
+        "nameHindi": "कम्पोजिट बिल्डिंग कमरा नं 10, कांकेर (छ. ग.)",
         "localName": "Kanker",
         "districtCode": "CG",
         "districtName": "Kanker",
@@ -1009,13 +1013,13 @@
         "ddrName": "Kanker",
         "pwssb": false,
         "pwssbGrade": null,
-        "headerLine1": "Office of Kanker Municipal Council",
-        "headerLine2": " ",
-        "headerLine3": "Kanker, Chhattisgarh",
-        "headerLine4": " "
+        "headerLine1": "सहायक संचालक, नगर तथा ग्राम निवेश,",
+        "headerLine2": "कांकेर (छ.ग.)",
+        "headerLine3": " ",
+        "headerLine4": "Assistant Director of Town & Country Planning, Kanker Regional-C.G."
       },
-      "address": "Kanker, Chhattisgarh",
-      "contactNumber": null,
+      "address": "Composite Building Room No. 10, Kanker (C.G.)",
+      "contactNumber": "9753163015",
       "PGRMasterContact": null
     },
     {
@@ -1074,12 +1078,13 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-korba@cg.gov.in",
+      "emailId": "cgtownplan.korba@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
       "city": {
         "name": "Korba",
+        "nameHindi": "रामपुर, कोरबा जिला कोरबा (छ.ग.)",
         "localName": "Korba",
         "districtCode": "CG",
         "districtName": "Korba",
@@ -1097,13 +1102,13 @@
         "ddrName": "Korba",
         "pwssb": false,
         "pwssbGrade": null,
-        "headerLine1": "Office of Korba Municipal Corporation",
-        "headerLine2": " ",
-        "headerLine3": "Korba, Chhattisgarh",
-        "headerLine4": " "
+        "headerLine1": "उप संचालक, नगर तथा ग्राम निवेश,",
+        "headerLine2": "कोरबा (छ.ग.)",
+        "headerLine3": " ",
+        "headerLine4": "Deputy Director of Town & Country Planning, Korba Regional-C.G."
       },
-      "address": "Korba, Chhattisgarh",
-      "contactNumber": null,
+      "address": "Rampur, Korba Dist. Korba (C.G.)",
+      "contactNumber": "0775-2221158",
       "PGRMasterContact": null
     },
     {
@@ -1163,12 +1168,13 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-korea@cg.gov.in",
+      "emailId": "townplankoriya@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
       "city": {
         "name": "Korea",
+        "nameHindi": "पता - कलेक्टोरेट परिसर, प्रथम तल रूम नं 70 71 72 73 जिला - कोरिया (छ.ग.) पिन -497335",
         "localName": "Korea",
         "districtCode": "CG",
         "districtName": "Korea",
@@ -1186,13 +1192,13 @@
         "ddrName": "Korea",
         "pwssb": false,
         "pwssbGrade": null,
-        "headerLine1": "Office of Korea Municipal Council",
-        "headerLine2": " ",
-        "headerLine3": "Korea, Chhattisgarh",
-        "headerLine4": " "
+        "headerLine1": "सहायक संचालक, नगर तथा ग्राम निवेश,",
+        "headerLine2": "कोरिया (छ.ग.)",
+        "headerLine3": " ",
+        "headerLine4": "Assistant Director of Town & Country Planning, Koriya Regional-C.G."
       },
-      "address": "Korea, Chhattisgarh",
-      "contactNumber": null,
+      "address": "Add - Collectorate Parisar, First Floor Room No 70 71 72 73 Dist - Koriya (C.G.) Pin -497335",
+      "contactNumber": "07836-234080",
       "PGRMasterContact": null
     },
     {
@@ -1207,13 +1213,13 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-mahasamund@cg.gov.in",
+      "emailId": "cgtownplan.mahasamund@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
       "city": {
         "name": "Mahasamund",
-        "nameHindi": "महासमुंद (छ.ग.)",
+        "nameHindi": "अनुविभागीय अधिकारी (रा.) परिसर, कक्ष क्रमांक 14, मुख्य मार्ग, महासमुंद (छत्तीसगढ़)",
         "localName": "Mahasamund",
         "districtCode": "CG",
         "districtName": "Mahasamund",
@@ -1234,13 +1240,13 @@
         "ddrName": "Mahasamund",
         "pwssb": false,
         "pwssbGrade": null,
-        "headerLine1": "मुख्य नगर पालिका अधिकारी , नगर पालिका परिषद",
+        "headerLine1": "उप संचालक, नगर तथा ग्राम निवेश,",
         "headerLine2": "महासमुंद (छ.ग.)",
-        "headerLine3": "Chief Municipal Officer of Mahasamund Municipal Council",
-        "headerLine4": "Mahasamund Regional-C.G."
+        "headerLine3": " ",
+        "headerLine4": "Assistant Director, Town & Country Planning, Mahasamund, C.G."
       },
-      "address": "Mahasamund, Chhattisgarh",
-      "contactNumber": "0773-0000000",
+      "address": "Office Anuvibhageey Adhikaaree (RA) Parisar, Mahasamund, Room No. 14, Main Road (C.G.)",
+      "contactNumber": "07723-224310",
       "PGRMasterContact": null
     },
     {
@@ -1255,13 +1261,13 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "support-kabirdham@cg.gov.in",
+      "emailId": "townplanningkawardha@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "10.00 AM - 5.30 PM"
       },
       "city": {
         "name": "Kabirdham",
-        "nameHindi": "कबीरधाम   (छ.ग.)",
+        "nameHindi": "जिला कलेक्टोरेट परिसर, कवर्धा (छत्तीसगढ़)",
         "localName": "Kabirdham",
         "districtCode": "CG",
         "districtName": "Kabirdham",
@@ -1282,13 +1288,13 @@
         "ddrName": "Kabirdham",
         "pwssb": false,
         "pwssbGrade": null,
-        "headerLine1": "कार्यपालन अभियंता , नगर निगम",
-        "headerLine2": "कबीरधाम   (छ.ग.)",
-        "headerLine3": "Executive Officer of Kabirdham Municipal Corporation",
-        "headerLine4": "Kabirdham Regional-C.G."
+        "headerLine1": "सहायक संचालक, नगर तथा ग्राम निवेश",
+        "headerLine2": "कवर्धा, जिला कबीरधाम (छ.ग.)",
+        "headerLine3": " ",
+        "headerLine4": "Assistant Director, Town & Country Planning, Kawardha, District Kabirdham, C.G."
       },
-      "address": "Kabirdham, Chhattisgarh",
-      "contactNumber": "0772-0000000",
+      "address": "Collectorate Campus, Kawardha (C.G.)",
+      "contactNumber": "07741-233581",
       "PGRMasterContact": null
     },
     {
