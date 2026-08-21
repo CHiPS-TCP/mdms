@@ -86,6 +86,22 @@
                     "i18nKey": "BPA_SEARCH_APPLICATIONS_LABEL"
                 }
             ]
+        },
+        {
+            "name": "plinthCard",
+            "title": "ACTION_TEST_PLINTH_HOME",
+            "links": [
+                {
+                    "link": "plinth/draft",
+                    "i18nKey": "BPA_PLINTH_COMMENCEMENT_APPLY",
+                    "name": "Apply for Plinth / Commencement"
+                },
+                {
+                    "link": "plinth/my-applications",
+                    "i18nKey": "BPA_MY_APPLICATIONS",
+                    "name": "My Application"
+                }
+            ]
         }
     ]
 }
