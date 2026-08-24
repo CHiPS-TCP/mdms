@@ -33,6 +33,13 @@
             "label": "ACTION_TEST_BUILDING_PLAN_APPROVAL",
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/obps-home"
+          },
+          {
+            "code": "PLINTH",
+            "name": "Commencement & Plinth",
+            "label": "ACTION_TEST_PLINTH_HOME",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/obps/plinth/draft"
           }
         ]
       },
