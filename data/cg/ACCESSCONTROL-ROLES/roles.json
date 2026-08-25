@@ -754,6 +754,12 @@
       "groupId": "012"
     },
     {
+      "code": "VIEW_PLINTH_CARD",
+      "name": "VIEW Plinth Card",
+      "description": "For Plinth Card Display in Dashboard",
+      "groupId": "032"
+    },
+    {
       "code": "NOC_INITIATER",
       "name": "NOC Initiater",
       "description": "Fire NOC Counter Employee",
