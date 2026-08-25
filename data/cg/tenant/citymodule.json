@@ -8758,6 +8758,21 @@
           "code": "cg"
         }
       ]
+    },
+    {
+      "module": "Plinth",
+      "code": "Plinth",
+      "order": 30,
+      "active": true,
+      "access": "VIEW_PLINTH_CARD",
+      "tenants": [
+        {
+          "code": "cg.testing"
+        },
+        {
+          "code": "cg.tcp"
+        }
+      ]
     }
   ]
 }
