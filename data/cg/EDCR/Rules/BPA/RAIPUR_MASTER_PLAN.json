@@ -49721,6 +49721,78 @@
 								]
 							}
 						]
+					},
+					{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"landUse": ["AGRICULTURAL" ],
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+								"max": 14.99,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"value": [
+									{
+										"min": 0,
+										"max": 99999999,
+										"percentage": 60
+									}
+								]
+							},
+							{
+								"min": 15,
+								"max": 23.99,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"value": [
+									{
+										"min": 0,
+										"max": 8000,
+										"percentage": 40
+									},
+									{
+										"min": 8000,
+										"max": 999999999,
+										"percentage": 60
+									}
+								]
+							},
+							{
+								"min": 24,
+								"max": 29.99,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"value": [
+									{
+										"min": 0,
+										"max": 10000,
+										"percentage": 40
+									},
+									{
+										"min": 10000,
+										"max": 999999999,
+										"percentage": 60
+									}
+								]
+							},
+							{
+								"min": 30,
+								"max": 999999999,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"value": [
+									{
+										"min": 0,
+										"max": 999999999,
+										"percentage": 40
+									}
+								]
+							}
+						]
 					}
 					],
 					"basementSetback": {
@@ -67536,12 +67608,89 @@
 						}
 					},
 					"siteCoverage": [
-					{
+						{
+							"mandatory": true,
+							"type": "SLAB",
+							"valueType": "DOUBLE",
+							"landUse": ["MIXED_USE"],
+							"useVariable": "buildingHeight",
+							"unit": "percent",
+							"value": [
+								{
+									"min": 0,
+									"max": 14.99,
+									"type": "SLAB",
+									"useVariable": "plotArea",
+									"value": [
+										{
+											"min": 0,
+											"max": 1000,
+											"percentage": 40
+										},
+										{
+											"min": 1000.01,
+											"max": 999999999,
+											"percentage": 30
+										}
+									]
+								},
+								{
+									"min": 15,
+									"max": 23.99,
+									"type": "SLAB",
+									"useVariable": "plotArea",
+									"value": [
+										{
+											"min": 0,
+											"max": 8000,
+											"percentage": 40
+										},
+										{
+											"min": 8000,
+											"max": 999999999,
+											"percentage": 30
+										}
+									]
+								},
+								{
+									"min": 24,
+									"max": 29.99,
+									"type": "SLAB",
+									"useVariable": "plotArea",
+									"value": [
+										{
+											"min": 0,
+											"max": 10000,
+											"percentage": 40
+										},
+										{
+											"min": 10000,
+											"max": 999999999,
+											"percentage": 30
+										}
+									]
+								},
+								{
+									"min": 30,
+									"max": 999999999,
+									"type": "SLAB",
+									"useVariable": "plotArea",
+									"value": [
+										{
+											"min": 0,
+											"max": 999999999,
+											"percentage": 40
+										}
+									]
+								}
+							]
+						},
+						{
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
-									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
+									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE", "AGRICULTURAL"],
 						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
@@ -68506,7 +68655,18 @@
 						"type": "SIMPLE",
 						"valueType": "DOUBLE",
 						"unit": "percent",
-						"value": 0
+						"value": [
+							{
+								"min": 0,
+								"max": 1999.99,
+								"value": 0
+							},
+							{
+								"min": 2000,
+								"max": 999999999,
+								"value": 10
+							}
+						]
 					},
 					"amenitiesArea": {
 						"mandatory": true,
