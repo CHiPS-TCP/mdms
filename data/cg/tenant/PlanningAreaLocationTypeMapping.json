@@ -87,8 +87,13 @@
       "active": true,
       "locationTypes": [
         {
-          "code": "NA",
-          "name": "NA",
+          "code": "CA",
+          "name": "CA",
+          "active": true
+        },
+        {
+          "code": "NON-CA",
+          "name": "NON-CA",
           "active": true
         }
       ]
@@ -425,8 +430,18 @@
       "active": true,
       "locationTypes": [
         {
-          "code": "NA",
-          "name": "NA",
+          "code": "CA",
+          "name": "CA",
+          "active": true
+        },
+        {
+          "code": "DA1",
+          "name": "DA1",
+          "active": true
+        },
+        {
+          "code": "DA2",
+          "name": "DA2",
           "active": true
         }
       ]
@@ -789,8 +804,23 @@
       "active": true,
       "locationTypes": [
         {
-          "code": "NA",
-          "name": "NA",
+          "code": "CA",
+          "name": "CA",
+          "active": true
+        },
+        {
+          "code": "DA-01",
+          "name": "DA-01",
+          "active": true
+        },
+        {
+          "code": "DA-02",
+          "name": "DA-02",
+          "active": true
+        },
+        {
+          "code": "DA2",
+          "name": "DA2",
           "active": true
         }
       ]
@@ -1831,18 +1861,18 @@
           "active": true
         },
         {
-          "code": "DA_01",
-          "name": "DA - 01",
+          "code": "DA1",
+          "name": "DA1",
           "active": true
         },
         {
-          "code": "DA_02",
-          "name": "DA - 02",
+          "code": "DA2",
+          "name": "DA2",
           "active": true
         },
         {
-          "code": "DA_03",
-          "name": "DA - 03",
+          "code": "DA3",
+          "name": "DA3",
           "active": true
         }
       ]
@@ -1867,8 +1897,18 @@
       "active": true,
       "locationTypes": [
         {
-          "code": "NA",
-          "name": "NA",
+          "code": "CA",
+          "name": "CA",
+          "active": true
+        },
+        {
+          "code": "DA1",
+          "name": "DA1",
+          "active": true
+        },
+        {
+          "code": "DA2",
+          "name": "DA2",
           "active": true
         }
       ]
