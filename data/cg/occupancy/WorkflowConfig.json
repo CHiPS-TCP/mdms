@@ -1,0 +1,24 @@
+{
+	"tenantId": "cg",
+	"moduleName": "OCCUPANCY",
+	"WorkflowConfig": [
+		{
+			"min": "0",
+			"max": "0",
+			"businessService": "OCC_ZERO"
+
+		},
+		{
+			"min": "1",
+			"max": "10",
+			"businessService": "OCC_UNDER"
+
+		},
+		{
+			"min": "11",
+			"max": "999999",
+			"businessService": "OCC_MORE"
+
+		}
+	]
+}

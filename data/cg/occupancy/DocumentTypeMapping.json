@@ -1,0 +1,306 @@
+{
+    "tenantId": "cg",
+    "moduleName": "NOC",
+    "DocumentTypeMapping": [
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "FIRE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.FIRE",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "FIRE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.FIRE",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "FIRE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.FIRE",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "OBPAS_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.OBPAS",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "OBPAS_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.OBPAS",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "OBPAS_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.OBPAS",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "AIRPORT_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AIRPORT",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "AIRPORT_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AIRPORT",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "AIRPORT_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AIRPORT",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "WATER_RESOURCE_DEPT",
+            "docTypes": [
+                {
+                    "documentType": "NOC.WATER_RESOURCE_DEPT",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "WATER_RESOURCE_DEPT",
+            "docTypes": [
+                {
+                    "documentType": "NOC.WATER_RESOURCE_DEPT",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "WATER_RESOURCE_DEPT",
+            "docTypes": [
+                {
+                    "documentType": "NOC.WATER_RESOURCE_DEPT",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "REVENUE_DEPT",
+            "docTypes": [
+                {
+                    "documentType": "NOC.REVENUE_DEPT",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "REVENUE_DEPT",
+            "docTypes": [
+                {
+                    "documentType": "NOC.REVENUE_DEPT",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "REVENUE_DEPT",
+            "docTypes": [
+                {
+                    "documentType": "NOC.REVENUE_DEPT",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "PWD_APPROACH_ROAD",
+            "docTypes": [
+                {
+                    "documentType": "NOC.PWD_APPROACH_ROAD",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "PWD_APPROACH_ROAD",
+            "docTypes": [
+                {
+                    "documentType": "NOC.PWD_APPROACH_ROAD",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "PWD_APPROACH_ROAD",
+            "docTypes": [
+                {
+                    "documentType": "NOC.PWD_APPROACH_ROAD",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "ELECTRICITY_HT_LINE",
+            "docTypes": [
+                {
+                    "documentType": "NOC.ELECTRICITY_HT_LINE",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "ELECTRICITY_HT_LINE",
+            "docTypes": [
+                {
+                    "documentType": "NOC.ELECTRICITY_HT_LINE",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "ELECTRICITY_HT_LINE",
+            "docTypes": [
+                {
+                    "documentType": "NOC.ELECTRICITY_HT_LINE",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "FIRE_SPECIAL_STRUCTURE",
+            "docTypes": [
+                {
+                    "documentType": "NOC.FIRE_SPECIAL_STRUCTURE",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "FIRE_SPECIAL_STRUCTURE",
+            "docTypes": [
+                {
+                    "documentType": "NOC.FIRE_SPECIAL_STRUCTURE",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "FIRE_SPECIAL_STRUCTURE",
+            "docTypes": [
+                {
+                    "documentType": "NOC.FIRE_SPECIAL_STRUCTURE",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "SADA_SPECIAL_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.SADA_SPECIAL_AUTHORITY",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "SADA_SPECIAL_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.SADA_SPECIAL_AUTHORITY",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "SADA_SPECIAL_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.SADA_SPECIAL_AUTHORITY",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "NHAI_APPROACH_ROAD",
+            "docTypes": [
+                {
+                    "documentType": "NOC.NHAI_APPROACH_ROAD",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "NHAI_APPROACH_ROAD",
+            "docTypes": [
+                {
+                    "documentType": "NOC.NHAI_APPROACH_ROAD",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "NHAI_APPROACH_ROAD",
+            "docTypes": [
+                {
+                    "documentType": "NOC.NHAI_APPROACH_ROAD",
+                    "required": false
+                }
+            ]
+        }
+    ]
+}

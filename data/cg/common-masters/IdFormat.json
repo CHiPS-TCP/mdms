@@ -840,6 +840,10 @@
     {
       "format": "CG/[DISTRICT.CODE]/TNCP/COM/[cy:yyyy]/[SEQ_EG_PLINTH_COMMENCEMENT]",
       "idname": "plinth.commencement.number"
+    },
+    {
+      "format": "CG/[DISTRICT.CODE]/TNCP/OCC/[cy:yyyy]/[SEQ_EG_OCCUPANCY_APPLICATION]",
+      "idname": "occupancy.application.number"
     }
   ]
 }
