@@ -346,8 +346,8 @@
       ]
     },
     {
-      "code": "BHANUPTATAPPUR_MASTER_PLAN",
-      "name": "Bhanuptatappur Master Plan",
+      "code": "BHANUPRATAPPUR_MASTER_PLAN",
+      "name": "Bhanupratappur Master Plan",
       "isMasterPlan": true,
       "active": true,
       "locationTypes": [

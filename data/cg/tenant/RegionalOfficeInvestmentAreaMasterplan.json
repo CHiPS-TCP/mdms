@@ -773,8 +773,8 @@
       "active": true,
       "investmentAreas": [
         {
-          "code": "BHANUPTATAPPUR",
-          "value": "Bhanuptatappur",
+          "code": "BHANUPRATAPPUR",
+          "value": "Bhanupratappur",
           "masterplan": "Within",
           "active": true
         },
