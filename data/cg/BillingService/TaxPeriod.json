@@ -3257,12 +3257,21 @@
       "service": "LAYOUT.PAY1",
       "code": "LAYOUT_PROCESSING_FEE",
       "financialYear": "2025-26"
-    },{
+    },
+    {
       "fromDate": 1775001600000,
       "toDate": 1806537599000,
       "periodCycle": "ANNUAL",
       "service": "LAYOUT.PAY1",
       "code": "LAYOUT_PROCESSING_FEE",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "OCCUPANCY",
+      "code": "REGULARISATION_PENALTY_FEE",
       "financialYear": "2026-27"
     },
     {

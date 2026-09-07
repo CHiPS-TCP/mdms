@@ -7735,6 +7735,16 @@
     },
     {
       "category": "FEE",
+      "service": "OCCUPANCY",
+      "name": "REGULARISATION PENALTY FEE",
+      "code": "REGULARISATION_PENALTY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
       "service": "LAYOUT.PAY1",
       "name": "LAYOUT PROCESSING FEE",
       "code": "LAYOUT_PROCESSING_FEE",

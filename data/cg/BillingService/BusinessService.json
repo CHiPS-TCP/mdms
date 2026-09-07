@@ -2560,6 +2560,17 @@
       "isActive": true
     },
     {
+      "businessService": "OCCUPANCY",
+      "code": "OCCUPANCY",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
       "businessService": "BPA.PAY1",
       "code": "BPA.PAY1",
       "collectionModesNotAllowed": [

@@ -836,6 +836,13 @@
       "uniqueKeys": ["$.code", "$name"]
     }
   },
+  "occupancy": {
+    "ChargesType": {
+      "masterName": "ChargesType",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code", "$name"]
+    }
+  },
   "layout": {
     "NocFee": {
       "masterName": "NocFee",
