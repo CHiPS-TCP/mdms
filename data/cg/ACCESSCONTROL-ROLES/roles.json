@@ -908,6 +908,60 @@
       "name": "PLINTH_L3_VERIFIER",
       "description": "OBPAS PLINTH workflow Approver",
       "groupId": "032"
+    },
+    {
+      "code": "OCC_MORE_L1_VERIFIER",
+      "name": "OCC_MORE_L1_VERIFIER",
+      "description": "OBPAS OCC_MORE workflow Approver",
+      "groupId": "033"
+    },
+    {
+      "code": "OCC_MORE_L2_VERIFIER",
+      "name": "OCC_MORE_L2_VERIFIER",
+      "description": "OBPAS OCC_MORE workflow Approver",
+      "groupId": "033"
+    },
+    {
+      "code": "OCC_MORE_L3_VERIFIER",
+      "name": "OCC_MORE_L3_VERIFIER",
+      "description": "OBPAS OCC_MORE workflow Approver",
+      "groupId": "033"
+    },
+    {
+      "code": "OCC_ZERO_L1_VERIFIER",
+      "name": "OCC_ZERO_L1_VERIFIER",
+      "description": "OBPAS OCC_ZERO workflow Approver",
+      "groupId": "033"
+    },
+    {
+      "code": "OCC_ZERO_L2_VERIFIER",
+      "name": "OCC_ZERO_L2_VERIFIER",
+      "description": "OBPAS OCC_ZERO workflow Approver",
+      "groupId": "033"
+    },
+    {
+      "code": "OCC_ZERO_L3_VERIFIER",
+      "name": "OCC_ZERO_L3_VERIFIER",
+      "description": "OBPAS OCC_ZERO workflow Approver",
+      "groupId": "033"
+    },
+    {
+      "code": "OCC_UNDER_L1_VERIFIER",
+      "name": "OCC_UNDER_L1_VERIFIER",
+      "description": "OBPAS OCC_UNDER workflow Approver",
+      "groupId": "033"
+    },
+    {
+      "code": "OCC_UNDER_L2_VERIFIER",
+      "name": "OCC_UNDER_L2_VERIFIER",
+      "description": "OBPAS OCC_UNDER workflow Approver",
+      "groupId": "033"
+    },
+    {
+      "code": "OCC_UNDER_L3_VERIFIER",
+      "name": "OCC_UNDER_L3_VERIFIER",
+      "description": "OBPAS OCC_UNDER workflow Approver",
+      "groupId": "033"
     }
   ]
 }

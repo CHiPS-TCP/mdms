@@ -161,6 +161,11 @@
       "groupId": "032",
       "groupName": "PLINTH Service",
       "description": "Roles related to PLINTH"
+    },
+    {
+      "groupId": "033",
+      "groupName": "OCCUPANCY Service",
+      "description": "Roles related to OCCUPANCY"
     }
   ]
 }
