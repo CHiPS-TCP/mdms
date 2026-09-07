@@ -1005,7 +1005,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -2173,7 +2173,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -3336,7 +3336,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -4499,7 +4499,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -5736,7 +5736,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -6973,7 +6973,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -8429,7 +8429,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -9920,7 +9920,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -11411,7 +11411,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -12902,7 +12902,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -14393,7 +14393,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -15884,7 +15884,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -17375,7 +17375,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -18543,7 +18543,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -19711,7 +19711,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -20879,7 +20879,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -22047,7 +22047,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -23210,7 +23210,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -24373,7 +24373,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -25536,7 +25536,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -26699,7 +26699,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -27862,7 +27862,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -29025,7 +29025,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -30188,7 +30188,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -31351,7 +31351,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -32514,7 +32514,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -33744,15 +33744,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -34979,15 +34981,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -36214,15 +36218,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -37449,15 +37455,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -38684,15 +38692,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -39919,15 +39929,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -41165,7 +41177,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -42406,7 +42418,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -43636,15 +43648,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -44871,15 +44885,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -46194,7 +46210,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -47512,7 +47528,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -48742,15 +48758,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -50196,15 +50214,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -51650,15 +51670,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -53104,15 +53126,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -54558,15 +54582,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -56012,15 +56038,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -57466,15 +57494,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -58710,15 +58740,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -59904,15 +59936,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -61128,15 +61162,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -62582,15 +62618,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -63776,15 +63814,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -65000,15 +65040,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -66454,15 +66496,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -67950,7 +67994,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -69441,7 +69485,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -70932,7 +70976,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -72423,7 +72467,7 @@
 							"parapet": true,
 							"waterTank": true,
 							"mumty": true,
-							"acHeight": 0.5,
+							"acHeight": 0,
 							"stiltService": 0.9
 						}
 					},
@@ -73612,15 +73656,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
@@ -74806,15 +74852,17 @@
                         }
                     },
                     "heightExclusions": {
-                        "mandatory": false,
-                        "type": "MAP",
-                        "valueType": "OBJECT",
-                        "value": {
-                            "parapet": true,
-                            "waterTank": true,
-                            "mumty": true
-                        }
-                    },
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0,
+							"stiltService": 0.9
+						}
+					},
                     "twoStreetPlots": {
                         "mandatory": false,
                         "type": "MAP",
