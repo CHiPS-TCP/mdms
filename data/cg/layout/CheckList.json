@@ -209,7 +209,7 @@
         },
         {
           "question": "APPROVED_AND_PRESENT_SETBACK_FRONT",
-          "fieldType": "ALPHANUMERIC",
+          "fieldType": "NUMBER",
           "autoFetch": false,
           "active": true,
           "status": true,
@@ -218,7 +218,7 @@
         },
         {
           "question": "APPROVED_AND_PRESENT_SETBACK_REAR",
-          "fieldType": "ALPHANUMERIC",
+          "fieldType": "NUMBER",
           "autoFetch": false,
           "active": true,
           "status": true,
@@ -227,7 +227,7 @@
         },
         {
           "question": "APPROVED_AND_PRESENT_SETBACK_RHS",
-          "fieldType": "ALPHANUMERIC",
+          "fieldType": "NUMBER",
           "autoFetch": false,
           "active": true,
           "status": true,
@@ -236,7 +236,7 @@
         },
         {
           "question": "APPROVED_AND_PRESENT_SETBACK_LHS",
-          "fieldType": "ALPHANUMERIC",
+          "fieldType": "NUMBER",
           "autoFetch": false,
           "active": true,
           "status": true,
