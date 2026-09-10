@@ -798,6 +798,10 @@
       "idname": "layout.application.number"
     },
     {
+      "format": "CG/[DISTRICT.CODE]/TNCP/LO/[cy:yyyy]/[SEQ_EG_LAYOUT_APPROVAL]",
+      "idname": "layout.approval.number"
+    },
+    {
       "format": "LT/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "layout.receipt.id"
     },

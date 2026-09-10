@@ -20943,6 +20943,30 @@
       "navigationURL": "/digit-ui/employee/hrms/inbox",
       "leftIcon": "social:people",
       "rightIcon": ""
+    },
+    {
+      "id": 8852652,
+      "name": "Occupancy Create",
+      "url": "/occupancy-services/v1/occupancy/_create",
+      "displayName": "Occupancy Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "occupancy-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8852653,
+      "name": "Occupancy search",
+      "url": "/occupancy-services/v1/occupancy/_search",
+      "displayName": "Occupancy search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "occupancy-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
