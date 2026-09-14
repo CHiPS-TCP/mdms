@@ -794,11 +794,11 @@
       "idname": "noc.application.number"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/PL/[cy:yyyy]/[SEQ_EG_LAYOUT_APPLICATION]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/PL/[cy:yyyy]/[SEQ_EG_LAYOUT_APP_[TENANT_ID]]",
       "idname": "layout.application.number"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/LO/[cy:yyyy]/[SEQ_EG_LAYOUT_APPROVAL]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/LO/[cy:yyyy]/[SEQ_EG_LAYOUT_APPVL_[TENANT_ID]]",
       "idname": "layout.approval.number"
     },
     {
@@ -848,6 +848,10 @@
     {
       "format": "CG/[DISTRICT.CODE]/TNCP/OCC/[cy:yyyy]/[SEQ_EG_OCCUPANCY_APPLICATION]",
       "idname": "occupancy.application.number"
+    },
+    {
+      "format": "CG/[DISTRICT.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "occupancy.receipt.id"
     }
   ]
 }
