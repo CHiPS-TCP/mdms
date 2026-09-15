@@ -962,6 +962,12 @@
       "name": "OCC_UNDER_L3_VERIFIER",
       "description": "OBPAS OCC_UNDER workflow Approver",
       "groupId": "033"
+    },
+    {
+      "code": "VIEW_OCCUPANCY_CARD",
+      "name": "VIEW Occupancy Card",
+      "description": "For Occupancy Card Display in Dashboard",
+      "groupId": "033"
     }
   ]
 }
