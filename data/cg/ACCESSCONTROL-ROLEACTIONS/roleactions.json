@@ -39513,6 +39513,60 @@
       "actionid": "1896",
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_MORE_L1_VERIFIER",
+      "actionid": "8852754",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_MORE_L2_VERIFIER",
+      "actionid": "8852754",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_MORE_L3_VERIFIER",
+      "actionid": "8852754",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_ZERO_L1_VERIFIER",
+      "actionid": "8852754",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_ZERO_L2_VERIFIER",
+      "actionid": "8852754",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_ZERO_L3_VERIFIER",
+      "actionid": "8852754",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_UNDER_L1_VERIFIER",
+      "actionid": "8852754",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_UNDER_L2_VERIFIER",
+      "actionid": "8852754",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_UNDER_L3_VERIFIER",
+      "actionid": "8852754",
+      "actioncode": "",
+      "tenantId": "cg"
     }
   ]
 }
