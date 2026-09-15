@@ -40,6 +40,13 @@
             "label": "ACTION_TEST_PLINTH_HOME",
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/obps/plinth/draft"
+          },
+          {
+            "code": "OCCUPANCY",
+            "name": "Occupancy",
+            "label": "ACTION_TEST_OCCUPANCY_HOME",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/obps/occupancy/draft"
           }
         ]
       },

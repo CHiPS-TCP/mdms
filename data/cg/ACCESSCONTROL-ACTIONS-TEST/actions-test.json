@@ -18310,6 +18310,24 @@
       "sidebarURL": "/digit-ui/citizen/obps-home"
     },
     {
+      "id": 8852654,
+      "name": "ACTION_TEST_OCCUPANCY_HOME",
+      "url": "digit-ui-card",
+      "displayName": "Occupancy",
+      "orderNumber": 12,
+      "parentModule": "OBPS",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/obps/occupancy/draft",
+      "leftIcon": "OBPSIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/obps-home"
+    },
+    {
       "id": 883407,
       "name": "BPA_PLINTH_COMMENCEMENT_APPLY",
       "url": "digit-ui-card",
@@ -20951,7 +20969,7 @@
       "displayName": "Occupancy Create",
       "orderNumber": 0,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "occupancy-services",
       "code": "null",
       "path": ""
@@ -20963,7 +20981,7 @@
       "displayName": "Occupancy search",
       "orderNumber": 0,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "occupancy-services",
       "code": "null",
       "path": ""
