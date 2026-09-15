@@ -846,12 +846,16 @@
       "idname": "plinth.commencement.number"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/OCC/[cy:yyyy]/[SEQ_EG_OCCUPANCY_APPLICATION]",
+      "format": "CG/[DISTRICT.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "occupancy.receipt.id"
+    },
+    {
+      "format": "CG/[DISTRICT.CODE]/TNCP/OCC/[cy:yyyy]/[SEQ_EG_OCC_APP_[TENANT_ID]]",
       "idname": "occupancy.application.number"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-      "idname": "occupancy.receipt.id"
+      "format": "CG/[DISTRICT.CODE]/TNCP/OCCAPP/[cy:yyyy]/[SEQ_EG_OCC_APPVL_[TENANT_ID]]",
+      "idname": "occupancy.approval.number"
     }
   ]
 }
