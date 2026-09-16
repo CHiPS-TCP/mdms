@@ -131,8 +131,13 @@
       "active": true,
       "locationTypes": [
         {
-          "code": "NA",
-          "name": "NA",
+          "code": "LOFANDI_KONI_BRIDGE",
+          "name": "Between Lofandi and Koni bridge",
+          "active": true
+        },
+        {
+          "code": "REST_ARPA_PLANNING_AREA",
+          "name": "Rest of Arpa planning area",
           "active": true
         }
       ]
@@ -425,7 +430,7 @@
     },
     {
       "code": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
-      "name": "Bilaspur Development Plan  Master Plan",
+      "name": "Bilaspur Development Plan Master Plan",
       "isMasterPlan": true,
       "active": true,
       "locationTypes": [
