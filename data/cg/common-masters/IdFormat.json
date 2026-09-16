@@ -798,7 +798,7 @@
       "idname": "layout.application.number"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/LO/[cy:yyyy]/[SEQ_EG_LAYOUT_APPVL_[TENANT_ID]]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/PLC/[cy:yyyy]/[SEQ_EG_LAYOUT_APPVL_[TENANT_ID]]",
       "idname": "layout.approval.number"
     },
     {
