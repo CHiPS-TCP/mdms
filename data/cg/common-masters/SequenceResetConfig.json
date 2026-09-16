@@ -85,6 +85,48 @@
         "seq_eg_occ_appvl_cg_rajnandgaon"
       ],
       "active": true
+    },
+    {
+      "module": "PLINTH",
+      "seqs": [
+        "seq_eg_plinth_app_cg_ambikapur",
+        "seq_eg_plinth_app_cg_balod",
+        "seq_eg_plinth_app_cg_balodabazar",
+        "seq_eg_plinth_app_cg_bilaspur",
+        "seq_eg_plinth_app_cg_dantewada",
+        "seq_eg_plinth_app_cg_dhamtari",
+        "seq_eg_plinth_app_cg_durg",
+        "seq_eg_plinth_app_cg_jagdalpur",
+        "seq_eg_plinth_app_cg_janjgirchampa",
+        "seq_eg_plinth_app_cg_jashpur",
+        "seq_eg_plinth_app_cg_kanker",
+        "seq_eg_plinth_app_cg_kawardha",
+        "seq_eg_plinth_app_cg_korba",
+        "seq_eg_plinth_app_cg_korea",
+        "seq_eg_plinth_app_cg_mahasamund",
+        "seq_eg_plinth_app_cg_raigarh",
+        "seq_eg_plinth_app_cg_raipur",
+        "seq_eg_plinth_app_cg_rajnandgaon",
+        "seq_eg_plinth_appvl_cg_ambikapur",
+        "seq_eg_plinth_appvl_cg_balod",
+        "seq_eg_plinth_appvl_cg_balodabazar",
+        "seq_eg_plinth_appvl_cg_bilaspur",
+        "seq_eg_plinth_appvl_cg_dantewada",
+        "seq_eg_plinth_appvl_cg_dhamtari",
+        "seq_eg_plinth_appvl_cg_durg",
+        "seq_eg_plinth_appvl_cg_jagdalpur",
+        "seq_eg_plinth_appvl_cg_janjgirchampa",
+        "seq_eg_plinth_appvl_cg_jashpur",
+        "seq_eg_plinth_appvl_cg_kanker",
+        "seq_eg_plinth_appvl_cg_kawardha",
+        "seq_eg_plinth_appvl_cg_korba",
+        "seq_eg_plinth_appvl_cg_korea",
+        "seq_eg_plinth_appvl_cg_mahasamund",
+        "seq_eg_plinth_appvl_cg_raigarh",
+        "seq_eg_plinth_appvl_cg_raipur",
+        "seq_eg_plinth_appvl_cg_rajnandgaon"
+      ],
+      "active": true
     }
   ]
 }

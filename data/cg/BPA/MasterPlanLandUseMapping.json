@@ -614,6 +614,154 @@
                     "name": "Restricted Agriculture"
                 }
             ]
+        },
+        {
+            "masterPlan": [
+                "DURG - BHILAI MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "AGRICULTURE",
+                    "name": "AGRICULTURE"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "COMMERCIAL"
+                },
+                {
+                    "code": "INDUSTRY",
+                    "name": "INDUSTRY"
+                },
+                {
+                    "code": "PUBLIC & SEMI-PUBLIC / PUBLIC UTILITIES",
+                    "name": "PUBLIC & SEMI-PUBLIC / PUBLIC UTILITIES"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "RECREATIONAL"
+                },
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "RESIDENTIAL"
+                },
+                {
+                    "code": "TRANSPORT",
+                    "name": "TRANSPORT"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "AMBIKAPUR MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "AGRICULTURE",
+                    "name": "AGRICULTURE"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "COMMERCIAL"
+                },
+                {
+                    "code": "INDUSTRAIL",
+                    "name": "INDUSTRAIL"
+                },
+                {
+                    "code": "PUBLIC- SEMI PUBLIC",
+                    "name": "PUBLIC- SEMI PUBLIC"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "RECREATIONAL"
+                },
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "RESIDENTIAL"
+                },
+                {
+                    "code": "TRANSPORT",
+                    "name": "TRANSPORT"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "RAIGARH MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "AGRICULTURE",
+                    "name": "AGRICULTURE"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "COMMERCIAL"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "INDUSTRIAL"
+                },
+                {
+                    "code": "PUBLIC-SEMI PUBLIC",
+                    "name": "PUBLIC-SEMI PUBLIC"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "RECREATIONAL"
+                },
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "RESIDENTIAL"
+                },
+                {
+                    "code": "TRANSPORT",
+                    "name": "TRANSPORT"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "BALOD MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "AGRICULTURAL",
+                    "name": "AGRICULTURAL"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "COMMERCIAL"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "INDUSTRIAL"
+                },
+                {
+                    "code": "PUBLIC & SEMI-PUBLIC",
+                    "name": "PUBLIC & SEMI-PUBLIC"
+                },
+                {
+                    "code": "PUBLIC AMENITIES- (PA)",
+                    "name": "PUBLIC AMENITIES- (PA)"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "RECREATIONAL"
+                },
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "RESIDENTIAL"
+                },
+                {
+                    "code": "SPECIFIC COMMERCIAL",
+                    "name": "SPECIFIC COMMERCIAL"
+                },
+                {
+                    "code": "TRANSPORT",
+                    "name": "TRANSPORT"
+                }
+            ]
         }
     ]
 }
