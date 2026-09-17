@@ -838,8 +838,12 @@
       "idname": "clu.application.number"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/PLN/[cy:yyyy]/[SEQ_EG_PLINTH_APPLICATION]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/PLN/[cy:yyyy]/[SEQ_EG_PLINTH_APP_[TENANT_ID]]",
       "idname": "plinth.application.number"
+    },
+    {
+      "format": "CG/[DISTRICT.CODE]/TNCP/PLNAPP/[cy:yyyy]/[SEQ_EG_PLINTH_APPVL_[TENANT_ID]]",
+      "idname": "plinth.approval.number"
     },
     {
       "format": "CG/[DISTRICT.CODE]/TNCP/COM/[cy:yyyy]/[SEQ_EG_PLINTH_COMMENCEMENT]",
