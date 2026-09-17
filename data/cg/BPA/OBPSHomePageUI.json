@@ -102,6 +102,22 @@
                     "name": "My Application"
                 }
             ]
+        },
+        {
+            "name": "occupancyCard",
+            "title": "ACTION_TEST_OCCUPANCY_HOME",
+            "links": [
+                {
+                    "link": "occupancy/draft",
+                    "i18nKey": "OCCUPANCY_APPLY",
+                    "name": "Apply for Occupancy"
+                },
+                {
+                    "link": "occupancy/my-applications",
+                    "i18nKey": "BPA_MY_APPLICATIONS",
+                    "name": "My Application"
+                }
+            ]
         }
     ]
 }

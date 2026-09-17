@@ -8773,6 +8773,24 @@
           "code": "cg.tcp"
         }
       ]
+    },
+    {
+      "module": "Occupancy",
+      "code": "Occupancy",
+      "order": 30,
+      "active": true,
+      "access": "VIEW_OCCUPANCY_CARD",
+      "tenants": [
+        {
+          "code": "cg.testing"
+        },
+        {
+          "code": "cg.tcp"
+        },
+        {
+          "code": "cg"
+        }
+      ]
     }
   ]
 }
