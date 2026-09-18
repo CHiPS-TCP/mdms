@@ -5846,7 +5846,7 @@
     },
     {
       "districtCode": "JANJGIR_CHAMPA",
-      "regionalOffice": "Janjgir Champa",
+      "regionalOffice": "JanjgirChampa",
       "tenantId": "cg.janjgirchampa",
       "tehsils": [
         {
