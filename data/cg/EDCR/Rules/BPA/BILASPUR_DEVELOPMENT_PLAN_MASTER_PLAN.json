@@ -1,7 +1,7 @@
 {
 	"tenantId": "cg",
 	"moduleName": "EDCR.Rules.BPA",
-	"BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN": [
+	"BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN": [
 		{
 			"code": "101",
 			"name": "M1",
