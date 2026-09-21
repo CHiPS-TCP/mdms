@@ -3320,6 +3320,13 @@
               "riNumber": "01"
             },
             {
+              "code": "KOTA_1_2",
+              "name": "Kota 1+2",
+              "active": true,
+              "halkaNumber": "00007",
+              "riNumber": "01"
+            },
+            {
               "code": "SONDONGRI",
               "name": "Sondongri",
               "active": true,
@@ -22775,6 +22782,13 @@
             {
               "code": "KOTA",
               "name": "Kota",
+              "active": true,
+              "halkaNumber": "00007",
+              "riNumber": "01"
+            },
+            {
+              "code": "KOTA_1_2",
+              "name": "Kota 1+2",
               "active": true,
               "halkaNumber": "00007",
               "riNumber": "01"

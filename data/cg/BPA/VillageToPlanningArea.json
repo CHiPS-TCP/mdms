@@ -3934,6 +3934,16 @@
     },
     {
       "tehsilCode": "RAIPUR",
+      "villageCode": "KOTA_1_2",
+      "planningAreas": [
+        {
+          "planningAreaCode": "RAIPUR_MASTER_PLAN",
+          "planningAreaName": "Raipur Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "RAIPUR",
       "villageCode": "SONDONGRI",
       "planningAreas": [
         {
@@ -27375,6 +27385,16 @@
     {
       "tehsilCode": "KOTA",
       "villageCode": "KOTA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "KOTA_PLANNING_AREA",
+          "planningAreaName": "Kota Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "KOTA",
+      "villageCode": "KOTA_1_2",
       "planningAreas": [
         {
           "planningAreaCode": "KOTA_PLANNING_AREA",

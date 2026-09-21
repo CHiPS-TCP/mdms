@@ -1,0 +1,216 @@
+{
+  "tenantId": "cg",
+  "moduleName": "OCCUPANCY",
+  "CheckList": [
+    {
+      "applicationType": "OCCUPANCY_CERTIFICATE",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "LOW",
+      "WFState": "L2_VERIFICATION",
+      "questions": [
+        {
+          "question": "PROPOSAL_APPLICATION_NO",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": true,
+          "active": true,
+          "status": false,
+          "remarks": false,
+          "required": true
+        },
+        {
+          "question": "CLIENT_NAME",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": true,
+          "active": true,
+          "status": false,
+          "remarks": false,
+          "required": true
+        },
+        {
+          "question": "PERMISSION_NO_AND_DATE",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": true,
+          "active": true,
+          "status": false,
+          "remarks": false,
+          "required": true
+        },
+        {
+          "question": "DATE_OF_SITE_VISIT",
+          "fieldType": "DATE",
+          "autoFetch": false,
+          "active": true,
+          "status": false,
+          "remarks": false,
+          "required": true,
+          "maxFutureDays": "7"
+        },
+        {
+          "question": "VILLAGE_NAME_WARD_NO_AND_NAME",
+          "fieldType": "ALPHANUMERIC",
+          "autoFetch": true,
+          "active": true,
+          "status": false,
+          "remarks": false,
+          "required": true
+        },
+        {
+          "question": "ARE_DIMENSIONS_OF_PLOT_SAME_AS_PER_DRAWING",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "PRESENT_SETBACK_FRONT",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "PRESENT_SETBACK_REAR",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "PRESENT_SETBACK_SIDE_1",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "PRESENT_SETBACK_SIDE_2",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "HEIGHT_OF_BUILDING",
+          "fieldType": "DECIMAL",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "NUMBER_OF_FLOORS",
+          "fieldType": "NUMBER",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "IS_PARKING_PROVIDED_AS_PER_APPROVED_DRAWING",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "IS_RAIN_WATER_HARVESTING_SYSTEM_INSTALLED_AS_PER_RULE",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "IS_PLANTATION_DONE_AS_PER_RULE",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "IS_EXISTING_BUILDING_PLAN_MATCHING_APPROVED_BUILDING_PLAN",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "SEPTIC_TANK_WATER_TANK_TRANSFORMER_LIFT_SOLAR_STP_SWM_AND_OTHER_SERVICES_COMPLETED_AND_CERTIFIED",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "IS_SEWER_DRAINAGE_LINE_CONNECTED_UP_TO_FINAL_DISPOSAL",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "IS_INTERNAL_AND_EXTERNAL_DEVELOPMENT_COMPLETED_AS_PER_RULE",
+          "fieldType": "YES/NO",
+          "autoFetch": false,
+          "active": true,
+          "status": true,
+          "remarks": true,
+          "required": true
+        },
+        {
+          "question": "FLOOR_WISE_DETAILS_BASEMENT",
+          "fieldType": "TEXT",
+          "autoFetch": false,
+          "active": true,
+          "status": false,
+          "remarks": true,
+          "required": false,
+          "note": "Approved area / Existing area / Approved use / Present use for Basement"
+        },
+        {
+          "question": "FLOOR_WISE_DETAILS_GROUND_FLOOR",
+          "fieldType": "TEXT",
+          "autoFetch": false,
+          "active": true,
+          "status": false,
+          "remarks": true,
+          "required": false,
+          "note": "Approved area / Existing area / Approved use / Present use for Ground Floor"
+        },
+        {
+          "question": "FLOOR_WISE_DETAILS_FIRST_FLOOR",
+          "fieldType": "TEXT",
+          "autoFetch": false,
+          "active": true,
+          "status": false,
+          "remarks": true,
+          "required": false,
+          "note": "Approved area / Existing area / Approved use / Present use for First Floor"
+        }
+      ]
+    }
+  ]
+}

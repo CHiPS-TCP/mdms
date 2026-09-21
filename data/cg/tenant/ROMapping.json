@@ -311,6 +311,10 @@
               "name": "Kota"
             },
             {
+              "code": "KOTA_1_2",
+              "name": "Kota 1+2"
+            },
+            {
               "code": "SONDONGRI",
               "name": "Sondongri"
             },
@@ -10109,6 +10113,10 @@
             {
               "code": "KOTA",
               "name": "Kota"
+            },
+            {
+              "code": "KOTA_1_2",
+              "name": "Kota 1+2"
             },
             {
               "code": "KHURDUR",

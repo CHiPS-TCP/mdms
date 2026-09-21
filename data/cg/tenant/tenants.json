@@ -903,14 +903,14 @@
       "fax": null
     },
     {
-      "code": "cg.jangirchampa",
+      "code": "cg.janjgirchampa",
       "ulbCode": "JCH",
       "districtCode": "JJC",
       "name": "Janjgir Champa",
       "description": "Janjgir Champa Municipal Corporation, Chhattisgarh",
       "logoId": null,
       "imageId": null,
-      "domainUrl": "https://albpms-dev.cgstate.gov.in/jangirchampa",
+      "domainUrl": "https://albpms-dev.cgstate.gov.in/janjgirchampa",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,

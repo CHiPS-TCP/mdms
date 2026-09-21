@@ -1,5 +1,5 @@
 {
-  "tenantId": "cg.jangirchampa",
+  "tenantId": "cg.janjgirchampa",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "jangirChampa",
-        "localname": "jangirChampa",
+        "name": "janjgirchampa",
+        "localname": "janjgirchampa",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "cg.jangirchampa",
+        "code": "cg.janjgirchampa",
         "children": [
           {
             "id": "2c03cce5-7749-448c-bcff-2018a3952978",
