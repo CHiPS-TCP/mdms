@@ -20997,6 +20997,18 @@
       "serviceCode": "occupancy-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8853754,
+      "name": "Occupancy Application Payment search",
+      "url": "/collection-services/payments/OCCUPANCY/_search",
+      "displayName": "Occupancy Application Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
   ]
 }
