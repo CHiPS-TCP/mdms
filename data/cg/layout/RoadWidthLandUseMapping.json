@@ -23851,6 +23851,4801 @@
           ]
         }
       ]
+    },
+    {
+      "masterPlan": [
+        "ARPA MASTER PLAN"
+      ],
+      "landUseMappingData": [
+        {
+          "landUseZone": "COMMERCIAL (RETAIL & WHOLESALE)",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "INSTITUTIONAL & CULTURAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "MIXED USE",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "PUBLIC SERVICES & FACILITIES",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RECREATION / PARKS & OPEN SPACES",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "TU",
+                  "name": "TU"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RESIDENTIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "TRANSPORTATION",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "masterPlan": [
+        "BILASPUR MASTER PLAN"
+      ],
+      "landUseMappingData": [
+        {
+          "landUseZone": "AGRICULTURE",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "COMMERCIAL (SPECIALIZED)",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "COMMERCIAL (GENERAL)",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "INDUSTRIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "PUBLIC & SEMI-PUBLIC",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RECREATIONAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RESIDENTIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "TRANSPORT",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "masterPlan": [
+        "CHAMPA MASTER PLAN"
+      ],
+      "landUseMappingData": [
+        {
+          "landUseZone": "AGRICULTURE",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "COMMERCIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "INDUSTRIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "PUBLIC & SEMI-PUBLIC",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RECREATIONAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RESIDENTIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "TRAFFIC & TRANSPORTATION",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "masterPlan": [
+        "DONGARGADH MASTER PLAN"
+      ],
+      "landUseMappingData": [
+        {
+          "landUseZone": "AGRICULTURE",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "COMMERCIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "INDUSTRIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "PUBLIC & SEMI-PUBLIC",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RECREATIONAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RESIDENTIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "TRAFFIC & TRANSPORT",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "masterPlan": [
+        "JAGDALPUR MASTER PLAN"
+      ],
+      "landUseMappingData": [
+        {
+          "landUseZone": "AGRICULTURE",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "COMMERCIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "INDUSTRIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "PUBLIC_SEMI_PUBLIC",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RECREATIONAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RESIDENTIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "TRANSPORTATION",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "masterPlan": [
+        "JANJGIR MASTER PLAN"
+      ],
+      "landUseMappingData": [
+        {
+          "landUseZone": "AGRICULTURE",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "COMMERCIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "INDUSTRIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "PUBLIC & SEMI-PUBLIC",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RECREATIONAL & OTHERS",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RESIDENTIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "TRAFFIC & TRANSPORTATION",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "masterPlan": [
+        "KONDAGAON MASTER PLAN"
+      ],
+      "landUseMappingData": [
+        {
+          "landUseZone": "AGRICULTURE",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "COMMERCIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "TU",
+                  "name": "TU"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "INDUSTRIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "PUBLIC & SEMI-PUBLIC",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RECREATIONAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RESIDENTIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "TU",
+                  "name": "TU"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "TRAFFIC & TRANSPORT",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "masterPlan": [
+        "RAJNANDGAON MASTER PLAN"
+      ],
+      "landUseMappingData": [
+        {
+          "landUseZone": "AGRICULTURE",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "COMMERCIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "INDUSTRIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "PUBLIC & SEMI-PUBLIC",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RECREATIONAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RESIDENTIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "TRAFFIC & TRANSPORT",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "masterPlan": [
+        "RATANPUR MASTER PLAN"
+      ],
+      "landUseMappingData": [
+        {
+          "landUseZone": "AGRICULTURE",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "COMMERCIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "INDUSTRIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "PUBLIC/SEMI-PUBLIC",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RECREATIONAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RESIDENTIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "TRANSPORT",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "masterPlan": [
+        "SIPAT MASTER PLAN"
+      ],
+      "landUseMappingData": [
+        {
+          "landUseZone": "AGRICULTURE",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "COMMERCIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "INDUSTRIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "PUBLIC & SEMI-PUBLIC",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RECREATIONAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                },
+                {
+                  "code": "Agriculture-1 (A1)",
+                  "name": "Agriculture-1 (A1)"
+                },
+                {
+                  "code": "Agriculture-2 (A2)",
+                  "name": "Agriculture-2 (A2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "RESIDENTIAL",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Educational-1 (E1)",
+                  "name": "Educational-1 (E1)"
+                },
+                {
+                  "code": "Educational-2 (E2)",
+                  "name": "Educational-2 (E2)"
+                },
+                {
+                  "code": "Educational-3 (E3)",
+                  "name": "Educational-3 (E3)"
+                },
+                {
+                  "code": "Assembly-1 (A1)",
+                  "name": "Assembly-1 (A1)"
+                },
+                {
+                  "code": "Assembly-2 (A2)",
+                  "name": "Assembly-2 (A2)"
+                },
+                {
+                  "code": "Health-1 (H1)",
+                  "name": "Health-1 (H1)"
+                },
+                {
+                  "code": "Health-2 (H2)",
+                  "name": "Health-2 (H2)"
+                },
+                {
+                  "code": "Religious and cultural (R&C)",
+                  "name": "Religious and cultural (R&C)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Public Amenities (PA)",
+                  "name": "Public Amenities (PA)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-1 (I1)",
+                  "name": "Industrial-1 (I1)"
+                },
+                {
+                  "code": "Sport & Leisure (SL)",
+                  "name": "Sport & Leisure (SL)"
+                },
+                {
+                  "code": "Parks (P)",
+                  "name": "Parks (P)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "landUseZone": "TRAFFIC & TRANSPORT",
+          "landPlotUse": [
+            {
+              "minWidth": 0,
+              "maxWidth": 99999,
+              "occupancy": [
+                {
+                  "code": "Residential (R)",
+                  "name": "Residential (R)"
+                },
+                {
+                  "code": "Commercial-1 (C1)",
+                  "name": "Commercial-1 (C1)"
+                },
+                {
+                  "code": "Commercial-2 (C2)",
+                  "name": "Commercial-2 (C2)"
+                },
+                {
+                  "code": "Commercial-3 (C3)",
+                  "name": "Commercial-3 (C3)"
+                },
+                {
+                  "code": "Service Establishment (SE)",
+                  "name": "Service Establishment (SE)"
+                },
+                {
+                  "code": "Public Institutions (It)",
+                  "name": "Public Institutions (It)"
+                },
+                {
+                  "code": "Hospitality (HP)",
+                  "name": "Hospitality (HP)"
+                },
+                {
+                  "code": "Industrial-2 (I2)",
+                  "name": "Industrial-2 (I2)"
+                },
+                {
+                  "code": "Transport (TR)",
+                  "name": "Transport (TR)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
     "tenantId": "cg",
     "moduleName": "BPA",
-    "MasterPlanLandUseMapping":  [
+    "MasterPlanLandUseMapping": [
         {
             "masterPlan": [
                 "MAHASAMUND MASTER PLAN"
@@ -760,6 +760,360 @@
                 {
                     "code": "TRANSPORT",
                     "name": "TRANSPORT"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "ARPA MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "COMMERCIAL (RETAIL & WHOLESALE)",
+                    "name": "COMMERCIAL (RETAIL & WHOLESALE)"
+                },
+                {
+                    "code": "INSTITUTIONAL & CULTURAL",
+                    "name": "INSTITUTIONAL & CULTURAL"
+                },
+                {
+                    "code": "MIXED USE",
+                    "name": "MIXED USE"
+                },
+                {
+                    "code": "PUBLIC SERVICES & FACILITIES",
+                    "name": "PUBLIC SERVICES & FACILITIES"
+                },
+                {
+                    "code": "RECREATION / PARKS & OPEN SPACES",
+                    "name": "RECREATION / PARKS & OPEN SPACES"
+                },
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "RESIDENTIAL"
+                },
+                {
+                    "code": "TRANSPORTATION",
+                    "name": "TRANSPORTATION"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "BILASPUR MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "AGRICULTURE",
+                    "name": "AGRICULTURE"
+                },
+                {
+                    "code": "COMMERCIAL (SPECIALIZED)",
+                    "name": "COMMERCIAL (SPECIALIZED)"
+                },
+                {
+                    "code": "COMMERCIAL (GENERAL)",
+                    "name": "COMMERCIAL (GENERAL)"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "INDUSTRIAL"
+                },
+                {
+                    "code": "PUBLIC & SEMI-PUBLIC",
+                    "name": "PUBLIC & SEMI-PUBLIC"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "RECREATIONAL"
+                },
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "RESIDENTIAL"
+                },
+                {
+                    "code": "TRANSPORT",
+                    "name": "TRANSPORT"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "CHAMPA MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "AGRICULTURE",
+                    "name": "AGRICULTURE"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "COMMERCIAL"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "INDUSTRIAL"
+                },
+                {
+                    "code": "PUBLIC & SEMI-PUBLIC",
+                    "name": "PUBLIC & SEMI-PUBLIC"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "RECREATIONAL"
+                },
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "RESIDENTIAL"
+                },
+                {
+                    "code": "TRAFFIC & TRANSPORTATION",
+                    "name": "TRAFFIC & TRANSPORTATION"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "DONGARGADH MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "AGRICULTURE",
+                    "name": "AGRICULTURE"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "COMMERCIAL"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "INDUSTRIAL"
+                },
+                {
+                    "code": "PUBLIC & SEMI-PUBLIC",
+                    "name": "PUBLIC & SEMI-PUBLIC"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "RECREATIONAL"
+                },
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "RESIDENTIAL"
+                },
+                {
+                    "code": "TRAFFIC & TRANSPORT",
+                    "name": "TRAFFIC & TRANSPORT"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "JAGDALPUR MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "AGRICULTURE",
+                    "name": "AGRICULTURE"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "COMMERCIAL"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "INDUSTRIAL"
+                },
+                {
+                    "code": "PUBLIC_SEMI_PUBLIC",
+                    "name": "PUBLIC_SEMI_PUBLIC"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "RECREATIONAL"
+                },
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "RESIDENTIAL"
+                },
+                {
+                    "code": "TRANSPORTATION",
+                    "name": "TRANSPORTATION"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "JANJGIR MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "AGRICULTURE",
+                    "name": "AGRICULTURE"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "COMMERCIAL"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "INDUSTRIAL"
+                },
+                {
+                    "code": "PUBLIC & SEMI-PUBLIC",
+                    "name": "PUBLIC & SEMI-PUBLIC"
+                },
+                {
+                    "code": "RECREATIONAL & OTHERS",
+                    "name": "RECREATIONAL & OTHERS"
+                },
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "RESIDENTIAL"
+                },
+                {
+                    "code": "TRAFFIC & TRANSPORTATION",
+                    "name": "TRAFFIC & TRANSPORTATION"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "KONDAGAON MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "AGRICULTURE",
+                    "name": "AGRICULTURE"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "COMMERCIAL"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "INDUSTRIAL"
+                },
+                {
+                    "code": "PUBLIC & SEMI-PUBLIC",
+                    "name": "PUBLIC & SEMI-PUBLIC"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "RECREATIONAL"
+                },
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "RESIDENTIAL"
+                },
+                {
+                    "code": "TRAFFIC & TRANSPORT",
+                    "name": "TRAFFIC & TRANSPORT"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "RAJNANDGAON MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "AGRICULTURE",
+                    "name": "AGRICULTURE"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "COMMERCIAL"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "INDUSTRIAL"
+                },
+                {
+                    "code": "PUBLIC & SEMI-PUBLIC",
+                    "name": "PUBLIC & SEMI-PUBLIC"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "RECREATIONAL"
+                },
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "RESIDENTIAL"
+                },
+                {
+                    "code": "TRAFFIC & TRANSPORT",
+                    "name": "TRAFFIC & TRANSPORT"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "RATANPUR MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "AGRICULTURE",
+                    "name": "AGRICULTURE"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "COMMERCIAL"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "INDUSTRIAL"
+                },
+                {
+                    "code": "PUBLIC/SEMI-PUBLIC",
+                    "name": "PUBLIC/SEMI-PUBLIC"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "RECREATIONAL"
+                },
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "RESIDENTIAL"
+                },
+                {
+                    "code": "TRANSPORT",
+                    "name": "TRANSPORT"
+                }
+            ]
+        },
+        {
+            "masterPlan": [
+                "SIPAT MASTER PLAN"
+            ],
+            "landUseZone": [
+                {
+                    "code": "AGRICULTURE",
+                    "name": "AGRICULTURE"
+                },
+                {
+                    "code": "COMMERCIAL",
+                    "name": "COMMERCIAL"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "INDUSTRIAL"
+                },
+                {
+                    "code": "PUBLIC & SEMI-PUBLIC",
+                    "name": "PUBLIC & SEMI-PUBLIC"
+                },
+                {
+                    "code": "RECREATIONAL",
+                    "name": "RECREATIONAL"
+                },
+                {
+                    "code": "RESIDENTIAL",
+                    "name": "RESIDENTIAL"
+                },
+                {
+                    "code": "TRAFFIC & TRANSPORT",
+                    "name": "TRAFFIC & TRANSPORT"
                 }
             ]
         }
