@@ -23917,6 +23917,142 @@
           ]
         }
       ]
+    },
+    {
+      "code": "DONGARGARH_MASTER_PLAN",
+      "name": "Dongargarh Master Plan",
+      "active": true,
+      "district": "Rajnandgaon",
+      "districtCode": "RAJNANDGAON",
+      "regionalOffice": "Rajnandgaon",
+      "tehsils": [
+        {
+          "code": "DONGARGARH",
+          "name": "Dongargarh",
+          "active": true,
+          "villages": [
+            {
+              "code": "DONGARGARH",
+              "name": "Dongargarh",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "CHHIRPANI",
+              "name": "Chhirpani",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "RAMNAGAR",
+              "name": "Ramnagar",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "BADHIYATOLA",
+              "name": "Badhiyatola",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "KALKASA",
+              "name": "Kalkasa",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "KARVARI",
+              "name": "Karvari",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "LEDIJOB",
+              "name": "Ledijob",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "RAJKATTA",
+              "name": "Rajkatta",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "KURUBHATA",
+              "name": "Kurubhata",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "RANKA",
+              "name": "Ranka",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "HARANSINGHI",
+              "name": "Haransinghi",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "NAGTARAI",
+              "name": "Nagtarai",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "DHUSERA",
+              "name": "Dhusera",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "ACHHOLI",
+              "name": "Achholi",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "BHAISRA",
+              "name": "Bhaisra",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "CHAUTHNA",
+              "name": "Chauthna",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "BHARRITOLA",
+              "name": "Bharritola",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

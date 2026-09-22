@@ -2333,6 +2333,19 @@
           "active": true
         }
       ]
+    },
+    {
+      "code": "DONGARGARH_MASTER_PLAN",
+      "name": "Dongargarh Master Plan",
+      "isMasterPlan": true,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
     }
   ]
 }

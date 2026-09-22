@@ -28831,6 +28831,176 @@
           "planningAreaName": "Kurud Planning Area"
         }
       ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "DONGARGARH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "CHHIRPANI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "RAMNAGAR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "BADHIYATOLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "KALKASA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "KARVARI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "LEDIJOB",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "RAJKATTA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "KURUBHATA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "RANKA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "HARANSINGHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "NAGTARAI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "DHUSERA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "ACHHOLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "BHAISRA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "CHAUTHNA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "DONGARGARH",
+      "villageCode": "BHARRITOLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "DONGARGARH_MASTER_PLAN",
+          "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
     }
   ]
 }

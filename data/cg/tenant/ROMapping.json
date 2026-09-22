@@ -12805,6 +12805,36 @@
           ]
         }
       ]
+    },
+    {
+      "districtCode": "RAJNANDGAON",
+      "regionalOffice": "Rajnandgaon",
+      "tenantId": "cg.rajnandgaon",
+      "tehsils": [
+        {
+          "tehsilCode": "DONGARGARH",
+          "tehsilName": "Dongargarh",
+          "villages": [
+            { "code": "DONGARGARH", "name": "Dongargarh" },
+            { "code": "CHHIRPANI", "name": "Chhirpani" },
+            { "code": "RAMNAGAR", "name": "Ramnagar" },
+            { "code": "BADHIYATOLA", "name": "Badhiyatola" },
+            { "code": "KALKASA", "name": "Kalkasa" },
+            { "code": "KARVARI", "name": "Karvari" },
+            { "code": "LEDIJOB", "name": "Ledijob" },
+            { "code": "RAJKATTA", "name": "Rajkatta" },
+            { "code": "KURUBHATA", "name": "Kurubhata" },
+            { "code": "RANKA", "name": "Ranka" },
+            { "code": "HARANSINGHI", "name": "Haransinghi" },
+            { "code": "NAGTARAI", "name": "Nagtarai" },
+            { "code": "DHUSERA", "name": "Dhusera" },
+            { "code": "ACHHOLI", "name": "Achholi" },
+            { "code": "BHAISRA", "name": "Bhaisra" },
+            { "code": "CHAUTHNA", "name": "Chauthna" },
+            { "code": "BHARRITOLA", "name": "Bharritola" }
+          ]
+        }
+      ]
     }
   ]
 }
