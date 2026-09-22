@@ -922,8 +922,8 @@
       ]
     },
     {
-      "code": "GUNDERDEHI",
-      "name": "Gunderdehi",
+      "code": "GUNDERDEHI_PLANNING_AREA",
+      "name": "Gunderdehi Planning Area",
       "isMasterPlan": false,
       "active": true,
       "locationTypes": [
