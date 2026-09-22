@@ -208,8 +208,8 @@
       ]
     },
     {
-      "code": "BALOD",
-      "name": "Balod",
+      "code": "BALOD_MASTER_PLAN",
+      "name": "Balod Master Plan",
       "isMasterPlan": false,
       "active": true,
       "locationTypes": [
