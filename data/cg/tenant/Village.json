@@ -18597,55 +18597,106 @@
       "active": true,
       "villages": [
         {
-          "code": "DONGARGARH",`r`n          "name": "Dongargarh",`r`n          "active": true,`r`n          "villageCode": "956196"
+          "code": "DONGARGARH",
+          "name": "Dongargarh",
+          "active": true,
+          "villageCode": "956196"
         },
         {
-          "code": "CHHIRPANI",`r`n          "name": "Chhirpani",`r`n          "active": true,`r`n          "villageCode": "956189"
+          "code": "CHHIRPANI",
+          "name": "Chhirpani",
+          "active": true,
+          "villageCode": "956189"
         },
         {
-          "code": "RAMNAGAR",`r`n          "name": "Ramnagar",`r`n          "active": true,`r`n          "villageCode": "930762"
+          "code": "RAMNAGAR",
+          "name": "Ramnagar",
+          "active": true,
+          "villageCode": "930762"
         },
         {
-          "code": "BADHIYATOLA",`r`n          "name": "Badhiyatola",`r`n          "active": true,`r`n          "villageCode": "956167"
+          "code": "BADHIYATOLA",
+          "name": "Badhiyatola",
+          "active": true,
+          "villageCode": "956167"
         },
         {
-          "code": "KALKASA",`r`n          "name": "Kalkasa",`r`n          "active": true,`r`n          "villageCode": "440609"
+          "code": "KALKASA",
+          "name": "Kalkasa",
+          "active": true,
+          "villageCode": "440609"
         },
         {
-          "code": "KARVARI",`r`n          "name": "Karvari",`r`n          "active": true,`r`n          "villageCode": "440608"
+          "code": "KARVARI",
+          "name": "Karvari",
+          "active": true,
+          "villageCode": "440608"
         },
         {
-          "code": "LEDIJOB",`r`n          "name": "Ledijob",`r`n          "active": true,`r`n          "villageCode": "440607"
+          "code": "LEDIJOB",
+          "name": "Ledijob",
+          "active": true,
+          "villageCode": "440607"
         },
         {
-          "code": "RAJKATTA",`r`n          "name": "Rajkatta",`r`n          "active": true,`r`n          "villageCode": "440684"
+          "code": "RAJKATTA",
+          "name": "Rajkatta",
+          "active": true,
+          "villageCode": "440684"
         },
         {
-          "code": "KURUBHATA",`r`n          "name": "Kurubhata",`r`n          "active": true,`r`n          "villageCode": "440685"
+          "code": "KURUBHATA",
+          "name": "Kurubhata",
+          "active": true,
+          "villageCode": "440685"
         },
         {
-          "code": "RANKA",`r`n          "name": "Ranka",`r`n          "active": true,`r`n          "villageCode": "440686"
+          "code": "RANKA",
+          "name": "Ranka",
+          "active": true,
+          "villageCode": "440686"
         },
         {
-          "code": "HARANSINGHI",`r`n          "name": "Haransinghi",`r`n          "active": true,`r`n          "villageCode": "440603"
+          "code": "HARANSINGHI",
+          "name": "Haransinghi",
+          "active": true,
+          "villageCode": "440603"
         },
         {
-          "code": "NAGTARAI",`r`n          "name": "Nagtarai",`r`n          "active": true,`r`n          "villageCode": "440602"
+          "code": "NAGTARAI",
+          "name": "Nagtarai",
+          "active": true,
+          "villageCode": "440602"
         },
         {
-          "code": "DHUSERA",`r`n          "name": "Dhusera",`r`n          "active": true,`r`n          "villageCode": "440601"
+          "code": "DHUSERA",
+          "name": "Dhusera",
+          "active": true,
+          "villageCode": "440601"
         },
         {
-          "code": "ACHHOLI",`r`n          "name": "Achholi",`r`n          "active": true,`r`n          "villageCode": "440611"
+          "code": "ACHHOLI",
+          "name": "Achholi",
+          "active": true,
+          "villageCode": "440611"
         },
         {
-          "code": "BHAISRA",`r`n          "name": "Bhaisra",`r`n          "active": true,`r`n          "villageCode": "440610"
+          "code": "BHAISRA",
+          "name": "Bhaisra",
+          "active": true,
+          "villageCode": "440610"
         },
         {
-          "code": "CHAUTHNA",`r`n          "name": "Chauthna",`r`n          "active": true,`r`n          "villageCode": "440682"
+          "code": "CHAUTHNA",
+          "name": "Chauthna",
+          "active": true,
+          "villageCode": "440682"
         },
         {
-          "code": "BHARRITOLA",`r`n          "name": "Bharritola",`r`n          "active": true,`r`n          "villageCode": "440606"
+          "code": "BHARRITOLA",
+          "name": "Bharritola",
+          "active": true,
+          "villageCode": "440606"
         }
       ]
     }
