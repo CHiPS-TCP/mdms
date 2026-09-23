@@ -54,7 +54,8 @@
       "regionalOfficeAddressHindi": "आर. डी. ए. भवन, शास्त्री चौक, रायपुर (छ. ग.)",
       "contactNumber": "0771-2223728",
       "fax": "0771-2223728",
-      "PGRMasterContact": "9999999999"
+      "PGRMasterContact": "9999999999",
+      "addressHindi": "नगर तथा ग्राम निवेश विभाग, नवा रायपुर, छत्तीसगढ़"
     },
     {
       "code": "cg.ambikapur",
@@ -103,7 +104,8 @@
       "address": "Old Employment Office, Ring Road, Namanakala, Ambikapur (C.G.)",
       "contactNumber": "0774-2220156",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "पुराना रोजगार कार्यालय, रिंग रोड, नमनाकला, अंबिकापुर (छ. ग.)"
     },
     {
       "code": "cg.ambikapurmc",
@@ -152,7 +154,8 @@
       "address": "Office of the Municipal Corporation Ambikapur, Dist.- Surguja (C.G.)",
       "contactNumber": "0774-2220156",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "कार्यालय नगर पालिक निगम, अम्बिकापुर, जिला-सुरगुजा (छ.ग.)"
     },
     {
       "code": "cg.bhilai",
@@ -200,7 +203,8 @@
       },
       "address": "Bhilai, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "भिलाई, छत्तीसगढ़"
     },
     {
       "code": "cg.bhilaimc",
@@ -249,7 +253,8 @@
       "address": "Office of Bhilai Municipal Corporation\nHead Office, Akash Ganga, G.E. Road,\nBhilai Nagar, Dist.- Durg (C.G.) 490023",
       "contactNumber": "0788-2350125",
       "PGRMasterContact": null,
-      "fax": "0788-4040118"
+      "fax": "0788-4040118",
+      "addressHindi": "कार्यालय, नगर पालिक निगम, भिलाई"
     },
     {
       "code": "cg.balod",
@@ -295,7 +300,8 @@
       "address": "Amapara, Balod (C.G.)",
       "contactNumber": "07749-223989",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "आमापारा, बालोद (छ. ग.)"
     },
     {
       "code": "cg.balodabazar",
@@ -340,7 +346,8 @@
       },
       "address": "Old Election Office, Collector Campus, Balodabazar (C.G.)",
       "contactNumber": "07727-223224",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "पुराना निर्वाचन कार्यालय, कलेक्टर परिसर, बलौदाबाजार (छ.ग.)"
     },
     {
       "code": "cg.bilaspur",
@@ -386,7 +393,8 @@
       "address": "New Composite Building, Collector Campus, Bilaspur (C.G.)",
       "contactNumber": "07752-443689",
       "PGRMasterContact": null,
-      "fax": "07752-443689"
+      "fax": "07752-443689",
+      "addressHindi": "नई कंपोजिट बिल्डिंग, कलेक्टर परिसर, बिलासपुर (छ. ग.)"
     },
     {
       "code": "cg.bilaspurmc",
@@ -435,7 +443,8 @@
       "address": "Office of Bilaspur Municipal Corporation\nHead Office, Vikash Bhawan, Near Neharu Chowk, Bilaspur (C.G.)",
       "contactNumber": "07752-222642",
       "PGRMasterContact": null,
-      "fax": "07752-413888"
+      "fax": "07752-413888",
+      "addressHindi": "कार्यालय नगर पालिक निगम, बिलासपुर (छ.ग.)\nविकास भवन नेहरू चौक, बिलासपुर"
     },
     {
       "code": "cg.charoda",
@@ -483,7 +492,8 @@
       },
       "address": "Charoda, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "चरौदा, छत्तीसगढ़"
     },
     {
       "code": "cg.chirmiri",
@@ -531,7 +541,8 @@
       },
       "address": "Chirmiri, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "चिरमिरी, छत्तीसगढ़"
     },
     {
       "code": "cg.chirmirimc",
@@ -580,7 +591,8 @@
       "address": "Office of the Municipal Corporation Chirimiri\nMalviya Nagar, West Chirimiri,\nDistt.- Korea (C.G.) 497773",
       "contactNumber": "+91-9179984177",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "नगर पालिक निगम चिरमिरी का कार्यालय\nमालवीय नगर, पश्चिम चिरमिरी,\nजिला-कोरिया (छ.ग.) 497773"
     },
     {
       "code": "cg.birgaon",
@@ -628,7 +640,8 @@
       },
       "address": "Birgaon, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "बीरगांव, छत्तीसगढ़"
     },
     {
       "code": "cg.dantewada",
@@ -673,7 +686,8 @@
       },
       "address": "Ground Floor Room No .- 44 Joint District Office, Building, Dantewada (C.G.)494449",
       "contactNumber": "-",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "भूतल कक्ष क्रमांक -44, संयुक्त जिला कार्यालय भवन, दंतेवाड़ा (छ. ग.) - 494449"
     },
     {
       "code": "cg.dhamtari",
@@ -719,7 +733,8 @@
       "address": "Composite Building, Room No. 35, 37, 39, Dhamtari (C.G.)",
       "contactNumber": "07722-2235050",
       "PGRMasterContact": null,
-      "fax": "07722-2235050"
+      "fax": "07722-2235050",
+      "addressHindi": "कम्पोजिट बिल्डिंग, कक्ष क्र. 35, 37, 39, धमतरी (छ. ग.)"
     },
     {
       "code": "cg.dhamtarimc",
@@ -768,7 +783,8 @@
       "address": "Office of Municipal Corporation, Dhamtari, Distt.- Dhamtari (C.G.)",
       "contactNumber": "07722241599",
       "PGRMasterContact": null,
-      "fax": "07722241599"
+      "fax": "07722241599",
+      "addressHindi": "कार्यालय नगर पालिक निगम धमतरी, जिला - धमतरी (छ.ग.)"
     },
     {
       "code": "cg.durg",
@@ -814,7 +830,8 @@
       "address": "Behind Collector Parisar, Mahaveer Nagar, Balak Bhawan Path, Durg (C.G.)",
       "contactNumber": "0788-2323716",
       "PGRMasterContact": null,
-      "fax": "0788-2323716"
+      "fax": "0788-2323716",
+      "addressHindi": "कलेक्टर परिसर के पीछे, महावीर नगर, बालक भवन पथ, दुर्ग (छ. ग.)"
     },
     {
       "code": "cg.jagdalpur",
@@ -860,7 +877,8 @@
       "address": "Second Floor, Room No. 29, 30, 31, Collectorate Campus, Jagdalpur (C.G.)",
       "contactNumber": "07782-223838",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "कलेक्टर कार्यालय, द्वितीय तल, कमरा नं. 29, 30, 31, जगदलपुर (छ. ग.)"
     },
     {
       "code": "cg.jagdalpurmc",
@@ -909,7 +927,8 @@
       "address": "Office of Municipal Corporation, Jagdalpur, District- Bastar (C.G.)",
       "contactNumber": "07782-223838",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "कार्यालय नगरपालिक निगम, जगदलपुर, जिला-बस्तर (छ.ग.)\nशांतिनगर, वार्ड क्र. 25, बस स्टैंड रोड, जगदलपुर"
     },
     {
       "code": "cg.janjgirchampa",
@@ -955,7 +974,8 @@
       "address": "Diet Parisar, Janjgir Champa (C.G.)",
       "contactNumber": "07817-222295",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "डाईट परिसर, जांजगीर चाम्पा (छ. ग.)"
     },
     {
       "code": "cg.jashpur",
@@ -1000,7 +1020,8 @@
       },
       "address": "Collectorate Bhawan, First Floor Jashpur (C.G.)",
       "contactNumber": "07763 299103",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "कलेक्टोरेट भवन, प्रथम तल, जशपुर (छ. ग.)"
     },
     {
       "code": "cg.kanker",
@@ -1045,7 +1066,8 @@
       },
       "address": "Composite Building Room No. 10, Kanker (C.G.)",
       "contactNumber": "9753163015",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "कम्पोजिट बिल्डिंग, कमरा नं. 10, कांकेर (छ. ग.)"
     },
     {
       "code": "cg.kawardha",
@@ -1089,7 +1111,8 @@
       },
       "address": "Kawardha, Chhattisgarh",
       "contactNumber": null,
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "कवर्धा, छत्तीसगढ़"
     },
     {
       "code": "cg.korba",
@@ -1134,7 +1157,8 @@
       },
       "address": "Rampur, Korba Dist. Korba (C.G.)",
       "contactNumber": "0775-2221158",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "रामपुर, कोरबा, जिला कोरबा (छ.ग.)"
     },
     {
       "code": "cg.korbamc",
@@ -1183,7 +1207,8 @@
       "address": "Office of Korba Municipal Corporation\nHead Office, Saket Bhawan, Near ITI Chowk, Korba (C.G.)",
       "contactNumber": "07759-221288",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "कार्यालय नगर पालिक निगम, कोरबा (छत्तीसगढ़)\nमुख्य कार्यालय-साकेत भवन, आई.टी.आई. चौक, कोरबा (छ.ग.)"
     },
     {
       "code": "cg.korea",
@@ -1228,7 +1253,8 @@
       },
       "address": "Add - Collectorate Parisar, First Floor Room No 70 71 72 73 Dist - Koriya (C.G.) Pin -497335",
       "contactNumber": "07836-234080",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "कलेक्टोरेट परिसर, प्रथम तल, कक्ष नं. 70, 71, 72, 73, जिला-कोरिया (छ.ग.) पिन-497335"
     },
     {
       "code": "cg.mahasamund",
@@ -1276,7 +1302,8 @@
       },
       "address": "Office Anuvibhageey Adhikaaree (RA) Parisar, Mahasamund, Room No. 14, Main Road (C.G.)",
       "contactNumber": "07723-224310",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "अनुविभागीय अधिकारी (रा.) परिसर, कक्ष क्रमांक 14, मुख्य मार्ग, महासमुंद (छत्तीसगढ़)"
     },
     {
       "code": "cg.raigarh",
@@ -1322,7 +1349,8 @@
       "address": "Mini Stadium, Near Collectorate, First Floor, Raigarh (C.G.)",
       "contactNumber": "07762-2226510",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "मिनी स्टेडियम, कलेक्टरेट के पास, प्रथम तल, रायगढ़ (छ. ग.)"
     },
     {
       "code": "cg.raigarhmc",
@@ -1371,7 +1399,8 @@
       "address": "Office of Municipal Corporation, Raigarh, Dist.- Raigarh (C.G.)",
       "contactNumber": "07762-2226510",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "कार्यालय, नगर पालिक निगम रायगढ़ (छत्तीसगढ़)"
     },
     {
       "code": "cg.raipur",
@@ -1420,7 +1449,8 @@
       "address": "R.D.A Bhawan Shashtri Chowk, Raipur (C.G.)",
       "contactNumber": "0771-2223728",
       "PGRMasterContact": null,
-      "fax": "0771-2223728"
+      "fax": "0771-2223728",
+      "addressHindi": "आर. डी. ए. भवन, शास्त्री चौक, रायपुर (छ. ग.)"
     },
     {
       "code": "cg.risali",
@@ -1468,7 +1498,8 @@
       },
       "address": "Risali, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "रिसाली, छत्तीसगढ़"
     },
     {
       "code": "cg.risalimc",
@@ -1517,7 +1548,8 @@
       "address": "Office of Municipal Corporation Risali\nHead Office, BSP 35 No. School, Risali Sector East,\nDist.- Durg (C.G.) 490006",
       "contactNumber": "0788-4049469",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "कार्यालय, नगर पालिक निगम, रिसाली"
     },
     {
       "code": "cg.bhilaicharodamc",
@@ -1566,7 +1598,8 @@
       "address": "Office of Municipal Corporation, Bhilai-Charoda, Dist.- Durg (C.G.)",
       "contactNumber": "+91-788-2283410",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "कार्यालय, नगर पालिक निगम, भिलाई-चरौदा, जिला - दुर्ग (छ.ग.)"
     },
     {
       "code": "cg.rajnandgaon",
@@ -1612,7 +1645,8 @@
       "address": "Tehsil Office Campus, Baldev Bagh Road, Rajnandgaon (C.G.)",
       "contactNumber": "07744-2229390",
       "PGRMasterContact": null,
-      "fax": "07744-2229390"
+      "fax": "07744-2229390",
+      "addressHindi": "तहसील कार्यालय परिसर, बलदेव बाग रोड, राजनांदगांव (छ. ग.)"
     },
     {
       "code": "cg.rajnandgaonmc",
@@ -1661,7 +1695,8 @@
       "address": "Office of the Commissioner, Municipal Corporation Rajnandgaon,\nMahaveer Chowk, Khairagarh Road, Rajnandgaon, PIN-491441",
       "contactNumber": "07744-2229390",
       "PGRMasterContact": null,
-      "fax": "07744-2229390"
+      "fax": "07744-2229390",
+      "addressHindi": "कार्यालय, नगर पालिक निगम, राजनांदगांव (छ.ग.)"
     },
     {
       "code": "cg.raipurmc",
@@ -1710,7 +1745,8 @@
       "address": "Office of Raipur Municipal Corporation\nHead Office, GandhiSadan, Near Rang Mandir,\nChotapara, Raipur (C.G.)",
       "contactNumber": "0771-2535780, 90",
       "PGRMasterContact": null,
-      "fax": "0771-72227395"
+      "fax": "0771-72227395",
+      "addressHindi": "नगर निगम मुख्यालय, नया प्रशासनिक भवन, छोटा पारा, गांधी चौक, रायपुर (छ.ग.)"
     },
     {
       "code": "cg.birgaonmc",
@@ -1759,7 +1795,8 @@
       "address": "Office of the Municipal Corporation Birgaon, Ward No. 32, Birgaon, District Raipur (C.G.)",
       "contactNumber": "+91-84638-58501",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "कार्यालय नगर पालिक निगम बीरगांव, जिला - रायपुर (छ.ग.)"
     },
     {
       "code": "cg.balrampurd",
@@ -1807,7 +1844,8 @@
       },
       "address": "Balrampur, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "बलरामपुर, छत्तीसगढ़"
     },
     {
       "code": "cg.surgujad",
@@ -1855,7 +1893,8 @@
       },
       "address": "Surguja, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "सरगुजा, छत्तीसगढ़"
     },
     {
       "code": "cg.surjapurd",
@@ -1903,7 +1942,8 @@
       },
       "address": "Surjapur, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "सूरजपुर, छत्तीसगढ़"
     },
     {
       "code": "cg.balodabazarbhataparad",
@@ -1951,7 +1991,8 @@
       },
       "address": "Balodabazar-Bhatapara, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "बालोदाबाज़ार-भाटापारा, छत्तीसगढ़"
     },
     {
       "code": "cg.bilaspurd",
@@ -2000,7 +2041,8 @@
       "address": "New Composite Building, Collector Campus, Bilaspur (C.G.)",
       "contactNumber": "07752-443689",
       "PGRMasterContact": null,
-      "fax": "07752-443689"
+      "fax": "07752-443689",
+      "addressHindi": "नई कंपोजिट बिल्डिंग, कलेक्टर परिसर, बिलासपुर (छ. ग.)"
     },
     {
       "code": "cg.gaurelapendramarwahid",
@@ -2048,7 +2090,8 @@
       },
       "address": "Gaurela-Pendra-Marwahi, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "गौरेला-पेंड्रा-मरवाही, छत्तीसगढ़"
     },
     {
       "code": "cg.mungelid",
@@ -2096,7 +2139,8 @@
       },
       "address": "Mungeli, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "मुंगेली, छत्तीसगढ़"
     },
     {
       "code": "cg.dantewadad",
@@ -2144,7 +2188,8 @@
       },
       "address": "Dantewada, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "दंतेवाड़ा, छत्तीसगढ़"
     },
     {
       "code": "cg.dhamtarid",
@@ -2193,7 +2238,8 @@
       "address": "Composite Building, Room No. 35, 37, 39, Dhamtari (C.G.)",
       "contactNumber": "07722-2235050",
       "PGRMasterContact": null,
-      "fax": "07722-2235050"
+      "fax": "07722-2235050",
+      "addressHindi": "कम्पोजिट बिल्डिंग, कक्ष क्र. 35, 37, 39, धमतरी (छ. ग.)"
     },
     {
       "code": "cg.bemetarad",
@@ -2241,7 +2287,8 @@
       },
       "address": "Bemetara, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "बेमेतरा, छत्तीसगढ़"
     },
     {
       "code": "cg.durgd",
@@ -2290,7 +2337,8 @@
       "address": "Behind Collector Parisar, Mahaveer Nagar, Balak Bhawan Path, Durg (C.G.)",
       "contactNumber": "0788-2323716",
       "PGRMasterContact": null,
-      "fax": "0788-2323716"
+      "fax": "0788-2323716",
+      "addressHindi": "कलेक्टर परिसर के पीछे, महावीर नगर, बालक भवन पथ, दुर्ग (छ. ग.)"
     },
     {
       "code": "cg.durgmc",
@@ -2339,7 +2387,8 @@
       "address": "Office of the Municipal Corporation Durg, Distt.- Durg (C.G.)",
       "contactNumber": "0788-2323716",
       "PGRMasterContact": null,
-      "fax": "0788-2323716"
+      "fax": "0788-2323716",
+      "addressHindi": "कार्यालय, नगर पालिक निगम, दुर्ग (छ.ग.)"
     },
     {
       "code": "cg.bastard",
@@ -2387,7 +2436,8 @@
       },
       "address": "Bastar, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "बस्तर, छत्तीसगढ़"
     },
     {
       "code": "cg.bijapurd",
@@ -2435,7 +2485,8 @@
       },
       "address": "Bijapur, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "बीजापुर, छत्तीसगढ़"
     },
     {
       "code": "cg.kondagaond",
@@ -2483,7 +2534,8 @@
       },
       "address": "Kondagaon, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "कोंडागांव, छत्तीसगढ़"
     },
     {
       "code": "cg.narayanpurd",
@@ -2531,7 +2583,8 @@
       },
       "address": "Narayanpur, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "नारायणपुर, छत्तीसगढ़"
     },
     {
       "code": "cg.sukmad",
@@ -2579,7 +2632,8 @@
       },
       "address": "Sukma, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "सुकमा, छत्तीसगढ़"
     },
     {
       "code": "cg.janjgirchampad",
@@ -2628,7 +2682,8 @@
       "address": "Diet Parisar, Janjgir Champa (C.G.)",
       "contactNumber": "07817-222295",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "डाईट परिसर, जांजगीर चाम्पा (छ. ग.)"
     },
     {
       "code": "cg.saktid",
@@ -2676,7 +2731,8 @@
       },
       "address": "Sakti, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "सक्ती, छत्तीसगढ़"
     },
     {
       "code": "cg.jashpurd",
@@ -2724,7 +2780,8 @@
       },
       "address": "Jashpur, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "जशपुर, छत्तीसगढ़"
     },
     {
       "code": "cg.kankerd",
@@ -2772,7 +2829,8 @@
       },
       "address": "Kanker, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "कांकेर, छत्तीसगढ़"
     },
     {
       "code": "cg.kawardhad",
@@ -2820,7 +2878,8 @@
       },
       "address": "Kawardha, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "कबीरधाम, छत्तीसगढ़"
     },
     {
       "code": "cg.korbad",
@@ -2868,7 +2927,8 @@
       },
       "address": "Korba, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "कोरबा, छत्तीसगढ़"
     },
     {
       "code": "cg.koread",
@@ -2916,7 +2976,8 @@
       },
       "address": "Korea, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "कोरिया, छत्तीसगढ़"
     },
     {
       "code": "cg.manendragarhchirimiribharatpurd",
@@ -2964,7 +3025,8 @@
       },
       "address": "Manendragarh-Chirimiri-Bharatpur, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "मनेन्द्रगढ़-चिरमिरी-भरतपुर, छत्तीसगढ़"
     },
     {
       "code": "cg.mahasamundd",
@@ -3012,7 +3074,8 @@
       },
       "address": "Mahasamund, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "महासमुंद, छत्तीसगढ़"
     },
     {
       "code": "cg.raigarhd",
@@ -3061,7 +3124,8 @@
       "address": "Mini Stadium, Near Collectorate, First Floor, Raigarh (C.G.)",
       "contactNumber": "07762-2226510",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "मिनी स्टेडियम, कलेक्टरेट के पास, प्रथम तल, रायगढ़ (छ. ग.)"
     },
     {
       "code": "cg.sarangarhbilaigarhd",
@@ -3109,7 +3173,8 @@
       },
       "address": "Sarangarh-Bilaigarh, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "सारंगढ़-बिलाईगढ़, छत्तीसगढ़"
     },
     {
       "code": "cg.raipurd",
@@ -3157,7 +3222,8 @@
       },
       "address": "Raipur, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "रायपुर, छत्तीसगढ़"
     },
     {
       "code": "cg.gariyabandd",
@@ -3205,7 +3271,8 @@
       },
       "address": "Gariyaband, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "गरियाबंद, छत्तीसगढ़"
     },
     {
       "code": "cg.kairagarhchhuikhadangandaid",
@@ -3253,7 +3320,8 @@
       },
       "address": "Kairagarh-Chhuikhadan-Gandai, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "खैरागढ़-छुईखदान-गंडई, छत्तीसगढ़"
     },
     {
       "code": "cg.mohlamanpurambagarhchowkid",
@@ -3301,7 +3369,8 @@
       },
       "address": "Mohla-Manpur-Ambagarh Chowki, Chhattisgarh",
       "contactNumber": "0772-0000000",
-      "PGRMasterContact": null
+      "PGRMasterContact": null,
+      "addressHindi": "मोहला-मानपुर-अम्बागढ़ चौकी, छत्तीसगढ़"
     },
     {
       "code": "cg.rajnandgaond",
@@ -3350,7 +3419,8 @@
       "address": "Tehsil Office Campus, Baldev Bagh Road, Rajnandgaon (C.G.)",
       "contactNumber": "07744-2229390",
       "PGRMasterContact": null,
-      "fax": "07744-2229390"
+      "fax": "07744-2229390",
+      "addressHindi": "तहसील कार्यालय परिसर, बलदेव बाग रोड, राजनांदगांव (छ. ग.)"
     },
     {
       "code": "cg.balodd",
@@ -3399,7 +3469,8 @@
       "address": "Amapara, Balod (C.G.)",
       "contactNumber": "07749-223989",
       "PGRMasterContact": null,
-      "fax": null
+      "fax": null,
+      "addressHindi": "आमापारा, बालोद (छ. ग.)"
     }
   ]
 }
