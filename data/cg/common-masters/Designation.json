@@ -871,6 +871,30 @@
       "description": "NOC Officer",
       "code": "DESIG_146",
       "active": true
+    },
+    {
+      "name": "Deputy Director",
+      "description": "Deputy Director",
+      "code": "DESIG_147",
+      "active": true
+    },
+    {
+      "name": "Assistant Director",
+      "description": "Assistant Director",
+      "code": "DESIG_148",
+      "active": true
+    },
+    {
+      "name": "Investigator",
+      "description": "Investigator",
+      "code": "DESIG_149",
+      "active": true
+    },
+    {
+      "name": "Assistant Grade -1",
+      "description": "Assistant Grade -1",
+      "code": "DESIG_150",
+      "active": true
     }
   ]
 }
