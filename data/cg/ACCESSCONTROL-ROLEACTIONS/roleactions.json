@@ -39885,6 +39885,12 @@
       "actionid": 1895,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "cg"
     }
   ]
 }
