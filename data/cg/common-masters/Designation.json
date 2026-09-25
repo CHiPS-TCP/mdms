@@ -895,6 +895,18 @@
       "description": "Assistant Grade -1",
       "code": "DESIG_150",
       "active": true
+    },
+    {
+      "name": "Senior Research Assistant",
+      "description": "Senior Research Assistant",
+      "code": "DESIG_151",
+      "active": true
+    },
+    {
+      "name": "Joint Director",
+      "description": "Joint Director",
+      "code": "DESIG_152",
+      "active": true
     }
   ]
 }
