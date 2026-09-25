@@ -21009,6 +21009,18 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8853154,
+      "name": "layout Application search",
+      "url": "/layout-services/v1/layout/_plainsearch",
+      "displayName": "layout Application  search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
   ]
 }

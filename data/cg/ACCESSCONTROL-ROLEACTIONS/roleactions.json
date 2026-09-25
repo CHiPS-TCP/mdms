@@ -1827,6 +1827,12 @@
       "tenantid": "cg"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8853154,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
       "rolecode": "CREATE_CATEGORY",
       "actionid": 890001,
       "actioncode": "",
@@ -39889,6 +39895,12 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8853154,
       "actioncode": "",
       "tenantId": "cg"
     }
