@@ -38,15 +38,14 @@
         "Pandritarai",
         "Puraina",
         "Raipura",
-        "Ranwabhatha",
         "Saddu",
         "Sarona",
-        "Sarora",
         "Shankarnagar",
         "Sondongri",
         "Tatibandh",
         "Telibandha",
-        "Tikrapara"
+        "Tikrapara",
+        "Raipur Khas"
       ],
       "tenantId": "cg.raipurmc"
     },
@@ -55,10 +54,11 @@
       "village": [
         "Achholi-2",
         "Birgaon",
-        "Borjhara",
-        "Ravanbhatha",
         "Urkura",
-        "Urla"
+        "Ranwabhatha",
+        "Sarora",
+        "Bendri",
+        "Sankara"
       ],
       "tenantId": "cg.birgaonmc"
     },
@@ -110,7 +110,6 @@
       "name": "Bhilai-Charoda Municipal Corporation",
       "village": [
         "Charoda",
-        "Bhilai",
         "Aklordih",
         "Hathkhoj",
         "Dadar",
@@ -122,7 +121,8 @@
         "Urla",
         "Somani",
         "Morid",
-        "Ganiyari"
+        "Ganiyari",
+        "Bhilai-3"
       ],
       "tenantId": "cg.bhilaicharodamc"
     },
