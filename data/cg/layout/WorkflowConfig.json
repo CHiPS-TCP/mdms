@@ -3,21 +3,94 @@
   "moduleName": "LAYOUT",
   "WorkflowConfig": [
     {
-      "masterCode": "NO",
-      "businessService": "Layout_mcl_abv"
-    },
-    {
-      "masterCode": "YES",
-      "businessService": "Layout_mcl_up"
-    }
-    ,
-    {
       "masterCode": "PLANNING",
-      "businessService": "Layout_mcl_abv"
+      "businessService": "Layout_mcl_abv",
+      "tenantId": [
+        "cg.tcp",
+        "cg.ambikapur",
+        "cg.balod",
+        "cg.balodabazar",
+        "cg.dantewada",
+        "cg.dhamtari",
+        "cg.jagdalpur",
+        "cg.janjgirchampa",
+        "cg.jashpur",
+        "cg.kanker",
+        "cg.kawardha",
+        "cg.korba",
+        "cg.korea",
+        "cg.mahasamund",
+        "cg.raigarh",
+        "cg.rajnandgaon",
+        "cg.ambikapurmc",
+        "cg.bhilaicharodamc",
+        "cg.bhilaimc",
+        "cg.bilaspurmc",
+        "cg.birgaonmc",
+        "cg.chirmirimc",
+        "cg.dhamtarimc",
+        "cg.durgmc",
+        "cg.jagdalpurmc",
+        "cg.korbamc",
+        "cg.raigarhmc",
+        "cg.raipurmc",
+        "cg.rajnandgaonmc",
+        "cg.risalimc"
+      ]
     },
     {
       "masterCode": "MASTER",
-      "businessService": "Layout_mcl_up"
+      "businessService": "Layout_mcl_up",
+      "tenantId": [
+        "cg.tcp",
+        "cg.ambikapur",
+        "cg.balod",
+        "cg.balodabazar",
+        "cg.dantewada",
+        "cg.dhamtari",
+        "cg.jagdalpur",
+        "cg.janjgirchampa",
+        "cg.jashpur",
+        "cg.kanker",
+        "cg.kawardha",
+        "cg.korba",
+        "cg.korea",
+        "cg.mahasamund",
+        "cg.raigarh",
+        "cg.rajnandgaon",
+        "cg.ambikapurmc",
+        "cg.bhilaicharodamc",
+        "cg.bhilaimc",
+        "cg.bilaspurmc",
+        "cg.birgaonmc",
+        "cg.chirmirimc",
+        "cg.dhamtarimc",
+        "cg.durgmc",
+        "cg.jagdalpurmc",
+        "cg.korbamc",
+        "cg.raigarhmc",
+        "cg.raipurmc",
+        "cg.rajnandgaonmc",
+        "cg.risalimc"
+      ]
+    },
+    {
+      "masterCode": "PLANNING",
+      "businessService": "Layout_with_out",
+      "tenantId": [
+        "cg.bilaspur",
+        "cg.durg",
+        "cg.raipur"
+      ]
+    },
+    {
+      "masterCode": "MASTER",
+      "businessService": "Layout_with_in",
+      "tenantId": [
+        "cg.bilaspur",
+        "cg.durg",
+        "cg.raipur"
+      ]
     }
   ]
 }

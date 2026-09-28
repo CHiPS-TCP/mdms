@@ -790,6 +790,12 @@
       "groupId": "025"
     },
     {
+      "code": "LAYOUT_L4_VERIFIER",
+      "name": "LAYOUT_L4_VERIFIER",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "025"
+    },
+    {
       "code": "LAYOUT_D1_VERIFIER",
       "name": "LAYOUT_D1_VERIFIER",
       "description": "OBPAS Layout workflow Approver",
