@@ -1337,6 +1337,30 @@
           "name": "Dongargarh",
           "active": true,
           "tehsilcode": "3279"
+        },
+        {
+          "code": "CHHURIYA",
+          "name": "Chhuriya",
+          "active": true,
+          "tehsilcode": "3306"
+        },
+        {
+          "code": "DONGARGAON",
+          "name": "Dongargaon",
+          "active": true,
+          "tehsilcode": "3307"
+        },
+        {
+          "code": "LALBAHADUR_NAGAR",
+          "name": "Lalbahadur Nagar",
+          "active": true,
+          "tehsilcode": "7301"
+        },
+        {
+          "code": "RAJNANDGAON",
+          "name": "Rajnandgaon",
+          "active": true,
+          "tehsilcode": "3305"
         }
       ]
     }
