@@ -37583,6 +37583,12 @@
       "tenantid": "cg"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 8900902,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
       "rolecode": "HRMS_ADMIN",
       "actionid": 883303,
       "actioncode": "",
