@@ -1909,7 +1909,7 @@
           "landUseZone": "NA",
           "landPlotUse": [
             {
-              "zoneScope": "TOD 5",
+              "zoneScope": "TOD5",
               "occupancy": [
                 {
                   "code": "NA",
@@ -1918,7 +1918,7 @@
               ]
             },
             {
-              "zoneScope": "TOD 10",
+              "zoneScope": "TOD10",
               "occupancy": [
                 {
                   "code": "NA",
@@ -1927,7 +1927,7 @@
               ]
             },
             {
-              "zoneScope": "OUTSIDE TOD",
+              "zoneScope": "OUTSIDE_TOD",
               "occupancy": [
                 {
                   "code": "NA",
@@ -1941,7 +1941,7 @@
           "landUseZone": "AIRPORT_ZONE",
           "landPlotUse": [
             {
-              "zoneScope": "TOD 5",
+              "zoneScope": "TOD5",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -1970,7 +1970,7 @@
               ]
             },
             {
-              "zoneScope": "TOD 10",
+              "zoneScope": "TOD10",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -1999,7 +1999,7 @@
               ]
             },
             {
-              "zoneScope": "OUTSIDE TOD",
+              "zoneScope": "OUTSIDE_TOD",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2029,7 +2029,7 @@
           "landUseZone": "COMMERCIAL_RETAIL",
           "landPlotUse": [
             {
-              "zoneScope": "TOD 5",
+              "zoneScope": "TOD5",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2058,7 +2058,7 @@
               ]
             },
             {
-              "zoneScope": "TOD 10",
+              "zoneScope": "TOD10",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2087,7 +2087,7 @@
               ]
             },
             {
-              "zoneScope": "OUTSIDE TOD",
+              "zoneScope": "OUTSIDE_TOD",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2121,7 +2121,7 @@
           "landUseZone": "COMMERCIAL_WHOLESALE",
           "landPlotUse": [
             {
-              "zoneScope": "TOD 5",
+              "zoneScope": "TOD5",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2146,7 +2146,7 @@
               ]
             },
             {
-              "zoneScope": "TOD 10",
+              "zoneScope": "TOD10",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2171,7 +2171,7 @@
               ]
             },
             {
-              "zoneScope": "OUTSIDE TOD",
+              "zoneScope": "OUTSIDE_TOD",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2201,7 +2201,7 @@
           "landUseZone": "COMPOSITE_USE",
           "landPlotUse": [
             {
-              "zoneScope": "TOD 5",
+              "zoneScope": "TOD5",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2230,7 +2230,7 @@
               ]
             },
             {
-              "zoneScope": "TOD 10",
+              "zoneScope": "TOD10",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2259,7 +2259,7 @@
               ]
             },
             {
-              "zoneScope": "OUTSIDE TOD",
+              "zoneScope": "OUTSIDE_TOD",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2293,7 +2293,7 @@
           "landUseZone": "GREEN_BELT",
           "landPlotUse": [
             {
-              "zoneScope": "TOD 5",
+              "zoneScope": "TOD5",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2306,7 +2306,7 @@
               ]
             },
             {
-              "zoneScope": "TOD 10",
+              "zoneScope": "TOD10",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2319,7 +2319,7 @@
               ]
             },
             {
-              "zoneScope": "OUTSIDE TOD",
+              "zoneScope": "OUTSIDE_TOD",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2345,7 +2345,7 @@
           "landUseZone": "INDUSTRIAL",
           "landPlotUse": [
             {
-              "zoneScope": "TOD 5",
+              "zoneScope": "TOD5",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2374,7 +2374,7 @@
               ]
             },
             {
-              "zoneScope": "TOD 10",
+              "zoneScope": "TOD10",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2403,7 +2403,7 @@
               ]
             },
             {
-              "zoneScope": "OUTSIDE TOD",
+              "zoneScope": "OUTSIDE_TOD",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2437,7 +2437,7 @@
           "landUseZone": "PUBLIC_SEMI_PUBLIC",
           "landPlotUse": [
             {
-              "zoneScope": "TOD 5",
+              "zoneScope": "TOD5",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2466,7 +2466,7 @@
               ]
             },
             {
-              "zoneScope": "TOD 10",
+              "zoneScope": "TOD10",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2495,7 +2495,7 @@
               ]
             },
             {
-              "zoneScope": "OUTSIDE TOD",
+              "zoneScope": "OUTSIDE_TOD",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2529,7 +2529,7 @@
           "landUseZone": "RECREATIONAL",
           "landPlotUse": [
             {
-              "zoneScope": "TOD 5",
+              "zoneScope": "TOD5",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2554,7 +2554,7 @@
               ]
             },
             {
-              "zoneScope": "TOD 10",
+              "zoneScope": "TOD10",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2579,7 +2579,7 @@
               ]
             },
             {
-              "zoneScope": "OUTSIDE TOD",
+              "zoneScope": "OUTSIDE_TOD",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2605,7 +2605,7 @@
           "landUseZone": "RESIDENTIAL",
           "landPlotUse": [
             {
-              "zoneScope": "TOD 5",
+              "zoneScope": "TOD5",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2634,7 +2634,7 @@
               ]
             },
             {
-              "zoneScope": "TOD 10",
+              "zoneScope": "TOD10",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2663,7 +2663,7 @@
               ]
             },
             {
-              "zoneScope": "OUTSIDE TOD",
+              "zoneScope": "OUTSIDE_TOD",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2697,7 +2697,7 @@
           "landUseZone": "RURAL_USE_ZONE",
           "landPlotUse": [
             {
-              "zoneScope": "TOD 5",
+              "zoneScope": "TOD5",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_WHOLESALE_(CW)",
@@ -2710,7 +2710,7 @@
               ]
             },
             {
-              "zoneScope": "TOD 10",
+              "zoneScope": "TOD10",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_WHOLESALE_(CW)",
@@ -2723,7 +2723,7 @@
               ]
             },
             {
-              "zoneScope": "OUTSIDE TOD",
+              "zoneScope": "OUTSIDE_TOD",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2757,7 +2757,7 @@
           "landUseZone": "SPECIAL_INDUSTRY",
           "landPlotUse": [
             {
-              "zoneScope": "TOD 5",
+              "zoneScope": "TOD5",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2786,7 +2786,7 @@
               ]
             },
             {
-              "zoneScope": "TOD 10",
+              "zoneScope": "TOD10",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2815,7 +2815,7 @@
               ]
             },
             {
-              "zoneScope": "OUTSIDE TOD",
+              "zoneScope": "OUTSIDE_TOD",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2849,7 +2849,7 @@
           "landUseZone": "TRANSPORTATION_AIRPORT",
           "landPlotUse": [
             {
-              "zoneScope": "TOD 5",
+              "zoneScope": "TOD5",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_WHOLESALE_(CW)",
@@ -2858,7 +2858,7 @@
               ]
             },
             {
-              "zoneScope": "TOD 10",
+              "zoneScope": "TOD10",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_WHOLESALE_(CW)",
@@ -2867,7 +2867,7 @@
               ]
             },
             {
-              "zoneScope": "OUTSIDE TOD",
+              "zoneScope": "OUTSIDE_TOD",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_WHOLESALE_(CW)",
@@ -2881,7 +2881,7 @@
           "landUseZone": "TRANSPORTATION_GENERAL",
           "landPlotUse": [
             {
-              "zoneScope": "TOD 5",
+              "zoneScope": "TOD5",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2910,7 +2910,7 @@
               ]
             },
             {
-              "zoneScope": "TOD 10",
+              "zoneScope": "TOD10",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2939,7 +2939,7 @@
               ]
             },
             {
-              "zoneScope": "OUTSIDE TOD",
+              "zoneScope": "OUTSIDE_TOD",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2965,7 +2965,7 @@
           "landUseZone": "UTILITY_ZONE",
           "landPlotUse": [
             {
-              "zoneScope": "TOD 5",
+              "zoneScope": "TOD5",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2982,7 +2982,7 @@
               ]
             },
             {
-              "zoneScope": "TOD 10",
+              "zoneScope": "TOD10",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_RETAIL_(CR)",
@@ -2999,7 +2999,7 @@
               ]
             },
             {
-              "zoneScope": "OUTSIDE TOD",
+              "zoneScope": "OUTSIDE_TOD",
               "occupancy": [
                 {
                   "code": "COMMERCIAL_WHOLESALE_(CW)",
