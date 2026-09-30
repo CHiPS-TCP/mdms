@@ -974,6 +974,12 @@
       "name": "VIEW Occupancy Card",
       "description": "For Occupancy Card Display in Dashboard",
       "groupId": "033"
+    },
+    {
+      "code": "VIEW_KIBANA_DASHBOARD",
+      "name": "Kibana Dashboard",
+      "description": "Kibana Dashboard",
+      "groupId": "030"
     }
   ]
 }
