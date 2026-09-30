@@ -359,6 +359,10 @@
     {
       "code": "OWNER.AGREEMENT_OWNER_DEVELOPER",
       "active": true
+    },
+    {
+      "code": "OWNER.OWNERVALIDID",
+      "active": true
     }
 
 
