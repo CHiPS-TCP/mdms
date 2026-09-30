@@ -363,6 +363,10 @@
     {
       "code": "OWNER.OWNERVALIDID",
       "active": true
+    },
+    {
+      "code": "OWNER.RESIDENCEPROOF",
+      "active": true
     }
 
 
