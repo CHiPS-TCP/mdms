@@ -8791,6 +8791,27 @@
           "code": "cg"
         }
       ]
-    }
+    },
+      {
+        "module": "KibanaDashboard",
+        "code": "KibanaDashboard",
+        "order": 32,
+        "active": true,
+        "access": "VIEW_KIBANA_DASHBOARD",
+        "tenants": [
+          {
+          "code": "cg.testing"
+        },
+        {
+          "code": "cg.tcp"
+        },
+        {
+          "code": "cg"
+        },
+        {
+          "code": "cg.raipur"
+        }
+        ]
+      }
   ]
 }

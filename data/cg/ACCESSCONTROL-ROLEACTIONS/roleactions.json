@@ -40013,6 +40013,12 @@
       "actionid": 8853154,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "VIEW_KIBANA_DASHBOARD",
+      "actionid": 8853154,
+      "actioncode": "",
+      "tenantId": "cg"
     }
   ]
 }
