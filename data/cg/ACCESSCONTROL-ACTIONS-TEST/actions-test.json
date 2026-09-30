@@ -21021,6 +21021,22 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8853155,
+      "name": "Kibana Dashboard",
+      "url": "url",
+      "displayName": "KibanaDashboard",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "Kibana Dashboard",
+      "code": "null",
+      "path": "KibanaDashboard.Search",
+      "navigationURL": "/kibana-v2/app/dashboards#/view/eb995b40-bb2b-11f1-b7a3-9f37367ecad6?embed=true&hide-filter-bar=true&show-time-filter=true&_g=()",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
