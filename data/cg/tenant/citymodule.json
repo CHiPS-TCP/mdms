@@ -8795,7 +8795,7 @@
       {
         "module": "KibanaDashboard",
         "code": "KibanaDashboard",
-        "order": 32,
+        "order": 31,
         "active": true,
         "access": "VIEW_KIBANA_DASHBOARD",
         "tenants": [
