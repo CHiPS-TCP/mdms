@@ -21034,7 +21034,7 @@
       "serviceCode": "Kibana Dashboard",
       "code": "null",
       "path": "KibanaDashboard.Search",
-      "navigationURL": "/kibana-v2/app/dashboards#/view/eb995b40-bb2b-11f1-b7a3-9f37367ecad6?embed=true&hide-filter-bar=true&show-time-filter=true&_g=()",
+      "navigationURL": "/kibana-v2/app/dashboards#/view/229b6f63-7d57-43da-8d3d-6058b8f118b4?embed=true&hide-filter-bar=true&show-time-filter=true&_g=()",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }
