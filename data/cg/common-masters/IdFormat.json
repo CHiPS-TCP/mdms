@@ -762,7 +762,7 @@
 	    "idname": "egov.idgen.bpa.bdlicensenumber"
 	},
 	{
-	  "format": "CG/[DISTRICT.CODE]/TNCP/BP/[cy:yyyy]/[SEQ_BPA_APP_[TENANT_ID]]",
+	  "format": "CG/[DISTRICT.CODE]/TNCP/BP1/[cy:yyyy]/[SEQ_BPA_APP_[TENANT_ID]]",
 	  "idname": "bpa.aplnumber"
 	},
 	{
@@ -770,7 +770,7 @@
 	  "idname": "bpa.low_risk_permit_fee.receipt.id"
 	},
 	{
-	  "format": "CG/[DISTRICT.CODE]/TNCP/BPC/[cy:yyyy]/[SEQ_BPA_APPVL_[TENANT_ID]]",
+	  "format": "CG/[DISTRICT.CODE]/TNCP/BPC1/[cy:yyyy]/[SEQ_BPA_APPVL_[TENANT_ID]]",
 	  "idname": "bpa.permitnumber"
 	},
 	{
@@ -790,15 +790,15 @@
       "idname": "obpas_noc.receipt.id"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/PL/[cy:yyyy]/[SEQ_EG_NOC_APPLICATION]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/PL1/[cy:yyyy]/[SEQ_EG_NOC_APPLICATION]",
       "idname": "noc.application.number"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/PL/[cy:yyyy]/[SEQ_EG_LAYOUT_APP_[TENANT_ID]]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/PL1/[cy:yyyy]/[SEQ_EG_LAYOUT_APP_[TENANT_ID]]",
       "idname": "layout.application.number"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/PLC/[cy:yyyy]/[SEQ_EG_LAYOUT_APPVL_[TENANT_ID]]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/PLC1/[cy:yyyy]/[SEQ_EG_LAYOUT_APPVL_[TENANT_ID]]",
       "idname": "layout.approval.number"
     },
     {
@@ -838,15 +838,15 @@
       "idname": "clu.application.number"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/PLN/[cy:yyyy]/[SEQ_EG_PLINTH_APP_[TENANT_ID]]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/PLN1/[cy:yyyy]/[SEQ_EG_PLINTH_APP_[TENANT_ID]]",
       "idname": "plinth.application.number"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/PLNAPP/[cy:yyyy]/[SEQ_EG_PLINTH_APPVL_[TENANT_ID]]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/PLNAPP1/[cy:yyyy]/[SEQ_EG_PLINTH_APPVL_[TENANT_ID]]",
       "idname": "plinth.approval.number"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/COM/[cy:yyyy]/[SEQ_EG_PLINTH_COMMENCEMENT]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/COM1/[cy:yyyy]/[SEQ_EG_PLINTH_COMMENCEMENT]",
       "idname": "plinth.commencement.number"
     },
     {
@@ -854,11 +854,11 @@
       "idname": "occupancy.receipt.id"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/OCC/[cy:yyyy]/[SEQ_EG_OCC_APP_[TENANT_ID]]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/OCC1/[cy:yyyy]/[SEQ_EG_OCC_APP_[TENANT_ID]]",
       "idname": "occupancy.application.number"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/OCCAPP/[cy:yyyy]/[SEQ_EG_OCC_APPVL_[TENANT_ID]]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/OCCAPP1/[cy:yyyy]/[SEQ_EG_OCC_APPVL_[TENANT_ID]]",
       "idname": "occupancy.approval.number"
     }
   ]
