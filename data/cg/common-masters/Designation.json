@@ -907,6 +907,72 @@
       "description": "Joint Director",
       "code": "DESIG_152",
       "active": true
+    },
+    {
+      "name": "Director",
+      "description": "Director",
+      "code": "DESIG_153",
+      "active": true
+    },
+    {
+      "name": "Assistant Grade -2",
+      "description": "Assistant Grade -2",
+      "code": "DESIG_154",
+      "active": true
+    },
+    {
+      "name": "Assistant Grade -3",
+      "description": "Assistant Grade -3",
+      "code": "DESIG_155",
+      "active": true
+    },
+    {
+      "name": "Assistant Draftsman",
+      "description": "Assistant Draftsman",
+      "code": "DESIG_156",
+      "active": true
+    },
+    {
+      "name": "Incharge JD",
+      "description": "Incharge JD",
+      "code": "DESIG_157",
+      "active": true
+    },
+    {
+      "name": "Senior Draftsman",
+      "description": "Senior Draftsman",
+      "code": "DESIG_158",
+      "active": true
+    },
+    {
+      "name": "Senior Assistant Draftsman",
+      "description": "Senior Assistant Draftsman",
+      "code": "DESIG_159",
+      "active": true
+    },
+    {
+      "name": "Assistant Research",
+      "description": "Assistant Research",
+      "code": "DESIG_160",
+      "active": true
+    },
+    {
+      "name": "Senior Architecture",
+      "description": "Senior Architecture",
+      "code": "DESIG_161",
+      "active": true
+    },
+    {
+      "name": "Sub Engineer",
+      "description": "Sub Engineer",
+      "code": "DESIG_162",
+      "active": true
+    },
+    {
+      "name": "Tracer",
+      "description": "Tracer",
+      "code": "DESIG_163",
+      "active": true
     }
   ]
 }
