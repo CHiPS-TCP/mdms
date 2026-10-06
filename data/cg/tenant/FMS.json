@@ -1,0 +1,168 @@
+{
+  "tenantId": "cg",
+  "moduleName": "tenant",
+  "FMS": [
+    {
+      "tenantId": "cg.ambikapur",
+      "regionalOffice": "Ambikapur",
+      "rank": [
+        "LAYOUT_L3_VERIFIER"
+      ],
+      "fms": "Saddam Husain",
+      "fmsMobileNo": "9039898781"
+    },
+    {
+      "tenantId": "cg.balodabazar",
+      "regionalOffice": "Balodabazar",
+      "rank": [
+        "LAYOUT_L3_VERIFIER"
+      ],
+      "fms": "Shivkumar Sahu",
+      "fmsMobileNo": "9340018795"
+    },
+    {
+      "tenantId": "cg.bilaspur",
+      "regionalOffice": "Bilaspur",
+      "rank": [
+        "LAYOUT_L4_VERIFIER"
+      ],
+      "fms": "Suraj singh thakur",
+      "fmsMobileNo": "7389810273"
+    },
+    {
+      "tenantId": "cg.dantewada",
+      "regionalOffice": "Dantewada",
+      "rank": [
+        "LAYOUT_L3_VERIFIER"
+      ],
+      "fms": "Ankit sarkar",
+      "fmsMobileNo": "7746834534"
+    },
+    {
+      "tenantId": "cg.dhamtari",
+      "regionalOffice": "Dhamtari",
+      "rank": [
+        "LAYOUT_L3_VERIFIER"
+      ],
+      "fms": "Doulat Meenpal",
+      "fmsMobileNo": "7489986904"
+    },
+    {
+      "tenantId": "cg.durg",
+      "regionalOffice": "Durg",
+      "rank": [
+        "LAYOUT_L4_VERIFIER"
+      ],
+      "fms": "Daisy Chandrakar",
+      "fmsMobileNo": "7722881998"
+    },
+    {
+      "tenantId": "cg.jagdalpur",
+      "regionalOffice": "Jagdalpur",
+      "rank": [
+        "LAYOUT_L3_VERIFIER"
+      ],
+      "fms": "Avinash Sethia",
+      "fmsMobileNo": "7587254255"
+    },
+    {
+      "tenantId": "cg.janjgirchampa",
+      "regionalOffice": "Janjgir Champa",
+      "rank": [
+        "LAYOUT_L3_VERIFIER"
+      ],
+      "fms": "Shubham Singh",
+      "fmsMobileNo": "7000250525"
+    },
+    {
+      "tenantId": "cg.jashpur",
+      "regionalOffice": "Jashpur",
+      "rank": [
+        "LAYOUT_L3_VERIFIER"
+      ],
+      "fms": "Nirakar Tandi",
+      "fmsMobileNo": "9407665896"
+    },
+    {
+      "tenantId": "cg.kanker",
+      "regionalOffice": "Kanker",
+      "rank": [
+        "LAYOUT_L3_VERIFIER"
+      ],
+      "fms": "Sandip Girtlahre",
+      "fmsMobileNo": "7898961989"
+    },
+    {
+      "tenantId": "cg.kawardha",
+      "regionalOffice": "Kawardha",
+      "rank": [
+        "LAYOUT_L3_VERIFIER"
+      ],
+      "fms": "Adarsh Jha(aadi)",
+      "fmsMobileNo": "8770294387"
+    },
+    {
+      "tenantId": "cg.korba",
+      "regionalOffice": "Korba",
+      "rank": [
+        "LAYOUT_L3_VERIFIER"
+      ],
+      "fms": "Riya bhariya",
+      "fmsMobileNo": "8358012355"
+    },
+    {
+      "tenantId": "cg.korea",
+      "regionalOffice": "Korea",
+      "rank": [
+        "LAYOUT_L3_VERIFIER"
+      ],
+      "fms": "Vinod Yadav",
+      "fmsMobileNo": "8962652349"
+    },
+    {
+      "tenantId": "cg.mahasamund",
+      "regionalOffice": "Mahasamund",
+      "rank": [
+        "LAYOUT_L3_VERIFIER"
+      ],
+      "fms": "Vijay Sahu",
+      "fmsMobileNo": "7879881991"
+    },
+    {
+      "tenantId": "cg.raigarh",
+      "regionalOffice": "Raigarh",
+      "rank": [
+        "LAYOUT_L3_VERIFIER"
+      ],
+      "fms": "Sukant Jangde(SJ)",
+      "fmsMobileNo": "7999029881"
+    },
+    {
+      "tenantId": "cg.raipur",
+      "regionalOffice": "Raipur",
+      "rank": [
+        "LAYOUT_L4_VERIFIER"
+      ],
+      "fms": "Vijay Sahu",
+      "fmsMobileNo": "7987076025"
+    },
+    {
+      "tenantId": "cg.rajnandgaon",
+      "regionalOffice": "Rajnandgaon",
+      "rank": [
+        "LAYOUT_L3_VERIFIER"
+      ],
+      "fms": "Mayur Srivastava",
+      "fmsMobileNo": "9098605734"
+    },
+    {
+      "tenantId": "cg.balod",
+      "regionalOffice": "Balod",
+      "rank": [
+        "LAYOUT_L3_VERIFIER"
+      ],
+      "fms": "",
+      "fmsMobileNo": ""
+    }
+  ]
+}

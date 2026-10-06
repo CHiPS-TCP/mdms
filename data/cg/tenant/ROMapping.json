@@ -12815,6 +12815,10 @@
           "tehsilCode": "DONGARGARH",
           "tehsilName": "Dongargarh",
           "villages": [
+            {
+              "code": "KODATARAI",
+              "name": "Kodatarai"
+            },
             { "code": "DONGARGARH", "name": "Dongargarh" },
             { "code": "CHHIRPANI", "name": "Chhirpani" },
             { "code": "RAMNAGAR", "name": "Ramnagar" },

@@ -5550,12 +5550,6 @@
           "villageCode": "434919"
         },
         {
-          "code": "KODATARAI",
-          "name": "Kodatarai",
-          "active": true,
-          "villageCode": "434854"
-        },
-        {
           "code": "BANGURSIYA",
           "name": "Bangursiya",
           "active": true,
@@ -5665,6 +5659,12 @@
       "tehsilCode": "PUSSORE",
       "active": true,
       "villages": [
+        {
+          "code": "KODATARAI",
+          "name": "Kodatarai",
+          "active": true,
+          "villageCode": "434854"
+        },
         {
           "code": "CHHATAMUDA",
           "name": "Chhatamuda",

@@ -7216,13 +7216,6 @@
               "active": true,
               "halkaNumber": "00056",
               "riNumber": "06"
-            },
-            {
-              "code": "KODATARAI",
-              "name": "Kodatarai",
-              "active": true,
-              "halkaNumber": "",
-              "riNumber": ""
             }
           ]
         },
@@ -7245,6 +7238,13 @@
           "name": "Pussore",
           "active": true,
           "villages": [
+            {
+              "code": "KODATARAI",
+              "name": "Kodatarai",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
             {
               "code": "CHHATAMUDA",
               "name": "Chhatamuda",
