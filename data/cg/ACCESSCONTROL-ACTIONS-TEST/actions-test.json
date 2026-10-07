@@ -21034,7 +21034,7 @@
       "serviceCode": "Kibana Dashboard",
       "code": "null",
       "path": "KibanaDashboard.Search",
-      "navigationURL": "/kibana-v2/s/anonymous-user/app/dashboards?auth_provider_hint=anonymous1#/view/229b6f63-7d57-43da-8d3d-6058b8f118b4?_g?embed=true&hide-filter-bar=true&_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+      "navigationURL": "/kibana-v2/s/anonymous-/app/dashboards#/view/7b6009a7-67b1-4acc-9fa2-453df5e43fa9?_g=()&_a=()",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }
