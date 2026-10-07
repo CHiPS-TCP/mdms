@@ -1,4 +1,4 @@
-{
+﻿{
   "tenantId": "cg",
   "moduleName": "tenant",
   "VillageHalkaRI": [
@@ -13758,8 +13758,8 @@
       "riNumber": "01"
     },
     {
-      "code": "KODATARAI",
-      "name": "Kodatarai",
+      "code": "KODATARA",
+      "name": "KODATARA",
       "active": true,
       "halkaNumber": "00005",
       "riNumber": "05"

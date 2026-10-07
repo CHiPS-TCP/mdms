@@ -1,4 +1,4 @@
-{
+﻿{
   "tenantId": "cg",
   "moduleName": "tenant",
   "ROMapping": [
@@ -4155,8 +4155,8 @@
               "name": "Gudgahan"
             },
             {
-              "code": "KODATARAI",
-              "name": "Kodatarai"
+              "code": "KODATARA",
+              "name": "KODATARA"
             },
             {
               "code": "KUNJEDABRI",
@@ -12816,8 +12816,8 @@
           "tehsilName": "Dongargarh",
           "villages": [
             {
-              "code": "KODATARAI",
-              "name": "Kodatarai"
+              "code": "KODATARA",
+              "name": "KODATARA"
             },
             { "code": "DONGARGARH", "name": "Dongargarh" },
             { "code": "CHHIRPANI", "name": "Chhirpani" },

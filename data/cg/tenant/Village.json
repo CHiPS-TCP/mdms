@@ -1,4 +1,4 @@
-{
+﻿{
   "tenantId": "cg",
   "moduleName": "tenant",
   "Village": [
@@ -5660,10 +5660,10 @@
       "active": true,
       "villages": [
         {
-          "code": "KODATARAI",
-          "name": "Kodatarai",
+          "code": "KODATARA",
+          "name": "KODATARA",
           "active": true,
-          "villageCode": "434854"
+          "villageCode": "435013"
         },
         {
           "code": "CHHATAMUDA",

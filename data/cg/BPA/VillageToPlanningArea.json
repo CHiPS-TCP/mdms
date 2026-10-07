@@ -1,4 +1,4 @@
-{
+﻿{
   "tenantId": "cg",
   "moduleName": "BPA",
   "VillageToPlanningArea":[
@@ -8644,7 +8644,7 @@
     },
     {
       "tehsilCode": "PUSSORE",
-      "villageCode": "KODATARAI",
+      "villageCode": "KODATARA",
       "planningAreas": [
         {
           "planningAreaCode": "RAIGARH_MASTER_PLAN",

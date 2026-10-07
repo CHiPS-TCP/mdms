@@ -1,4 +1,4 @@
-{
+﻿{
   "tenantId": "cg",
   "moduleName": "BPA",
   "PlanningArea": [
@@ -7239,8 +7239,8 @@
           "active": true,
           "villages": [
             {
-              "code": "KODATARAI",
-              "name": "Kodatarai",
+              "code": "KODATARA",
+              "name": "KODATARA",
               "active": true,
               "halkaNumber": "",
               "riNumber": ""
