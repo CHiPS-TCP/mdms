@@ -299,56 +299,60 @@
             ],
             "landUseZone": [
                 {
-                    "code": "RESIDENTIAL",
-                    "name": "Residential"
+                    "code": "AIRPORT_ZONE",
+                    "name": "Airport Zone"
                 },
                 {
-                    "code": "Commercial_Retail",
+                    "code": "COMMERCIAL_RETAIL",
                     "name": "Commercial Retail"
                 },
                 {
-                    "code": "Commercial_Wholesale",
+                    "code": "COMMERCIAL_WHOLESALE",
                     "name": "Commercial Wholesale"
                 },
                 {
-                    "code": "Industrial",
-                    "name": "Industrial"
+                    "code": "COMPOSITE_USE",
+                    "name": "Composite Use"
                 },
                 {
-                    "code": "Special_Industrial",
-                    "name": "Special Industrial"
+                    "code": "GREEN_BELT",
+                    "name": "GREEN_BELT"
+                },
+                {
+                    "code": "INDUSTRIAL",
+                    "name": "Industrial"
                 },
                 {
                     "code": "PUBLIC_SEMI_PUBLIC",
                     "name": "Public & Semi Public"
                 },
                 {
-                    "code": "Utility_Zone",
-                    "name": "Utility Zone"
-                },
-                {
                     "code": "RECREATIONAL",
                     "name": "Recreational"
                 },
                 {
-                    "code": "TRANSPORTATION_GENRAL",
-                    "name": "Transportation General"
+                    "code": "RESIDENTIAL",
+                    "name": "Residential"
+                },
+                {
+                    "code": "RURAL_USE_ZONE",
+                    "name": "Rural Use Zone"
+                },
+                {
+                    "code": "SPECIAL_INDUSTRY",
+                    "name": "Special Industry"
                 },
                 {
                     "code": "TRANSPORTATION_AIRPORT",
                     "name": "Transportation Airport"
                 },
                 {
-                    "code": "Composite_USE_ZONE",
-                    "name": "Composite Use Zone"
+                    "code": "TRANSPORTATION_GENERAL",
+                    "name": "Transportation General"
                 },
                 {
-                    "code": "Rural_Zone",
-                    "name": "Rural Zone"
-                },
-                {
-                    "code": "Green_Belt",
-                    "name": "GREEN_BELT"
+                    "code": "UTILITY_ZONE",
+                    "name": "Utility Zone"
                 }
             ]
         },
