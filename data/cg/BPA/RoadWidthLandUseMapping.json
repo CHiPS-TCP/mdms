@@ -4,8 +4,7 @@
     "RoadWidthLandUseMapping":[
       {
         "masterPlan": [
-          "RAIPUR MASTER PLAN",
-          "NAYA RAIPUR MASTER PLAN"
+          "RAIPUR MASTER PLAN"
         ],
         "landUseMappingData": [
           {
@@ -1894,6 +1893,1121 @@
                   {
                     "code": "Industrial-1 (I1)",
                     "name": "Industrial-1 (I1)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "masterPlan": [
+          "NAYA RAIPUR MASTER PLAN"
+        ],
+        "landUseMappingData": [
+          {
+            "landUseZone": "NA",
+            "landPlotUse": [
+              {
+                "zoneScope": "TOD5",
+                "occupancy": [
+                  {
+                    "code": "NA",
+                    "name": "NA"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "TOD10",
+                "occupancy": [
+                  {
+                    "code": "NA",
+                    "name": "NA"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "OUTSIDE_TOD",
+                "occupancy": [
+                  {
+                    "code": "NA",
+                    "name": "NA"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "AIRPORT_ZONE",
+            "landPlotUse": [
+              {
+                "zoneScope": "TOD5",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "TOD10",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "OUTSIDE_TOD",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "COMMERCIAL_RETAIL",
+            "landPlotUse": [
+              {
+                "zoneScope": "TOD5",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "TOD10",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "OUTSIDE_TOD",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "COMMERCIAL_WHOLESALE",
+            "landPlotUse": [
+              {
+                "zoneScope": "TOD5",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "TOD10",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "OUTSIDE_TOD",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "COMPOSITE_USE",
+            "landPlotUse": [
+              {
+                "zoneScope": "TOD5",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "TOD10",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "OUTSIDE_TOD",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "GREEN_BELT",
+            "landPlotUse": [
+              {
+                "zoneScope": "TOD5",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "TOD10",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "OUTSIDE_TOD",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "INDUSTRIAL",
+            "landPlotUse": [
+              {
+                "zoneScope": "TOD5",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "TOD10",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "OUTSIDE_TOD",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "PUBLIC_SEMI_PUBLIC",
+            "landPlotUse": [
+              {
+                "zoneScope": "TOD5",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "TOD10",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "OUTSIDE_TOD",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "RECREATIONAL",
+            "landPlotUse": [
+              {
+                "zoneScope": "TOD5",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "TOD10",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "OUTSIDE_TOD",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "RESIDENTIAL",
+            "landPlotUse": [
+              {
+                "zoneScope": "TOD5",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "TOD10",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "OUTSIDE_TOD",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "RURAL_USE_ZONE",
+            "landPlotUse": [
+              {
+                "zoneScope": "TOD5",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "TOD10",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "OUTSIDE_TOD",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "SPECIAL_INDUSTRY",
+            "landPlotUse": [
+              {
+                "zoneScope": "TOD5",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "TOD10",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "OUTSIDE_TOD",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "TRANSPORTATION_AIRPORT",
+            "landPlotUse": [
+              {
+                "zoneScope": "TOD5",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "TOD10",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "OUTSIDE_TOD",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "TRANSPORTATION_GENERAL",
+            "landPlotUse": [
+              {
+                "zoneScope": "TOD5",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "TOD10",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "INDUSTRIAL_(I)",
+                    "name": "INDUSTRIAL_(I)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  },
+                  {
+                    "code": "SPECIAL INDUSTRY_(SI)",
+                    "name": "SPECIAL INDUSTRY_(SI)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "OUTSIDE_TOD",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  },
+                  {
+                    "code": "RESIDENTIAL (R)",
+                    "name": "RESIDENTIAL (R)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "UTILITY_ZONE",
+            "landPlotUse": [
+              {
+                "zoneScope": "TOD5",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "TOD10",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_RETAIL_(CR)",
+                    "name": "COMMERCIAL_RETAIL_(CR)"
+                  },
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
+                  }
+                ]
+              },
+              {
+                "zoneScope": "OUTSIDE_TOD",
+                "occupancy": [
+                  {
+                    "code": "COMMERCIAL_WHOLESALE_(CW)",
+                    "name": "COMMERCIAL_WHOLESALE_(CW)"
+                  },
+                  {
+                    "code": "PUBLIC_SEMI PUBLIC_(PSP)",
+                    "name": "PUBLIC_SEMI PUBLIC_(PSP)"
                   }
                 ]
               }
