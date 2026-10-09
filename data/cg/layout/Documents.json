@@ -122,6 +122,14 @@
 	  "active": true,
 	  "description": "OWNER.SITEPHOTOGRAPHFOUR.SITEPHOTOGRAPHFOUR_DESCRIPTION",
 	  "order": 15
-	}
+	},
+    {
+      "code": "OWNER.NOTICE_OF_PUBLICATIONS",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.NOTICE_OF_PUBLICATIONS",
+      "order": 16
+    }
   ]
 }
