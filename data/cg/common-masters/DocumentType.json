@@ -367,6 +367,10 @@
     {
       "code": "OWNER.RESIDENCEPROOF",
       "active": true
+    },
+    {
+      "code": "OWNER.NOTICE_OF_PUBLICATIONS",
+      "active": true
     }
 
 

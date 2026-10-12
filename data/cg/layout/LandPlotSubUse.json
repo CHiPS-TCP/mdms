@@ -4414,7 +4414,6 @@
           "code": "INDUSTRIAL- (I)",
           "subUses": [
             "AGRICULTURAL_RESEARCH_CENTERS (B-E3)",
-            "GODOWN (F-SWG, G-W)",
             "MILK_PROCESSING_PLANT (G-GI)",
             "OPEN_DEPOTS (F-SWG, G-W)",
             "PARKING (F-PA)",
