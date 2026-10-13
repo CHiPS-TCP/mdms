@@ -1,4 +1,4 @@
-﻿{
+{
   "tenantId": "cg",
   "moduleName": "LAYOUT",
   "PlanningArea": [
@@ -3595,8 +3595,8 @@
           ]
         },
         {
-          "code": "DHARSINWA",
-          "name": "Dharsinwa",
+          "code": "DHARSIWA",
+          "name": "Dharsiwa",
           "active": true,
           "villages": [
             {
@@ -3645,14 +3645,7 @@
               "code": "RANWABHATHA",
               "name": "Ranwabhatha",
               "active": true
-            }
-          ]
-        },
-        {
-          "code": "DHARSIWA",
-          "name": "Dharsiwa",
-          "active": true,
-          "villages": [
+            },
             {
               "code": "PARSULDIH",
               "name": "Parsuldih",
