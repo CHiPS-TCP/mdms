@@ -26169,6 +26169,10 @@
         {
           "planningAreaCode": "ARPA_MASTER_PLAN",
           "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Master Plan"
         }
       ]
     },

@@ -21915,6 +21915,13 @@
           "active": true,
           "villages": [
             {
+              "code": "SARKANDA",
+              "name": "Sarkanda",
+              "active": true,
+              "halkaNumber": "00032",
+              "riNumber": "06"
+            },
+            {
               "code": "TALAPARA",
               "name": "Talapara",
               "active": true,
