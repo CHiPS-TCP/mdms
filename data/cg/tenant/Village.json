@@ -1,4 +1,4 @@
-﻿{
+{
   "tenantId": "cg",
   "moduleName": "tenant",
   "Village": [
@@ -2841,7 +2841,7 @@
     },
     {
       "districtCode": "RAIPUR",
-      "tehsilCode": "DHARSINWA",
+      "tehsilCode": "DHARSIWA",
       "active": true,
       "villages": [
         {
@@ -2885,14 +2885,7 @@
           "name": "Ranwabhatha",
           "active": true,
           "villageCode": "956137"
-        }
-      ]
-    },
-    {
-      "districtCode": "RAIPUR",
-      "tehsilCode": "DHARSIWA",
-      "active": true,
-      "villages": [
+        },
         {
           "code": "PARSULDIH",
           "name": "Parsuldih",
