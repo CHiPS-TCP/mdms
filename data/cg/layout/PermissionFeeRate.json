@@ -1,0 +1,129 @@
+{
+  "tenantId": "cg",
+  "moduleName": "LAYOUT",
+  "PermissionFeeRate": [
+    {
+      "code": "CG_GAZETTE_2025_10_23",
+      "unit": "PER_HECTARE",
+      "sqmPerHectare": 10000,
+      "minimumFee": 10000,
+      "amendmentFactor": 0.1,
+      "defaultTier": "OTHER_PLANNING_AREA",
+      "defaultCategory": "RECREATIONAL_AGRICULTURE_OTHER",
+      "tiers": [
+        {
+          "code": "TIER_1",
+          "name": "Raipur, Durg, Bilaspur",
+          "planningAreaCodes": [
+            "RAIPUR_MASTER_PLAN",
+            "DURG_BHILAI_MASTER_PLAN",
+            "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN"
+          ]
+        },
+        {
+          "code": "TIER_2",
+          "name": "Korba, Jagdalpur, Rajnandgaon, Raigarh, Ambikapur",
+          "planningAreaCodes": [
+            "KORBA_MASTER_PLAN",
+            "JAGDALPUR_MASTER_PLAN",
+            "RAJNANDGAON_MASTER_PLAN",
+            "RAIGARH_MASTER_PLAN",
+            "SURGUJA_AMBIKAPUR_MASTER_PLAN",
+            "SURJAPUR_AMBIKAPUR_MASTER_PLAN"
+          ]
+        },
+        {
+          "code": "OTHER_PLANNING_AREA",
+          "name": "Other Planning Area",
+          "planningAreaCodes": []
+        }
+      ],
+      "categories": [
+        {
+          "code": "RES_PUBLIC_INDUSTRIAL_TRANSPORT",
+          "name": "Residential / Public & Semi-public / Industrial / Transport",
+          "occupancyCodes": [
+            "Residential (R)",
+            "RESIDENTIAL- (R)",
+            "RESIDENTIAL (R)",
+            "Assembly-1 (A1)",
+            "Assembly-2 (A2)",
+            "ASSEMBLY- (A)",
+            "Educational-1 (E1)",
+            "Educational-2 (E2)",
+            "Educational-3 (E3)",
+            "EDUCATIONAL- (E)",
+            "Health-1 (H1)",
+            "Health-2 (H2)",
+            "HEALTH- (H)",
+            "HEALTH-(H)",
+            "HEALTH-2 (H2)",
+            "Hospitality (HP)",
+            "HOSPITALITY (HP)",
+            "Public Amenities (PA)",
+            "PUBLIC AMENITIES- (PA)",
+            "Public Institutions (It)",
+            "PUBLIC INSTITUTIONS- (IT)",
+            "Religious and cultural (R&C)",
+            "RELIGIOUS AND CULTURAL- (R&C)",
+            "PUBLIC_SEMI PUBLIC_(PSP)",
+            "Industrial-1 (I1)",
+            "Industrial-2 (I2)",
+            "INDUSTRIAL- (I)",
+            "INDUSTRIAL_(I)",
+            "SPECIAL INDUSTRY_(SI)",
+            "Transport (TR)",
+            "TRANSPORT- (TR)"
+          ],
+          "ratePerHectare": {
+            "TIER_1": 60000,
+            "TIER_2": 40000,
+            "OTHER_PLANNING_AREA": 25000
+          }
+        },
+        {
+          "code": "COMMERCIAL",
+          "name": "Commercial",
+          "occupancyCodes": [
+            "Commercial-1 (C1)",
+            "Commercial-2 (C2)",
+            "Commercial-3 (C3)",
+            "COMMERCIAL- (C)",
+            "COMMERCIAL_RETAIL_(CR)",
+            "COMMERCIAL_WHOLESALE_(CW)",
+            "Service Establishment (SE)",
+            "SERVICE ESTABLISHMENT- (SE)"
+          ],
+          "ratePerHectare": {
+            "TIER_1": 100000,
+            "TIER_2": 75000,
+            "OTHER_PLANNING_AREA": 50000
+          }
+        },
+        {
+          "code": "RECREATIONAL_AGRICULTURE_OTHER",
+          "name": "Recreational / Agriculture / Other",
+          "occupancyCodes": [
+            "Parks (P)",
+            "PARKS- (P)",
+            "Sport & Leisure (SL)",
+            "SPORT & LEISURE- (SL)",
+            "Agriculture-1 (A1)",
+            "Agriculture-2 (A2)",
+            "AGRICULTURE- (AG)",
+            "AGRICULTURE-(AG)",
+            "Temporary Use (TU)",
+            "TEMPORARY USE (TU)",
+            "TU",
+            "NA"
+          ],
+          "ratePerHectare": {
+            "TIER_1": 30000,
+            "TIER_2": 20000,
+            "OTHER_PLANNING_AREA": 10000
+          }
+        }
+      ]
+    }
+  ]
+}
