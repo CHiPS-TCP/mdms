@@ -19146,7 +19146,7 @@
 			]
 		},
 		{
-			"code": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+			"code": "BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN",
 			"name": "Bilaspur Development Plan  Master Plan",
 			"Scheme": "SCHEME1",
 			"fromFY": "2026-27",
@@ -76846,7 +76846,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
-						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT", "F-CB", "F-CA"],
+						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT","F-C2", "F-CB", "F-CA"],
 						"useVariable": "plotArea",
 						"value": [
 							{
@@ -78551,7 +78551,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
-						"proposedSubOccupancy": ["B-E", "C-I", "D-AS"],
+						"proposedSubOccupancy": ["B-E", "B-E1","B-E2", "C-I", "D-AS"],
 						"useVariable": "plotArea",
 						"value": [
 							{
