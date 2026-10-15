@@ -8302,6 +8302,37 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "AMALGAMATION.PAY1",
+      "name": "AMALGAMATION PROCESSING FEE",
+      "code": "AMALGAMATION_PROCESSING_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+
+    {
+      "category": "FEE",
+      "service": "AMALGAMATION.PAY1",
+      "name": "AMALGAMATION APPLICATION FEE",
+      "code": "AMALGAMATION_APPLICATION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "AMALGAMATION.PAY2",
+      "name": "AMALGAMATION FEE",
+      "code": "AMALGAMATION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }

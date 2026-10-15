@@ -843,6 +843,18 @@
       "uniqueKeys": ["$.code", "$name"]
     }
   },
+    "amalgamation": {
+    "NocFee": {
+      "masterName": "NocFee",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "ChargesType": {
+      "masterName": "ChargesType",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code", "$name"]
+    }
+  },
   "layout": {
     "NocFee": {
       "masterName": "NocFee",

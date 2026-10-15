@@ -2560,6 +2560,28 @@
       "isActive": true
     },
     {
+      "businessService": "AMALGAMATION.PAY1",
+      "code": "AMALGAMATION.PAY1",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "AMALGAMATION.PAY2",
+      "code": "AMALGAMATION.PAY2",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
       "businessService": "OCCUPANCY",
       "code": "OCCUPANCY",
       "collectionModesNotAllowed": [
