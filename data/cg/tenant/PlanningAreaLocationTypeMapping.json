@@ -2346,6 +2346,357 @@
           "active": true
         }
       ]
+    },
+    {
+      "code": "NARHARPUR_PLANNING_AREA",
+      "name": "Narharpur Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "ANTAGADH_PLANNING_AREA",
+      "name": "Antagadh Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "BADE_KAPASI_PLANNING_AREA",
+      "name": "Bade Kapasi Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "DALLI_RAJHARA_PLANNING_AREA",
+      "name": "Dalli Rajhara Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "DONDI_PLANNING_AREA",
+      "name": "Dondi Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "DONDILOHARA_PLANNING_AREA",
+      "name": "Dondilohara Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "GURUR_PLANNING_AREA",
+      "name": "Gurur Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "ARJUNDA_PLANNING_AREA",
+      "name": "Arjunda Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "TILDA_NEVRA_PLANNING_AREA",
+      "name": "Tilda-Nevra Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "BALODABAZAR_BHATAPARA_BHATGAON_PLANNING_AREA",
+      "name": "Bhatgaon Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "JANJGIR_CHAMPA_BARADWAR_PLANNING_AREA",
+      "name": "Baradwar Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "SAKTI_BARADWAR_PLANNING_AREA",
+      "name": "Baradwar Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "MULMULA_PLANNING_AREA",
+      "name": "Mulmula Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "JETHA_PLANNING_AREA",
+      "name": "Jetha Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "KHAROD_PLANNING_AREA",
+      "name": "Kharod Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "DHAMTARI_MASTER_PLAN_AREA",
+      "name": "Dhamtari Master Plan Area",
+      "isMasterPlan": true,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "KURUD_PLANNING_AREA",
+      "name": "Kurud Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "PARPODI_PLANNING_AREA",
+      "name": "Parpodi Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "NAWAGARH_PLANNING_AREA",
+      "name": "Nawagarh Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "SHIVPUR_CHARCHA_PLANNING_AREA",
+      "name": "Shivpur-Charcha Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "CHIRMIRI_PLANNING_AREA",
+      "name": "Chirmiri Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "KHONGAPANI_JHAGRAKHAND_NEW_LEDARI_PLANNING_AREA",
+      "name": "Khongapani, Jhagrakhand, New Ledari Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "SURGUJA_AMBIKAPUR_MASTER_PLAN",
+      "name": "Ambikapur Master Plan",
+      "isMasterPlan": true,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "SURJAPUR_AMBIKAPUR_MASTER_PLAN",
+      "name": "Ambikapur Master Plan",
+      "isMasterPlan": true,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "SURJAPUR_BHATGAON_PLANNING_AREA",
+      "name": "Bhatgaon Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "BILASPUR_BILHA_PLANNING_AREA",
+      "name": "Bilha Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "MUNGELI_BILHA_PLANNING_AREA",
+      "name": "Bilha Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
     }
   ]
 }
