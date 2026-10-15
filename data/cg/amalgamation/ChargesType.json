@@ -1,0 +1,98 @@
+{
+	"tenantId": "cg",
+	"moduleName": "AMALGAMATION",
+	"ChargesType": [
+		{
+			"code": "105",
+			"name": "AMALGAMATION",
+			"fromFY": "2025-26",
+			"type": "PAY1",
+			"businessService": "AMALGAMATION.PAY1",
+			"startingDate": 1743465600000,
+			"endingDate": 1774981799000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "AMALGAMATION PROCESSING FEE",
+					"fee": 5000.00,
+					"rate": 0.0,
+					"taxHeadCode": "AMALGAMATION_PROCESSING_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "AMALGAMATION APPLICATION FEE",
+					"rate": 5000.00,
+					"taxHeadCode": "AMALGAMATION_APPLICATION_FEE",
+					"applicable": true
+
+				}
+			]
+		},
+		{
+			"code": "105",
+			"name": "AMALGAMATION",
+			"fromFY": "2025-26",
+			"type": "PAY2",
+			"businessService": "AMALGAMATION.PAY2",
+			"startingDate": 1743465600000,
+			"endingDate": 1774981799000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "AMALGAMATION FEE",
+					"rate": 0.0,
+					"taxHeadCode": "AMALGAMATION_FEE",
+					"applicable": true
+
+				}
+			]
+		},
+		{
+			"code": "105",
+			"name": "AMALGAMATION",
+			"type": "PAY1",
+			"businessService": "AMALGAMATION.PAY1",
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "AMALGAMATION PROCESSING FEE",
+					"fee": 5000.00,
+					"rate": 0.0,
+					"taxHeadCode": "AMALGAMATION_PROCESSING_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "AMALGAMATION APPLICATION FEE",
+					"rate": 5000.00,
+					"taxHeadCode": "AMALGAMATION_APPLICATION_FEE",
+					"applicable": true
+
+				}
+			]
+		},
+		{
+			"code": "105",
+			"name": "AMALGAMATION",
+			"type": "PAY2",
+			"businessService": "AMALGAMATION.PAY2",
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "AMALGAMATION FEE",
+					"rate": 0.0,
+					"taxHeadCode": "AMALGAMATION_FEE",
+					"applicable": true
+
+				}
+			]
+		}
+	]
+}

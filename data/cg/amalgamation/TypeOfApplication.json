@@ -1,0 +1,12 @@
+{
+  "tenantId": "cg",
+  "moduleName": "AMALGAMATION",
+  "TypeOfApplication": [
+    {
+      "name": "Amalgamation",
+      "code": "AMALGAMATION",
+      "active": true
+    }
+
+  ]
+}

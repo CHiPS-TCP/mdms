@@ -1,0 +1,17 @@
+{
+  "tenantId": "cg",
+  "moduleName": "AMALGAMATION",
+  "MasterPlan": [
+    {
+      "name": "WithIn",
+      "code": "WITHIN",
+      "active": true
+    },
+    {
+      "name": "Outside",
+      "code": "OUTSIDE",
+      "active": true
+    }
+
+  ]
+}

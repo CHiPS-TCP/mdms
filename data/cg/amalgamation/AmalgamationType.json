@@ -1,0 +1,89 @@
+{
+    "tenantId": "cg",
+    "moduleName": "AMALGAMATION",
+    "AmalgamationType": [
+
+        {
+         "code": "OBPAS_NOC",
+         "isActive": true,
+         "offlineWF":"OBPAS NOC_OFFLINE",
+         "onlineWF":"obpas-noc",
+         "mode":"online",
+         "NocUserRole":"OBPAS_NOC_APPROVER"
+      },
+
+
+
+{
+         "code": "obpas_noc",
+         "isActive": true,
+         "offlineWF":"OBPAS NOC_OFFLINE",
+         "onlineWF":"obpas-noc",
+         "mode":"online",
+         "NocUserRole":"OBPAS_NOC_APPROVER"
+      },
+
+
+      {
+         "code": "NOC",
+         "isActive": true,
+         "offlineWF":"NOC_OFFLINE",
+         "onlineWF":"obpas_noc",
+         "mode":"online",
+         "NocUserRole":"NOC_APPROVER"
+      },
+       {
+         "code": "AMALGAMATION",
+         "isActive": true,
+         "offlineWF":"LAYOUT_OFFLINE",
+         "onlineWF":"Layout_mcUp",
+         "mode":"online",
+         "AmalgamationUserRole":"AMALGAMATION_APPROVER"
+      },
+      {
+         "code": "AMALGAMATION",
+         "isActive": true,
+         "offlineWF":"LAYOUT_OFFLINE",
+         "onlineWF":"Layout_mcl_up",
+         "mode":"online",
+         "AmalgamationUserRole":"AMALGAMATION_APPROVER"
+      },
+	{
+         "code": "AMALGAMATION",
+         "isActive": true,
+         "offlineWF":"LAYOUT_OFFLINE",
+         "onlineWF":"Layout_mcl_abv",
+         "mode":"online",
+         "AmalgamationUserRole":"AMALGAMATION_APPROVER"
+      },
+	{
+         "code": "AMALGAMATION",
+         "isActive": true,
+         "offlineWF":"LAYOUT_OFFLINE",
+         "onlineWF":"Layout_mco_abv",
+         "mode":"online",
+         "AmalgamationUserRole":"AMALGAMATION_APPROVER"
+      },
+
+
+
+
+
+       {
+         "code": "FIRE_NOC",
+         "isActive": true,
+         "offlineWF":"FIRE_NOC_OFFLINE",
+         "onlineWF":"FIRENOC",
+         "mode":"online",
+         "NocUserRole":"FIRE_NOC_APPROVER"
+      },
+      {
+        "code":"AIRPORT_AUTHORITY",
+        "isActive": true,
+        "offlineWF":"AIRPORT_NOC_OFFLINE",
+        "onlineWF":"AIRPORT_NOC_SRV",
+        "mode":"offline",
+        "NocUserRole":"AIRPORT_AUTHORITY_APPROVER"
+      }
+    ]
+  }

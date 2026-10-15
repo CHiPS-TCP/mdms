@@ -860,6 +860,22 @@
     {
       "format": "CG/[DISTRICT.CODE]/TNCP/OCCAPP1/[cy:yyyy]/[SEQ_EG_OCC_APPVL_[TENANT_ID]]",
       "idname": "occupancy.approval.number"
+    },
+    {
+      "format": "CG/[DISTRICT.CODE]/TNCP/AL1/[cy:yyyy]/[SEQ_EG_AMALGAMATION_APP_[TENANT_ID]]",
+      "idname": "amalgamation.application.number"
+    },
+    {
+      "format": "CG/[DISTRICT.CODE]/TNCP/ALC1/[cy:yyyy]/[SEQ_EG_AMALGAMATION_APPVL_[TENANT_ID]]",
+      "idname": "amalgamation.approval.number"
+    },
+    {
+      "format": "LT-PAY1/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "amalgamation.pay1.receipt.id"
+    },
+    {
+      "format": "LT-PAY2/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "amalgamation.pay2.receipt.id"
     }
   ]
 }

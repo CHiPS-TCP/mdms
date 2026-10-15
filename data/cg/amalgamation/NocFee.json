@@ -1,0 +1,9 @@
+{
+  "tenantId": "cg",
+  "moduleName": "AMALGAMATION",
+  "NocFee": [
+    {
+      "flatFee": 100
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "tenantId": "cg",
+  "moduleName": "AMALGAMATION",
+  "AmalgamationDocuments": [
+    {
+      "code": "OWNER.DRAWING_PARKING_SERVICE_PLAN",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.DRAWING_PARKING_SERVICE_PLAN_DESCRIPTION",
+      "order": 1
+    },
+    {
+      "code": "OWNER.DRAWING_APPROACH_ROAD",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.DRAWING_APPROACH_ROAD_DESCRIPTION",
+      "order": 2
+    },
+    {
+      "code": "OWNER.SURVEY_PLAN_MAP",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.SURVEY_PLAN_MAP_DESCRIPTION",
+      "order": 3
+    },
+    {
+      "code": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP_DESCRIPTION",
+      "order": 4
+    },
+
+    {
+      "code": "OWNER.ADDITIONAL_DOCUMENTS",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.ADDITIONAL_DOCUMENTS_DESCRIPTION",
+      "order": 4
+    }, {
+      "code": "OWNER.PROOF_OF_IDENTITY",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.PROOF_OF_IDENTITY_DESCRIPTION",
+      "order": 6
+    },
+    {
+      "code": "OWNER.PROOF_OF_RESIDENCE",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.PROOF_OF_RESIDENCE_DESCRIPTION",
+      "order": 7
+    },
+    {
+      "code": "OWNER.SITEPHOTOGRAPHONE",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION",
+      "order": 8
+    },
+    {
+      "code": "OWNER.SITEPHOTOGRAPHTWO",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION",
+      "order": 9
+    },
+	{
+	  "code": "OWNER.SITEPHOTOGRAPHTHREE",
+	  "documentType": "OWNER",
+	  "required": true,
+	  "active": true,
+	  "description": "OWNER.SITEPHOTOGRAPHTHREE.SITEPHOTOGRAPHTHREE_DESCRIPTION",
+	  "order": 10
+	},
+	{
+	  "code": "OWNER.SITEPHOTOGRAPHFOUR",
+	  "documentType": "OWNER",
+	  "required": true,
+	  "active": true,
+	  "description": "OWNER.SITEPHOTOGRAPHFOUR.SITEPHOTOGRAPHFOUR_DESCRIPTION",
+	  "order": 11
+	}
+  ]
+}
