@@ -22373,6 +22373,13 @@
               "active": true,
               "halkaNumber": "00026",
               "riNumber": "04"
+            },
+            {
+              "code": "BODRI_MAN_4",
+              "name": "Bodri man 4",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
             }
           ]
         },

@@ -1,4 +1,4 @@
-﻿{
+{
   "tenantId": "cg",
   "moduleName": "BPA",
   "VillageToPlanningArea":[
@@ -26915,6 +26915,16 @@
     {
       "tehsilCode": "BILASPUR_BODRI",
       "villageCode": "BODSARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR_BODRI",
+      "villageCode": "BODRI_MAN_4",
       "planningAreas": [
         {
           "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
