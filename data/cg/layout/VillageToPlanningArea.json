@@ -26129,6 +26129,10 @@
         {
           "planningAreaCode": "ARPA_MASTER_PLAN",
           "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
         }
       ]
     },
@@ -26149,6 +26153,10 @@
         {
           "planningAreaCode": "ARPA_MASTER_PLAN",
           "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
         }
       ]
     },
@@ -26159,6 +26167,10 @@
         {
           "planningAreaCode": "ARPA_MASTER_PLAN",
           "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
         }
       ]
     },
@@ -26179,6 +26191,10 @@
         {
           "planningAreaCode": "ARPA_MASTER_PLAN",
           "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
         }
       ]
     },
@@ -26189,6 +26205,10 @@
         {
           "planningAreaCode": "ARPA_MASTER_PLAN",
           "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
         }
       ]
     },
@@ -26199,6 +26219,10 @@
         {
           "planningAreaCode": "ARPA_MASTER_PLAN",
           "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
         }
       ]
     },
@@ -26209,6 +26233,10 @@
         {
           "planningAreaCode": "ARPA_MASTER_PLAN",
           "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
         }
       ]
     },
@@ -26229,6 +26257,10 @@
         {
           "planningAreaCode": "ARPA_MASTER_PLAN",
           "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
         }
       ]
     },
@@ -26239,6 +26271,10 @@
         {
           "planningAreaCode": "ARPA_MASTER_PLAN",
           "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
         }
       ]
     },
@@ -26269,6 +26305,10 @@
         {
           "planningAreaCode": "ARPA_MASTER_PLAN",
           "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
         }
       ]
     },
@@ -26279,6 +26319,10 @@
         {
           "planningAreaCode": "ARPA_MASTER_PLAN",
           "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
         }
       ]
     },
@@ -26309,6 +26353,10 @@
         {
           "planningAreaCode": "ARPA_MASTER_PLAN",
           "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
         }
       ]
     },
@@ -26319,6 +26367,10 @@
         {
           "planningAreaCode": "ARPA_MASTER_PLAN",
           "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
         }
       ]
     },
@@ -26329,6 +26381,10 @@
         {
           "planningAreaCode": "ARPA_MASTER_PLAN",
           "planningAreaName": "Arpa Master Plan"
+        },
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
         }
       ]
     },
@@ -28999,6 +29055,36 @@
         {
           "planningAreaCode": "DONGARGARH_MASTER_PLAN",
           "planningAreaName": "Dongargarh Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILHA",
+      "villageCode": "KESLA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_BILHA_PLANNING_AREA",
+          "planningAreaName": "Bilha Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SIPAT",
+      "villageCode": "KAOUATAL",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SIPAT_MASTER_PLAN",
+          "planningAreaName": "Sipat Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "BILASPUR",
+      "villageCode": "KONI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
+          "planningAreaName": "Bilaspur Development Plan Master Plan"
         }
       ]
     }
