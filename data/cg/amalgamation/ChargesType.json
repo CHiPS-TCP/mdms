@@ -19,14 +19,8 @@
 					"taxHeadCode": "AMALGAMATION_PROCESSING_FEE",
 					"applicable": true
 
-				},
-				{
-					"name": "AMALGAMATION APPLICATION FEE",
-					"rate": 5000.00,
-					"taxHeadCode": "AMALGAMATION_APPLICATION_FEE",
-					"applicable": true
-
 				}
+
 			]
 		},
 		{
@@ -41,7 +35,7 @@
 			"Charges": [
 				{
 					"name": "AMALGAMATION FEE",
-					"rate": 0.0,
+					"rate": 25000.0,
 					"taxHeadCode": "AMALGAMATION_FEE",
 					"applicable": true
 
@@ -65,13 +59,6 @@
 					"taxHeadCode": "AMALGAMATION_PROCESSING_FEE",
 					"applicable": true
 
-				},
-				{
-					"name": "AMALGAMATION APPLICATION FEE",
-					"rate": 5000.00,
-					"taxHeadCode": "AMALGAMATION_APPLICATION_FEE",
-					"applicable": true
-
 				}
 			]
 		},
@@ -87,7 +74,7 @@
 			"Charges": [
 				{
 					"name": "AMALGAMATION FEE",
-					"rate": 0.0,
+					"rate": 25000.0,
 					"taxHeadCode": "AMALGAMATION_FEE",
 					"applicable": true
 
