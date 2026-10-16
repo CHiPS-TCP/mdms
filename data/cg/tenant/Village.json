@@ -17802,6 +17802,12 @@
           "villageCode": "439027"
         },
         {
+          "code": "BODRI_MAN_4",
+          "name": "Bodri man 4",
+          "active": true,
+          "villageCode": "438965"
+        },
+        {
           "code": "JHALFA",
           "name": "Jhalfa",
           "active": true,

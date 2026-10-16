@@ -1,4 +1,4 @@
-﻿{
+{
   "tenantId": "cg",
   "moduleName": "tenant",
   "ROMapping": [
@@ -10103,6 +10103,10 @@
             {
               "code": "JHALFA",
               "name": "Jhalfa"
+            },
+            {
+              "code": "BODRI_MAN_4",
+              "name": "Bodri man 4"
             }
           ]
         },
