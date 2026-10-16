@@ -17117,6 +17117,18 @@
           "name": "Mohra",
           "active": true,
           "villageCode": "438721"
+        },
+        {
+          "code": "KONI",
+          "name": "Koni",
+          "active": true,
+          "villageCode": "438767"
+        },
+        {
+          "code": "KONI",
+          "name": "Koni",
+          "active": true,
+          "villageCode": "100060"
         }
       ]
     },
@@ -17467,6 +17479,24 @@
           "name": "Ghonghadih",
           "active": true,
           "villageCode": "438595"
+        },
+        {
+          "code": "LOKHANDI",
+          "name": "Lokhandi",
+          "active": true,
+          "villageCode": "100043"
+        },
+        {
+          "code": "LOKHANDI",
+          "name": "Lokhandi",
+          "active": true,
+          "villageCode": "100044"
+        },
+        {
+          "code": "LOKHANDI",
+          "name": "Lokhandi",
+          "active": true,
+          "villageCode": "100045"
         }
       ]
     },
@@ -17588,6 +17618,12 @@
           "name": "Parsahi",
           "active": true,
           "villageCode": "438825"
+        },
+        {
+          "code": "KAOUATAL",
+          "name": "Kaouatal",
+          "active": true,
+          "villageCode": "438789"
         }
       ]
     },
@@ -17643,6 +17679,12 @@
           "name": "Patharkhan",
           "active": true,
           "villageCode": "438974"
+        },
+        {
+          "code": "KESLA",
+          "name": "Keshla",
+          "active": true,
+          "villageCode": "950201"
         }
       ]
     },

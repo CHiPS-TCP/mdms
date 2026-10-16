@@ -21908,13 +21908,6 @@
           "active": true,
           "villages": [
             {
-              "code": "SARKANDA",
-              "name": "Sarkanda",
-              "active": true,
-              "halkaNumber": "00032",
-              "riNumber": "06"
-            },
-            {
               "code": "TALAPARA",
               "name": "Talapara",
               "active": true,
@@ -22092,6 +22085,104 @@
             {
               "code": "DHUMA",
               "name": "Dhuma",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "KUDUDANDA",
+              "name": "Kududanda",
+              "active": true,
+              "halkaNumber": "00034",
+              "riNumber": "06"
+            },
+            {
+              "code": "JUNA_BILASPUR",
+              "name": "Juna Bilaspur",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "TORWA",
+              "name": "Torwa",
+              "active": true,
+              "halkaNumber": "00037",
+              "riNumber": "01"
+            },
+            {
+              "code": "SARKANDA",
+              "name": "Sarkanda",
+              "active": true,
+              "halkaNumber": "00032",
+              "riNumber": "06"
+            },
+            {
+              "code": "CHANTIDIH",
+              "name": "Chantidih",
+              "active": true,
+              "halkaNumber": "00033",
+              "riNumber": "06"
+            },
+            {
+              "code": "MANGALA",
+              "name": "Mangala",
+              "active": true,
+              "halkaNumber": "00035",
+              "riNumber": "06"
+            },
+            {
+              "code": "DEVRIKHURD",
+              "name": "Devrikhurd",
+              "active": true,
+              "halkaNumber": "00043",
+              "riNumber": "07"
+            },
+            {
+              "code": "DOMUKHANI",
+              "name": "Domukhani",
+              "active": true,
+              "halkaNumber": "00043",
+              "riNumber": "07"
+            },
+            {
+              "code": "MOPKA",
+              "name": "Mopka",
+              "active": true,
+              "halkaNumber": "00029",
+              "riNumber": "05"
+            },
+            {
+              "code": "LINGIYADIH",
+              "name": "Lingiyadih",
+              "active": true,
+              "halkaNumber": "00031",
+              "riNumber": "05"
+            },
+            {
+              "code": "KACHHAR",
+              "name": "Kachhar",
+              "active": true,
+              "halkaNumber": "00007",
+              "riNumber": "03"
+            },
+            {
+              "code": "SENDRI",
+              "name": "Sendri",
+              "active": true,
+              "halkaNumber": "00046",
+              "riNumber": "04"
+            },
+            {
+              "code": "KONI",
+              "name": "Koni",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "KONI",
+              "name": "Koni",
               "active": true,
               "halkaNumber": "",
               "riNumber": ""
@@ -22504,6 +22595,55 @@
               "riNumber": "01"
             }
           ]
+        },
+        {
+          "code": "SAKARI",
+          "name": "Sakari",
+          "active": true,
+          "villages": [
+            {
+              "code": "NIRTU",
+              "name": "Nirtu",
+              "active": true,
+              "halkaNumber": "00053",
+              "riNumber": "07"
+            },
+            {
+              "code": "TURKADIH",
+              "name": "Turkadih",
+              "active": true,
+              "halkaNumber": "00054",
+              "riNumber": "07"
+            },
+            {
+              "code": "LOKHANDI",
+              "name": "Lokhandi",
+              "active": true,
+              "halkaNumber": "00012",
+              "riNumber": "03"
+            },
+            {
+              "code": "LOKHANDI",
+              "name": "Lokhandi",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "LOKHANDI",
+              "name": "Lokhandi",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "LOKHANDI",
+              "name": "Lokhandi",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            }
+          ]
         }
       ]
     },
@@ -22544,6 +22684,13 @@
             {
               "code": "PATHARKHAN",
               "name": "Patharkhan",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "KESLA",
+              "name": "Keshla",
               "active": true,
               "halkaNumber": "",
               "riNumber": ""
@@ -23732,6 +23879,13 @@
             {
               "code": "PARSAHI",
               "name": "Parsahi",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "KAOUATAL",
+              "name": "Kaouatal",
               "active": true,
               "halkaNumber": "",
               "riNumber": ""
