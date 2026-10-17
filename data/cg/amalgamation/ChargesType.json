@@ -35,7 +35,8 @@
 			"Charges": [
 				{
 					"name": "AMALGAMATION FEE",
-					"rate": 25000.0,
+					"fee": 25000.0,
+					"rate": 0.0,
 					"taxHeadCode": "AMALGAMATION_FEE",
 					"applicable": true
 
@@ -74,7 +75,8 @@
 			"Charges": [
 				{
 					"name": "AMALGAMATION FEE",
-					"rate": 25000.0,
+					"fee": 25000.0,
+					"rate": 0.0,
 					"taxHeadCode": "AMALGAMATION_FEE",
 					"applicable": true
 
