@@ -39,12 +39,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -1440,12 +1440,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -2608,12 +2608,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -3771,12 +3771,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -4934,12 +4934,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -6171,12 +6171,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -7498,7 +7498,7 @@
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "percent": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -8864,12 +8864,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -10265,12 +10265,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -11666,12 +11666,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -13067,12 +13067,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -14468,12 +14468,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -15869,12 +15869,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -17270,12 +17270,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -18438,12 +18438,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -19606,12 +19606,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -20774,12 +20774,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -21942,12 +21942,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -23105,12 +23105,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -24268,12 +24268,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -25431,12 +25431,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -26594,12 +26594,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -27757,12 +27757,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -28920,12 +28920,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -30083,12 +30083,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -31246,12 +31246,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -32409,12 +32409,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -33646,12 +33646,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -34883,12 +34883,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -36120,12 +36120,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -37357,12 +37357,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -38594,12 +38594,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -39852,12 +39852,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":50
+                                "percentage":50
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -41093,12 +41093,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value": 40
+                                "percentage": 40
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -42313,12 +42313,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -43550,12 +43550,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -44784,7 +44784,7 @@
 						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
 						"unit": "percent",
-						"value": 40
+						"percentage": 40
 					},
 					"basementSetback": {
                         "minPlotArea": 400,
@@ -46091,7 +46091,7 @@
 						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
 						"unit": "percent",
-						"value": 40
+						"percentage": 40
 					},
 					"basementSetback": {
                         "minPlotArea": 400,
@@ -47401,12 +47401,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -48728,7 +48728,7 @@
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "percent": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -50184,7 +50184,7 @@
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "percent": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -51640,7 +51640,7 @@
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "percent": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -53096,7 +53096,7 @@
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "percent": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -54552,7 +54552,7 @@
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "percent": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -56008,7 +56008,7 @@
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "percent": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -57394,7 +57394,7 @@
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "percent": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -58620,12 +58620,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -59816,12 +59816,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -61132,7 +61132,7 @@
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "percent": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -62498,12 +62498,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -63694,12 +63694,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -65010,7 +65010,7 @@
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "percent": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -66376,12 +66376,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -67867,12 +67867,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -69358,12 +69358,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -70849,12 +70849,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -72340,12 +72340,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
@@ -73536,12 +73536,12 @@
                                 "min": 0,
                                 "max": 14.99,
                                 "type": "SIMPLE",
-                                "value":100
+                                "percentage":100
                             },
                             {
                                 "min": 15,
                                 "max": 999999999,
-                                "value": 40
+                                "percentage": 40
                             }
                         ]
                     },
