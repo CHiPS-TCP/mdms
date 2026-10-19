@@ -7213,20 +7213,6 @@
           ]
         },
         {
-          "code": "POUSAUR",
-          "name": "Pousaur",
-          "active": true,
-          "villages": [
-            {
-              "code": "SAHDEVPALI",
-              "name": "Sahdevpali",
-              "active": true,
-              "halkaNumber": "00017",
-              "riNumber": "04"
-            }
-          ]
-        },
-        {
           "code": "PUSSORE",
           "name": "Pussore",
           "active": true,
@@ -7272,6 +7258,13 @@
               "active": true,
               "halkaNumber": "00042",
               "riNumber": "05"
+            },
+            {
+              "code": "SAHDEVPALI",
+              "name": "Sahdevpali",
+              "active": true,
+              "halkaNumber": "00017",
+              "riNumber": "04"
             }
           ]
         }
@@ -11494,8 +11487,8 @@
       "regionalOffice": "Kawardha",
       "tehsils": [
         {
-          "code": "S_LOHARA",
-          "name": "S. Lohara",
+          "code": "SAHASPUR_LOHARA",
+          "name": "Sahaspur Lohara",
           "active": true,
           "villages": [
             {
@@ -12358,6 +12351,13 @@
               "active": true,
               "halkaNumber": "00007",
               "riNumber": "02"
+            },
+            {
+              "code": "MUCHNAR",
+              "name": "Muchnar",
+              "active": true,
+              "halkaNumber": "00002",
+              "riNumber": "02"
             }
           ]
         },
@@ -12386,20 +12386,6 @@
               "active": true,
               "halkaNumber": "00020",
               "riNumber": "01"
-            }
-          ]
-        },
-        {
-          "code": "BARSOOR",
-          "name": "Barsoor",
-          "active": true,
-          "villages": [
-            {
-              "code": "MUCHNAR",
-              "name": "Muchnar",
-              "active": true,
-              "halkaNumber": "00002",
-              "riNumber": "02"
             }
           ]
         }
@@ -18829,55 +18815,6 @@
           ]
         },
         {
-          "code": "MANENDRAGARH",
-          "name": "Manendragarh",
-          "active": true,
-          "villages": [
-            {
-              "code": "LAI",
-              "name": "Lai",
-              "active": true,
-              "halkaNumber": "",
-              "riNumber": ""
-            },
-            {
-              "code": "SENDHA",
-              "name": "Sendha",
-              "active": true,
-              "halkaNumber": "",
-              "riNumber": ""
-            },
-            {
-              "code": "MORGA",
-              "name": "Morga",
-              "active": true,
-              "halkaNumber": "",
-              "riNumber": ""
-            },
-            {
-              "code": "DARRITOLA",
-              "name": "Darritola",
-              "active": true,
-              "halkaNumber": "",
-              "riNumber": ""
-            },
-            {
-              "code": "LOHARI",
-              "name": "Lohari",
-              "active": true,
-              "halkaNumber": "",
-              "riNumber": ""
-            },
-            {
-              "code": "NAWAPARA",
-              "name": "Nawapara",
-              "active": true,
-              "halkaNumber": "",
-              "riNumber": ""
-            }
-          ]
-        },
-        {
           "code": "MANENDRAGADH",
           "name": "Manendragadh",
           "active": true,
@@ -18946,6 +18883,48 @@
             {
               "code": "SEMRA",
               "name": "Semra",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "LAI",
+              "name": "Lai",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "SENDHA",
+              "name": "Sendha",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "MORGA",
+              "name": "Morga",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "DARRITOLA",
+              "name": "Darritola",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "LOHARI",
+              "name": "Lohari",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "NAWAPARA",
+              "name": "Nawapara",
               "active": true,
               "halkaNumber": "",
               "riNumber": ""
@@ -21447,8 +21426,8 @@
       "regionalOffice": "Ambikapur",
       "tehsils": [
         {
-          "code": "PRATAPUR",
-          "name": "Pratapur",
+          "code": "PRATAPPUR",
+          "name": "Pratappur",
           "active": true,
           "villages": [
             {
@@ -21619,6 +21598,20 @@
               "active": true,
               "halkaNumber": "00012",
               "riNumber": "03"
+            },
+            {
+              "code": "KORANDHA",
+              "name": "Korandha",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "SUNDHOPARA",
+              "name": "Sundhopara",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
             }
           ]
         },
@@ -21633,27 +21626,6 @@
               "active": true,
               "halkaNumber": "00034",
               "riNumber": "06"
-            }
-          ]
-        },
-        {
-          "code": "PRATAPUR",
-          "name": "Pratapur",
-          "active": true,
-          "villages": [
-            {
-              "code": "KORANDHA",
-              "name": "Korandha",
-              "active": true,
-              "halkaNumber": "",
-              "riNumber": ""
-            },
-            {
-              "code": "SUNDHOPARA",
-              "name": "Sundhopara",
-              "active": true,
-              "halkaNumber": "",
-              "riNumber": ""
             }
           ]
         }
@@ -21851,8 +21823,8 @@
           ]
         },
         {
-          "code": "SAKARI",
-          "name": "Sakari",
+          "code": "SAKRI",
+          "name": "Sakri",
           "active": true,
           "villages": [
             {
@@ -22546,6 +22518,48 @@
               "active": true,
               "halkaNumber": "00040",
               "riNumber": "07"
+            },
+            {
+              "code": "NIRTU",
+              "name": "Nirtu",
+              "active": true,
+              "halkaNumber": "00053",
+              "riNumber": "07"
+            },
+            {
+              "code": "TURKADIH",
+              "name": "Turkadih",
+              "active": true,
+              "halkaNumber": "00054",
+              "riNumber": "07"
+            },
+            {
+              "code": "LOKHANDI",
+              "name": "Lokhandi",
+              "active": true,
+              "halkaNumber": "00012",
+              "riNumber": "03"
+            },
+            {
+              "code": "LOKHANDI",
+              "name": "Lokhandi",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "LOKHANDI",
+              "name": "Lokhandi",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
+            },
+            {
+              "code": "LOKHANDI",
+              "name": "Lokhandi",
+              "active": true,
+              "halkaNumber": "",
+              "riNumber": ""
             }
           ]
         },
@@ -22600,55 +22614,6 @@
               "active": true,
               "halkaNumber": "00002",
               "riNumber": "01"
-            }
-          ]
-        },
-        {
-          "code": "SAKARI",
-          "name": "Sakari",
-          "active": true,
-          "villages": [
-            {
-              "code": "NIRTU",
-              "name": "Nirtu",
-              "active": true,
-              "halkaNumber": "00053",
-              "riNumber": "07"
-            },
-            {
-              "code": "TURKADIH",
-              "name": "Turkadih",
-              "active": true,
-              "halkaNumber": "00054",
-              "riNumber": "07"
-            },
-            {
-              "code": "LOKHANDI",
-              "name": "Lokhandi",
-              "active": true,
-              "halkaNumber": "00012",
-              "riNumber": "03"
-            },
-            {
-              "code": "LOKHANDI",
-              "name": "Lokhandi",
-              "active": true,
-              "halkaNumber": "",
-              "riNumber": ""
-            },
-            {
-              "code": "LOKHANDI",
-              "name": "Lokhandi",
-              "active": true,
-              "halkaNumber": "",
-              "riNumber": ""
-            },
-            {
-              "code": "LOKHANDI",
-              "name": "Lokhandi",
-              "active": true,
-              "halkaNumber": "",
-              "riNumber": ""
             }
           ]
         }
@@ -22751,8 +22716,8 @@
       "regionalOffice": "Bilaspur",
       "tehsils": [
         {
-          "code": "SAKARI",
-          "name": "Sakari",
+          "code": "SAKRI",
+          "name": "Sakri",
           "active": true,
           "villages": [
             {
