@@ -13,7 +13,7 @@
 			"OccType": [
 				{
 					"OccupancyType": "A-AF",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Apartment/Flat",
 					"isActive": true,
 					"plotArea": {
@@ -181,7 +181,7 @@
 							}
 						]
 					}
-				],				
+					],				
 					"mainRoadWidth": {
 						"mandatory": true,
 						"type": "SLAB",
@@ -1724,7 +1724,7 @@
 				},
 				{
 					"OccupancyType": "A-R",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Residential",
 					"isActive": true,
 					"plotArea": {
@@ -3440,7 +3440,7 @@
 				},
 				{
 					"OccupancyType": "A-FH",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Farm House",
 					"isActive": true,
 					"plotArea": {
@@ -3523,7 +3523,7 @@
 						]
 					}
 					]
-				},
+					},
 					"basementSetback": {
                         "minPlotArea": 400,
 						"type": "MAP",
@@ -5066,7 +5066,7 @@
 				},				
 				{
 					"OccupancyType": "E-OB",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Commercial (Office/Business)",
 					"isActive": true,
 					"plotArea": {
@@ -6527,7 +6527,7 @@
 				},
 				{
 					"OccupancyType": "F-HM",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Commercial",
 					"isActive": true,
 					"plotArea": {
@@ -7899,7 +7899,7 @@
 				},
 				{
 					"OccupancyType": "F-RT",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Restaurants",
 					"isActive": true,
 					"plotArea": {
@@ -9271,7 +9271,7 @@
 				},
 				{
 					"OccupancyType": "F-CB",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Commercial Building",
 					"isActive": true,
 					"plotArea": {
@@ -10724,7 +10724,7 @@
 				},
 				{
 					"OccupancyType": "F-SWG",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Storage, Warehouse, Godown",
 					"isActive": true,
 					"plotArea": {
@@ -12100,7 +12100,7 @@
 				},
 				{
 					"OccupancyType": "F-CA",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Cinemas and Auditoriums",
 					"isActive": true,
 					"plotArea": {
@@ -13517,7 +13517,7 @@
 				},
 				{
 					"OccupancyType": "F-PS",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Petrol Station",
 					"isActive": true,
 					"plotArea": {
@@ -13548,7 +13548,7 @@
 						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": 40
-				},
+					},
 					"basementSetback": {
                         "minPlotArea": 400,
 						"type": "MAP",
@@ -14815,7 +14815,7 @@
 				},
 				{
 					"OccupancyType": "F-PFSS",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Petrol Filling station service",
 					"isActive": true,
 					"plotArea": {
@@ -16113,7 +16113,7 @@
 				},
 				{
 					"OccupancyType": "B-E",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Educational",
 					"isActive": true,
 					"plotArea": {
@@ -17523,7 +17523,7 @@
 				},
 				{
 					"OccupancyType": "C-I",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Institutional",
 					"isActive": true,
 					"plotArea": {
@@ -18933,7 +18933,7 @@
 				},
 				{
 					"OccupancyType": "D-AS1",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Assembly",
 					"isActive": true,
 					"plotArea": {
@@ -20381,7 +20381,7 @@
 				},
 				{
 					"OccupancyType": "D-AS2",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Assembly",
 					"isActive": true,
 					"plotArea": {
@@ -21829,7 +21829,7 @@
 				},
 				{
 					"OccupancyType": "G-WT",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Industrial",
 					"isActive": true,
 					"plotArea": {
@@ -21841,7 +21841,108 @@
 							"min": 150,
 							"max": 0
 						}
-						},
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 239.99,
+                                        "percentage": 75
+                                    },
+									{
+                                        "min": 240,
+                                        "max": 499.99,
+                                        "percentage": 60
+                                    },
+									{
+                                        "min": 500,
+                                        "max": 999.99,
+                                        "percentage": 55
+                                    },
+									{
+                                        "min": 1000,
+                                        "max": 1999.99,
+                                        "percentage": 50
+                                    },
+									{
+                                        "min": 2000,
+                                        "max": 9999.99,
+                                        "percentage": 45
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 19999.99,
+                                        "percentage": 45
+                                    },
+									{
+                                        "min": 20000,
+                                        "max": 999999999,
+                                        "percentage": 35
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 23.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 8000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 8000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+							{
+                                "min": 24,
+                                "max": 29.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 10000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+					{
+                                "min": 30,
+                                "max": 999999999,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "percentage": 40
+                                    }
+						]
+					}
+					]
+					},
 					"basementSetback": {
                         "minPlotArea": 400,
 						"type": "MAP",
@@ -23116,7 +23217,7 @@
 				},
 				{
 					"OccupancyType": "G-I",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Industrial",
 					"isActive": true,
 					"plotArea": {
@@ -23129,6 +23230,107 @@
 							"max": 0
 						}
 						},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 239.99,
+                                        "percentage": 75
+                                    },
+									{
+                                        "min": 240,
+                                        "max": 499.99,
+                                        "percentage": 60
+                                    },
+									{
+                                        "min": 500,
+                                        "max": 999.99,
+                                        "percentage": 55
+                                    },
+									{
+                                        "min": 1000,
+                                        "max": 1999.99,
+                                        "percentage": 50
+                                    },
+									{
+                                        "min": 2000,
+                                        "max": 9999.99,
+                                        "percentage": 45
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 19999.99,
+                                        "percentage": 45
+                                    },
+									{
+                                        "min": 20000,
+                                        "max": 999999999,
+                                        "percentage": 35
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 23.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 8000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 8000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+							{
+                                "min": 24,
+                                "max": 29.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 10000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+					{
+                                "min": 30,
+                                "max": 999999999,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "percentage": 40
+                                    }
+						]
+					}
+					]
+					},
 					"basementSetback": {
                         "minPlotArea": 400,
 						"type": "MAP",
@@ -24403,7 +24605,7 @@
 				},
 				{
 					"OccupancyType": "I",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Industrial",
 					"isActive": true,
 					"plotArea": {
@@ -24416,6 +24618,77 @@
 							"max": 0
 						}
 						},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 23.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 8000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 8000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+							{
+                                "min": 24,
+                                "max": 29.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 10000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+					{
+                                "min": 30,
+                                "max": 999999999,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "percentage": 40
+                                    }
+						]
+					}
+					]
+					},
 					"basementSetback": {
                         "minPlotArea": 400,
 						"type": "MAP",
@@ -25690,7 +25963,7 @@
 				},
 				{
 					"OccupancyType": "G-GI",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Industrial",
 					"isActive": true,
 					"plotArea": {
@@ -25703,6 +25976,107 @@
 							"max": 0
 						}
 						},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 239.99,
+                                        "percentage": 75
+                                    },
+									{
+                                        "min": 240,
+                                        "max": 499.99,
+                                        "percentage": 60
+                                    },
+									{
+                                        "min": 500,
+                                        "max": 999.99,
+                                        "percentage": 55
+                                    },
+									{
+                                        "min": 1000,
+                                        "max": 1999.99,
+                                        "percentage": 50
+                                    },
+									{
+                                        "min": 2000,
+                                        "max": 9999.99,
+                                        "percentage": 45
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 19999.99,
+                                        "percentage": 45
+                                    },
+									{
+                                        "min": 20000,
+                                        "max": 999999999,
+                                        "percentage": 35
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 23.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 8000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 8000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+							{
+                                "min": 24,
+                                "max": 29.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 10000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+					{
+                                "min": 30,
+                                "max": 999999999,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "percentage": 40
+                                    }
+						]
+					}
+					]
+					},
 					"basementSetback": {
                         "minPlotArea": 400,
 						"type": "MAP",
@@ -26977,7 +27351,7 @@
 				},
 				{
 					"OccupancyType": "G-GIF",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "General Industry Flatted",
 					"isActive": true,
 					"plotArea": {
@@ -26986,9 +27360,84 @@
 						"valueType": "DOUBLE",
 						"unit": "m",
 						"value": {
-							"min": 30,
+							"min": 1000,
 							"max": 0
 						}
+					},
+					"FAR": {
+                        "type": "SIMPLE",
+                        "value": 1.5
+                    },
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 50
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 23.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 8000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 8000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+							{
+                                "min": 24,
+                                "max": 29.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 10000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+					{
+                                "min": 30,
+                                "max": 999999999,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "percentage": 40
+                                    }
+						]
+					}
+					]
 					},
 					"basementSetback": {
                         "minPlotArea": 400,
@@ -27212,7 +27661,7 @@
 								"mandatory": true,
 								"type": "SIMPLE",
 								"unit": "m",
-								"value": 8
+								"value": 6
 							},
 							"rear": {
 								"mandatory": true,
@@ -27240,8 +27689,8 @@
 						"valueType": "OBJECT",
 						"value": [
 							{
-								"divideBy": 200,
-								"min": 2
+								"divideBy": 100,
+								"min": 0
 							}
 						]
 					},
@@ -28116,7 +28565,7 @@
 				},
 				{
 					"OccupancyType": "G-F",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Factory",
 					"isActive": true,
 					"plotArea": {
@@ -28129,6 +28578,107 @@
 							"max": 0
 						}
 						},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 239.99,
+                                        "percentage": 75
+                                    },
+									{
+                                        "min": 240,
+                                        "max": 499.99,
+                                        "percentage": 60
+                                    },
+									{
+                                        "min": 500,
+                                        "max": 999.99,
+                                        "percentage": 55
+                                    },
+									{
+                                        "min": 1000,
+                                        "max": 1999.99,
+                                        "percentage": 50
+                                    },
+									{
+                                        "min": 2000,
+                                        "max": 9999.99,
+                                        "percentage": 45
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 19999.99,
+                                        "percentage": 45
+                                    },
+									{
+                                        "min": 20000,
+                                        "max": 999999999,
+                                        "percentage": 35
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 23.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 8000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 8000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+							{
+                                "min": 24,
+                                "max": 29.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 10000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+					{
+                                "min": 30,
+                                "max": 999999999,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "percentage": 40
+                                    }
+						]
+					}
+					]
+					},
 					"basementSetback": {
                         "minPlotArea": 400,
 						"type": "MAP",
@@ -29403,7 +29953,7 @@
 				},
 				{
 					"OccupancyType": "I-1",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Hazardous (I1)",
 					"isActive": true,
 					"plotArea": {
@@ -29416,6 +29966,77 @@
 							"max": 0
 						}
 						},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 23.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 8000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 8000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+							{
+                                "min": 24,
+                                "max": 29.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 10000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+					{
+                                "min": 30,
+                                "max": 999999999,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "percentage": 40
+                                    }
+						]
+					}
+					]
+					},
 					"basementSetback": {
                         "minPlotArea": 400,
 						"type": "MAP",
@@ -30690,7 +31311,7 @@
 				},
 				{
 					"OccupancyType": "I-2",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Hazardous (I2)",
 					"isActive": true,
 					"plotArea": {
@@ -30702,7 +31323,78 @@
 							"min": 150,
 							"max": 0
 						}
-						},
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 99999999,
+                                        "percentage": 100
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 23.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 8000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 8000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+							{
+                                "min": 24,
+                                "max": 29.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 10000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+					{
+                                "min": 30,
+                                "max": 999999999,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "percentage": 40
+                                    }
+						]
+					}
+					]
+					},
 					"basementSetback": {
                         "minPlotArea": 400,
 						"type": "MAP",
@@ -31977,7 +32669,1395 @@
 				},
 				{
 					"OccupancyType": "H-A1I",
-					"occVersion": "1.0.002",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Brick Kiln, Fly Ash Based Production",
+					"isActive": true,
+					"plotArea": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 150,
+							"max": 0
+						}
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 239.99,
+                                        "percentage": 75
+                                    },
+									{
+                                        "min": 240,
+                                        "max": 499.99,
+                                        "percentage": 60
+                                    },
+									{
+                                        "min": 500,
+                                        "max": 999.99,
+                                        "percentage": 55
+                                    },
+									{
+                                        "min": 1000,
+                                        "max": 1999.99,
+                                        "percentage": 50
+                                    },
+									{
+                                        "min": 2000,
+                                        "max": 9999.99,
+                                        "percentage": 45
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 19999.99,
+                                        "percentage": 45
+                                    },
+									{
+                                        "min": 20000,
+                                        "max": 999999999,
+                                        "percentage": 35
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 23.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 8000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 8000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+							{
+                                "min": 24,
+                                "max": 29.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 10000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+					{
+                                "min": 30,
+                                "max": 999999999,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "percentage": 40
+                                    }
+						]
+					}
+					]
+					},
+					"basementSetback": {
+                        "minPlotArea": 400,
+						"type": "MAP",
+                        "valueType": "OBJECT",
+                        "value": {
+                            "front": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "value": 6
+                                    }
+                                   
+                                ]
+                            },
+                            "rear": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "value": 3
+                                    }
+                                ]
+                            },
+                            "side1": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                                "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "value": 3
+                                    }
+                                ]
+                            },
+                            "side2": {
+                                "mandatory": true,
+                                "type": "SLAB",
+                               "useVariable": "buildingHeight",
+                                "unit": "m",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "value": 3
+                                    }
+                                ]
+                            }
+                        }
+                    },
+					"mainRoadWidth": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 999999999,
+								"value": 12.0
+							}
+						]
+					},
+					"electricalLine": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 33.0,
+								"value": 1.2
+							},
+							{
+								"min": 33.01,
+								"max": 999999999,
+								"value": 7.5
+							}
+						]
+					},
+					"buildingDistance": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"distanceFromParking": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 3.6
+							},
+							"distanceFromParkingFront": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 6
+							},
+							"distanceFromInternalRoad": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 3.0
+							},
+							"distanceFromRecreationalGround": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 3.0
+							}
+						}
+					},
+					"internalRoadWidth": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"useVariable": "roadLength",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 200.0,
+								"value": 12.0
+							},
+							{
+								"min": 200.01,
+								"max": 400.0,
+								"value": 15.0
+							},
+							{
+								"min": 400.01,
+								"max": 600.0,
+								"value": 18.0
+							},
+							{
+								"min": 600.01,
+								"max": 999999999,
+								"value": 24.0
+							}
+						]
+					},
+					"rightOfWayWidth": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"value": 12.0
+							}
+						]
+					},
+					"subPlotArea": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": 150.0
+					},
+					"subPlotWidth": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": 10.0
+					},
+					"roadWidth": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": [
+							{
+								"min": 0,
+								"max": 100,
+								"normal": 6,
+								"purchasable": 9
+							},
+							{
+								"min": 100,
+								"max": 200,
+								"normal": 6,
+								"purchasable": 9
+							},
+							{
+								"min": 200,
+								"max": 450,
+								"normal": 6,
+								"purchasable": 12
+							},
+							{
+								"min": 450,
+								"max": 999,
+								"normal": 6,
+								"purchasable": 12
+							}
+						]
+					},
+					"height": {
+						"mandatory": true,
+						"type": "MULTI",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"fixed": 0							
+						}
+					},
+					"setbacks": {
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"front": {
+								"mandatory": true,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"unit": "m",
+								"value": [
+											{
+												"min": 0,
+												"max": 239.99,
+												"value": 1
+											},
+											{
+												"min": 240,
+												"max": 499.99,
+												"value": 3
+											},
+											{
+												"min": 500,
+												"max": 999.99,
+												"value": 5
+											},
+											{
+												"min": 1000,
+												"max": 1999.99,
+												"value": 9
+											},
+											{
+												"min": 2000,
+												"max": 9999.99,
+												"value": 10
+											},
+											{
+												"min": 10000,
+												"max": 19999.99,
+												"value": 12
+											},
+											{
+												"min": 20000,
+												"max": 999999999,
+												"value": 15
+											}
+										]
+							},
+							"rear": {
+								"mandatory": true,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"unit": "m",
+								"value": [
+											{
+												"min": 0,
+												"max": 239.99,
+												"value": 1
+											},
+											{
+												"min": 240,
+												"max": 499.99,
+												"value": 2.5
+											},
+											{
+												"min": 500,
+												"max": 999.99,
+												"value": 2.5
+											},
+											{
+												"min": 1000,
+												"max": 1999.99,
+												"value": 3
+											},
+											{
+												"min": 2000,
+												"max": 9999.99,
+												"value": 3
+											},
+											{
+												"min": 10000,
+												"max": 19999.99,
+												"value": 4.5
+											},
+											{
+												"min": 20000,
+												"max": 999999999,
+												"value": 4.5
+											}
+										]
+							},
+							"side1": {
+								"mandatory": true,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"unit": "m",
+								"value": [
+											{
+												"min": 0,
+												"max": 239.99,
+												"value": 0
+											},
+											{
+												"min": 240,
+												"max": 499.99,
+												"value": 3
+											},
+											{
+												"min": 500,
+												"max": 999.99,
+												"value": 4
+											},
+											{
+												"min": 1000,
+												"max": 1999.99,
+												"value": 4.5
+											},
+											{
+												"min": 2000,
+												"max": 9999.99,
+												"value": 6
+											},
+											{
+												"min": 10000,
+												"max": 19999.99,
+												"value": 6
+											},
+											{
+												"min": 20000,
+												"max": 999999999,
+												"value": 6
+											}
+										]
+							},
+							"side2": {
+								"mandatory": true,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"unit": "m",
+								"value": [
+											{
+												"min": 0,
+												"max": 239.99,
+												"value": 0
+											},
+											{
+												"min": 240,
+												"max": 499.99,
+												"value": 2.5
+											},
+											{
+												"min": 500,
+												"max": 999.99,
+												"value": 2.5
+											},
+											{
+												"min": 1000,
+												"max": 1999.99,
+												"value": 3
+											},
+											{
+												"min": 2000,
+												"max": 9999.99,
+												"value": 4.5
+											},
+											{
+												"min": 10000,
+												"max": 19999.99,
+												"value": 6
+											},
+											{
+												"min": 20000,
+												"max": 999999999,
+												"value": 6
+											}
+										]
+							}
+						}
+					},
+					"parking": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"divideBy": 100,
+								"min": 0
+							}
+						]
+					},
+					"generalStaircase": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"landingWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.76,
+									"max": 0.0,
+									"default": 1.5
+								}
+							},
+							"numberOfRisers": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 15
+								}
+							},
+							"riserHeight": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.19
+								}
+							},
+							"treadWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.25,
+									"max": 0.0,
+									"default": 0.3
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.76,
+									"max": 0.0,
+									"default": 1.5
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 0.0
+								}
+							},
+							"riserValidation": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": {
+									"mandatoryForAllFloorsExceptTop": true
+								}
+							}
+						}
+					},
+					"fireStaircase": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"landingWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.76,
+									"default": 1.5
+								}
+							},
+							"numberOfRisers": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 12
+								}
+							},
+							"riserHeight": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.19
+								}
+							},
+							"treadWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.25,
+									"default": 0.3
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.76,
+									"default": 1.5
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 9999999999
+								}
+							},
+							"riserValidation": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": {
+									"mandatoryForAllFloorsExceptTop": true
+								}
+							}
+						}
+					},
+					"regularRoom": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"ventilation": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 20,
+									"max": 9999999999
+								}
+							},
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 7.5,
+									"max": 46.45
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 9999999999
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"door": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.0,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"window": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.6,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"nonHabitationDoor": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.6,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 20,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"residentialAcRoom": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"kitchen": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 5,
+									"max": 0.0
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.8,
+									"max": 0.0
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 0.0
+								}
+							},
+							"storeArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 4.5,
+									"max": 0.0
+								}
+							},
+							"storewidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.8,
+									"max": 0.0
+								}
+							},
+							"diningArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 7.5,
+									"max": 0.0
+								}
+							},
+							"diningwidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.1,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"plantationArea": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 0
+					},
+					"amenitiesArea": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0.0,
+								"max": 1000.0,
+								"value": 0.0
+							},
+							{
+								"min": 1000.01,
+								"max": 999999999,
+								"value": 10.0
+							}
+						]
+					},
+					"toilet": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"ventilation": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.3,
+									"max": 0.0
+								}
+							},
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.8,
+									"max": 0.0
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.3,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"heightExclusions": {
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true,
+							"acHeight": 0.5,
+							"stiltService": 0.9
+						}
+					},
+					"twoStreetPlots": {
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"frontSetbackBothRoads": {
+								"type": "STRING",
+								"valueType": "STRING",
+								"mandatory": true,
+								"value": "compulsory"
+							},
+							"coverageCompensation": {
+								"type": "STRING",
+								"valueType": "STRING",
+								"mandatory": true,
+								"value": "FAR"
+							}
+						}
+					},
+					"heightOfFloor": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"normal": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.60,
+									"max": 0.0
+								}
+							},
+							"stilt": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.40,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"balcony": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.91,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"basement": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.2,
+									"max": 1.5
+								}
+							}
+						}
+					},
+					"bathRoom": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.8,
+									"max": 0.0
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.2,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"bathRoomWaterCloset": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.1,
+									"max": 0.0
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"chimney": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.0,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"fireTenderMovement": {
+						"mandatory": false,
+						"type": "MAP",
+						"value": {
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"description": "Gap between two bulding on base of bulding height",
+								"value": [
+									{
+										"min": 0,
+										"max": 15,
+										"value": 4.5
+									},
+									{
+										"min": 15.01,
+										"max": 25,
+										"value": 6.0
+									},
+									{
+										"min": 25.01,
+										"max": 35,
+										"value": 9.0
+									}
+								]
+							}
+						}
+					},
+					"gate": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"govtBuilding": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 10.0,
+									"max": 0.0
+								}
+							},
+							"distance": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 200.0,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"guardRoom": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 4.0,
+									"max": 0.0
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 3.0,
+									"max": 0.0
+								}
+							},
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 10.0,
+									"max": 0.0
+								}
+							},
+							"cabinHeight": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.75,
+									"max": 2.2
+								}
+							}
+						}
+					},
+					"interiorCourtYard": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 9.0,
+									"max": 0.0
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 3.0,
+									"max": 0.0
+								}
+							},
+							"ventilationShaftArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.2,
+									"max": 0.0
+								}
+							},
+							"ventilationShaftWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"headRoom": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.0,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"lift": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.0
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"overHang": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.75,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"parapet": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.2,
+									"max": 1.5
+								}
+							}
+						}
+					},
+					"ramp": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"slope": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.0
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.5,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"riverDistance": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"distanceFromFloodLevel": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 9.0
+							},
+							"distanceFromMainRiverEdge": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": 15.0
+							}
+						}
+					},
+					"roofTank": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.0,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"travelDistanceToExit": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"length": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 20.0,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"verandah": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.8,
+									"max": 0.0
+								}
+							},
+							"depth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 3.66,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"plinth": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.45,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"ventilation": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"bath": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.3,
+									"max": 0.0
+								}
+							},
+							"regularRoom": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"valueType": "INTEGER",
+								"unit": "percent",
+								"value": 10
+							},
+							"commonVentilation": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"valueType": "INTEGER",
+								"unit": "percent",
+								"value": 8
+							}
+						}
+					}
+				},
+				{
+					"OccupancyType": "H-A2I",
+					"occVersion": "1.0.0",
 					"OccupancyName": "Industrial",
 					"isActive": true,
 					"plotArea": {
@@ -31989,7 +34069,108 @@
 							"min": 150,
 							"max": 0
 						}
-						},
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"useVariable": "buildingHeight",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+                                "max": 14.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 239.99,
+                                        "percentage": 75
+                                    },
+									{
+                                        "min": 240,
+                                        "max": 499.99,
+                                        "percentage": 60
+                                    },
+									{
+                                        "min": 500,
+                                        "max": 999.99,
+                                        "percentage": 55
+                                    },
+									{
+                                        "min": 1000,
+                                        "max": 1999.99,
+                                        "percentage": 50
+                                    },
+									{
+                                        "min": 2000,
+                                        "max": 9999.99,
+                                        "percentage": 45
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 19999.99,
+                                        "percentage": 45
+                                    },
+									{
+                                        "min": 20000,
+                                        "max": 999999999,
+                                        "percentage": 35
+                                    }
+								]
+							},
+							{
+                                "min": 15,
+                                "max": 23.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 8000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 8000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+							{
+                                "min": 24,
+                                "max": 29.99,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 10000,
+                                        "percentage": 40
+                                    },
+									{
+                                        "min": 10000,
+                                        "max": 999999999,
+                                        "percentage": 100
+                                    }
+						]
+					},
+					{
+                                "min": 30,
+                                "max": 999999999,
+                                "type": "SLAB",
+                                "useVariable": "plotArea",
+                                "value": [
+                                    {
+                                        "min": 0,
+                                        "max": 999999999,
+                                        "percentage": 40
+                                    }
+						]
+					}
+					]
+					},
 					"basementSetback": {
                         "minPlotArea": 400,
 						"type": "MAP",
