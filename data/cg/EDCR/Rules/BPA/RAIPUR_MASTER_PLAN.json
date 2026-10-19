@@ -1274,8 +1274,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -2992,8 +2992,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -4625,8 +4625,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -6081,8 +6081,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -7714,8 +7714,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -9347,8 +9347,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -10764,8 +10764,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -12181,8 +12181,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -13598,8 +13598,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -15015,8 +15015,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -16432,8 +16432,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -17849,8 +17849,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -19266,8 +19266,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -20721,8 +20721,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -22176,8 +22176,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -23631,8 +23631,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -25086,8 +25086,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -26541,8 +26541,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -28320,8 +28320,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -29781,8 +29781,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -31242,8 +31242,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -32703,8 +32703,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -34164,8 +34164,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -35625,8 +35625,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -37086,8 +37086,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -38411,8 +38411,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -39736,8 +39736,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -41116,8 +41116,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -42496,8 +42496,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -43801,8 +43801,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -45099,8 +45099,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -46553,8 +46553,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -47882,8 +47882,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -49211,8 +49211,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -50612,8 +50612,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -51055,7 +51055,7 @@
 						"type": "SLAB",
 						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
-									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
+									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE", "AGRICULTURAL" ],
 						"useVariable": "buildingHeight",
 						"unit": "percent",
 						"value": [
@@ -51941,8 +51941,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -53270,8 +53270,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -54599,8 +54599,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -55820,8 +55820,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -57030,8 +57030,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -58491,8 +58491,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -59820,8 +59820,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -61107,8 +61107,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -62568,8 +62568,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -63897,8 +63897,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -65433,8 +65433,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -67170,8 +67170,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -68794,8 +68794,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -70330,8 +70330,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -71570,8 +71570,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
@@ -72810,8 +72810,8 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
 								}
 							}
 						}
