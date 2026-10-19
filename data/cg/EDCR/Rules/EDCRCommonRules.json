@@ -74207,14 +74207,63 @@
 						"valueType": "OBJECT",
 						"proposedSubOccupancy": ["A-R", "A-AF", "A-FH", "A-LB", "A-DNS", "A-H", "A-IT", "B-E", "B-E1", "C-I", "C-H1", 
 						 "D-AS", "D-AS1", "D-AS2", "D-MCH", "D-CA", "D-M", "E-OB", "F-C", "F-C1", "F-C2", "F-SE", "F-RT", 
-						 "F-HM", "F-SWG", "G-I", "G-WI", "G-CI", "G-GI", "G-SI", "G-OI", "G-GIF", "H-A1", "H-A1C", "H-A1I", "H-A2", "H-A2C", "H-A2I", "I-H", "I-SH", 
-						 "I-M", "I-HP", "J-J"],
+						 "F-HM", "F-SWG", "H-A1", "H-A1C", "H-A2", "H-A2C", "I-H", "I-SH", "I-M", "I-HP", "J-J"],
 						"value": [
 							{
 								"min": 0,
 								"max": 999999999,
 								"normal": 0.15,
 								"purchasable": 0.05
+							}
+						]
+					},
+					{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["G-I", "G-WI", "G-CI", "G-GI", "G-SI", "G-OI", "G-GIF","H-A1I", "H-A2I"],
+						"value": [
+							{
+								"min": 0,
+								"max": 239.99,
+								"normal": 1,
+								"purchasable": 0
+							},
+							{
+								"min": 240,
+								"max": 499.99,
+								"normal": 1,
+								"purchasable": 0
+							},
+							{
+								"min": 500,
+								"max": 999.99,
+								"normal": 0.8,
+								"purchasable": 0
+							},
+							{
+								"min": 1000,
+								"max": 1999.99,
+								"normal": 0.75,
+								"purchasable": 0
+							},
+							{
+								"min": 2000,
+								"max": 9999.99,
+								"normal": 0.75,
+								"purchasable": 0
+							},
+							{
+								"min": 10000,
+								"max": 19999.99,
+								"normal": 0.75,
+								"purchasable": 0
+							},
+							{
+								"min": 20000,
+								"max": 999999999,
+								"normal": 0.75,
+								"purchasable": 0
 							}
 						]
 					},
@@ -76846,7 +76895,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
-						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT","F-C2", "F-CB", "F-CA"],
+						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT", "F-CB", "F-CA"],
 						"useVariable": "plotArea",
 						"value": [
 							{
