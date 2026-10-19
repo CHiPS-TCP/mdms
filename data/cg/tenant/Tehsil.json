@@ -385,12 +385,6 @@
           "tehsilcode": "3264"
         },
         {
-          "code": "POUSAUR",
-          "name": "Pousaur",
-          "active": true,
-          "tehsilcode": "3268"
-        },
-        {
           "code": "PUSSORE",
           "name": "Pussore",
           "active": true,
@@ -593,12 +587,6 @@
           "name": "Sahaspur Lohara",
           "active": true,
           "tehsilcode": "3300"
-        },
-        {
-          "code": "S_LOHARA",
-          "name": "S. Lohara",
-          "active": true,
-          "tehsilcode": "3300"
         }
       ]
     },
@@ -611,12 +599,6 @@
           "name": "Bade-Bacheli",
           "active": true,
           "tehsilcode": "3618"
-        },
-        {
-          "code": "BARSOOR",
-          "name": "Barsoor",
-          "active": true,
-          "tehsilcode": "7232"
         },
         {
           "code": "BARSUR",
@@ -911,12 +893,6 @@
           "name": "Manendragadh",
           "active": true,
           "tehsilcode": "3234"
-        },
-        {
-          "code": "MANENDRAGARH",
-          "name": "Manendragarh",
-          "active": true,
-          "tehsilcode": "3234"
         }
       ]
     },
@@ -1099,12 +1075,6 @@
           "tehsilcode": "3239"
         },
         {
-          "code": "PRATAPUR",
-          "name": "Pratapur",
-          "active": true,
-          "tehsilcode": "3239"
-        },
-        {
           "code": "PREMNGAR",
           "name": "Premngar",
           "active": true,
@@ -1241,12 +1211,6 @@
           "name": "Ratanpur",
           "active": true,
           "tehsilcode": "7239"
-        },
-        {
-          "code": "SAKARI",
-          "name": "Sakari",
-          "active": true,
-          "tehsilcode": "7235"
         },
         {
           "code": "SAKRI",

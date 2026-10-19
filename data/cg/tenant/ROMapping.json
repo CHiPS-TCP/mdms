@@ -2008,8 +2008,8 @@
           ]
         },
         {
-          "tehsilCode": "S_LOHARA",
-          "tehsilName": "S. Lohara",
+          "tehsilCode": "SAHASPUR_LOHARA",
+          "tehsilName": "Sahaspur Lohara",
           "villages": [
             {
               "code": "SAHASPUR_LOHARA",
@@ -3892,8 +3892,8 @@
       "tenantId": "cg.korea",
       "tehsils": [
         {
-          "tehsilCode": "MANENDRAGARH",
-          "tehsilName": "Manendragarh",
+          "tehsilCode": "MANENDRAGADH",
+          "tehsilName": "Manendragadh",
           "villages": [
             {
               "code": "LALPUR",
@@ -9284,8 +9284,8 @@
           ]
         },
         {
-          "tehsilCode": "BARSOOR",
-          "tehsilName": "Barsoor",
+          "tehsilCode": "BARSUR",
+          "tehsilName": "Barsur",
           "villages": [
             {
               "code": "HITAMETA",
@@ -9563,116 +9563,6 @@
           ]
         },
         {
-          "tehsilCode": "SAKARI",
-          "tehsilName": "Sakari",
-          "villages": [
-            {
-              "code": "LAMER",
-              "name": "Lamer"
-            },
-            {
-              "code": "GHUTKU",
-              "name": "Ghutku"
-            },
-            {
-              "code": "NIRTU",
-              "name": "Nirtu"
-            },
-            {
-              "code": "TURKADIH",
-              "name": "Turkadih"
-            },
-            {
-              "code": "LOKHANDI",
-              "name": "Lokhandi"
-            },
-            {
-              "code": "GANIARI",
-              "name": "Ganiari"
-            },
-            {
-              "code": "GHUTKU",
-              "name": "Ghutku"
-            },
-            {
-              "code": "PODI",
-              "name": "Podi"
-            },
-            {
-              "code": "DEVRIKALA",
-              "name": "Devrikala"
-            },
-            {
-              "code": "CHORBATTIKHURD",
-              "name": "Chorbattikhurd"
-            },
-            {
-              "code": "CHORBATTIKALA",
-              "name": "Chorbattikala"
-            },
-            {
-              "code": "KHAJURI",
-              "name": "Khajuri"
-            },
-            {
-              "code": "BELTUKRI",
-              "name": "Beltukri"
-            },
-            {
-              "code": "BHADRAM",
-              "name": "Bhadram"
-            },
-            {
-              "code": "NEVARA",
-              "name": "Nevara"
-            },
-            {
-              "code": "PATHARRA",
-              "name": "Patharra"
-            },
-            {
-              "code": "BHUNDHA",
-              "name": "Bhundha"
-            },
-            {
-              "code": "MOHANBHATHA",
-              "name": "Mohanbhatha"
-            },
-            {
-              "code": "LAMER",
-              "name": "Lamer"
-            },
-            {
-              "code": "BHARARI",
-              "name": "Bharari"
-            },
-            {
-              "code": "BHARANI",
-              "name": "Bharani"
-            },
-            {
-              "code": "BHAUWAKAPA",
-              "name": "Bhauwakapa"
-            },
-            {
-              "code": "GHONGHA",
-              "name": "Ghongha"
-            },
-            {
-              "code": "LOKHANDI",
-              "name": "Lokhandi"
-            },
-            {
-              "code": "LOKHANDI",
-              "name": "Lokhandi"
-            },
-            {
-              "code": "LOKHANDI",
-              "name": "Lokhandi"
-            }
-          ]
-        },
-        {
           "tehsilCode": "BILHA",
           "tehsilName": "Bilha",
           "villages": [
@@ -9869,6 +9759,78 @@
             {
               "code": "DABENA",
               "name": "Dabena"
+            },
+            {
+              "code": "LAMER",
+              "name": "Lamer"
+            },
+            {
+              "code": "GHUTKU",
+              "name": "Ghutku"
+            },
+            {
+              "code": "GANIARI",
+              "name": "Ganiari"
+            },
+            {
+              "code": "PODI",
+              "name": "Podi"
+            },
+            {
+              "code": "DEVRIKALA",
+              "name": "Devrikala"
+            },
+            {
+              "code": "CHORBATTIKHURD",
+              "name": "Chorbattikhurd"
+            },
+            {
+              "code": "CHORBATTIKALA",
+              "name": "Chorbattikala"
+            },
+            {
+              "code": "KHAJURI",
+              "name": "Khajuri"
+            },
+            {
+              "code": "BELTUKRI",
+              "name": "Beltukri"
+            },
+            {
+              "code": "BHADRAM",
+              "name": "Bhadram"
+            },
+            {
+              "code": "NEVARA",
+              "name": "Nevara"
+            },
+            {
+              "code": "PATHARRA",
+              "name": "Patharra"
+            },
+            {
+              "code": "BHUNDHA",
+              "name": "Bhundha"
+            },
+            {
+              "code": "MOHANBHATHA",
+              "name": "Mohanbhatha"
+            },
+            {
+              "code": "BHARARI",
+              "name": "Bharari"
+            },
+            {
+              "code": "BHARANI",
+              "name": "Bharani"
+            },
+            {
+              "code": "BHAUWAKAPA",
+              "name": "Bhauwakapa"
+            },
+            {
+              "code": "GHONGHA",
+              "name": "Ghongha"
             }
           ]
         },
@@ -11898,8 +11860,8 @@
           ]
         },
         {
-          "tehsilCode": "PRATAPUR",
-          "tehsilName": "Pratapur",
+          "tehsilCode": "PRATAPPUR",
+          "tehsilName": "Pratappur",
           "villages": [
             {
               "code": "PRATAPPUR",

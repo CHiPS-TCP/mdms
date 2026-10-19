@@ -5636,19 +5636,6 @@
     },
     {
       "districtCode": "RAIGARH",
-      "tehsilCode": "POUSAUR",
-      "active": true,
-      "villages": [
-        {
-          "code": "SAHDEVPALI",
-          "name": "Sahdevpali",
-          "active": true,
-          "villageCode": "435012"
-        }
-      ]
-    },
-    {
-      "districtCode": "RAIGARH",
       "tehsilCode": "PUSSORE",
       "active": true,
       "villages": [
@@ -5783,6 +5770,12 @@
           "name": "Tadola",
           "active": true,
           "villageCode": "435089"
+        },
+        {
+          "code": "SAHDEVPALI",
+          "name": "Sahdevpali",
+          "active": true,
+          "villageCode": "435012"
         }
       ]
     },
@@ -9004,6 +8997,60 @@
           "name": "Kutkipara",
           "active": true,
           "villageCode": "439653"
+        },
+        {
+          "code": "SAHASPUR_LOHARA",
+          "name": "Sahaspur Lohara",
+          "active": true,
+          "villageCode": "931431"
+        },
+        {
+          "code": "BANDHATOLA",
+          "name": "Bandhatola",
+          "active": true,
+          "villageCode": "439650"
+        },
+        {
+          "code": "BAMHANTOLA",
+          "name": "Bamhantola",
+          "active": true,
+          "villageCode": "439677"
+        },
+        {
+          "code": "BASHINJHORI",
+          "name": "Bashinjhori",
+          "active": true,
+          "villageCode": "439643"
+        },
+        {
+          "code": "BANO",
+          "name": "Bano",
+          "active": true,
+          "villageCode": "439642"
+        },
+        {
+          "code": "BHIMPURI",
+          "name": "Bhimpuri",
+          "active": true,
+          "villageCode": "439649"
+        },
+        {
+          "code": "PEEPARTOLA",
+          "name": "Peepartola",
+          "active": true,
+          "villageCode": "439645"
+        },
+        {
+          "code": "CHOTUPARA",
+          "name": "Chotupara",
+          "active": true,
+          "villageCode": "439648"
+        },
+        {
+          "code": "LAKHANPUR",
+          "name": "Lakhanpur",
+          "active": true,
+          "villageCode": "439647"
         }
       ]
     },
@@ -9107,67 +9154,6 @@
           "name": "Jinda",
           "active": true,
           "villageCode": "439148"
-        }
-      ]
-    },
-    {
-      "districtCode": "KAWARDHA",
-      "tehsilCode": "S_LOHARA",
-      "active": true,
-      "villages": [
-        {
-          "code": "SAHASPUR_LOHARA",
-          "name": "Sahaspur Lohara",
-          "active": true,
-          "villageCode": "931431"
-        },
-        {
-          "code": "BANDHATOLA",
-          "name": "Bandhatola",
-          "active": true,
-          "villageCode": "439650"
-        },
-        {
-          "code": "BAMHANTOLA",
-          "name": "Bamhantola",
-          "active": true,
-          "villageCode": "439677"
-        },
-        {
-          "code": "BASHINJHORI",
-          "name": "Bashinjhori",
-          "active": true,
-          "villageCode": "439643"
-        },
-        {
-          "code": "BANO",
-          "name": "Bano",
-          "active": true,
-          "villageCode": "439642"
-        },
-        {
-          "code": "BHIMPURI",
-          "name": "Bhimpuri",
-          "active": true,
-          "villageCode": "439649"
-        },
-        {
-          "code": "PEEPARTOLA",
-          "name": "Peepartola",
-          "active": true,
-          "villageCode": "439645"
-        },
-        {
-          "code": "CHOTUPARA",
-          "name": "Chotupara",
-          "active": true,
-          "villageCode": "439648"
-        },
-        {
-          "code": "LAKHANPUR",
-          "name": "Lakhanpur",
-          "active": true,
-          "villageCode": "439647"
         }
       ]
     },
@@ -9534,14 +9520,7 @@
           "name": "Hitameta",
           "active": true,
           "villageCode": "450127"
-        }
-      ]
-    },
-    {
-      "districtCode": "DANTEWADA",
-      "tehsilCode": "BARSOOR",
-      "active": true,
-      "villages": [
+        },
         {
           "code": "MUCHNAR",
           "name": "Muchnar",
@@ -14587,6 +14566,42 @@
           "name": "Parsagarhi",
           "active": true,
           "villageCode": "431724"
+        },
+        {
+          "code": "LAI",
+          "name": "Lai",
+          "active": true,
+          "villageCode": "431689"
+        },
+        {
+          "code": "SENDHA",
+          "name": "Sendha",
+          "active": true,
+          "villageCode": "431693"
+        },
+        {
+          "code": "MORGA",
+          "name": "Morga",
+          "active": true,
+          "villageCode": "431688"
+        },
+        {
+          "code": "DARRITOLA",
+          "name": "Darritola",
+          "active": true,
+          "villageCode": "431685"
+        },
+        {
+          "code": "LOHARI",
+          "name": "Lohari",
+          "active": true,
+          "villageCode": "431686"
+        },
+        {
+          "code": "NAWAPARA",
+          "name": "Nawapara",
+          "active": true,
+          "villageCode": "431687"
         }
       ]
     },
@@ -14666,49 +14681,6 @@
           "name": "Khurasia Colliery",
           "active": true,
           "villageCode": "956216"
-        }
-      ]
-    },
-    {
-      "districtCode": "MANENDRAGARH_CHIRIMIRI_BHARATPUR",
-      "tehsilCode": "MANENDRAGARH",
-      "active": true,
-      "villages": [
-        {
-          "code": "LAI",
-          "name": "Lai",
-          "active": true,
-          "villageCode": "431689"
-        },
-        {
-          "code": "SENDHA",
-          "name": "Sendha",
-          "active": true,
-          "villageCode": "431693"
-        },
-        {
-          "code": "MORGA",
-          "name": "Morga",
-          "active": true,
-          "villageCode": "431688"
-        },
-        {
-          "code": "DARRITOLA",
-          "name": "Darritola",
-          "active": true,
-          "villageCode": "431685"
-        },
-        {
-          "code": "LOHARI",
-          "name": "Lohari",
-          "active": true,
-          "villageCode": "431686"
-        },
-        {
-          "code": "NAWAPARA",
-          "name": "Nawapara",
-          "active": true,
-          "villageCode": "431687"
         }
       ]
     },
@@ -16630,9 +16602,39 @@
     },
     {
       "districtCode": "SURJAPUR",
-      "tehsilCode": "PRATAPUR",
+      "tehsilCode": "PRATAPPUR",
       "active": true,
       "villages": [
+        {
+          "code": "JARHI",
+          "name": "Jarhi",
+          "active": true,
+          "villageCode": "956208"
+        },
+        {
+          "code": "DURTI",
+          "name": "Durti",
+          "active": true,
+          "villageCode": "432223"
+        },
+        {
+          "code": "MARHATA",
+          "name": "Marhata",
+          "active": true,
+          "villageCode": "432224"
+        },
+        {
+          "code": "GONDA",
+          "name": "Gonda",
+          "active": true,
+          "villageCode": "432222"
+        },
+        {
+          "code": "SATIPARA",
+          "name": "Satipara",
+          "active": true,
+          "villageCode": "432225"
+        },
         {
           "code": "PRATAPPUR",
           "name": "Pratappur",
@@ -16746,43 +16748,6 @@
           "name": "Sundhopara",
           "active": true,
           "villageCode": "432226"
-        }
-      ]
-    },
-    {
-      "districtCode": "SURJAPUR",
-      "tehsilCode": "PRATAPPUR",
-      "active": true,
-      "villages": [
-        {
-          "code": "JARHI",
-          "name": "Jarhi",
-          "active": true,
-          "villageCode": "956208"
-        },
-        {
-          "code": "DURTI",
-          "name": "Durti",
-          "active": true,
-          "villageCode": "432223"
-        },
-        {
-          "code": "MARHATA",
-          "name": "Marhata",
-          "active": true,
-          "villageCode": "432224"
-        },
-        {
-          "code": "GONDA",
-          "name": "Gonda",
-          "active": true,
-          "villageCode": "432222"
-        },
-        {
-          "code": "SATIPARA",
-          "name": "Satipara",
-          "active": true,
-          "villageCode": "432225"
         }
       ]
     },
@@ -17339,169 +17304,6 @@
     },
     {
       "districtCode": "BILASPUR",
-      "tehsilCode": "SAKARI",
-      "active": true,
-      "villages": [
-        {
-          "code": "LAMER",
-          "name": "Lamer",
-          "active": true,
-          "villageCode": null
-        },
-        {
-          "code": "GHUTKU",
-          "name": "Ghutku",
-          "active": true,
-          "villageCode": "438678"
-        },
-        {
-          "code": "NIRTU",
-          "name": "Nirtu",
-          "active": true,
-          "villageCode": "438679"
-        },
-        {
-          "code": "TURKADIH",
-          "name": "Turkadih",
-          "active": true,
-          "villageCode": "438681"
-        },
-        {
-          "code": "LOKHANDI",
-          "name": "Lokhandi",
-          "active": true,
-          "villageCode": "438682"
-        },
-        {
-          "code": "GANIARI",
-          "name": "Ganiari",
-          "active": true,
-          "villageCode": "438669"
-        },
-        {
-          "code": "GHUTKU_DUP2723",
-          "name": "Ghutku",
-          "active": true,
-          "villageCode": null
-        },
-        {
-          "code": "PODI",
-          "name": "Podi",
-          "active": true,
-          "villageCode": "438677"
-        },
-        {
-          "code": "DEVRIKALA",
-          "name": "Devrikala",
-          "active": true,
-          "villageCode": "438663"
-        },
-        {
-          "code": "CHORBATTIKHURD",
-          "name": "Chorbattikhurd",
-          "active": true,
-          "villageCode": "438666"
-        },
-        {
-          "code": "CHORBATTIKALA",
-          "name": "Chorbattikala",
-          "active": true,
-          "villageCode": "438667"
-        },
-        {
-          "code": "KHAJURI",
-          "name": "Khajuri",
-          "active": true,
-          "villageCode": "438627"
-        },
-        {
-          "code": "BELTUKRI",
-          "name": "Beltukri",
-          "active": true,
-          "villageCode": "438668"
-        },
-        {
-          "code": "BHADRAM",
-          "name": "Bhadram",
-          "active": true,
-          "villageCode": "438676"
-        },
-        {
-          "code": "NEVARA",
-          "name": "Nevara",
-          "active": true,
-          "villageCode": "438594"
-        },
-        {
-          "code": "PATHARRA",
-          "name": "Patharra",
-          "active": true,
-          "villageCode": "438671"
-        },
-        {
-          "code": "BHUNDHA",
-          "name": "Bhundha",
-          "active": true,
-          "villageCode": "438593"
-        },
-        {
-          "code": "MOHANBHATHA",
-          "name": "Mohanbhatha",
-          "active": true,
-          "villageCode": "438590"
-        },
-        {
-          "code": "LAMER_438675",
-          "name": "Lamer",
-          "active": true,
-          "villageCode": "438675"
-        },
-        {
-          "code": "BHARARI",
-          "name": "Bharari",
-          "active": true,
-          "villageCode": "438591"
-        },
-        {
-          "code": "BHARANI",
-          "name": "Bharani",
-          "active": true,
-          "villageCode": "438664"
-        },
-        {
-          "code": "BHAUWAKAPA",
-          "name": "Bhauwakapa",
-          "active": true,
-          "villageCode": "438592"
-        },
-        {
-          "code": "GHONGHADIH",
-          "name": "Ghonghadih",
-          "active": true,
-          "villageCode": "438595"
-        },
-        {
-          "code": "LOKHANDI",
-          "name": "Lokhandi",
-          "active": true,
-          "villageCode": "100043"
-        },
-        {
-          "code": "LOKHANDI",
-          "name": "Lokhandi",
-          "active": true,
-          "villageCode": "100044"
-        },
-        {
-          "code": "LOKHANDI",
-          "name": "Lokhandi",
-          "active": true,
-          "villageCode": "100045"
-        }
-      ]
-    },
-    {
-      "districtCode": "BILASPUR",
       "tehsilCode": "SIPAT",
       "active": true,
       "villages": [
@@ -18019,6 +17821,162 @@
           "name": "Dabena",
           "active": true,
           "villageCode": "438656"
+        },
+        {
+          "code": "LAMER",
+          "name": "Lamer",
+          "active": true,
+          "villageCode": null
+        },
+        {
+          "code": "GHUTKU",
+          "name": "Ghutku",
+          "active": true,
+          "villageCode": "438678"
+        },
+        {
+          "code": "NIRTU",
+          "name": "Nirtu",
+          "active": true,
+          "villageCode": "438679"
+        },
+        {
+          "code": "TURKADIH",
+          "name": "Turkadih",
+          "active": true,
+          "villageCode": "438681"
+        },
+        {
+          "code": "LOKHANDI",
+          "name": "Lokhandi",
+          "active": true,
+          "villageCode": "438682"
+        },
+        {
+          "code": "GANIARI",
+          "name": "Ganiari",
+          "active": true,
+          "villageCode": "438669"
+        },
+        {
+          "code": "GHUTKU_DUP2723",
+          "name": "Ghutku",
+          "active": true,
+          "villageCode": null
+        },
+        {
+          "code": "PODI",
+          "name": "Podi",
+          "active": true,
+          "villageCode": "438677"
+        },
+        {
+          "code": "DEVRIKALA",
+          "name": "Devrikala",
+          "active": true,
+          "villageCode": "438663"
+        },
+        {
+          "code": "CHORBATTIKHURD",
+          "name": "Chorbattikhurd",
+          "active": true,
+          "villageCode": "438666"
+        },
+        {
+          "code": "CHORBATTIKALA",
+          "name": "Chorbattikala",
+          "active": true,
+          "villageCode": "438667"
+        },
+        {
+          "code": "KHAJURI",
+          "name": "Khajuri",
+          "active": true,
+          "villageCode": "438627"
+        },
+        {
+          "code": "BELTUKRI",
+          "name": "Beltukri",
+          "active": true,
+          "villageCode": "438668"
+        },
+        {
+          "code": "BHADRAM",
+          "name": "Bhadram",
+          "active": true,
+          "villageCode": "438676"
+        },
+        {
+          "code": "NEVARA",
+          "name": "Nevara",
+          "active": true,
+          "villageCode": "438594"
+        },
+        {
+          "code": "PATHARRA",
+          "name": "Patharra",
+          "active": true,
+          "villageCode": "438671"
+        },
+        {
+          "code": "BHUNDHA",
+          "name": "Bhundha",
+          "active": true,
+          "villageCode": "438593"
+        },
+        {
+          "code": "MOHANBHATHA",
+          "name": "Mohanbhatha",
+          "active": true,
+          "villageCode": "438590"
+        },
+        {
+          "code": "LAMER_438675",
+          "name": "Lamer",
+          "active": true,
+          "villageCode": "438675"
+        },
+        {
+          "code": "BHARARI",
+          "name": "Bharari",
+          "active": true,
+          "villageCode": "438591"
+        },
+        {
+          "code": "BHARANI",
+          "name": "Bharani",
+          "active": true,
+          "villageCode": "438664"
+        },
+        {
+          "code": "BHAUWAKAPA",
+          "name": "Bhauwakapa",
+          "active": true,
+          "villageCode": "438592"
+        },
+        {
+          "code": "GHONGHADIH",
+          "name": "Ghonghadih",
+          "active": true,
+          "villageCode": "438595"
+        },
+        {
+          "code": "LOKHANDI",
+          "name": "Lokhandi",
+          "active": true,
+          "villageCode": "100043"
+        },
+        {
+          "code": "LOKHANDI",
+          "name": "Lokhandi",
+          "active": true,
+          "villageCode": "100044"
+        },
+        {
+          "code": "LOKHANDI",
+          "name": "Lokhandi",
+          "active": true,
+          "villageCode": "100045"
         }
       ]
     },
