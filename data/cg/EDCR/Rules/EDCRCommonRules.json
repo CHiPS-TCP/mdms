@@ -73884,7 +73884,7 @@
 								"min": 0,
 								"max": 999999999,
 								"normal": 1,
-								"purchasable": 0.8
+								"purchasable": 0
 							}
 						]
 					},
@@ -74212,8 +74212,8 @@
 							{
 								"min": 0,
 								"max": 999999999,
-								"normal": 0.15,
-								"purchasable": 0.05
+								"normal": 1.25,
+								"purchasable": 0.0
 							}
 						]
 					},
@@ -74221,7 +74221,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
-						"proposedSubOccupancy": ["G-I", "G-WI", "G-CI", "G-GI", "G-SI", "G-OI", "G-GIF","H-A1I", "H-A2I"],
+						"proposedSubOccupancy": [ "G-I", "G-WI", "G-CI", "G-GI", "G-SI", "G-OI", "H-A1I", "H-A2I"],
 						"value": [
 							{
 								"min": 0,
@@ -74271,12 +74271,26 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["G-GIF"],
+						"value": [
+							{
+								"min": 1000,
+								"max": 999999999,
+								"normal": 1.5,
+								"purchasable": 0
+							}
+						]
+					},
+					{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
 						"proposedSubOccupancy": ["F-C3", "B-E2", "B-E3", "L-PA", "C-H2"],
 						"value": [
 							{
 								"min": 0,
 								"max": 999999999,
-								"normal": 1,
+								"normal": 1.25,
 								"purchasable": 0.0
 							}
 						]
@@ -76895,7 +76909,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
-						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT", "F-CB", "F-CA"],
+						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT","F-C2", "F-CB", "F-CA"],
 						"useVariable": "plotArea",
 						"value": [
 							{
