@@ -23374,8 +23374,8 @@
       "regionalOffice": "Bilaspur",
       "tehsils": [
         {
-          "code": "JARHAGAON",
-          "name": "Jarhagaon",
+          "code": "MUNGELI",
+          "name": "Mungeli",
           "active": true,
           "villages": [
             {
@@ -23384,14 +23384,7 @@
               "active": true,
               "halkaNumber": "00011",
               "riNumber": "05"
-            }
-          ]
-        },
-        {
-          "code": "MUNGELI",
-          "name": "Mungeli",
-          "active": true,
-          "villages": [
+            },
             {
               "code": "BHARRAKUNDA",
               "name": "Bharrakunda",
@@ -23496,6 +23489,11 @@
               "active": true,
               "halkaNumber": "00020",
               "riNumber": "01"
+            },
+            {
+              "code": "MUNGELI_100089",
+              "name": "Mungeli",
+              "active": true
             }
           ]
         }
@@ -24175,6 +24173,242 @@
               "active": true,
               "halkaNumber": "",
               "riNumber": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "LORMI_PLANNING_AREA",
+      "name": "Lormi Planning Area",
+      "active": true,
+      "district": "Mungeli",
+      "districtCode": "MUNGELI",
+      "regionalOffice": "Bilaspur",
+      "tehsils": [
+        {
+          "code": "LORMI",
+          "name": "Lormi",
+          "active": true,
+          "villages": [
+            {
+              "code": "LORMI",
+              "name": "Lormi",
+              "active": true
+            },
+            {
+              "code": "GADHIDHIH",
+              "name": "Gadhidhih",
+              "active": true
+            },
+            {
+              "code": "SARDHA",
+              "name": "Sardha",
+              "active": true
+            },
+            {
+              "code": "MAJGAON",
+              "name": "Majgaon",
+              "active": true
+            },
+            {
+              "code": "SEMARIYA",
+              "name": "Semariya",
+              "active": true
+            },
+            {
+              "code": "RAMHEPUR",
+              "name": "Ramhepur",
+              "active": true
+            },
+            {
+              "code": "RAMHEPUR_437715",
+              "name": "Ramhepur",
+              "active": true
+            },
+            {
+              "code": "RAMHEPUR_437668",
+              "name": "Ramhepur",
+              "active": true
+            },
+            {
+              "code": "TULSAGHAT",
+              "name": "Tulsaghat",
+              "active": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PATHARIYA_PLANNING_AREA",
+      "name": "Pathariya Planning Area",
+      "active": true,
+      "district": "Mungeli",
+      "districtCode": "MUNGELI",
+      "regionalOffice": "Bilaspur",
+      "tehsils": [
+        {
+          "code": "PATHARIYA",
+          "name": "Pathariya",
+          "active": true,
+          "villages": [
+            {
+              "code": "LACHHANPUR",
+              "name": "Lachhanpur",
+              "active": true
+            },
+            {
+              "code": "BHIMPURI",
+              "name": "Bhimpuri",
+              "active": true
+            },
+            {
+              "code": "LAUDAPARA",
+              "name": "Laudapara",
+              "active": true
+            },
+            {
+              "code": "DAGANIYA",
+              "name": "Daganiya",
+              "active": true
+            },
+            {
+              "code": "CHORBHATTI",
+              "name": "Chorbhatti",
+              "active": true
+            },
+            {
+              "code": "JUNWANI",
+              "name": "Junwani",
+              "active": true
+            },
+            {
+              "code": "DALPURWA",
+              "name": "Dalpurwa",
+              "active": true
+            },
+            {
+              "code": "BHAREWA",
+              "name": "Bharewa",
+              "active": true
+            },
+            {
+              "code": "DEORI",
+              "name": "Deori",
+              "active": true
+            },
+            {
+              "code": "PIDA",
+              "name": "Pida",
+              "active": true
+            },
+            {
+              "code": "PUTPURA",
+              "name": "Putpura",
+              "active": true
+            },
+            {
+              "code": "BEDHAKAPA",
+              "name": "Bedhakapa",
+              "active": true
+            },
+            {
+              "code": "PATHARGADHI",
+              "name": "Pathargadhi",
+              "active": true
+            },
+            {
+              "code": "SAKERI",
+              "name": "Sakeri",
+              "active": true
+            },
+            {
+              "code": "BHATLI",
+              "name": "Bhatli",
+              "active": true
+            },
+            {
+              "code": "SILATARA",
+              "name": "Silatara",
+              "active": true
+            },
+            {
+              "code": "PATHARIYA_NAGAR_PANCHAYAT",
+              "name": "Pathariya (Nagar Panchayat)",
+              "active": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SARGAON_PLANNING_AREA",
+      "name": "Sargaon Planning Area",
+      "active": true,
+      "district": "Mungeli",
+      "districtCode": "MUNGELI",
+      "regionalOffice": "Bilaspur",
+      "tehsils": [
+        {
+          "code": "SARGAON",
+          "name": "Sargaon",
+          "active": true,
+          "villages": [
+            {
+              "code": "SALFA",
+              "name": "Salfa",
+              "active": true
+            },
+            {
+              "code": "KARHI",
+              "name": "Karhi",
+              "active": true
+            },
+            {
+              "code": "MOHBHATTA",
+              "name": "Mohbhatta",
+              "active": true
+            },
+            {
+              "code": "SAWANGA",
+              "name": "Sawanga",
+              "active": true
+            },
+            {
+              "code": "KHAPRI",
+              "name": "Khapri",
+              "active": true
+            },
+            {
+              "code": "DHAMNI",
+              "name": "Dhamni",
+              "active": true
+            },
+            {
+              "code": "KHAMHARDIH",
+              "name": "Khamhardih",
+              "active": true
+            },
+            {
+              "code": "LOHDA",
+              "name": "Lohda",
+              "active": true
+            },
+            {
+              "code": "MOHDA",
+              "name": "Mohda",
+              "active": true
+            },
+            {
+              "code": "BHAKRIDIH",
+              "name": "Bhakridih",
+              "active": true
+            },
+            {
+              "code": "SARGAON_NAGAR_PANCHAYAT",
+              "name": "Sargaon (Nagar Panchayat)",
+              "active": true
             }
           ]
         }
