@@ -18365,7 +18365,7 @@
     },
     {
       "districtCode": "MUNGELI",
-      "tehsilCode": "JARHAGAON",
+      "tehsilCode": "MUNGELI",
       "active": true,
       "villages": [
         {
@@ -18373,14 +18373,7 @@
           "name": "Virgaon",
           "active": true,
           "villageCode": "438338"
-        }
-      ]
-    },
-    {
-      "districtCode": "MUNGELI",
-      "tehsilCode": "MUNGELI",
-      "active": true,
-      "villages": [
+        },
         {
           "code": "BHARRAKUNDA",
           "name": "Bharrakunda",
@@ -18470,6 +18463,12 @@
           "name": "Surighat",
           "active": true,
           "villageCode": "438183"
+        },
+        {
+          "code": "MUNGELI_100089",
+          "name": "Mungeli",
+          "active": true,
+          "villageCode": "100089"
         }
       ]
     },
@@ -18696,6 +18695,249 @@
           "name": "Bharritola",
           "active": true,
           "villageCode": "440606"
+        }
+      ]
+    },
+    {
+      "districtCode": "MUNGELI",
+      "tehsilCode": "LORMI",
+      "active": true,
+      "villages": [
+        {
+          "code": "LORMI",
+          "name": "Lormi",
+          "active": true,
+          "villageCode": "931408"
+        },
+        {
+          "code": "GADHIDHIH",
+          "name": "Gadhidhih",
+          "active": true,
+          "villageCode": "931407"
+        },
+        {
+          "code": "SARDHA",
+          "name": "Sardha",
+          "active": true,
+          "villageCode": "437708"
+        },
+        {
+          "code": "MAJGAON",
+          "name": "Majgaon",
+          "active": true,
+          "villageCode": "931409"
+        },
+        {
+          "code": "SEMARIYA",
+          "name": "Semariya",
+          "active": true,
+          "villageCode": "437837"
+        },
+        {
+          "code": "RAMHEPUR",
+          "name": "Ramhepur",
+          "active": true,
+          "villageCode": "931410"
+        },
+        {
+          "code": "RAMHEPUR_437715",
+          "name": "Ramhepur",
+          "active": true,
+          "villageCode": "437715"
+        },
+        {
+          "code": "RAMHEPUR_437668",
+          "name": "Ramhepur",
+          "active": true,
+          "villageCode": "437668"
+        },
+        {
+          "code": "TULSAGHAT",
+          "name": "Tulsaghat",
+          "active": true,
+          "villageCode": "437703"
+        }
+      ]
+    },
+    {
+      "districtCode": "MUNGELI",
+      "tehsilCode": "PATHARIYA",
+      "active": true,
+      "villages": [
+        {
+          "code": "LACHHANPUR",
+          "name": "Lachhanpur",
+          "active": true,
+          "villageCode": "931415"
+        },
+        {
+          "code": "BHIMPURI",
+          "name": "Bhimpuri",
+          "active": true,
+          "villageCode": "931412"
+        },
+        {
+          "code": "LAUDAPARA",
+          "name": "Laudapara",
+          "active": true,
+          "villageCode": "931416"
+        },
+        {
+          "code": "DAGANIYA",
+          "name": "Daganiya",
+          "active": true,
+          "villageCode": "931414"
+        },
+        {
+          "code": "CHORBHATTI",
+          "name": "Chorbhatti",
+          "active": true,
+          "villageCode": "931413"
+        },
+        {
+          "code": "JUNWANI",
+          "name": "Junwani",
+          "active": true,
+          "villageCode": "438401"
+        },
+        {
+          "code": "DALPURWA",
+          "name": "Dalpurwa",
+          "active": true,
+          "villageCode": "438400"
+        },
+        {
+          "code": "BHAREWA",
+          "name": "Bharewa",
+          "active": true,
+          "villageCode": "438406"
+        },
+        {
+          "code": "DEORI",
+          "name": "Deori",
+          "active": true,
+          "villageCode": "438402"
+        },
+        {
+          "code": "PIDA",
+          "name": "Pida",
+          "active": true,
+          "villageCode": "438415"
+        },
+        {
+          "code": "PUTPURA",
+          "name": "Putpura",
+          "active": true,
+          "villageCode": "438414"
+        },
+        {
+          "code": "BEDHAKAPA",
+          "name": "Bedhakapa",
+          "active": true,
+          "villageCode": "438413"
+        },
+        {
+          "code": "PATHARGADHI",
+          "name": "Pathargadhi",
+          "active": true,
+          "villageCode": "438419"
+        },
+        {
+          "code": "SAKERI",
+          "name": "Sakeri",
+          "active": true,
+          "villageCode": "438418"
+        },
+        {
+          "code": "BHATLI",
+          "name": "Bhatli",
+          "active": true,
+          "villageCode": "438417"
+        },
+        {
+          "code": "SILATARA",
+          "name": "Silatara",
+          "active": true,
+          "villageCode": "438411"
+        },
+        {
+          "code": "PATHARIYA_NAGAR_PANCHAYAT",
+          "name": "Pathariya (Nagar Panchayat)",
+          "active": true,
+          "villageCode": "931417"
+        }
+      ]
+    },
+    {
+      "districtCode": "MUNGELI",
+      "tehsilCode": "SARGAON",
+      "active": true,
+      "villages": [
+        {
+          "code": "SALFA",
+          "name": "Salfa",
+          "active": true,
+          "villageCode": "438497"
+        },
+        {
+          "code": "KARHI",
+          "name": "Karhi",
+          "active": true,
+          "villageCode": "438498"
+        },
+        {
+          "code": "MOHBHATTA",
+          "name": "Mohbhatta",
+          "active": true,
+          "villageCode": "438500"
+        },
+        {
+          "code": "SAWANGA",
+          "name": "Sawanga",
+          "active": true,
+          "villageCode": "438494"
+        },
+        {
+          "code": "KHAPRI",
+          "name": "Khapri",
+          "active": true,
+          "villageCode": "953880"
+        },
+        {
+          "code": "DHAMNI",
+          "name": "Dhamni",
+          "active": true,
+          "villageCode": "438466"
+        },
+        {
+          "code": "KHAMHARDIH",
+          "name": "Khamhardih",
+          "active": true,
+          "villageCode": "438467"
+        },
+        {
+          "code": "LOHDA",
+          "name": "Lohda",
+          "active": true,
+          "villageCode": "438495"
+        },
+        {
+          "code": "MOHDA",
+          "name": "Mohda",
+          "active": true,
+          "villageCode": "438460"
+        },
+        {
+          "code": "BHAKRIDIH",
+          "name": "Bhakridih",
+          "active": true,
+          "villageCode": "438496"
+        },
+        {
+          "code": "SARGAON_NAGAR_PANCHAYAT",
+          "name": "Sargaon (Nagar Panchayat)",
+          "active": true,
+          "villageCode": "931418"
         }
       ]
     }

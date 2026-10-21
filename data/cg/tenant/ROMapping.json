@@ -10424,6 +10424,176 @@
             {
               "code": "SURIGHAT",
               "name": "Surighat"
+            },
+            {
+              "code": "MUNGELI_100089",
+              "name": "Mungeli"
+            }
+          ]
+        },
+        {
+          "tehsilCode": "LORMI",
+          "tehsilName": "Lormi",
+          "villages": [
+            {
+              "code": "LORMI",
+              "name": "Lormi"
+            },
+            {
+              "code": "GADHIDHIH",
+              "name": "Gadhidhih"
+            },
+            {
+              "code": "SARDHA",
+              "name": "Sardha"
+            },
+            {
+              "code": "MAJGAON",
+              "name": "Majgaon"
+            },
+            {
+              "code": "SEMARIYA",
+              "name": "Semariya"
+            },
+            {
+              "code": "RAMHEPUR",
+              "name": "Ramhepur"
+            },
+            {
+              "code": "RAMHEPUR_437715",
+              "name": "Ramhepur"
+            },
+            {
+              "code": "RAMHEPUR_437668",
+              "name": "Ramhepur"
+            },
+            {
+              "code": "TULSAGHAT",
+              "name": "Tulsaghat"
+            }
+          ]
+        },
+        {
+          "tehsilCode": "PATHARIYA",
+          "tehsilName": "Pathariya",
+          "villages": [
+            {
+              "code": "LACHHANPUR",
+              "name": "Lachhanpur"
+            },
+            {
+              "code": "BHIMPURI",
+              "name": "Bhimpuri"
+            },
+            {
+              "code": "LAUDAPARA",
+              "name": "Laudapara"
+            },
+            {
+              "code": "DAGANIYA",
+              "name": "Daganiya"
+            },
+            {
+              "code": "CHORBHATTI",
+              "name": "Chorbhatti"
+            },
+            {
+              "code": "JUNWANI",
+              "name": "Junwani"
+            },
+            {
+              "code": "DALPURWA",
+              "name": "Dalpurwa"
+            },
+            {
+              "code": "BHAREWA",
+              "name": "Bharewa"
+            },
+            {
+              "code": "DEORI",
+              "name": "Deori"
+            },
+            {
+              "code": "PIDA",
+              "name": "Pida"
+            },
+            {
+              "code": "PUTPURA",
+              "name": "Putpura"
+            },
+            {
+              "code": "BEDHAKAPA",
+              "name": "Bedhakapa"
+            },
+            {
+              "code": "PATHARGADHI",
+              "name": "Pathargadhi"
+            },
+            {
+              "code": "SAKERI",
+              "name": "Sakeri"
+            },
+            {
+              "code": "BHATLI",
+              "name": "Bhatli"
+            },
+            {
+              "code": "SILATARA",
+              "name": "Silatara"
+            },
+            {
+              "code": "PATHARIYA_NAGAR_PANCHAYAT",
+              "name": "Pathariya (Nagar Panchayat)"
+            }
+          ]
+        },
+        {
+          "tehsilCode": "SARGAON",
+          "tehsilName": "Sargaon",
+          "villages": [
+            {
+              "code": "SALFA",
+              "name": "Salfa"
+            },
+            {
+              "code": "KARHI",
+              "name": "Karhi"
+            },
+            {
+              "code": "MOHBHATTA",
+              "name": "Mohbhatta"
+            },
+            {
+              "code": "SAWANGA",
+              "name": "Sawanga"
+            },
+            {
+              "code": "KHAPRI",
+              "name": "Khapri"
+            },
+            {
+              "code": "DHAMNI",
+              "name": "Dhamni"
+            },
+            {
+              "code": "KHAMHARDIH",
+              "name": "Khamhardih"
+            },
+            {
+              "code": "LOHDA",
+              "name": "Lohda"
+            },
+            {
+              "code": "MOHDA",
+              "name": "Mohda"
+            },
+            {
+              "code": "BHAKRIDIH",
+              "name": "Bhakridih"
+            },
+            {
+              "code": "SARGAON_NAGAR_PANCHAYAT",
+              "name": "Sargaon (Nagar Panchayat)"
             }
           ]
         }

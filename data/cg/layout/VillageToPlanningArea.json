@@ -28039,7 +28039,7 @@
       ]
     },
     {
-      "tehsilCode": "JARHAGAON",
+      "tehsilCode": "MUNGELI",
       "villageCode": "VIRGAON",
       "planningAreas": [
         {
@@ -29095,6 +29095,386 @@
         {
           "planningAreaCode": "BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN",
           "planningAreaName": "Bilaspur Development Plan Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "MUNGELI",
+      "villageCode": "MUNGELI_100089",
+      "planningAreas": [
+        {
+          "planningAreaCode": "MUNGELI_MASTER_PLAN",
+          "planningAreaName": "Mungeli Master Plan"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LORMI",
+      "villageCode": "LORMI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "LORMI_PLANNING_AREA",
+          "planningAreaName": "Lormi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LORMI",
+      "villageCode": "GADHIDHIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "LORMI_PLANNING_AREA",
+          "planningAreaName": "Lormi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LORMI",
+      "villageCode": "SARDHA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "LORMI_PLANNING_AREA",
+          "planningAreaName": "Lormi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LORMI",
+      "villageCode": "MAJGAON",
+      "planningAreas": [
+        {
+          "planningAreaCode": "LORMI_PLANNING_AREA",
+          "planningAreaName": "Lormi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LORMI",
+      "villageCode": "SEMARIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "LORMI_PLANNING_AREA",
+          "planningAreaName": "Lormi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LORMI",
+      "villageCode": "RAMHEPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "LORMI_PLANNING_AREA",
+          "planningAreaName": "Lormi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LORMI",
+      "villageCode": "RAMHEPUR_437715",
+      "planningAreas": [
+        {
+          "planningAreaCode": "LORMI_PLANNING_AREA",
+          "planningAreaName": "Lormi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LORMI",
+      "villageCode": "RAMHEPUR_437668",
+      "planningAreas": [
+        {
+          "planningAreaCode": "LORMI_PLANNING_AREA",
+          "planningAreaName": "Lormi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "LORMI",
+      "villageCode": "TULSAGHAT",
+      "planningAreas": [
+        {
+          "planningAreaCode": "LORMI_PLANNING_AREA",
+          "planningAreaName": "Lormi Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "LACHHANPUR",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "BHIMPURI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "LAUDAPARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "DAGANIYA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "CHORBHATTI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "JUNWANI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "DALPURWA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "BHAREWA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "DEORI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "PIDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "PUTPURA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "BEDHAKAPA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "PATHARGADHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "SAKERI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "BHATLI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "SILATARA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "PATHARIYA",
+      "villageCode": "PATHARIYA_NAGAR_PANCHAYAT",
+      "planningAreas": [
+        {
+          "planningAreaCode": "PATHARIYA_PLANNING_AREA",
+          "planningAreaName": "Pathariya Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARGAON",
+      "villageCode": "SALFA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SARGAON_PLANNING_AREA",
+          "planningAreaName": "Sargaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARGAON",
+      "villageCode": "KARHI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SARGAON_PLANNING_AREA",
+          "planningAreaName": "Sargaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARGAON",
+      "villageCode": "MOHBHATTA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SARGAON_PLANNING_AREA",
+          "planningAreaName": "Sargaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARGAON",
+      "villageCode": "SAWANGA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SARGAON_PLANNING_AREA",
+          "planningAreaName": "Sargaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARGAON",
+      "villageCode": "KHAPRI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SARGAON_PLANNING_AREA",
+          "planningAreaName": "Sargaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARGAON",
+      "villageCode": "DHAMNI",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SARGAON_PLANNING_AREA",
+          "planningAreaName": "Sargaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARGAON",
+      "villageCode": "KHAMHARDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SARGAON_PLANNING_AREA",
+          "planningAreaName": "Sargaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARGAON",
+      "villageCode": "LOHDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SARGAON_PLANNING_AREA",
+          "planningAreaName": "Sargaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARGAON",
+      "villageCode": "MOHDA",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SARGAON_PLANNING_AREA",
+          "planningAreaName": "Sargaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARGAON",
+      "villageCode": "BHAKRIDIH",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SARGAON_PLANNING_AREA",
+          "planningAreaName": "Sargaon Planning Area"
+        }
+      ]
+    },
+    {
+      "tehsilCode": "SARGAON",
+      "villageCode": "SARGAON_NAGAR_PANCHAYAT",
+      "planningAreas": [
+        {
+          "planningAreaCode": "SARGAON_PLANNING_AREA",
+          "planningAreaName": "Sargaon Planning Area"
         }
       ]
     }
