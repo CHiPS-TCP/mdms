@@ -1243,6 +1243,12 @@
           "tehsilcode": "7311"
         },
         {
+          "code": "LORMI",
+          "name": "Lormi",
+          "active": true,
+          "tehsilcode": ""
+        },
+        {
           "code": "MUNGELI",
           "name": "Mungeli",
           "active": true,
@@ -1253,6 +1259,18 @@
           "name": "Bodri",
           "active": true,
           "tehsilcode": "7250"
+        },
+        {
+          "code": "PATHARIYA",
+          "name": "Pathariya",
+          "active": true,
+          "tehsilcode": ""
+        },
+        {
+          "code": "SARGAON",
+          "name": "Sargaon",
+          "active": true,
+          "tehsilcode": ""
         }
       ]
     },
