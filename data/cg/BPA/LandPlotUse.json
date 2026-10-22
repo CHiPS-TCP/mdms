@@ -157,21 +157,6 @@
       "category": "TRANSPORT_COMMUNICATION",
       "active": true
     },
-
-    {
-      "code": "AGRICULTURE_1",
-      "name": "Agriculture-1",
-      "subUseCode": "Agriculture-1 (A1)",
-      "category": "AGRICULTURE",
-      "active": true
-    },
-    {
-      "code": "AGRICULTURE_2",
-      "name": "Agriculture-2",
-      "subUseCode": "Agriculture-2 (A2)",
-      "category": "AGRICULTURE",
-      "active": true
-    },
     {
       "code": "RESIDENTIAL_R2",
       "name": "Residential R2",
