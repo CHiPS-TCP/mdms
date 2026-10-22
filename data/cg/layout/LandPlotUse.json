@@ -171,6 +171,153 @@
       "subUseCode": "Agriculture-2 (A2)",
       "category": "AGRICULTURE",
       "active": true
+    },
+    {
+      "code": "RESIDENTIAL_R2",
+      "name": "Residential R2",
+      "subUseCode": "Residential-2 (R2)",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "RESIDENTIAL_R3",
+      "name": "Residential R3",
+      "subUseCode": "Residential-3 (R3)",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "RESIDENTIAL_R4",
+      "name": "Residential R4",
+      "subUseCode": "Residential-4 (R4)",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "RESIDENTIAL_R5",
+      "name": "Residential R5",
+      "subUseCode": "Residential-5 (R5)",
+      "category": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "COMMERCIAL_4",
+      "name": "Commercial-4",
+      "subUseCode": "Commercial-4 (C4)",
+      "category": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "INDUSTRIAL_3",
+      "name": "Industrial-3",
+      "subUseCode": "Industrial-3 (I3)",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "INDUSTRIAL_4",
+      "name": "Industrial-4",
+      "subUseCode": "Industrial-4 (I4)",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "INDUSTRIAL_5",
+      "name": "Industrial-5",
+      "subUseCode": "Industrial-5 (I5)",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "INDUSTRIAL_6",
+      "name": "Industrial-6",
+      "subUseCode": "Industrial-6 (I6)",
+      "category": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "ASSEMBLY_HALL_3",
+      "name": "Assembly Hall-3",
+      "subUseCode": "Assembly-3 (A3)",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
+      "active": true
+    },
+    {
+      "code": "PUBLIC_UTILITY_1",
+      "name": "Public Utility-1",
+      "subUseCode": "Public Utility-1 (PU-1)",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
+      "active": true
+    },
+    {
+      "code": "PUBLIC_UTILITY_2",
+      "name": "Public Utility-2",
+      "subUseCode": "Public Utility-2 (PU-2)",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
+      "active": true
+    },
+    {
+      "code": "PUBLIC_UTILITY_3",
+      "name": "Public Utility-3",
+      "subUseCode": "Public Utility-3 (PU-3)",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
+      "active": true
+    },
+    {
+      "code": "PUBLIC_UTILITY_4",
+      "name": "Public Utility-4",
+      "subUseCode": "Public Utility-4 (PU-4)",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
+      "active": true
+    },
+    {
+      "code": "RECREATIONAL_1",
+      "name": "Recreational-1",
+      "subUseCode": "Recreational-1 (RC-1)",
+      "category": "PARKS_RECREATIONAL_OPEN_SPACES",
+      "active": true
+    },
+    {
+      "code": "RECREATIONAL_2",
+      "name": "Recreational-2",
+      "subUseCode": "Recreational-2 (RC-2)",
+      "category": "PARKS_RECREATIONAL_OPEN_SPACES",
+      "active": true
+    },
+    {
+      "code": "TRANSPORT_1",
+      "name": "Transport-1",
+      "subUseCode": "Transport-1 (TR1)",
+      "category": "TRANSPORT_COMMUNICATION",
+      "active": true
+    },
+    {
+      "code": "TRANSPORT_2",
+      "name": "Transport-2",
+      "subUseCode": "Transport-2 (TR2)",
+      "category": "TRANSPORT_COMMUNICATION",
+      "active": true
+    },
+    {
+      "code": "TRANSPORT_3",
+      "name": "Transport-3",
+      "subUseCode": "Transport-3 (TR3)",
+      "category": "TRANSPORT_COMMUNICATION",
+      "active": true
+    },
+    {
+      "code": "TEMPORARY_USE",
+      "name": "Temporary Use",
+      "subUseCode": "TU",
+      "category": "PUBLIC_AND_SEMI_PUBLIC",
+      "active": true
+    },
+    {
+      "code": "AGRICULTURE",
+      "name": "Agriculture",
+      "subUseCode": "Agriculture (AG)",
+      "category": "AGRICULTURE",
+      "active": true
     }
 
   ]
