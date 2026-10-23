@@ -40194,6 +40194,552 @@
       "actionid": 8901243,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L1_VERIFIER",
+      "actionid": 8901243,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L1_VERIFIER",
+      "actionid": 8901242,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L1_VERIFIER",
+      "actionid": 8901241,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L1_VERIFIER",
+      "actionid": 8901240,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L1_VERIFIER",
+      "actionid": 8901239,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L1_VERIFIER",
+      "actionid": 8901238,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L1_VERIFIER",
+      "actionid": 8901237,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L1_VERIFIER",
+      "actionid": 8901236,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L1_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L1_VERIFIER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L1_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L1_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L1_VERIFIER",
+      "actionid": 7007,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L2_VERIFIER",
+      "actionid": 8901243,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L2_VERIFIER",
+      "actionid": 8901242,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L2_VERIFIER",
+      "actionid": 8901241,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L2_VERIFIER",
+      "actionid": 8901240,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L2_VERIFIER",
+      "actionid": 8901239,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L2_VERIFIER",
+      "actionid": 8901238,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L2_VERIFIER",
+      "actionid": 8901237,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L2_VERIFIER",
+      "actionid": 8901236,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L2_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L2_VERIFIER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L2_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L2_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L2_VERIFIER",
+      "actionid": 7007,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L3_VERIFIER",
+      "actionid": 8901243,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L3_VERIFIER",
+      "actionid": 8901242,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L3_VERIFIER",
+      "actionid": 8901241,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L3_VERIFIER",
+      "actionid": 8901240,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L3_VERIFIER",
+      "actionid": 8901239,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L3_VERIFIER",
+      "actionid": 8901238,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L3_VERIFIER",
+      "actionid": 8901237,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L3_VERIFIER",
+      "actionid": 8901236,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L3_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L3_VERIFIER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L3_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L3_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L3_VERIFIER",
+      "actionid": 7007,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L4_VERIFIER",
+      "actionid": 8901243,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L4_VERIFIER",
+      "actionid": 8901242,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L4_VERIFIER",
+      "actionid": 8901241,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L4_VERIFIER",
+      "actionid": 8901240,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L4_VERIFIER",
+      "actionid": 8901239,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L4_VERIFIER",
+      "actionid": 8901238,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L4_VERIFIER",
+      "actionid": 8901237,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L4_VERIFIER",
+      "actionid": 8901236,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L4_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L4_VERIFIER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L4_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L4_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_L4_VERIFIER",
+      "actionid": 7007,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D1_VERIFIER",
+      "actionid": 8901243,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D1_VERIFIER",
+      "actionid": 8901242,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D1_VERIFIER",
+      "actionid": 8901241,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D1_VERIFIER",
+      "actionid": 8901240,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D1_VERIFIER",
+      "actionid": 8901239,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D1_VERIFIER",
+      "actionid": 8901238,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D1_VERIFIER",
+      "actionid": 8901237,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D1_VERIFIER",
+      "actionid": 8901236,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D1_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D1_VERIFIER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D1_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D1_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D1_VERIFIER",
+      "actionid": 7007,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D2_VERIFIER",
+      "actionid": 8901243,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D2_VERIFIER",
+      "actionid": 8901242,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D2_VERIFIER",
+      "actionid": 8901241,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D2_VERIFIER",
+      "actionid": 8901240,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D2_VERIFIER",
+      "actionid": 8901239,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D2_VERIFIER",
+      "actionid": 8901238,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D2_VERIFIER",
+      "actionid": 8901237,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D2_VERIFIER",
+      "actionid": 8901236,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D2_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D2_VERIFIER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D2_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D2_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D2_VERIFIER",
+      "actionid": 7007,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D3_VERIFIER",
+      "actionid": 8901243,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D3_VERIFIER",
+      "actionid": 8901242,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D3_VERIFIER",
+      "actionid": 8901241,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D3_VERIFIER",
+      "actionid": 8901240,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D3_VERIFIER",
+      "actionid": 8901239,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D3_VERIFIER",
+      "actionid": 8901238,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D3_VERIFIER",
+      "actionid": 8901237,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D3_VERIFIER",
+      "actionid": 8901236,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D3_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D3_VERIFIER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D3_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D3_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "AMALGAMATION_D3_VERIFIER",
+      "actionid": 7007,
+      "actioncode": "",
+      "tenantId": "cg"
     }
 
   ]
