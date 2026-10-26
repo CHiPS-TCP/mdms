@@ -21141,6 +21141,18 @@
       "serviceCode": "amalgamation-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8901244,
+      "name": "update elastic search data api",
+      "url": "/layout-services/v1/layout/_updateelasticsearchdata",
+      "displayName": "Update elasticsearch data",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }

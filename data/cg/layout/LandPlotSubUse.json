@@ -5,145 +5,8 @@
     {
       "masterPlan": [
         "RAIPUR MASTER PLAN",
-        "TCP DUMMY PLANNING AREA",
         "TCP DUMMY PLANNING AREA 2",
-        "TCP DUMMY PLANNING AREA 3",
-        "BAGICHA PLANNING AREA",
-        "KUNKURI PLANNING AREA",
-        "PATHALGAON PLANNING AREA",
-        "KOTBA PLANNING AREA",
-        "TILDA-NEVRA PLANNING AREA",
-        "KHARORA PLANNING AREA",
-        "NAWAPARA PLANNING AREA",
-        "KUNRA PLANNING AREA",
-        "CHAMPARAN PLANNING AREA",
-        "PURA PLANNING AREA",
-        "FINGESHWAR PLANNING AREA",
-        "GARIYABAND PLANNING AREA",
-        "DANTEWADA PLANNING AREA",
-        "CHURRA PLANNING AREA",
-        "RAJIM PLANNING AREA",
-        "CHARAMA PLANNING AREA",
-        "PANKHAJUR PLANNING AREA",
-        "PANDARIYA PLANNING AREA",
-        "PIPARIYA PLANNING AREA",
-        "S. LOHARA PLANNING AREA",
-        "BODLA PLANNING AREA",
-        "PANDATARAI PLANNING AREA",
-        "BIRKONA PLANNING AREA",
-        "KUNDA PLANNING AREA",
-        "CHHURIKALA PLANNING AREA",
-        "KATGHORA PLANNING AREA",
-        "PODI - UPRODA PLANNING AREA",
-        "HARDIBAZAR PLANNING AREA",
-        "DEEPKA PLANNING AREA",
-        "KARTALA PLANNING AREA",
-        "PALI PLANNING AREA",
-        "BHAWARPUR (CLUSTER) PLANNING AREA",
-        "TUMGAON PLANNING AREA",
-        "SIRPUR \"SADA\" PLANNING AREA",
-        "BASNA PLANNING AREA",
-        "BAIKUNTHPUR PLANNING AREA",
-        "AMBAGARH CHOWKI PLANNING AREA",
-        "CHHUIKHADAN PLANNING AREA",
-        "CHHURIYA PLANNING AREA",
-        "DONGARGAON PLANNING AREA",
-        "GANDAI PLANNING AREA",
-        "MURMUNDA PLANNING AREA",
-        "SARAGAON PLANNING AREA",
-        "BADE KANERA PLANNING AREA",
-        "PHARSAGAON PLANNING AREA",
-        "KESHKAL PLANNING AREA",
-        "BHAIRAMGARH PLANNING AREA",
-        "KONTA PLANNING AREA",
-        "DHAMDHA PLANNING AREA",
-        "SAJA PLANNING AREA",
-        "BERLA PLANNING AREA",
-        "MARO PLANNING AREA",
-        "BILHA PLANNING AREA",
-        "GANIARI PLANNING AREA",
-        "KOTA PLANNING AREA",
-        "MALHAR PLANNING AREA",
-        "MARWAHI PLANNING AREA",
-        "MASTURI PLANNING AREA",
-        "PENDRA PLANNING AREA",
-        "GAURELA PLANNING AREA",
-        "TAKHATPUR PLANNING AREA",
-        "SIMGA PLANNING AREA",
-        "PALARI PLANNING AREA",
-        "BILAIGARH PLANNING AREA",
-        "LAVAN PLANNING AREA",
-        "BHATGAON PLANNING AREA",
-        "NARHARPUR PLANNING AREA",
-        "ANTAGADH PLANNING AREA",
-        "BADE KAPASI PLANNING AREA",
-        "DALLI RAJHARA PLANNING AREA",
-        "DONDI PLANNING AREA",
-        "DONDILOHARA PLANNING AREA",
-        "GURUR PLANNING AREA",
-        "GUNDERDEHI PLANNING AREA",
-        "ARJUNDA PLANNING AREA",
-        "TUNDRA PLANNING AREA",
-        "GIRODPURI PLANNING AREA",
-        "DAMAKHEDA PLANNING AREA",
-        "SONADIH PLANNING AREA",
-        "HIRMI PLANNING AREA",
-        "RAAVAN PLANNING AREA",
-        "RISDA PLANNING AREA",
-        "KHAPARADIH PLANNING AREA",
-        "HATHBAND PLANNING AREA",
-        "PUSSORE PLANNING AREA",
-        "BARAMKELA PLANNING AREA",
-        "DHARAMJAIGARH PLANNING AREA",
-        "DHARAMJAIGARH JANJATIYA CLUSTER PLANNING AREA",
-        "GHARGHODA PLANNING AREA",
-        "LAILUNGA PLANNING AREA",
-        "SARIYA PLANNING AREA",
-        "TAMNAR PLANNING AREA",
-        "DABHRA PLANNING AREA",
-        "MALKHARODA PLANNING AREA",
-        "SAKTI PLANNING AREA",
-        "NAVAGARH PLANNING AREA",
-        "CHANDRAPUR PLANNING AREA",
-        "RAHOD PLANNING AREA",
-        "BARADWAR PLANNING AREA",
-        "ADBHAR PLANNING AREA",
-        "SHIVRINARAYAN PLANNING AREA",
-        "AKALTARA PLANNING AREA",
-        "BALODA PLANNING AREA",
-        "PAMGARH PLANNING AREA",
-        "JAIJEPUR PLANNING AREA",
-        "MULMULA PLANNING AREA",
-        "JETHA PLANNING AREA",
-        "KHAROD PLANNING AREA",
-        "BACHELI -KIRANDUL PLANNING AREA",
-        "KURUD PLANNING AREA",
-        "NAGARI PLANNING AREA",
-        "MAGARLOD PLANNING AREA",
-        "BHAKHARA PLANNING AREA",
-        "DARBA PLANNING AREA",
-        "AMADI PLANNING AREA",
-        "PARPODI PLANNING AREA",
-        "NAWAGARH PLANNING AREA",
-        "DEVKAR PLANNING AREA",
-        "SHIVPUR-CHARCHA PLANNING AREA",
-        "SONHAT PLANNING AREA",
-        "MANENDRAGARH PLANNING AREA",
-        "CHIRMIRI PLANNING AREA",
-        "KHONGAPANI, JHAGRAKHAND, NEW LEDARI PLANNING AREA",
-        "NAGARNAR PLANNING AREA",
-        "LAKHANPUR PLANNING AREA",
-        "SITAPUR PLANNING AREA",
-        "RAGHUNATHPUR PLANNING AREA",
-        "RAMANUJGANJ PLANNING AREA",
-        "WADAFNAGAR PLANNING AREA",
-        "RAJPUR PLANNING AREA",
-        "KUSMI PLANNING AREA",
-        "SURAJPUR PLANNING AREA",
-        "BISHRAMPUR PLANNING AREA",
-        "PRATAPUR PLANNING AREA",
-        "JARHI PLANNING AREA",
-        "PREMNGAR PLANNING AREA"
+        "TCP DUMMY PLANNING AREA 3"
       ],
       "plotSubUseData": [
         {
@@ -7924,6 +7787,594 @@
             "EXHIBITIONS (S-ECFG)",
             "FAIRGROUND (S-ECFG)",
             "PANDALS (S-ECFG)"
+          ]
+        }
+      ]
+    },
+    {
+      "masterPlan": [
+        "TCP DUMMY PLANNING AREA",
+        "BAGICHA PLANNING AREA",
+        "KUNKURI PLANNING AREA",
+        "PATHALGAON PLANNING AREA",
+        "KOTBA PLANNING AREA",
+        "TILDA-NEVRA PLANNING AREA",
+        "KHARORA PLANNING AREA",
+        "NAWAPARA PLANNING AREA",
+        "KUNRA PLANNING AREA",
+        "CHAMPARAN PLANNING AREA",
+        "PURA PLANNING AREA",
+        "FINGESHWAR PLANNING AREA",
+        "GARIYABAND PLANNING AREA",
+        "DANTEWADA PLANNING AREA",
+        "CHURRA PLANNING AREA",
+        "RAJIM PLANNING AREA",
+        "CHARAMA PLANNING AREA",
+        "PANKHAJUR PLANNING AREA",
+        "PANDARIYA PLANNING AREA",
+        "PIPARIYA PLANNING AREA",
+        "S. LOHARA PLANNING AREA",
+        "BODLA PLANNING AREA",
+        "PANDATARAI PLANNING AREA",
+        "BIRKONA PLANNING AREA",
+        "KUNDA PLANNING AREA",
+        "CHHURIKALA PLANNING AREA",
+        "KATGHORA PLANNING AREA",
+        "PODI - UPRODA PLANNING AREA",
+        "HARDIBAZAR PLANNING AREA",
+        "DEEPKA PLANNING AREA",
+        "KARTALA PLANNING AREA",
+        "PALI PLANNING AREA",
+        "BHAWARPUR (CLUSTER) PLANNING AREA",
+        "TUMGAON PLANNING AREA",
+        "SIRPUR \"SADA\" PLANNING AREA",
+        "BASNA PLANNING AREA",
+        "BAIKUNTHPUR PLANNING AREA",
+        "AMBAGARH CHOWKI PLANNING AREA",
+        "CHHUIKHADAN PLANNING AREA",
+        "CHHURIYA PLANNING AREA",
+        "DONGARGAON PLANNING AREA",
+        "GANDAI PLANNING AREA",
+        "MURMUNDA PLANNING AREA",
+        "SARAGAON PLANNING AREA",
+        "BADE KANERA PLANNING AREA",
+        "PHARSAGAON PLANNING AREA",
+        "KESHKAL PLANNING AREA",
+        "BHAIRAMGARH PLANNING AREA",
+        "KONTA PLANNING AREA",
+        "DHAMDHA PLANNING AREA",
+        "SAJA PLANNING AREA",
+        "BERLA PLANNING AREA",
+        "MARO PLANNING AREA",
+        "BILHA PLANNING AREA",
+        "GANIARI PLANNING AREA",
+        "KOTA PLANNING AREA",
+        "MALHAR PLANNING AREA",
+        "MARWAHI PLANNING AREA",
+        "MASTURI PLANNING AREA",
+        "PENDRA PLANNING AREA",
+        "GAURELA PLANNING AREA",
+        "TAKHATPUR PLANNING AREA",
+        "SIMGA PLANNING AREA",
+        "PALARI PLANNING AREA",
+        "BILAIGARH PLANNING AREA",
+        "LAVAN PLANNING AREA",
+        "BHATGAON PLANNING AREA",
+        "NARHARPUR PLANNING AREA",
+        "ANTAGADH PLANNING AREA",
+        "BADE KAPASI PLANNING AREA",
+        "DALLI RAJHARA PLANNING AREA",
+        "DONDI PLANNING AREA",
+        "DONDILOHARA PLANNING AREA",
+        "GURUR PLANNING AREA",
+        "GUNDERDEHI PLANNING AREA",
+        "ARJUNDA PLANNING AREA",
+        "TUNDRA PLANNING AREA",
+        "GIRODPURI PLANNING AREA",
+        "DAMAKHEDA PLANNING AREA",
+        "SONADIH PLANNING AREA",
+        "HIRMI PLANNING AREA",
+        "RAAVAN PLANNING AREA",
+        "RISDA PLANNING AREA",
+        "KHAPARADIH PLANNING AREA",
+        "HATHBAND PLANNING AREA",
+        "PUSSORE PLANNING AREA",
+        "BARAMKELA PLANNING AREA",
+        "DHARAMJAIGARH PLANNING AREA",
+        "DHARAMJAIGARH JANJATIYA CLUSTER PLANNING AREA",
+        "GHARGHODA PLANNING AREA",
+        "LAILUNGA PLANNING AREA",
+        "SARIYA PLANNING AREA",
+        "TAMNAR PLANNING AREA",
+        "DABHRA PLANNING AREA",
+        "MALKHARODA PLANNING AREA",
+        "SAKTI PLANNING AREA",
+        "NAVAGARH PLANNING AREA",
+        "CHANDRAPUR PLANNING AREA",
+        "RAHOD PLANNING AREA",
+        "BARADWAR PLANNING AREA",
+        "ADBHAR PLANNING AREA",
+        "SHIVRINARAYAN PLANNING AREA",
+        "AKALTARA PLANNING AREA",
+        "BALODA PLANNING AREA",
+        "PAMGARH PLANNING AREA",
+        "JAIJEPUR PLANNING AREA",
+        "MULMULA PLANNING AREA",
+        "JETHA PLANNING AREA",
+        "KHAROD PLANNING AREA",
+        "BACHELI -KIRANDUL PLANNING AREA",
+        "KURUD PLANNING AREA",
+        "NAGARI PLANNING AREA",
+        "MAGARLOD PLANNING AREA",
+        "BHAKHARA PLANNING AREA",
+        "DARBA PLANNING AREA",
+        "AMADI PLANNING AREA",
+        "PARPODI PLANNING AREA",
+        "NAWAGARH PLANNING AREA",
+        "DEVKAR PLANNING AREA",
+        "SHIVPUR-CHARCHA PLANNING AREA",
+        "SONHAT PLANNING AREA",
+        "MANENDRAGARH PLANNING AREA",
+        "CHIRMIRI PLANNING AREA",
+        "KHONGAPANI, JHAGRAKHAND, NEW LEDARI PLANNING AREA",
+        "NAGARNAR PLANNING AREA",
+        "LAKHANPUR PLANNING AREA",
+        "SITAPUR PLANNING AREA",
+        "RAGHUNATHPUR PLANNING AREA",
+        "RAMANUJGANJ PLANNING AREA",
+        "WADAFNAGAR PLANNING AREA",
+        "RAJPUR PLANNING AREA",
+        "KUSMI PLANNING AREA",
+        "SURAJPUR PLANNING AREA",
+        "BISHRAMPUR PLANNING AREA",
+        "PRATAPUR PLANNING AREA",
+        "JARHI PLANNING AREA",
+        "PREMNGAR PLANNING AREA",
+        "LORMI PLANNING AREA",
+        "PATHARIYA PLANNING AREA",
+        "SARGAON PLANNING AREA"
+      ],
+      "plotSubUseData": [
+        {
+          "plotUse": "NA",
+          "code": "NA",
+          "subUses": [
+            "NA (NA)"
+          ]
+        },
+        {
+          "plotUse": "RESIDENTIAL_R1",
+          "code": "Residential (R)",
+          "subUses": [
+            "RESIDENTIAL_COLONY (NA)",
+            "RESIDENTIAL_HOUSES (A-R)",
+            "RESIDENTIAL_CUM_WORKPLACE (NA)",
+            "GROUP_HOUSING (NA)"
+          ]
+        },
+        {
+          "plotUse": "RESIDENTIAL_R2",
+          "code": "Residential-2 (R2)",
+          "subUses": [
+            "NIGHT_SHELTERS (A-DNS)",
+            "DHARAMSHALAS (A-DNS)",
+            "LODGING_BOARDING (NA)",
+            "SHELTERS (A-DNS)",
+            "REST_HOUSE (A-LB)",
+            "HOUSING_RELATED_TO_PUBLIC_USE (NA)"
+          ]
+        },
+        {
+          "plotUse": "RESIDENTIAL_R3",
+          "code": "Residential-3 (R3)",
+          "subUses": [
+            "HOSTELS (A-H)",
+            "DORMITORY (NA)",
+            "STAFF_QUARTERS_OF_A_PUBLIC_INSTITUTE (NA)"
+          ]
+        },
+        {
+          "plotUse": "RESIDENTIAL_R4",
+          "code": "Residential-4 (R4)",
+          "subUses": [
+            "FARMHOUSES (NA)",
+            "AFFORDABLE_HOUSING_PROJECTS (NA)",
+            "INTEGRATED_TOWNSHIP (A-IT)"
+          ]
+        },
+        {
+          "plotUse": "RESIDENTIAL_R5",
+          "code": "Residential-5 (R5)",
+          "subUses": [
+            "INDUSTRY_LINKED_HOUSING_UP_TO_SIZE_60_SQM (NA)",
+            "HOSTELS_AND_DORMITORIES (NA)"
+          ]
+        },
+        {
+          "plotUse": "COMMERCIAL_1",
+          "code": "Commercial-1 (C1)",
+          "subUses": [
+            "DISTRICT_COMMERCIAL_CENTERS (NA)",
+            "MANDI_MARKET_AREAS (NA)",
+            "COMMERCIAL_COMPLEXES (NA)",
+            "FINANCIAL_INSTITUTIONS (F-C1)",
+            "EXCHANGES (NA)",
+            "CALL_CENTERS (NA)",
+            "PRESS_COMPLEX_PRINTING_PRESS (G-SI)",
+            "COAL_AND_WOOD_DEPOTS (NA)"
+          ]
+        },
+        {
+          "plotUse": "COMMERCIAL_2",
+          "code": "Commercial-2 (C2)",
+          "subUses": [
+            "NEIGHBORHOOD_SHOPPING_CENTERS (NA)",
+            "LOCAL_COMMERCIAL_CENTERS (NA)",
+            "INFORMAL_MARKET (F-C3)",
+            "COMMERCIAL_CUM_RESIDENTIAL (NA)",
+            "HOTELS (I-H)",
+            "GUEST_HOUSES (A-LB)",
+            "COMMERCIAL_OFFICES (F-C2)",
+            "SERVICE_CENTERS (F-SE)",
+            "GAS_AGENCY_OFFICES (NA)",
+            "INTERNET_CAFES (NA)",
+            "BAKERIES_AND_CONFECTIONERIES (NA)",
+            "DEPARTMENTAL_STORES (NA)",
+            "EATERIES_RESTAURANTS (F-RT)",
+            "CONVENIENCE_SHOP (F-C1)",
+            "GIFT_SHOPS (NA)",
+            "PRINTING_SHOPS (NA)",
+            "HARDWARE_EQUIPMENT_SHOPS (NA)",
+            "INDIVIDUAL_SHOPS (NA)",
+            "CLUBS (D-AS2)",
+            "BAR (NA)",
+            "GYMNASIUM (S-SAS)",
+            "HEALTH_CLUBS (NA)",
+            "WELLNESS_CENTERS_AND_SPA (NA)",
+            "FUEL_FILLING_STATION_FFS (NA)",
+            "FUEL_FILLING_STATION_WITH_SERVICES_AND_FACILITIES_FFSS (NA)",
+            "PETROL_PUMP_FFS (NA)",
+            "PETROL_PUMP_FFSS (NA)",
+            "FLOUR_MILLS_NOT_MORE_THAN_CAPACITY_OF_15_HP (NA)",
+            "LIGHT_MOTOR_VEHICLE_REPAIR_WORKSHOPS_GARAGES (NA)",
+            "SHOP_CUM_WORKSHOP (NA)",
+            "CULTURAL_AND_HANDICRAFT_SHOP (NA)"
+          ]
+        },
+        {
+          "plotUse": "COMMERCIAL_3",
+          "code": "Commercial-3 (C3)",
+          "subUses": [
+            "COLD_STORAGE (NA)",
+            "GOODS_GODOWNS (NA)",
+            "WAREHOUSE (F-SWG)",
+            "GAS_GODWON (NA)"
+          ]
+        },
+        {
+          "plotUse": "COMMERCIAL_4",
+          "code": "Commercial-4 (C4)",
+          "subUses": [
+            "STAR_HOTELS (NA)",
+            "MALL (NA)",
+            "OPEN_MALL (NA)",
+            "MOTOR_GARAGES_AND_WORKSHOPS (F-C)"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_1",
+          "code": "Industrial-1 (I1)",
+          "subUses": [
+            "HOME_HOLD_AND_COTTAGE_INDUSTRIES (NA)"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_2",
+          "code": "Industrial-2 (I2)",
+          "subUses": [
+            "WHITE_CATEGORY_INDUSTRY (NA)"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_3",
+          "code": "Industrial-3 (I3)",
+          "subUses": [
+            "GREEN_CTEGORY_INDUSTRY (NA)"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_4",
+          "code": "Industrial-4 (I4)",
+          "subUses": [
+            "ORANGE_CATEGORY_INDUSTRY (G-OI)"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_5",
+          "code": "Industrial-5 (I5)",
+          "subUses": [
+            "RED_CATEGORY_INDUSTRY (NA)"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_6",
+          "code": "Industrial-6 (I6)",
+          "subUses": [
+            "BLUE_CATEGORY_INDUSTRY (NA)"
+          ]
+        },
+        {
+          "plotUse": "EDUCATION_1",
+          "code": "Educational-1 (E1)",
+          "subUses": [
+            "EDUCATIONAL_INSTITUTIONS (NA)",
+            "SPECIALIZED_EDUCATIONAL_INSTITUTES (B-E3)"
+          ]
+        },
+        {
+          "plotUse": "EDUCATION_2",
+          "code": "Educational-2 (E2)",
+          "subUses": [
+            "SINGLE_ROOM_TRAINING_INSTITUTES (NA)",
+            "TRAINING_CENTERS (NA)",
+            "PROFESSIONAL_TRAINING_INSTITUTES (NA)",
+            "RESEARCH_AND_TRAINING_CENTERS (NA)",
+            "COACHING_CENTERS (B-E2)",
+            "TUITION_CLASSES_CENTERS (NA)",
+            "PLAY_SCHOOL (NA)",
+            "NURSERY_SCHOOL (B-E1)",
+            "PRIMARY_SCHOOL (B-E1)",
+            "HIGH_SCHOOL (NA)",
+            "HIGHER_SECONDARY_SCHOOL (B-E2)",
+            "COLLEGES (B-E3)"
+          ]
+        },
+        {
+          "plotUse": "HEALTH_1",
+          "code": "Health-1 (H1)",
+          "subUses": [
+            "HOSPITALS (C-H2)",
+            "RESEARCH_LABORATORIES (NA)",
+            "RESEARCH_AND_DEVELOPMENT_CENTERS (NA)"
+          ]
+        },
+        {
+          "plotUse": "HEALTH_2",
+          "code": "Health-2 (H2)",
+          "subUses": [
+            "HOSPITALS_UPTO_50_BEDS (NA)",
+            "HEALTH_CENTERS_UPTO_50_BEDS (NA)",
+            "DIAGNOSTIC_CENTER (NA)",
+            "NURSING_HOMES (C-H1)",
+            "CLINICS (C-H1)",
+            "DISPENSARIES (C-H1)",
+            "LABORATORIES (NA)",
+            "PATHOLOGY_LABS (NA)",
+            "MEDICAL_LABORATORIES (NA)",
+            "PHARMACEUTICAL_STORES (NA)"
+          ]
+        },
+        {
+          "plotUse": "ASSEMBLY_HALL_1",
+          "code": "Assembly-1 (A1)",
+          "subUses": [
+            "CONFERENCE_HALLS (D-AS2)",
+            "MEMORIALS (NA)"
+          ]
+        },
+        {
+          "plotUse": "ASSEMBLY_HALL_2",
+          "code": "Assembly-2 (A2)",
+          "subUses": [
+            "MARRIAGE_HALLS (D-MCH)",
+            "COMMUNITY_BUILDINGS (NA)",
+            "LIBRARIES (NA)",
+            "YOGA_EXHIBITION (NA)",
+            "ART_CENTERS_GALLERIES (NA)",
+            "MEDITATION_CENTERS (NA)",
+            "COMMUNITY_HALLS (D-MCH)",
+            "MUSIC_DANCE_AND_DRAMA_CENTERS (NA)",
+            "AUDITORIUMS (D-AS1)",
+            "CULTURAL_PROMOTION_CENTERS (D-AS2)",
+            "CINEMA_HALLS (D-CA)",
+            "MULTIPLEXES (D-M)",
+            "MINIPLEXES (NA)"
+          ]
+        },
+        {
+          "plotUse": "ASSEMBLY_HALL_3",
+          "code": "Assembly-3 (A3)",
+          "subUses": [
+            "OPEN_AIR_THEATERS (D-AS2)",
+            "MUSEUMS (D-AS2)",
+            "SPECIAL_ENTERTAINMENT_ZONES (D-AS2)",
+            "FACILITIES_AND_SERVICES_RELATED_TO_ENTERTAINMENT (NA)"
+          ]
+        },
+        {
+          "plotUse": "PUBLIC_UTILITY_1",
+          "code": "Public Utility-1 (PU-1)",
+          "subUses": [
+            "PUBLIC_SECTOR_UNDERTAKINGS (C-I)",
+            "POLICE_LINES (C-I)",
+            "JAILS (C-I)",
+            "RADIO_BROADCASTING (C-I)",
+            "WIRELESS_CENTERS_AND_TELECOMMUNICATION_CENTERS (NA)",
+            "TELEVISION_BROADCASTING_CENTERS (NA)",
+            "METEOROLOGICAL_CENTER_AND_OBSERVATORIES (NA)",
+            "POWER_PLANTS (NA)",
+            "TELEVISION_RADIO_CENTERS (NA)"
+          ]
+        },
+        {
+          "plotUse": "PUBLIC_UTILITY_2",
+          "code": "Public Utility-2 (PU-2)",
+          "subUses": [
+            "GOVERNMENT_OFFICES (NA)",
+            "SEMI_GOVERNMENT_AND_OTHER_OFFICES (NA)",
+            "INSTITUTIONAL_OFFICES (NA)",
+            "USES_ASSOCIATED_WITH_GOVERNMENT_OFFICES (NA)"
+          ]
+        },
+        {
+          "plotUse": "PUBLIC_UTILITY_3",
+          "code": "Public Utility-3 (PU-3)",
+          "subUses": [
+            "FIRE_STATIONS (L-GO)",
+            "POLICE_STATIONS (C-I)",
+            "POLICE_OUTPOSTS (NA)",
+            "POST_OFFICES (C-I)",
+            "BANKS (F-C2)",
+            "ATMS (F-C1)",
+            "PUBLIC_FACILITY_CENTERS (NA)",
+            "PUBLIC_UTILITIES_AND_SERVICES (C-I)",
+            "MILK_BOOTH (NA)",
+            "WENDING_BOOTH (NA)",
+            "ELECTRICITY_DISTRIBUTION_CENTERS (NA)",
+            "TELEPHONE_EXCHANGES (C-I)",
+            "TELEPHONE_TOWER (NA)",
+            "WATER_SUPPLY_CENTER (NA)",
+            "WATER_TREATMENT_PLANTS (NA)",
+            "WATER_LIFTING_CENTERS (NA)"
+          ]
+        },
+        {
+          "plotUse": "PUBLIC_UTILITY_4",
+          "code": "Public Utility-4 (PU-4)",
+          "subUses": [
+            "GRAVEYARDS (NA)",
+            "CREMATION_GROUNDS (NA)",
+            "ELECTRIC_CREMATORIUM (NA)",
+            "SEWAGE_DISPOSAL_CENTERS (NA)",
+            "SEWAGE_TREATMENT_PLANT (NA)",
+            "TRENCHING_GROUND (NA)",
+            "LAND_FILL_SITES (NA)",
+            "SOLID_WASTE_SEGREGATION_MANAGEMENT_AND_TREATMENT_PLANT (NA)",
+            "EFFLUENT_TREATMENT_PLANT (NA)"
+          ]
+        },
+        {
+          "plotUse": "RECREATIONAL_1",
+          "code": "Recreational-1 (RC-1)",
+          "subUses": [
+            "NATIONAL_PARK (NA)",
+            "ZOO (NA)",
+            "BIRD_SANCTUARIES (H-A1)",
+            "REGIONAL_PARKS (NA)",
+            "DISTRICT_PARKS (NA)",
+            "STADIUMS (S-SAS)",
+            "INDOOR_STADIUMS (S-SAS)",
+            "SPORTS_GROUNDS (NA)",
+            "SWIMMING_POOLS (S-SAS)",
+            "SHOOTING_RANGES (NA)",
+            "MULTI_PURPOSE_SPECIALIZED_PARKS_GROUNDS (NA)",
+            "PICNIC_AND_HOLIDAY_RESORTS (NA)",
+            "PICNIC_SPOTS (NA)",
+            "RESTAURANTS (F-RT)",
+            "EATERIES (F-RT)"
+          ]
+        },
+        {
+          "plotUse": "RECREATIONAL_2",
+          "code": "Recreational-2 (RC-2)",
+          "subUses": [
+            "GARDENS (NA)",
+            "NURSERIES (NA)",
+            "PARKS (NA)",
+            "PLAYGROUNDS (S-SAS)",
+            "SPORTS_TRAINING_CENTERS (NA)",
+            "CHILDREN_S_TRAFFIC_PARKS (NA)",
+            "PLAY_SCHOOLS (NA)",
+            "CR_CHES (L-C)"
+          ]
+        },
+        {
+          "plotUse": "TRANSPORT_1",
+          "code": "Transport-1 (TR1)",
+          "subUses": [
+            "GOODS_TERMINALS (NA)",
+            "TRANSPORT_NAGAR (NA)",
+            "AIRPORTS_AND_AIRSTRIPS (NA)",
+            "DRY_PORTS (NA)",
+            "FORWARDING_AGENCIES (NA)",
+            "ESSENTIAL_EMPLOYEES_BOARDING_HOUSES_AND_SERVICES (NA)"
+          ]
+        },
+        {
+          "plotUse": "TRANSPORT_2",
+          "code": "Transport-2 (TR2)",
+          "subUses": [
+            "BUS_STOPS (NA)",
+            "TAXI_STANDS (F-PA)",
+            "PARKING_LOTS (F-PA)",
+            "VEHICLE_PARKING_AREAS (NA)",
+            "HELIPADS (NA)"
+          ]
+        },
+        {
+          "plotUse": "TRANSPORT_3",
+          "code": "Transport-3 (TR3)",
+          "subUses": [
+            "WEIGHBRIDGES (NA)",
+            "VEHICLE_REST_AREAS (NA)",
+            "BUS_DEPOTS (D-BT)",
+            "BUS_TERMINALS (D-BT)",
+            "TRUCK_STANDS (NA)",
+            "TRUCK_TERMINALS (D-BT)"
+          ]
+        },
+        {
+          "plotUse": "RELIGIOUS_AND_CULTURAL",
+          "code": "Religious and cultural (R&C)",
+          "subUses": [
+            "RELIGIOUS_AND_CULTURAL_BUILDINGS (NA)",
+            "RELIGIOUS_PLACES (NA)",
+            "TEMPLES (NA)",
+            "CHURCHES (NA)",
+            "MOSQUES (NA)"
+          ]
+        },
+        {
+          "plotUse": "TEMPORARY_USE",
+          "code": "TU",
+          "subUses": [
+            "WEEKLY_MARKETS (F-C3)",
+            "FAIR_AND_EXHIBITION_GROUNDS (NA)",
+            "MELA (NA)"
+          ]
+        },
+        {
+          "plotUse": "AGRICULTURE",
+          "code": "Agriculture (AG)",
+          "subUses": [
+            "AGRICULTURE_EXHIBITION_AND_EXPERIMENTAL_WORKS (NA)",
+            "AGRICULTURAL_FARMS (NA)",
+            "AGRICULTURE (H-A1)",
+            "HORTICULTURE_AND_FORESTRY (NA)",
+            "PASTURES_AND_PLANTATIONS (NA)",
+            "POULTRY_FARMING (NA)",
+            "DAIRY_FARMING (NA)",
+            "STUD_FARMS_FOR_MAINTENANCE (NA)",
+            "MOTELS (I-M)",
+            "DHABA (NA)",
+            "BRICK_KILNS (H-A1I)",
+            "POTTERY_WORKS (NA)",
+            "STONE_CRUSHING (G-PHI)",
+            "AGRICULTURAL_PRODUCE_GOODS (NA)",
+            "FERTILIZER_AND_SEED_STORAGE_CENTERS (NA)",
+            "AGRICULTURAL_ENGINEERING_AND_REPAIR_ESTABLISHMENTS_AND_TRAINING_CENTERS (NA)",
+            "BRICK_FARMER_TRAINING_CENTERS (NA)",
+            "MILK_PROCESSING_PLANTS (NA)",
+            "MILK_CHILLING_CENTERS (NA)",
+            "FLY_ASH_RELATED_PRODUCTION (G-PHI)",
+            "OPEN_DEPOTS (NA)",
+            "BIOETHANOL_GRAIN_BASED_CO_CAPTIVE_POWER_PLANTS (NA)",
+            "SOLAR_PLANT (NA)",
+            "PETROL_AND_EXPLOSIVE_MATERIAL_STORAGE_CENTERS (NA)",
+            "LPG_GODOWNS (NA)",
+            "AGRICULTURE_GODOWN (F-SWG)",
+            "PUBLIC_SERVICE_FACILITIES (NA)",
+            "AGRICULTURAL_RESEARCH_CENTERS (B-E3)"
           ]
         }
       ]

@@ -850,6 +850,12 @@
       "groupId": "025"
     },
     {
+      "code": "BPA_L4_VERIFIER",
+      "name": "BPA_L4_VERIFIER",
+      "description": "OBPAS BPA workflow Approver",
+      "groupId": "025"
+    },
+    {
       "code": "WRD_NOC_APPROVER",
       "name": "WRD NOC Approver",
       "description": "Water Resource Department NOC Approver",
