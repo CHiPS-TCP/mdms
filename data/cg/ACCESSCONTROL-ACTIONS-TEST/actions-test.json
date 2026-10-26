@@ -21037,6 +21037,122 @@
       "navigationURL": "/kibana-v2/app/dashboards#/view/95e902a0-c156-11f1-aafe-eb005005bac9?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now%2Fd))&_a=()",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 8901235,
+      "name": "create amalgamation application",
+      "url": "/amalgamation-services/v1/amalgamation/_create",
+      "displayName": "create amalgamation application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "amalgamation-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901236,
+      "name": "update amalgamation application",
+      "url": "/amalgamation-services/v1/amalgamation/_update",
+      "displayName": "update amalgamation application",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "amalgamation-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901237,
+      "name": "Search amalgamation Applications",
+      "url": "/amalgamation-services/v1/amalgamation/_search",
+      "parentModule": "",
+      "displayName": "Search amalgamation Applications",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "amalgamation-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901238,
+      "name": "Amalgamation Calculator",
+      "url": "/amalgamation-calculator/v1/_calculate",
+      "parentModule": "",
+      "displayName": "Amalgamation Calculator",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "Amalgamation-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901239,
+      "name": "Amalgamation Collection Search Reciept",
+      "url": "/collection-services/payments/AMALGAMATION.PAY1/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901240,
+      "name": "Amalgamation Collection Search Reciept",
+      "url": "/collection-services/payments/AMALGAMATION.PAY2/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901241,
+      "name": "Amalgamation document CheckList Create",
+      "url": "/amalgamation-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "amalgamation-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901242,
+      "name": "amalgamation document CheckList Create",
+      "url": "/amalgamation-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "amalgamation-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901243,
+      "name": "amalgamation document CheckList Create",
+      "url": "/amalgamation-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "amalgamation-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901244,
+      "name": "update elastic search data api",
+      "url": "/layout-services/v1/layout/_updateelasticsearchdata",
+      "displayName": "Update elasticsearch data",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
