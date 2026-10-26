@@ -40740,7 +40740,12 @@
       "actionid": 7007,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 8901244,
+      "actioncode": "",
+      "tenantId": "cg"
     }
-
   ]
 }
