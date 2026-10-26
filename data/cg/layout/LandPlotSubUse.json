@@ -7936,13 +7936,6 @@
       ],
       "plotSubUseData": [
         {
-          "plotUse": "NA",
-          "code": "NA",
-          "subUses": [
-            "NA (NA)"
-          ]
-        },
-        {
           "plotUse": "RESIDENTIAL_R1",
           "code": "Residential (R)",
           "subUses": [
@@ -7950,44 +7943,6 @@
             "RESIDENTIAL_HOUSES (A-R)",
             "RESIDENTIAL_CUM_WORKPLACE (NA)",
             "GROUP_HOUSING (NA)"
-          ]
-        },
-        {
-          "plotUse": "RESIDENTIAL_R2",
-          "code": "Residential-2 (R2)",
-          "subUses": [
-            "NIGHT_SHELTERS (A-DNS)",
-            "DHARAMSHALAS (A-DNS)",
-            "LODGING_BOARDING (NA)",
-            "SHELTERS (A-DNS)",
-            "REST_HOUSE (A-LB)",
-            "HOUSING_RELATED_TO_PUBLIC_USE (NA)"
-          ]
-        },
-        {
-          "plotUse": "RESIDENTIAL_R3",
-          "code": "Residential-3 (R3)",
-          "subUses": [
-            "HOSTELS (A-H)",
-            "DORMITORY (NA)",
-            "STAFF_QUARTERS_OF_A_PUBLIC_INSTITUTE (NA)"
-          ]
-        },
-        {
-          "plotUse": "RESIDENTIAL_R4",
-          "code": "Residential-4 (R4)",
-          "subUses": [
-            "FARMHOUSES (NA)",
-            "AFFORDABLE_HOUSING_PROJECTS (NA)",
-            "INTEGRATED_TOWNSHIP (A-IT)"
-          ]
-        },
-        {
-          "plotUse": "RESIDENTIAL_R5",
-          "code": "Residential-5 (R5)",
-          "subUses": [
-            "INDUSTRY_LINKED_HOUSING_UP_TO_SIZE_60_SQM (NA)",
-            "HOSTELS_AND_DORMITORIES (NA)"
           ]
         },
         {
@@ -8052,58 +8007,6 @@
           ]
         },
         {
-          "plotUse": "COMMERCIAL_4",
-          "code": "Commercial-4 (C4)",
-          "subUses": [
-            "STAR_HOTELS (NA)",
-            "MALL (NA)",
-            "OPEN_MALL (NA)",
-            "MOTOR_GARAGES_AND_WORKSHOPS (F-C)"
-          ]
-        },
-        {
-          "plotUse": "INDUSTRIAL_1",
-          "code": "Industrial-1 (I1)",
-          "subUses": [
-            "HOME_HOLD_AND_COTTAGE_INDUSTRIES (NA)"
-          ]
-        },
-        {
-          "plotUse": "INDUSTRIAL_2",
-          "code": "Industrial-2 (I2)",
-          "subUses": [
-            "WHITE_CATEGORY_INDUSTRY (NA)"
-          ]
-        },
-        {
-          "plotUse": "INDUSTRIAL_3",
-          "code": "Industrial-3 (I3)",
-          "subUses": [
-            "GREEN_CTEGORY_INDUSTRY (NA)"
-          ]
-        },
-        {
-          "plotUse": "INDUSTRIAL_4",
-          "code": "Industrial-4 (I4)",
-          "subUses": [
-            "ORANGE_CATEGORY_INDUSTRY (G-OI)"
-          ]
-        },
-        {
-          "plotUse": "INDUSTRIAL_5",
-          "code": "Industrial-5 (I5)",
-          "subUses": [
-            "RED_CATEGORY_INDUSTRY (NA)"
-          ]
-        },
-        {
-          "plotUse": "INDUSTRIAL_6",
-          "code": "Industrial-6 (I6)",
-          "subUses": [
-            "BLUE_CATEGORY_INDUSTRY (NA)"
-          ]
-        },
-        {
           "plotUse": "EDUCATION_1",
           "code": "Educational-1 (E1)",
           "subUses": [
@@ -8127,6 +8030,33 @@
             "HIGH_SCHOOL (NA)",
             "HIGHER_SECONDARY_SCHOOL (B-E2)",
             "COLLEGES (B-E3)"
+          ]
+        },
+        {
+          "plotUse": "ASSEMBLY_HALL_1",
+          "code": "Assembly-1 (A1)",
+          "subUses": [
+            "CONFERENCE_HALLS (D-AS2)",
+            "MEMORIALS (NA)"
+          ]
+        },
+        {
+          "plotUse": "ASSEMBLY_HALL_2",
+          "code": "Assembly-2 (A2)",
+          "subUses": [
+            "MARRIAGE_HALLS (D-MCH)",
+            "COMMUNITY_BUILDINGS (NA)",
+            "LIBRARIES (NA)",
+            "YOGA_EXHIBITION (NA)",
+            "ART_CENTERS_GALLERIES (NA)",
+            "MEDITATION_CENTERS (NA)",
+            "COMMUNITY_HALLS (D-MCH)",
+            "MUSIC_DANCE_AND_DRAMA_CENTERS (NA)",
+            "AUDITORIUMS (D-AS1)",
+            "CULTURAL_PROMOTION_CENTERS (D-AS2)",
+            "CINEMA_HALLS (D-CA)",
+            "MULTIPLEXES (D-M)",
+            "MINIPLEXES (NA)"
           ]
         },
         {
@@ -8155,30 +8085,104 @@
           ]
         },
         {
-          "plotUse": "ASSEMBLY_HALL_1",
-          "code": "Assembly-1 (A1)",
+          "plotUse": "RELIGIOUS_AND_CULTURAL",
+          "code": "Religious and cultural (R&C)",
           "subUses": [
-            "CONFERENCE_HALLS (D-AS2)",
-            "MEMORIALS (NA)"
+            "RELIGIOUS_AND_CULTURAL_BUILDINGS (NA)",
+            "RELIGIOUS_PLACES (NA)",
+            "TEMPLES (NA)",
+            "CHURCHES (NA)",
+            "MOSQUES (NA)"
           ]
         },
         {
-          "plotUse": "ASSEMBLY_HALL_2",
-          "code": "Assembly-2 (A2)",
+          "plotUse": "INDUSTRIAL_1",
+          "code": "Industrial-1 (I1)",
           "subUses": [
-            "MARRIAGE_HALLS (D-MCH)",
-            "COMMUNITY_BUILDINGS (NA)",
-            "LIBRARIES (NA)",
-            "YOGA_EXHIBITION (NA)",
-            "ART_CENTERS_GALLERIES (NA)",
-            "MEDITATION_CENTERS (NA)",
-            "COMMUNITY_HALLS (D-MCH)",
-            "MUSIC_DANCE_AND_DRAMA_CENTERS (NA)",
-            "AUDITORIUMS (D-AS1)",
-            "CULTURAL_PROMOTION_CENTERS (D-AS2)",
-            "CINEMA_HALLS (D-CA)",
-            "MULTIPLEXES (D-M)",
-            "MINIPLEXES (NA)"
+            "HOME_HOLD_AND_COTTAGE_INDUSTRIES (NA)"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_2",
+          "code": "Industrial-2 (I2)",
+          "subUses": [
+            "WHITE_CATEGORY_INDUSTRY (NA)"
+          ]
+        },
+        {
+          "plotUse": "RESIDENTIAL_R2",
+          "code": "Residential-2 (R2)",
+          "subUses": [
+            "NIGHT_SHELTERS (A-DNS)",
+            "DHARAMSHALAS (A-DNS)",
+            "LODGING_BOARDING (NA)",
+            "SHELTERS (A-DNS)",
+            "REST_HOUSE (A-LB)",
+            "HOUSING_RELATED_TO_PUBLIC_USE (NA)"
+          ]
+        },
+        {
+          "plotUse": "RESIDENTIAL_R3",
+          "code": "Residential-3 (R3)",
+          "subUses": [
+            "HOSTELS (A-H)",
+            "DORMITORY (NA)",
+            "STAFF_QUARTERS_OF_A_PUBLIC_INSTITUTE (NA)"
+          ]
+        },
+        {
+          "plotUse": "RESIDENTIAL_R4",
+          "code": "Residential-4 (R4)",
+          "subUses": [
+            "FARMHOUSES (NA)",
+            "AFFORDABLE_HOUSING_PROJECTS (NA)",
+            "INTEGRATED_TOWNSHIP (A-IT)"
+          ]
+        },
+        {
+          "plotUse": "RESIDENTIAL_R5",
+          "code": "Residential-5 (R5)",
+          "subUses": [
+            "INDUSTRY_LINKED_HOUSING_UP_TO_SIZE_60_SQM (NA)",
+            "HOSTELS_AND_DORMITORIES (NA)"
+          ]
+        },
+        {
+          "plotUse": "COMMERCIAL_4",
+          "code": "Commercial-4 (C4)",
+          "subUses": [
+            "STAR_HOTELS (NA)",
+            "MALL (NA)",
+            "OPEN_MALL (NA)",
+            "MOTOR_GARAGES_AND_WORKSHOPS (F-C)"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_3",
+          "code": "Industrial-3 (I3)",
+          "subUses": [
+            "GREEN_CTEGORY_INDUSTRY (NA)"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_4",
+          "code": "Industrial-4 (I4)",
+          "subUses": [
+            "ORANGE_CATEGORY_INDUSTRY (G-OI)"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_5",
+          "code": "Industrial-5 (I5)",
+          "subUses": [
+            "RED_CATEGORY_INDUSTRY (NA)"
+          ]
+        },
+        {
+          "plotUse": "INDUSTRIAL_6",
+          "code": "Industrial-6 (I6)",
+          "subUses": [
+            "BLUE_CATEGORY_INDUSTRY (NA)"
           ]
         },
         {
@@ -8321,17 +8325,6 @@
             "BUS_TERMINALS (D-BT)",
             "TRUCK_STANDS (NA)",
             "TRUCK_TERMINALS (D-BT)"
-          ]
-        },
-        {
-          "plotUse": "RELIGIOUS_AND_CULTURAL",
-          "code": "Religious and cultural (R&C)",
-          "subUses": [
-            "RELIGIOUS_AND_CULTURAL_BUILDINGS (NA)",
-            "RELIGIOUS_PLACES (NA)",
-            "TEMPLES (NA)",
-            "CHURCHES (NA)",
-            "MOSQUES (NA)"
           ]
         },
         {
