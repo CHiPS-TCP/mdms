@@ -30865,6 +30865,730 @@
             ]
           }
         ]
+      },
+      {
+        "masterPlan": [
+          "TCP DUMMY PLANNING AREA",
+          "TCP DUMMY PLANNING AREA 2",
+          "TCP DUMMY PLANNING AREA 3",
+          "BAGICHA PLANNING AREA",
+          "DANTEWADA PLANNING AREA",
+          "KUNKURI PLANNING AREA",
+          "PATHALGAON PLANNING AREA",
+          "KOTBA PLANNING AREA",
+          "TILDA-NEVRA PLANNING AREA",
+          "KHARORA PLANNING AREA",
+          "NAWAPARA PLANNING AREA",
+          "KUNRA PLANNING AREA",
+          "CHAMPARAN PLANNING AREA",
+          "PURA PLANNING AREA",
+          "FINGESHWAR PLANNING AREA",
+          "GARIYABAND PLANNING AREA",
+          "CHURRA PLANNING AREA",
+          "RAJIM PLANNING AREA",
+          "CHARAMA PLANNING AREA",
+          "PANKHAJUR PLANNING AREA",
+          "PANDARIYA PLANNING AREA",
+          "PIPARIYA PLANNING AREA",
+          "S. LOHARA PLANNING AREA",
+          "BODLA PLANNING AREA",
+          "PANDATARAI PLANNING AREA",
+          "BIRKONA PLANNING AREA",
+          "KUNDA PLANNING AREA",
+          "CHHURIKALA PLANNING AREA",
+          "KATGHORA PLANNING AREA",
+          "PODI - UPRODA PLANNING AREA",
+          "HARDIBAZAR PLANNING AREA",
+          "DEEPKA PLANNING AREA",
+          "KARTALA PLANNING AREA",
+          "PALI PLANNING AREA",
+          "BHAWARPUR (CLUSTER) PLANNING AREA",
+          "TUMGAON PLANNING AREA",
+          "SIRPUR \"SADA\" PLANNING AREA",
+          "BASNA PLANNING AREA",
+          "BAIKUNTHPUR PLANNING AREA",
+          "AMBAGARH CHOWKI PLANNING AREA",
+          "CHHUIKHADAN PLANNING AREA",
+          "CHHURIYA PLANNING AREA",
+          "DONGARGAON PLANNING AREA",
+          "GANDAI PLANNING AREA",
+          "MURMUNDA PLANNING AREA",
+          "SARAGAON PLANNING AREA",
+          "BADE KANERA PLANNING AREA",
+          "PHARSAGAON PLANNING AREA",
+          "KESHKAL PLANNING AREA",
+          "BHAIRAMGARH PLANNING AREA",
+          "KONTA PLANNING AREA",
+          "DHAMDHA PLANNING AREA",
+          "SAJA PLANNING AREA",
+          "BERLA PLANNING AREA",
+          "MARO PLANNING AREA",
+          "BILHA PLANNING AREA",
+          "GANIARI PLANNING AREA",
+          "KOTA PLANNING AREA",
+          "MALHAR PLANNING AREA",
+          "MARWAHI PLANNING AREA",
+          "MASTURI PLANNING AREA",
+          "PENDRA PLANNING AREA",
+          "GAURELA PLANNING AREA",
+          "TAKHATPUR PLANNING AREA",
+          "SIMGA PLANNING AREA",
+          "PALARI PLANNING AREA",
+          "BILAIGARH PLANNING AREA",
+          "LAVAN PLANNING AREA",
+          "BHATGAON PLANNING AREA",
+          "NARHARPUR PLANNING AREA",
+          "ANTAGADH PLANNING AREA",
+          "BADE KAPASI PLANNING AREA",
+          "DALLI RAJHARA PLANNING AREA",
+          "DONDI PLANNING AREA",
+          "DONDILOHARA PLANNING AREA",
+          "GURUR PLANNING AREA",
+          "GUNDERDEHI PLANNING AREA",
+          "ARJUNDA PLANNING AREA",
+          "TUNDRA PLANNING AREA",
+          "GIRODPURI PLANNING AREA",
+          "DAMAKHEDA PLANNING AREA",
+          "SONADIH PLANNING AREA",
+          "HIRMI PLANNING AREA",
+          "RAAVAN PLANNING AREA",
+          "RISDA PLANNING AREA",
+          "KHAPARADIH PLANNING AREA",
+          "HATHBAND PLANNING AREA",
+          "PUSSORE PLANNING AREA",
+          "BARAMKELA PLANNING AREA",
+          "DHARAMJAIGARH PLANNING AREA",
+          "DHARAMJAIGARH JANJATIYA CLUSTER PLANNING AREA",
+          "GHARGHODA PLANNING AREA",
+          "LAILUNGA PLANNING AREA",
+          "SARIYA PLANNING AREA",
+          "TAMNAR PLANNING AREA",
+          "DABHRA PLANNING AREA",
+          "MALKHARODA PLANNING AREA",
+          "SAKTI PLANNING AREA",
+          "NAVAGARH PLANNING AREA",
+          "CHANDRAPUR PLANNING AREA",
+          "RAHOD PLANNING AREA",
+          "BARADWAR PLANNING AREA",
+          "ADBHAR PLANNING AREA",
+          "SHIVRINARAYAN PLANNING AREA",
+          "AKALTARA PLANNING AREA",
+          "BALODA PLANNING AREA",
+          "PAMGARH PLANNING AREA",
+          "JAIJEPUR PLANNING AREA",
+          "MULMULA PLANNING AREA",
+          "JETHA PLANNING AREA",
+          "KHAROD PLANNING AREA",
+          "BACHELI -KIRANDUL PLANNING AREA",
+          "KURUD PLANNING AREA",
+          "NAGARI PLANNING AREA",
+          "MAGARLOD PLANNING AREA",
+          "BHAKHARA PLANNING AREA",
+          "DARBA PLANNING AREA",
+          "AMADI PLANNING AREA",
+          "PARPODI PLANNING AREA",
+          "NAWAGARH PLANNING AREA",
+          "DEVKAR PLANNING AREA",
+          "SHIVPUR-CHARCHA PLANNING AREA",
+          "SONHAT PLANNING AREA",
+          "MANENDRAGARH PLANNING AREA",
+          "CHIRMIRI PLANNING AREA",
+          "KHONGAPANI, JHAGRAKHAND, NEW LEDARI PLANNING AREA",
+          "NAGARNAR PLANNING AREA",
+          "LAKHANPUR PLANNING AREA",
+          "SITAPUR PLANNING AREA",
+          "RAGHUNATHPUR PLANNING AREA",
+          "RAMANUJGANJ PLANNING AREA",
+          "WADAFNAGAR PLANNING AREA",
+          "RAJPUR PLANNING AREA",
+          "KUSMI PLANNING AREA",
+          "SURAJPUR PLANNING AREA",
+          "BISHRAMPUR PLANNING AREA",
+          "PRATAPUR PLANNING AREA",
+          "JARHI PLANNING AREA",
+          "PREMNGAR PLANNING AREA",
+          "LORMI PLANNING AREA",
+          "PATHARIYA PLANNING AREA",
+          "SARGAON PLANNING AREA"
+        ],
+        "landUseMappingData": [
+          {
+            "landUseZone": "NA",
+            "landPlotUse": [
+              {
+                "minWidth": 0,
+                "maxWidth": 9999,
+                "occupancy": [
+                  {
+                    "code": "Residential (R)",
+                    "name": "Residential (R)"
+                  },
+                  {
+                    "code": "Commercial-1 (C1)",
+                    "name": "Commercial-1 (C1)"
+                  },
+                  {
+                    "code": "Commercial-2 (C2)",
+                    "name": "Commercial-2 (C2)"
+                  },
+                  {
+                    "code": "Commercial-3 (C3)",
+                    "name": "Commercial-3 (C3)"
+                  },
+                  {
+                    "code": "Educational-1 (E1)",
+                    "name": "Educational-1 (E1)"
+                  },
+                  {
+                    "code": "Educational-2 (E2)",
+                    "name": "Educational-2 (E2)"
+                  },
+                  {
+                    "code": "Assembly-1 (A1)",
+                    "name": "Assembly-1 (A1)"
+                  },
+                  {
+                    "code": "Assembly-2 (A2)",
+                    "name": "Assembly-2 (A2)"
+                  },
+                  {
+                    "code": "Health-1 (H1)",
+                    "name": "Health-1 (H1)"
+                  },
+                  {
+                    "code": "Health-2 (H2)",
+                    "name": "Health-2 (H2)"
+                  },
+                  {
+                    "code": "Religious and cultural (R&C)",
+                    "name": "Religious and cultural (R&C)"
+                  },
+                  {
+                    "code": "Industrial-1 (I1)",
+                    "name": "Industrial-1 (I1)"
+                  },
+                  {
+                    "code": "Industrial-2 (I2)",
+                    "name": "Industrial-2 (I2)"
+                  },
+                  {
+                    "code": "Residential-2 (R2)",
+                    "name": "Residential-2 (R2)"
+                  },
+                  {
+                    "code": "Residential-3 (R3)",
+                    "name": "Residential-3 (R3)"
+                  },
+                  {
+                    "code": "Residential-4 (R4)",
+                    "name": "Residential-4 (R4)"
+                  },
+                  {
+                    "code": "Residential-5 (R5)",
+                    "name": "Residential-5 (R5)"
+                  },
+                  {
+                    "code": "Commercial-4 (C4)",
+                    "name": "Commercial-4 (C4)"
+                  },
+                  {
+                    "code": "Industrial-3 (I3)",
+                    "name": "Industrial-3 (I3)"
+                  },
+                  {
+                    "code": "Industrial-4 (I4)",
+                    "name": "Industrial-4 (I4)"
+                  },
+                  {
+                    "code": "Industrial-5 (I5)",
+                    "name": "Industrial-5 (I5)"
+                  },
+                  {
+                    "code": "Industrial-6 (I6)",
+                    "name": "Industrial-6 (I6)"
+                  },
+                  {
+                    "code": "Assembly-3 (A3)",
+                    "name": "Assembly-3 (A3)"
+                  },
+                  {
+                    "code": "Public Utility-1 (PU-1)",
+                    "name": "Public Utility-1 (PU-1)"
+                  },
+                  {
+                    "code": "Public Utility-2 (PU-2)",
+                    "name": "Public Utility-2 (PU-2)"
+                  },
+                  {
+                    "code": "Public Utility-3 (PU-3)",
+                    "name": "Public Utility-3 (PU-3)"
+                  },
+                  {
+                    "code": "Public Utility-4 (PU-4)",
+                    "name": "Public Utility-4 (PU-4)"
+                  },
+                  {
+                    "code": "Recreational-1 (RC-1)",
+                    "name": "Recreational-1 (RC-1)"
+                  },
+                  {
+                    "code": "Recreational-2 (RC-2)",
+                    "name": "Recreational-2 (RC-2)"
+                  },
+                  {
+                    "code": "Transport-1 (TR1)",
+                    "name": "Transport-1 (TR1)"
+                  },
+                  {
+                    "code": "Transport-2 (TR2)",
+                    "name": "Transport-2 (TR2)"
+                  },
+                  {
+                    "code": "Transport-3 (TR3)",
+                    "name": "Transport-3 (TR3)"
+                  },
+                  {
+                    "code": "TU",
+                    "name": "TU"
+                  },
+                  {
+                    "code": "Agriculture (AG)",
+                    "name": "Agriculture (AG)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "AGRICULTURAL",
+            "landPlotUse": [
+              {
+                "minWidth": 0,
+                "maxWidth": 9999,
+                "occupancy": [
+                  {
+                    "code": "Religious and cultural (R&C)",
+                    "name": "Religious and cultural (R&C)"
+                  },
+                  {
+                    "code": "Residential-4 (R4)",
+                    "name": "Residential-4 (R4)"
+                  },
+                  {
+                    "code": "Commercial-4 (C4)",
+                    "name": "Commercial-4 (C4)"
+                  },
+                  {
+                    "code": "Assembly-3 (A3)",
+                    "name": "Assembly-3 (A3)"
+                  },
+                  {
+                    "code": "Public Utility-3 (PU-3)",
+                    "name": "Public Utility-3 (PU-3)"
+                  },
+                  {
+                    "code": "Public Utility-4 (PU-4)",
+                    "name": "Public Utility-4 (PU-4)"
+                  },
+                  {
+                    "code": "Recreational-2 (RC-2)",
+                    "name": "Recreational-2 (RC-2)"
+                  },
+                  {
+                    "code": "Agriculture (AG)",
+                    "name": "Agriculture (AG)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "COMMERCIAL",
+            "landPlotUse": [
+              {
+                "minWidth": 0,
+                "maxWidth": 9999,
+                "occupancy": [
+                  {
+                    "code": "Commercial-1 (C1)",
+                    "name": "Commercial-1 (C1)"
+                  },
+                  {
+                    "code": "Commercial-2 (C2)",
+                    "name": "Commercial-2 (C2)"
+                  },
+                  {
+                    "code": "Commercial-3 (C3)",
+                    "name": "Commercial-3 (C3)"
+                  },
+                  {
+                    "code": "Educational-2 (E2)",
+                    "name": "Educational-2 (E2)"
+                  },
+                  {
+                    "code": "Assembly-1 (A1)",
+                    "name": "Assembly-1 (A1)"
+                  },
+                  {
+                    "code": "Assembly-2 (A2)",
+                    "name": "Assembly-2 (A2)"
+                  },
+                  {
+                    "code": "Health-2 (H2)",
+                    "name": "Health-2 (H2)"
+                  },
+                  {
+                    "code": "Religious and cultural (R&C)",
+                    "name": "Religious and cultural (R&C)"
+                  },
+                  {
+                    "code": "Industrial-1 (I1)",
+                    "name": "Industrial-1 (I1)"
+                  },
+                  {
+                    "code": "Industrial-2 (I2)",
+                    "name": "Industrial-2 (I2)"
+                  },
+                  {
+                    "code": "Residential-3 (R3)",
+                    "name": "Residential-3 (R3)"
+                  },
+                  {
+                    "code": "Commercial-4 (C4)",
+                    "name": "Commercial-4 (C4)"
+                  },
+                  {
+                    "code": "Industrial-3 (I3)",
+                    "name": "Industrial-3 (I3)"
+                  },
+                  {
+                    "code": "Industrial-6 (I6)",
+                    "name": "Industrial-6 (I6)"
+                  },
+                  {
+                    "code": "Assembly-3 (A3)",
+                    "name": "Assembly-3 (A3)"
+                  },
+                  {
+                    "code": "Public Utility-2 (PU-2)",
+                    "name": "Public Utility-2 (PU-2)"
+                  },
+                  {
+                    "code": "Public Utility-3 (PU-3)",
+                    "name": "Public Utility-3 (PU-3)"
+                  },
+                  {
+                    "code": "Recreational-2 (RC-2)",
+                    "name": "Recreational-2 (RC-2)"
+                  },
+                  {
+                    "code": "Transport-2 (TR2)",
+                    "name": "Transport-2 (TR2)"
+                  },
+                  {
+                    "code": "Transport-3 (TR3)",
+                    "name": "Transport-3 (TR3)"
+                  },
+                  {
+                    "code": "TU",
+                    "name": "TU"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "INDUSTRIAL",
+            "landPlotUse": [
+              {
+                "minWidth": 0,
+                "maxWidth": 9999,
+                "occupancy": [
+                  {
+                    "code": "Commercial-3 (C3)",
+                    "name": "Commercial-3 (C3)"
+                  },
+                  {
+                    "code": "Industrial-1 (I1)",
+                    "name": "Industrial-1 (I1)"
+                  },
+                  {
+                    "code": "Industrial-2 (I2)",
+                    "name": "Industrial-2 (I2)"
+                  },
+                  {
+                    "code": "Residential-5 (R5)",
+                    "name": "Residential-5 (R5)"
+                  },
+                  {
+                    "code": "Industrial-3 (I3)",
+                    "name": "Industrial-3 (I3)"
+                  },
+                  {
+                    "code": "Industrial-4 (I4)",
+                    "name": "Industrial-4 (I4)"
+                  },
+                  {
+                    "code": "Industrial-5 (I5)",
+                    "name": "Industrial-5 (I5)"
+                  },
+                  {
+                    "code": "Industrial-6 (I6)",
+                    "name": "Industrial-6 (I6)"
+                  },
+                  {
+                    "code": "Public Utility-3 (PU-3)",
+                    "name": "Public Utility-3 (PU-3)"
+                  },
+                  {
+                    "code": "Recreational-2 (RC-2)",
+                    "name": "Recreational-2 (RC-2)"
+                  },
+                  {
+                    "code": "Transport-2 (TR2)",
+                    "name": "Transport-2 (TR2)"
+                  },
+                  {
+                    "code": "Transport-3 (TR3)",
+                    "name": "Transport-3 (TR3)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "PUBLIC_SEMI_PUBLIC",
+            "landPlotUse": [
+              {
+                "minWidth": 0,
+                "maxWidth": 9999,
+                "occupancy": [
+                  {
+                    "code": "Educational-1 (E1)",
+                    "name": "Educational-1 (E1)"
+                  },
+                  {
+                    "code": "Educational-2 (E2)",
+                    "name": "Educational-2 (E2)"
+                  },
+                  {
+                    "code": "Assembly-1 (A1)",
+                    "name": "Assembly-1 (A1)"
+                  },
+                  {
+                    "code": "Assembly-2 (A2)",
+                    "name": "Assembly-2 (A2)"
+                  },
+                  {
+                    "code": "Health-1 (H1)",
+                    "name": "Health-1 (H1)"
+                  },
+                  {
+                    "code": "Health-2 (H2)",
+                    "name": "Health-2 (H2)"
+                  },
+                  {
+                    "code": "Religious and cultural (R&C)",
+                    "name": "Religious and cultural (R&C)"
+                  },
+                  {
+                    "code": "Residential-3 (R3)",
+                    "name": "Residential-3 (R3)"
+                  },
+                  {
+                    "code": "Commercial-4 (C4)",
+                    "name": "Commercial-4 (C4)"
+                  },
+                  {
+                    "code": "Assembly-3 (A3)",
+                    "name": "Assembly-3 (A3)"
+                  },
+                  {
+                    "code": "Public Utility-1 (PU-1)",
+                    "name": "Public Utility-1 (PU-1)"
+                  },
+                  {
+                    "code": "Public Utility-2 (PU-2)",
+                    "name": "Public Utility-2 (PU-2)"
+                  },
+                  {
+                    "code": "Public Utility-3 (PU-3)",
+                    "name": "Public Utility-3 (PU-3)"
+                  },
+                  {
+                    "code": "Public Utility-4 (PU-4)",
+                    "name": "Public Utility-4 (PU-4)"
+                  },
+                  {
+                    "code": "Recreational-2 (RC-2)",
+                    "name": "Recreational-2 (RC-2)"
+                  },
+                  {
+                    "code": "Transport-2 (TR2)",
+                    "name": "Transport-2 (TR2)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "RECREATIONAL",
+            "landPlotUse": [
+              {
+                "minWidth": 0,
+                "maxWidth": 9999,
+                "occupancy": [
+                  {
+                    "code": "Assembly-3 (A3)",
+                    "name": "Assembly-3 (A3)"
+                  },
+                  {
+                    "code": "Recreational-1 (RC-1)",
+                    "name": "Recreational-1 (RC-1)"
+                  },
+                  {
+                    "code": "Recreational-2 (RC-2)",
+                    "name": "Recreational-2 (RC-2)"
+                  },
+                  {
+                    "code": "Transport-2 (TR2)",
+                    "name": "Transport-2 (TR2)"
+                  },
+                  {
+                    "code": "TU",
+                    "name": "TU"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "RESIDENTIAL",
+            "landPlotUse": [
+              {
+                "minWidth": 0,
+                "maxWidth": 9999,
+                "occupancy": [
+                  {
+                    "code": "Residential (R)",
+                    "name": "Residential (R)"
+                  },
+                  {
+                    "code": "Commercial-2 (C2)",
+                    "name": "Commercial-2 (C2)"
+                  },
+                  {
+                    "code": "Educational-2 (E2)",
+                    "name": "Educational-2 (E2)"
+                  },
+                  {
+                    "code": "Assembly-1 (A1)",
+                    "name": "Assembly-1 (A1)"
+                  },
+                  {
+                    "code": "Assembly-2 (A2)",
+                    "name": "Assembly-2 (A2)"
+                  },
+                  {
+                    "code": "Health-2 (H2)",
+                    "name": "Health-2 (H2)"
+                  },
+                  {
+                    "code": "Religious and cultural (R&C)",
+                    "name": "Religious and cultural (R&C)"
+                  },
+                  {
+                    "code": "Industrial-1 (I1)",
+                    "name": "Industrial-1 (I1)"
+                  },
+                  {
+                    "code": "Industrial-2 (I2)",
+                    "name": "Industrial-2 (I2)"
+                  },
+                  {
+                    "code": "Residential-2 (R2)",
+                    "name": "Residential-2 (R2)"
+                  },
+                  {
+                    "code": "Residential-3 (R3)",
+                    "name": "Residential-3 (R3)"
+                  },
+                  {
+                    "code": "Residential-4 (R4)",
+                    "name": "Residential-4 (R4)"
+                  },
+                  {
+                    "code": "Residential-5 (R5)",
+                    "name": "Residential-5 (R5)"
+                  },
+                  {
+                    "code": "Commercial-4 (C4)",
+                    "name": "Commercial-4 (C4)"
+                  },
+                  {
+                    "code": "Assembly-3 (A3)",
+                    "name": "Assembly-3 (A3)"
+                  },
+                  {
+                    "code": "Public Utility-2 (PU-2)",
+                    "name": "Public Utility-2 (PU-2)"
+                  },
+                  {
+                    "code": "Public Utility-3 (PU-3)",
+                    "name": "Public Utility-3 (PU-3)"
+                  },
+                  {
+                    "code": "Recreational-2 (RC-2)",
+                    "name": "Recreational-2 (RC-2)"
+                  },
+                  {
+                    "code": "Transport-2 (TR2)",
+                    "name": "Transport-2 (TR2)"
+                  },
+                  {
+                    "code": "TU",
+                    "name": "TU"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "landUseZone": "TRANSPORTATION",
+            "landPlotUse": [
+              {
+                "minWidth": 0,
+                "maxWidth": 9999,
+                "occupancy": [
+                  {
+                    "code": "Commercial-3 (C3)",
+                    "name": "Commercial-3 (C3)"
+                  },
+                  {
+                    "code": "Recreational-2 (RC-2)",
+                    "name": "Recreational-2 (RC-2)"
+                  },
+                  {
+                    "code": "Transport-1 (TR1)",
+                    "name": "Transport-1 (TR1)"
+                  },
+                  {
+                    "code": "Transport-2 (TR2)",
+                    "name": "Transport-2 (TR2)"
+                  },
+                  {
+                    "code": "Transport-3 (TR3)",
+                    "name": "Transport-3 (TR3)"
+                  },
+                  {
+                    "code": "TU",
+                    "name": "TU"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
 }

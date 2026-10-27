@@ -578,7 +578,10 @@
                 "BISHRAMPUR PLANNING AREA",
                 "PRATAPUR PLANNING AREA",
                 "JARHI PLANNING AREA",
-                "PREMNGAR PLANNING AREA"
+                "PREMNGAR PLANNING AREA",
+                "LORMI PLANNING AREA",
+                "PATHARIYA PLANNING AREA",
+                "SARGAON PLANNING AREA"
             ],
             "landUseZone": [
                 {
@@ -586,8 +589,8 @@
                     "name": "NA"
                 },
                 {
-                    "code": "RESIDENTIAL_R1",
-                    "name": "Residential R1"
+                    "code": "AGRICULTURAL",
+                    "name": "Agricultural"
                 },
                 {
                     "code": "COMMERCIAL",
@@ -606,16 +609,12 @@
                     "name": "Recreational"
                 },
                 {
+                    "code": "RESIDENTIAL",
+                    "name": "Residential"
+                },
+                {
                     "code": "TRANSPORTATION",
                     "name": "Transportation"
-                },
-                {
-                    "code": "AGRICULTURAL",
-                    "name": "Agricultural"
-                },
-                {
-                    "code": "RESTRICTED_AGRICULTURE",
-                    "name": "Restricted Agriculture"
                 }
             ]
         },
