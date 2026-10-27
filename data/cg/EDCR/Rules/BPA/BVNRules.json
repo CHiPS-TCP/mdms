@@ -49,7 +49,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -975,27 +974,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 0.9,
-                                    "max": 1.2
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -1450,7 +1457,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -2143,27 +2149,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -2618,7 +2632,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -3306,27 +3319,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -3781,7 +3802,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -4469,27 +4489,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -4944,7 +4972,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -5706,27 +5733,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -6181,7 +6216,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -6943,27 +6977,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -7503,7 +7545,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -8399,27 +8440,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -8874,7 +8923,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -9800,27 +9848,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 0.9,
-                                    "max": 1.2
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -10275,7 +10331,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -11201,27 +11256,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 0.9,
-                                    "max": 1.2
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -11676,7 +11739,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -12602,27 +12664,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 0.9,
-                                    "max": 1.2
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -13077,7 +13147,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -14003,27 +14072,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 0.9,
-                                    "max": 1.2
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -14478,7 +14555,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -15404,27 +15480,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 0.9,
-                                    "max": 1.2
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -15879,7 +15963,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -16805,27 +16888,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 0.9,
-                                    "max": 1.2
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -17280,7 +17371,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -17973,27 +18063,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -18448,7 +18546,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -19141,27 +19238,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -19616,7 +19721,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -20309,27 +20413,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -20784,7 +20896,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -21477,27 +21588,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -21952,7 +22071,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -22640,27 +22758,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -23115,7 +23241,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -23803,27 +23928,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -24278,7 +24411,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -24966,27 +25098,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -25441,7 +25581,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -26129,27 +26268,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -26604,7 +26751,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -27292,27 +27438,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -27767,7 +27921,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -28455,27 +28608,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -28930,7 +29091,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -29618,27 +29778,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -30093,7 +30261,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -30781,27 +30948,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -31256,7 +31431,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -31944,27 +32118,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -32419,7 +32601,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -33181,27 +33362,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -33656,7 +33845,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -34418,27 +34606,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -34893,7 +35089,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -35655,27 +35850,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -36130,7 +36333,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -36892,27 +37094,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -37367,7 +37577,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -38129,27 +38338,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -38604,7 +38821,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -39366,27 +39582,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -39862,7 +40086,6 @@
                         ]
                     },
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -40622,8 +40845,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -41103,7 +41334,6 @@
                         ]
                     },
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -41863,8 +42093,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -42323,7 +42561,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -43085,27 +43322,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -43560,7 +43805,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -44322,27 +44566,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -44787,7 +45039,6 @@
 						"percentage": 40
 					},
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -45644,8 +45895,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -46094,7 +46353,6 @@
 						"percentage": 40
 					},
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -46951,8 +47209,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -47411,7 +47677,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -48173,27 +48438,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -48733,7 +49006,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -49629,27 +49901,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -50189,7 +50469,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -51085,27 +51364,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -51645,7 +51932,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -52541,27 +52827,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -53101,7 +53395,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -53997,27 +54290,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -54557,7 +54858,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -55453,27 +55753,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -56013,7 +56321,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -56909,27 +57216,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -57399,7 +57714,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -58155,27 +58469,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -58630,7 +58952,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -59351,27 +59672,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -59826,7 +60155,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -60577,27 +60905,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -61137,7 +61473,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -62033,27 +62368,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -62508,7 +62851,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -63229,27 +63571,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -63704,7 +64054,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -64455,27 +64804,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -65015,7 +65372,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -65911,27 +66267,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -66386,7 +66750,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -67402,27 +67765,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 0.9,
-                                    "max": 1.2
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -67877,7 +68248,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -68893,27 +69263,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 0.9,
-                                    "max": 1.2
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -69368,7 +69746,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -70384,27 +70761,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 0.9,
-                                    "max": 1.2
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -70859,7 +71244,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -71875,27 +72259,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 0.9,
-                                    "max": 1.2
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -72350,7 +72742,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -73071,27 +73462,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
@@ -73546,7 +73945,6 @@
                         ]
                     },
                     "basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -74267,27 +74665,35 @@
                         }
                     },
                     "basement": {
-                        "mandatory": true,
-                        "type": "MAP",
-                        "value": {
-                            "heightFromTheFloorToCeiling": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 2.4,
-                                    "max": 0
-                                }
-                            },
-                            "heightOfTheCeilingOfUpperBasement": {
-                                "mandatory": true,
-                                "type": "RANGE",
-                                "value": {
-                                    "min": 1.2,
-                                    "max": 1.5
-                                }
-                            }
-                        }
-                    },
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"heightFromTheFloorToCeiling": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 0.0
+								}
+							},
+							"heightOfTheCeilingOfUpperBasement": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
+								}
+							}
+						}
+					},
                     "bathRoom": {
                         "mandatory": true,
                         "type": "MAP",
