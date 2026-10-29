@@ -40746,6 +40746,18 @@
       "actionid": 8901244,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "cg"
+    } ,
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "cg"
     }
   ]
 }
