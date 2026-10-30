@@ -40758,6 +40758,36 @@
       "actionid": 1896,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8901245,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8901246,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8901247,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8901248,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8901249,
+      "actioncode": "",
+      "tenantId": "cg"
     }
   ]
 }
