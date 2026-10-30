@@ -13400,7 +13400,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "CITIZEN",
       "actionid": 1943,
@@ -28166,7 +28165,8 @@
       "actionid": 7007,
       "actioncode": "",
       "tenantId": "cg"
-    },{
+    },
+    {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 1945,
       "actioncode": "",
@@ -31682,7 +31682,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "PROFESSIONAL_DOC_VERIFIER",
       "actionid": 5002,
@@ -31833,7 +31832,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "EMPLOYEE",
       "actionid": 5007,
@@ -32026,9 +32024,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 5032,
@@ -32155,91 +32150,90 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-      {
-        "rolecode": "CITIZEN",
-        "actionid": 5008,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_ARCHITECT",
-        "actionid": 5008,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_ENGINEER",
-        "actionid": 5008,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_TOWNPLANNER",
-        "actionid": 5008,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_SUPERVISOR",
-        "actionid": 5008,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_QUALITY_AUDITOR",
-        "actionid": 5008,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_GEO_HYDROLOGIST",
-        "actionid": 5008,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_GEO_TECHNICAL_ENGINEER",
-        "actionid": 5008,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_FIRE_OFFICER",
-        "actionid": 5008,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_CONSTRUCTION_ENGINEER",
-        "actionid": 5008,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_STRUCTURALENGINEER",
-        "actionid": 5008,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_CONSTRUCTION_MANAGEMENT_AGENCY",
-        "actionid": 5008,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_QUALITY_AUDIT_AGENCY",
-        "actionid": 5008,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_GROUP_OR_AGENCY",
-        "actionid": 5008,
-        "actioncode": "",
-        "tenantId": "cg"
-      }
-    ,
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_QUALITY_AUDITOR",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GEO_HYDROLOGIST",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GEO_TECHNICAL_ENGINEER",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_FIRE_OFFICER",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_CONSTRUCTION_ENGINEER",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_STRUCTURALENGINEER",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_CONSTRUCTION_MANAGEMENT_AGENCY",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_QUALITY_AUDIT_AGENCY",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GROUP_OR_AGENCY",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 5008,
@@ -32252,113 +32246,114 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-      {
-        "rolecode": "BPA_L1_VERIFIER",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_L2_VERIFIER",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_L3_VERIFIER",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },{
-        "rolecode": "BPA_L4_VERIFIER",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "CITIZEN",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_ARCHITECT",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_ENGINEER",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_TOWNPLANNER",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_SUPERVISOR",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_QUALITY_AUDITOR",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_GEO_HYDROLOGIST",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_GEO_TECHNICAL_ENGINEER",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_FIRE_OFFICER",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_CONSTRUCTION_ENGINEER",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_STRUCTURALENGINEER",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_CONSTRUCTION_MANAGEMENT_AGENCY",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_QUALITY_AUDIT_AGENCY",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "BPA_GROUP_OR_AGENCY",
-        "actionid": 5009,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
+    {
+      "rolecode": "BPA_L1_VERIFIER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_L2_VERIFIER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_L3_VERIFIER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_L4_VERIFIER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_QUALITY_AUDITOR",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GEO_HYDROLOGIST",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GEO_TECHNICAL_ENGINEER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_FIRE_OFFICER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_CONSTRUCTION_ENGINEER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_STRUCTURALENGINEER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_CONSTRUCTION_MANAGEMENT_AGENCY",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_QUALITY_AUDIT_AGENCY",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GROUP_OR_AGENCY",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
     {
       "rolecode": "BPA_APPROVER",
       "actionid": 5009,
@@ -32466,7 +32461,8 @@
       "actionid": 5010,
       "actioncode": "",
       "tenantId": "cg"
-    },{
+    },
+    {
       "rolecode": "BPA_L4_VERIFIER",
       "actionid": 5010,
       "actioncode": "",
@@ -32621,15 +32617,13 @@
       "actionid": 5024,
       "actioncode": "",
       "tenantId": "cg"
-    }
-  ,
+    },
     {
       "rolecode": "BPA_L4_VERIFIER",
       "actionid": 5024,
       "actioncode": "",
       "tenantId": "cg"
-    }
-  ,
+    },
     {
       "rolecode": "CITIZEN",
       "actionid": 5024,
@@ -33751,7 +33745,8 @@
       "actionid": 5571,
       "actioncode": "",
       "tenantId": "cg"
-    },{
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 883342,
       "actioncode": "",
@@ -33781,8 +33776,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
     {
       "rolecode": "BPA_QUALITY_AUDITOR",
       "actionid": 8900902,
@@ -33807,9 +33800,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 8900902,
@@ -33864,7 +33854,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "BPA_QUALITY_AUDITOR",
       "actionid": 8900903,
@@ -33889,9 +33878,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 8900903,
@@ -34132,9 +34118,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_QUALITY_AUDITOR",
       "actionid": 8900912,
@@ -34159,9 +34142,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 8900912,
@@ -34306,7 +34286,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "BPA_TOWNPLANNER",
       "actionid": 8900919,
@@ -34337,9 +34316,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 8900919,
@@ -34418,9 +34394,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 8900136,
@@ -34456,7 +34429,8 @@
       "actionid": 8900137,
       "actioncode": "",
       "tenantId": "cg"
-    },{
+    },
+    {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 8900136,
       "actioncode": "",
@@ -34480,7 +34454,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "BPA_QUALITY_AUDITOR",
       "actionid": 8900137,
@@ -34505,9 +34478,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 8900137,
@@ -34586,7 +34556,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "BPA_QUALITY_AUDITOR",
       "actionid": 8900802,
@@ -34611,9 +34580,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 8900802,
@@ -34668,7 +34634,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "BPA_QUALITY_AUDITOR",
       "actionid": 8900803,
@@ -34693,9 +34658,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 8900803,
@@ -34942,7 +34904,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "BPA_QUALITY_AUDITOR",
       "actionid": 8900804,
@@ -34967,9 +34928,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 8900804,
@@ -35030,7 +34988,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "BPA_QUALITY_AUDITOR",
       "actionid": 8900913,
@@ -35055,9 +35012,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 8900913,
@@ -35182,25 +35136,25 @@
       "rolecode": "BPA_ARCHITECT",
       "actionid": 8900945,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_ENGINEER",
       "actionid": 8900945,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_TOWNPLANNER",
       "actionid": 8900945,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_SUPERVISOR",
       "actionid": 8900945,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_QUALITY_AUDITOR",
@@ -35226,9 +35180,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 8900945,
@@ -35263,31 +35214,31 @@
       "rolecode": "EMPLOYEE",
       "actionid": 8900134,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 8900134,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_ENGINEER",
       "actionid": 8900134,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_TOWNPLANNER",
       "actionid": 8900134,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_SUPERVISOR",
       "actionid": 8900134,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_QUALITY_AUDITOR",
@@ -35313,9 +35264,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 8900134,
@@ -35350,25 +35298,25 @@
       "rolecode": "BPA_ARCHITECT",
       "actionid": 8900135,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_ENGINEER",
       "actionid": 8900135,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_TOWNPLANNER",
       "actionid": 8900135,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_SUPERVISOR",
       "actionid": 8900135,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_QUALITY_AUDITOR",
@@ -35394,9 +35342,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 8900135,
@@ -35431,31 +35376,31 @@
       "rolecode": "EMPLOYEE",
       "actionid": 8900135,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1453,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1456,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1459,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "CITIZEN",
       "actionid": 1459,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "NOC_CEMP",
@@ -35499,14 +35444,12 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "CITIZEN",
       "actionid": 1798,
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "PROFESSIONAL_DOC_VERIFIER",
       "actionid": 1782,
@@ -35703,421 +35646,421 @@
       "rolecode": "NOC_CEMP",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "NOC_DOC_VERIFIER",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "NOC_FIELD_INSPECTOR",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "NOC_APPROVER",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "PROFESSIONAL_DOC_VERIFIER",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "PROFESSIONAL_VERIFIER",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "PROFESSIONAL_APPROVER",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_JE",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_BI",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_DM",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_ATP",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_AME",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_MTP",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_ME",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_JC",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_CMC",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_EO",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_STP(Field)",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_ADC",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_ATP(HQ)",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_STP(HQ)",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_JE",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_STP",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_ATP_HQ",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_MTP_HQ",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_STP_HQ",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_BI",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_DM",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_ATP",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_AME",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_MTP",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_ME",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_JC",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_CMC",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_EO",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_ADC",
       "actionid": 7007,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "NOC_APPROVER",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "NOC_CEMP",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "NOC_FIELD_INSPECTOR",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "NOC_DOC_VERIFIER",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_JE",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_BI",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_DM",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_ATP",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_AME",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_MTP",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_ME",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_JC",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_CMC",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_EO",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_STP(Field)",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_ADC",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_ATP(HQ)",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_STP(HQ)",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_JE",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_STP",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_ATP_HQ",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_MTP_HQ",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_STP_HQ",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_BI",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_DM",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_ATP",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_AME",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_MTP",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_ME",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_JC",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_CMC",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_EO",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_ADC",
       "actionid": 1755,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "PROFESSIONAL_DOC_VERIFIER",
@@ -36333,175 +36276,175 @@
       "rolecode": "OBPAS_LAYOUT_JE",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_BI",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_DM",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_ATP",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_AME",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_MTP",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_ME",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_JC",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_CMC",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_EO",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_STP(Field)",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_ADC",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_ATP(HQ)",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_LAYOUT_STP(HQ)",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_JE",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_STP",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_ATP_HQ",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_MTP_HQ",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_STP_HQ",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_BI",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_DM",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_ATP",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_AME",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_MTP",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_ME",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_JC",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_CMC",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_EO",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "OBPAS_CLU_ADC",
       "actionid": 1757,
       "actioncode": "",
-       "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "PROFESSIONAL_DOC_VERIFIER",
@@ -36995,7 +36938,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1472,
@@ -37060,43 +37002,43 @@
       "rolecode": "BPA_ARCHITECT",
       "actionid": 3005,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_APPROVER",
       "actionid": 3005,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_DOC_VERIFIER",
       "actionid": 3005,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_VERIFIER",
       "actionid": 3005,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_APPROVER",
       "actionid": 1755,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_DOC_VERIFIER",
       "actionid": 1755,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_VERIFIER",
       "actionid": 1755,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "BPA_APPROVER",
@@ -37120,19 +37062,19 @@
       "rolecode": "CITIZEN",
       "actionid": 883302,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "CITIZEN",
       "actionid": 883301,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "CITIZEN",
       "actionid": 883300,
       "actioncode": "",
-     "tenantId": "cg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "LAYOUT_L1_VERIFIER",
@@ -37656,7 +37598,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "BPA_QUALITY_AUDITOR",
       "actionid": 8900904,
@@ -37813,48 +37754,48 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-      {
-        "rolecode": "WRD_NOC_APPROVER",
-        "actionid": 883340,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "REV_NOC_APPROVER",
-        "actionid": 883340,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "PWD_NOC_APPROVER",
-        "actionid": 883340,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "ELEC_NOC_APPROVER",
-        "actionid": 883340,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "FIRE_NOC_APPROVER",
-        "actionid": 883340,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "SADA_NOC_APPROVER",
-        "actionid": 883340,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
-      {
-        "rolecode": "NHAI_NOC_APPROVER",
-        "actionid": 883340,
-        "actioncode": "",
-        "tenantId": "cg"
-      },
+    {
+      "rolecode": "WRD_NOC_APPROVER",
+      "actionid": 883340,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "REV_NOC_APPROVER",
+      "actionid": 883340,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "PWD_NOC_APPROVER",
+      "actionid": 883340,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "ELEC_NOC_APPROVER",
+      "actionid": 883340,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "FIRE_NOC_APPROVER",
+      "actionid": 883340,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "SADA_NOC_APPROVER",
+      "actionid": 883340,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "NHAI_NOC_APPROVER",
+      "actionid": 883340,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
     {
       "rolecode": "WRD_NOC_APPROVER",
       "actionid": 883341,
@@ -38124,7 +38065,8 @@
       "actionid": 5029,
       "actioncode": "",
       "tenantId": "cg"
-    },{
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 1945,
       "actioncode": "",
@@ -38159,7 +38101,8 @@
       "actionid": 5028,
       "actioncode": "",
       "tenantId": "cg"
-    },{
+    },
+    {
       "rolecode": "LAYOUT_L1_VERIFIER",
       "actionid": 5088,
       "actioncode": "",
@@ -38260,12 +38203,14 @@
       "actionid": 5029,
       "actioncode": "",
       "tenantId": "cg"
-    },{
+    },
+    {
       "rolecode": "LAYOUT_L2_VERIFIER",
       "actionid": 8900137,
       "actioncode": "",
       "tenantId": "cg"
-    },{
+    },
+    {
       "rolecode": "LAYOUT_L2_VERIFIER",
       "actionid": 8900136,
       "actioncode": "",
@@ -38300,7 +38245,8 @@
       "actionid": 5029,
       "actioncode": "",
       "tenantId": "cg"
-    },{
+    },
+    {
       "rolecode": "LAYOUT_L3_VERIFIER",
       "actionid": 8900136,
       "actioncode": "",
@@ -38311,7 +38257,8 @@
       "actionid": 8900918,
       "actioncode": "",
       "tenantId": "cg"
-    }, {
+    },
+    {
       "rolecode": "LAYOUT_L3_VERIFIER",
       "actionid": 8900918,
       "actioncode": "",
@@ -38340,7 +38287,8 @@
       "actionid": 8900136,
       "actioncode": "",
       "tenantId": "cg"
-    },{
+    },
+    {
       "rolecode": "LAYOUT_D1_VERIFIER",
       "actionid": 8900137,
       "actioncode": "",
@@ -38411,7 +38359,8 @@
       "actionid": 8900137,
       "actioncode": "",
       "tenantId": "cg"
-    },{
+    },
+    {
       "rolecode": "LAYOUT_D3_VERIFIER",
       "actionid": 8900136,
       "actioncode": "",
@@ -38543,7 +38492,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 1945,
@@ -38682,7 +38630,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "UC_EMP",
       "actionid": 883304,
@@ -38695,7 +38642,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 883400,
@@ -38744,9 +38690,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 883400,
@@ -38825,9 +38768,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 883401,
@@ -38984,9 +38924,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 883403,
@@ -39269,9 +39206,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 8852653,
@@ -40100,8 +40034,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
     {
       "rolecode": "BPA_QUALITY_AUDITOR",
       "actionid": 8901235,
@@ -40126,9 +40058,6 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-
-
-
     {
       "rolecode": "BPA_CONSTRUCTION_ENGINEER",
       "actionid": 8901235,
@@ -40752,7 +40681,7 @@
       "actionid": 1757,
       "actioncode": "",
       "tenantId": "cg"
-    } ,
+    },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1896,
@@ -40816,6 +40745,12 @@
     {
       "rolecode": "OBPAS REPORTS",
       "actionid": 8900922,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900920,
       "actioncode": "",
       "tenantid": "cg"
     }
