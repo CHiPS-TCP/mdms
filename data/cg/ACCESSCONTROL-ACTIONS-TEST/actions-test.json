@@ -5208,7 +5208,6 @@
       "path": "HRMS.Search",
       "leftIcon": "social:people"
     },
-
     {
       "id": 1776,
       "name": "rainmaker-common-propertytax",
@@ -7320,7 +7319,6 @@
       "rightIcon": "",
       "queryParams": ""
     },
-
     {
       "id": 1943,
       "name": "PropertyTax",
@@ -15856,7 +15854,6 @@
       "orderNumber": 3,
       "enabled": true,
       "parentModule": "Swach",
-      "enabled": true,
       "serviceCode": "Swach",
       "code": "null",
       "path": "",
@@ -15875,7 +15872,6 @@
       "orderNumber": 3,
       "enabled": true,
       "parentModule": "Swach",
-      "enabled": true,
       "serviceCode": "Swach",
       "code": "null",
       "path": "",
@@ -16474,7 +16470,6 @@
       "orderNumber": 3,
       "enabled": true,
       "parentModule": "Swach",
-      "enabled": true,
       "serviceCode": "Swach",
       "code": "null",
       "path": "",
@@ -20547,7 +20542,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 883400,
       "name": "create commencement application",
@@ -21151,6 +21145,64 @@
       "parentModule": "",
       "enabled": false,
       "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900921,
+      "name": "LAYOUT REPORTS",
+      "url": "/report/rainmaker-obpas_layout/_get",
+      "displayName": "LAYOUT REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "LAYOUTREPORTS",
+      "code": "null",
+      "path": "LAYOUT REPORTS"
+    },
+    {
+      "id": 8900922,
+      "name": "LAYOUT REPORTS",
+      "url": "/report/rainmaker-obpas_layout/metadata/_get",
+      "displayName": "LAYOUT REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "LAYOUTREPORTS",
+      "code": "null",
+      "path": "LAYOUT REPORTS"
+    },
+    {
+      "id": 8900923,
+      "name": "Layout Recent Applications Report",
+      "url": "url",
+      "displayName": "Recent Applications Report",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": "LAYOUT REPORTS.Recent Applications Report",
+      "navigationURL": "report/rainmaker-obpas_layout/LayoutApplicationRecentReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900924,
+      "name": "Layout Recent Applications Report Metadata",
+      "url": "/report/rainmaker-obpas_layout/LayoutApplicationRecentReport/metadata/_get",
+      "displayName": "Recent Applications Report",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "LAYOUTREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900925,
+      "name": "Layout Recent Applications Report Data",
+      "url": "/report/rainmaker-obpas_layout/LayoutApplicationRecentReport/_get",
+      "displayName": "Recent Applications Report",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "LAYOUTREPORTS",
       "code": "null",
       "path": ""
     }
