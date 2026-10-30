@@ -40788,6 +40788,31 @@
       "actionid": 8901249,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900923,
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900924,
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900925,
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900921,
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900922,
+      "tenantid": "cg"
     }
   ]
 }
