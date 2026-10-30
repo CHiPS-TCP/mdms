@@ -522,11 +522,11 @@
       "isStateLevel": true,
       "uniqueKeys": ["$.fromFY"]
     },
-	"ReminderPeriods": {
-	  "masterName": "ReminderPeriods",
-	  "isStateLevel": true,
-	  "uniqueKeys": []
-	}
+    "ReminderPeriods": {
+      "masterName": "ReminderPeriods",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    }
   },
   "egov-hrms": {
     "EmployeeStatus": {
@@ -853,6 +853,11 @@
       "masterName": "ChargesType",
       "isStateLevel": true,
       "uniqueKeys": ["$.code", "$name"]
+    },
+    "PermissionFeeRate": {
+      "masterName": "PermissionFeeRate",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code"]
     }
   },
   "clu": {

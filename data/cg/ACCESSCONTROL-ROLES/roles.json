@@ -980,6 +980,48 @@
       "name": "Kibana Dashboard",
       "description": "Kibana Dashboard",
       "groupId": "030"
+    },
+    {
+      "code": "AMALGAMATION_L1_VERIFIER",
+      "name": "AMALGAMATION_L1_VERIFIER",
+      "description": "OBPAS AMALGAMATION workflow Approver",
+      "groupId": "034"
+    },
+    {
+      "code": "AMALGAMATION_L2_VERIFIER",
+      "name": "AMALGAMATION_L2_VERIFIER",
+      "description": "OBPAS AMALGAMATION workflow Approver",
+      "groupId": "034"
+    },
+    {
+      "code": "AMALGAMATION_L3_VERIFIER",
+      "name": "AMALGAMATION_L3_VERIFIER",
+      "description": "OBPAS AMALGAMATION workflow Approver",
+      "groupId": "034"
+    },
+    {
+      "code": "AMALGAMATION_L4_VERIFIER",
+      "name": "AMALGAMATION_L4_VERIFIER",
+      "description": "OBPAS AMALGAMATION workflow Approver",
+      "groupId": "034"
+    },
+    {
+      "code": "AMALGAMATION_D1_VERIFIER",
+      "name": "AMALGAMATION_D1_VERIFIER",
+      "description": "OBPAS AMALGAMATION workflow Approver",
+      "groupId": "034"
+    },
+    {
+      "code": "AMALGAMATION_D2_VERIFIER",
+      "name": "AMALGAMATION_D2_VERIFIER",
+      "description": "OBPAS AMALGAMATION workflow Approver",
+      "groupId": "034"
+    },
+    {
+      "code": "AMALGAMATION_D3_VERIFIER",
+      "name": "AMALGAMATION_D3_VERIFIER",
+      "description": "OBPAS AMALGAMATION workflow Approver",
+      "groupId": "034"
     }
   ]
 }

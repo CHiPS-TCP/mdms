@@ -166,6 +166,11 @@
       "groupId": "033",
       "groupName": "OCCUPANCY Service",
       "description": "Roles related to OCCUPANCY"
+    },
+    {
+      "groupId": "034",
+      "groupName": "AMALGAMATION Service",
+      "description": "Roles related to Amalgamation"
     }
   ]
 }
