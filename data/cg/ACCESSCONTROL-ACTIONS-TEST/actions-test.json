@@ -21149,6 +21149,22 @@
       "path": ""
     },
     {
+      "id": 8900920,
+      "name": "LAYOUT REPORTS",
+      "url": "url",
+      "displayName": "Layout Reports",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": "LAYOUT REPORTS",
+      "navigationURL": "",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
       "id": 8900921,
       "name": "LAYOUT REPORTS",
       "url": "/report/rainmaker-obpas_layout/_get",
