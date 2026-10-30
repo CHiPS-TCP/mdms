@@ -21153,6 +21153,66 @@
       "serviceCode": "layout-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8901245,
+      "name": "get masterrecord through village data api",
+      "url": "/land-services/v1/bhuiyan/najool/getMasterRecord",
+      "displayName": "get masterrecord data",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "land-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901246,
+      "name": "get masterrecord data api",
+      "url": "/land-services/v1/bhuiyan/najool/getData",
+      "displayName": "get masterrecord data",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "land-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901247,
+      "name": "get masterrecord data api",
+      "url": "/land-services/v1/bhuiyan/diversion/getData",
+      "displayName": "get masterrecord data",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "land-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901248,
+      "name": "get masterrecord data api",
+      "url": "/land-services/v1/bhuiyan/najool/getPlotList",
+      "displayName": "get masterrecord data",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "land-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901249,
+      "name": "get masterrecord data api",
+      "url": "/land-services/v1/bhuiyan/diversion/getPlotList",
+      "displayName": "get masterrecord data",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "land-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
