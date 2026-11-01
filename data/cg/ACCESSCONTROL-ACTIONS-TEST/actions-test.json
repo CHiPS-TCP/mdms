@@ -21267,6 +21267,40 @@
       "serviceCode": "LAYOUTREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900926,
+      "name": "LayoutApplicationRecentReport",
+      "url": "url",
+      "displayName": "Recent Applications Report (test1)",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "rainmaker-obpas_layout",
+      "enabled": true,
+      "serviceCode": "LAYOUTREPORTS",
+      "code": "null",
+      "tenantId": "cg",
+      "path": "HRMS.HRMS Reports.Recent Applications Report (test1)",
+      "navigationURL": "report/rainmaker-obpas_layout/LayoutApplicationRecentReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900927,
+      "name": "LayoutApplicationRecentReport",
+      "url": "url",
+      "displayName": "Recent Applications Report (test2)",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "HRMSREPORTS",
+      "code": "null",
+      "tenantId": "cg",
+      "path": "HRMS.HRMS Reports.Recent Applications Report (test2)",
+      "navigationURL": "report/rainmaker-obpas_layout/LayoutApplicationRecentReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
