@@ -21153,6 +21153,18 @@
       "serviceCode": "layout-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8901245,
+      "name": "Search Approved layout Applications",
+      "url": "/layout-services/v1/layout/_searchapproved",
+      "parentModule": "",
+      "displayName": "Approved layout Applications",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
