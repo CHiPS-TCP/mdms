@@ -21301,6 +21301,18 @@
       "navigationURL": "report/rainmaker-obpas_layout/LayoutApplicationRecentReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 8901250,
+      "name": "Search Approved layout Applications",
+      "url": "/layout-services/v1/layout/_searchapproved",
+      "parentModule": "",
+      "displayName": "Approved layout Applications",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
