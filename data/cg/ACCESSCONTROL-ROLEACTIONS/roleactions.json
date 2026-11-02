@@ -40702,12 +40702,6 @@
       "actionid": 1896,
       "actioncode": "",
       "tenantId": "cg"
-    } ,
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 8901245,
-      "actioncode": "",
-      "tenantId": "cg"
     }
   ]
 }
