@@ -952,7 +952,7 @@
           "code": "PATERAPALI",
           "name": "Paterapali",
           "active": true,
-          "villageCode": "446082"
+          "villageCode": "956149"
         },
         {
           "code": "JHILMILA",
@@ -18740,18 +18740,6 @@
           "villageCode": "931410"
         },
         {
-          "code": "RAMHEPUR_437715",
-          "name": "Ramhepur",
-          "active": true,
-          "villageCode": "437715"
-        },
-        {
-          "code": "RAMHEPUR_437668",
-          "name": "Ramhepur",
-          "active": true,
-          "villageCode": "437668"
-        },
-        {
           "code": "TULSAGHAT",
           "name": "Tulsaghat",
           "active": true,
@@ -18892,8 +18880,8 @@
           "villageCode": "438500"
         },
         {
-          "code": "SAWANGA",
-          "name": "Sawanga",
+          "code": "SAWAN",
+          "name": "Sawan",
           "active": true,
           "villageCode": "438494"
         },
