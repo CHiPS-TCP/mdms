@@ -589,8 +589,8 @@
                     "name": "NA"
                 },
                 {
-                    "code": "RESIDENTIAL_R1",
-                    "name": "Residential R1"
+                    "code": "AGRICULTURAL",
+                    "name": "Agricultural"
                 },
                 {
                     "code": "COMMERCIAL",
@@ -609,16 +609,12 @@
                     "name": "Recreational"
                 },
                 {
+                    "code": "RESIDENTIAL",
+                    "name": "Residential"
+                },
+                {
                     "code": "TRANSPORTATION",
                     "name": "Transportation"
-                },
-                {
-                    "code": "AGRICULTURAL",
-                    "name": "Agricultural"
-                },
-                {
-                    "code": "RESTRICTED_AGRICULTURE",
-                    "name": "Restricted Agriculture"
                 }
             ]
         },
