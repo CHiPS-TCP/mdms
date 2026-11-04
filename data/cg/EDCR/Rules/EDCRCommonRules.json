@@ -75249,7 +75249,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
-						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT","F-C","F-C1","F-C3", "F-CB", "F-CA"],
+						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT","F-C","F-C1", "F-C2", "F-C3", "F-CB", "F-CA"],
 						"useVariable": "plotArea",
 						"value": [
 							{
@@ -76909,7 +76909,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
-						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT","F-C","F-C1","F-C3", "F-CB", "F-CA"],
+						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT","F-C","F-C2","F-C1","F-C3", "F-CB", "F-CA"],
 						"useVariable": "plotArea",
 						"value": [
 							{
@@ -78593,7 +78593,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
-						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT","F-C","F-C1","F-C3", "F-CB", "F-CA"],
+						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT","F-C","F-C1","F-C2","F-C3", "F-CB", "F-CA"],
 						"useVariable": "plotArea",
 						"value": [
 							{
@@ -80271,7 +80271,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
-						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT","F-C","F-C1","F-C3", "F-CB", "F-CA"],
+						"proposedSubOccupancy": ["E-OB", "F-HM", "F-RT","F-C","F-C1","F-C2","F-C3", "F-CB", "F-CA"],
 						"useVariable": "plotArea",
 						"value": [
 							{

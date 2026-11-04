@@ -1,7 +1,7 @@
 {
 	"tenantId": "cg",
 	"moduleName": "EDCR.Rules.BPA",
-	"BILASPUR_DEVELOPMENT_PLAN_MASTER_PLAN": [
+	"BILASPUR_DEVELOPMENT_PLAN__MASTER_PLAN": [
 		{
 			"code": "101",
 			"name": "M1",
@@ -188,7 +188,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -1274,8 +1273,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -1881,7 +1888,6 @@
 						]
 					},
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -2992,8 +2998,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -3501,7 +3515,6 @@
 					]
 					},
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -4625,8 +4638,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -5210,7 +5231,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -6081,8 +6101,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -6590,7 +6618,6 @@
 					]
 					},
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -7714,8 +7741,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -8223,7 +8258,6 @@
 					]
 					},
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -9347,8 +9381,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -9937,7 +9979,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -10764,8 +10805,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -11354,7 +11403,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -12181,8 +12229,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -12771,7 +12827,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -13598,8 +13653,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -14188,7 +14251,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -15015,8 +15077,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -15605,7 +15675,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -16432,8 +16501,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -17022,7 +17099,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -17849,8 +17925,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -18439,7 +18523,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -19266,8 +19349,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -19856,7 +19947,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -20721,8 +20811,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -21311,7 +21409,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -22176,8 +22273,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -22766,7 +22871,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -23631,8 +23735,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -24221,7 +24333,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -25086,8 +25197,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -25676,7 +25795,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -26541,8 +26659,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -27312,7 +27438,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -28320,8 +28445,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -28910,7 +29043,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -29781,8 +29913,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -30371,7 +30511,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -31242,8 +31381,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -31832,7 +31979,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -32703,8 +32849,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -33293,7 +33447,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -34164,8 +34317,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -34754,7 +34915,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -35625,8 +35785,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -36215,7 +36383,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -37086,8 +37253,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -37671,7 +37846,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -38411,8 +38585,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -38996,7 +39178,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -39736,8 +39917,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -40245,7 +40434,6 @@
 					]
 				},
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -41116,8 +41304,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -41625,7 +41821,6 @@
 					]
 					},
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -42496,8 +42691,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -42953,7 +43156,6 @@
 						"value": 40
 					},
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -43801,8 +44003,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -44251,7 +44461,6 @@
 						"value": 40
 					},
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -45099,8 +45308,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -45682,7 +45899,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -46553,8 +46769,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -47066,7 +47290,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -47882,8 +48105,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -48395,7 +48626,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -49211,8 +49441,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -49796,7 +50034,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -50612,8 +50849,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -51125,7 +51370,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -51941,8 +52185,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -52454,7 +52706,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -53270,8 +53521,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -53783,7 +54042,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -54599,8 +54857,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -55112,7 +55378,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -55820,8 +56085,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -56333,7 +56606,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -57030,8 +57302,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -57620,7 +57900,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -58491,8 +58770,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -59004,7 +59291,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -59820,8 +60106,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -60410,7 +60704,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -61107,8 +61400,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -61697,7 +61998,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -62568,8 +62868,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -63081,7 +63389,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -63897,8 +64204,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -64410,7 +64725,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -65433,8 +65747,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -66132,7 +66454,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -67170,8 +67491,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -67760,7 +68089,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -68794,8 +69122,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -69307,7 +69643,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -70330,8 +70665,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -70843,7 +71186,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -71570,8 +71912,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
@@ -72083,7 +72433,6 @@
 					}
 					],
 					"basementSetback": {
-                        "minPlotArea": 400,
 						"type": "MAP",
                         "valueType": "OBJECT",
                         "value": {
@@ -72810,8 +73159,16 @@
 								"mandatory": true,
 								"type": "RANGE",
 								"value": {
-									"min": 1.2,
-									"max": 1.5
+									"min": 0.9,
+									"max": 1.2
+								}
+							},
+							"minPlotArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 400,
+									"max": 999999999
 								}
 							}
 						}
