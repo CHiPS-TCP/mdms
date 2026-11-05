@@ -41,22 +41,7 @@
       "required": false,
       "active": true,
       "description": "OWNER.ADDITIONAL_DOCUMENTS_DESCRIPTION",
-      "order": 4
-    }, {
-      "code": "OWNER.PROOF_OF_IDENTITY",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.PROOF_OF_IDENTITY_DESCRIPTION",
-      "order": 6
-    },
-    {
-      "code": "OWNER.PROOF_OF_RESIDENCE",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.PROOF_OF_RESIDENCE_DESCRIPTION",
-      "order": 7
+      "order": 5
     },
     {
       "code": "OWNER.SITEPHOTOGRAPHONE",
@@ -64,7 +49,7 @@
       "required": true,
       "active": true,
       "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION",
-      "order": 8
+      "order": 6
     },
     {
       "code": "OWNER.SITEPHOTOGRAPHTWO",
@@ -72,7 +57,7 @@
       "required": true,
       "active": true,
       "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION",
-      "order": 9
+      "order": 7
     },
 	{
 	  "code": "OWNER.SITEPHOTOGRAPHTHREE",
@@ -80,7 +65,7 @@
 	  "required": true,
 	  "active": true,
 	  "description": "OWNER.SITEPHOTOGRAPHTHREE.SITEPHOTOGRAPHTHREE_DESCRIPTION",
-	  "order": 10
+	  "order": 8
 	},
 	{
 	  "code": "OWNER.SITEPHOTOGRAPHFOUR",
@@ -88,7 +73,7 @@
 	  "required": true,
 	  "active": true,
 	  "description": "OWNER.SITEPHOTOGRAPHFOUR.SITEPHOTOGRAPHFOUR_DESCRIPTION",
-	  "order": 11
+	  "order": 9
 	},
     {
       "code": "OWNER.NOTICE_OF_PUBLICATIONS",
@@ -96,7 +81,7 @@
       "required": false,
       "active": true,
       "description": "OWNER.NOTICE_OF_PUBLICATIONS_DESCRIPTION",
-      "order": 12
+      "order": 10
     }
   ]
 }
