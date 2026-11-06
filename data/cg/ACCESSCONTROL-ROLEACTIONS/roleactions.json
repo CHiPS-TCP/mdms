@@ -40732,6 +40732,12 @@
       "actionid": 8901249,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8901250,
+      "actioncode": "",
+      "tenantid": "cg"
     }
   ]
 }
