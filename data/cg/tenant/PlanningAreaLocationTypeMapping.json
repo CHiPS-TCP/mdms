@@ -835,11 +835,6 @@
           "code": "DA-02",
           "name": "DA-02",
           "active": true
-        },
-        {
-          "code": "DA_02",
-          "name": "DA_02",
-          "active": true
         }
       ]
     },
