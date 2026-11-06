@@ -68,6 +68,19 @@
       ]
     },
     {
+      "code": "LORMI_PLANNING_AREA",
+      "name": "Lormi Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
       "code": "AMBAGARH_CHOWKI_PLANNING_AREA",
       "name": "Ambagarh Chowki Planning Area",
       "isMasterPlan": false,
@@ -824,8 +837,8 @@
           "active": true
         },
         {
-          "code": "DA_02",
-          "name": "DA_02",
+          "code": "DA-03",
+          "name": "DA-03",
           "active": true
         }
       ]
