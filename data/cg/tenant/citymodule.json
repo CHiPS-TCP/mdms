@@ -8727,6 +8727,21 @@
       ]
     },
     {
+      "module": "Amalgamation",
+      "code": "Amalgamation",
+      "order": 7,
+      "active": true,
+      "access": "VIEW_AMALGAMATION_CARD",
+      "tenants": [
+        {
+          "code": "cg.testing"
+        },
+        {
+          "code": "cg.tcp"
+        }
+      ]
+    },
+    {
       "module": "NOC",
       "code": "NOC",
       "order": 23,
