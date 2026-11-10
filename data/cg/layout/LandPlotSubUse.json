@@ -3597,7 +3597,8 @@
             "GROUP_HOUSING (A-AF)",
             "RESIDENTIAL-CUM-WORKPLACE (A-R)",
             "STUDENT_HOSTELS (A-H)",
-            "ESSENTIAL_STAFF_ACCOMMODATION (A-R)"
+            "ESSENTIAL_STAFF_ACCOMMODATION (A-R)",
+            "RESIDENCES (A-R)"
           ]
         },
         {
