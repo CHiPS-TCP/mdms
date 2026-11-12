@@ -1,7 +1,7 @@
 {
     "tenantId": "cg",
     "moduleName": "BPA",
-    "RoadWidthLandUseMapping": [
+    "RoadWidthLandUseMapping":  [
       {
         "masterPlan": [
           "RAIPUR MASTER PLAN"
@@ -23387,7 +23387,7 @@
             ]
           },
           {
-            "landUseZone": "PUBLIC & SEMI-PUBLIC / PUBLIC UTILITIES",
+            "landUseZone": "PUBLIC & SEMI-PUBLIC",
             "landPlotUse": [
               {
                 "minWidth": 0,
