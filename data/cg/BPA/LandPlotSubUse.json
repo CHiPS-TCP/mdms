@@ -5448,11 +5448,6 @@
           "plotUse": "PUBLIC & SEMI-PUBLIC",
           "code": "PUBLIC & SEMI-PUBLIC",
           "subUses": [
-            "RADIO_CENTERS (C-I)",
-            "TV_CENTERS (C-I)",
-            "LIBRARY (C-I)",
-            "POLICE_STATION (C-I)",
-            "SOCIAL_INSTITUTIONS (NA)",
             "SPECIALIZED_HOSPITAL_INSTITUTE_SPONSORED_BY_GOVT (C-I)",
             "SPECIALIZED_HOSPITAL_INSTITUTE_SPONSORED_BY_SEMI_GOVT (C-I)",
             "SPECIALIZED_HOSPITAL_INSTITUTE_SPONSORED_BY_REG_ORGANIZATION (C-I)",
