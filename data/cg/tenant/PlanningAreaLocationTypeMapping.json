@@ -883,6 +883,19 @@
       ]
     },
     {
+      "code": "SARGAON_PLANNING_AREA",
+      "name": "Sargaon Planning Area",
+      "isMasterPlan": false,
+      "active": true,
+      "locationTypes": [
+        {
+          "code": "NA",
+          "name": "NA",
+          "active": true
+        }
+      ]
+    },
+    {
       "code": "GARIYABAND_PLANNING_AREA",
       "name": "Gariyaband Planning Area",
       "isMasterPlan": false,
