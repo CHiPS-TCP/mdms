@@ -7941,7 +7941,7 @@
           "subUses": [
             "RESIDENTIAL_COLONY (NA)",
             "RESIDENTIAL_HOUSES (A-R)",
-            "RESIDENTIAL_CUM_WORKPLACE (NA)",
+            "RESIDENTIAL_CUM_WORKPLACE (A-R)",
             "GROUP_HOUSING (NA)"
           ]
         },
