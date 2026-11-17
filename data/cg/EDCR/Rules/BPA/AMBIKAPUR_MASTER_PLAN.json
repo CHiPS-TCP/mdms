@@ -28,12 +28,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -115,12 +113,10 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", "COMMERCIAL"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -250,7 +246,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -1720,12 +1716,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -1802,12 +1796,10 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", "COMMERCIAL"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -1878,7 +1870,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -3444,11 +3436,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -3577,7 +3567,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -5085,12 +5075,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -5157,13 +5145,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -5293,7 +5279,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -6547,11 +6533,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -6680,7 +6664,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -8187,11 +8171,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -8320,7 +8302,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -9828,12 +9810,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -9905,13 +9885,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									  "PUBLIC_SEMI_PUBLIC", "AGRICULTURAL" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -10041,7 +10019,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -11252,12 +11230,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -11329,13 +11305,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									  "PUBLIC_SEMI_PUBLIC", "AGRICULTURAL" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -11465,7 +11439,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -12676,12 +12650,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -12753,13 +12725,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									  "PUBLIC_SEMI_PUBLIC", "AGRICULTURAL" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -12889,7 +12859,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -14100,12 +14070,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -14177,13 +14145,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									  "PUBLIC_SEMI_PUBLIC", "AGRICULTURAL" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -14313,7 +14279,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -15524,12 +15490,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -15601,13 +15565,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									  "PUBLIC_SEMI_PUBLIC", "AGRICULTURAL", "COMMERCIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -15737,7 +15699,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -16948,12 +16910,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -17025,13 +16985,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									  "PUBLIC_SEMI_PUBLIC", "AGRICULTURAL", "COMMERCIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -17161,7 +17119,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -18372,12 +18330,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -18449,13 +18405,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									  "PUBLIC_SEMI_PUBLIC", "AGRICULTURAL", "COMMERCIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -18585,7 +18539,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -19796,12 +19750,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -19873,13 +19825,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									  "PUBLIC_SEMI_PUBLIC", "AGRICULTURAL", "COMMERCIAL", "TRANSPORTATION", "INDUSTRIAL" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -20009,7 +19959,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -21258,12 +21208,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -21335,13 +21283,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									  "PUBLIC_SEMI_PUBLIC", "AGRICULTURAL", "COMMERCIAL", "TRANSPORTATION", "INDUSTRIAL" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -21471,7 +21417,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -22720,12 +22666,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -22797,13 +22741,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R4", 
 									  "PUBLIC_SEMI_PUBLIC", "COMMERCIAL" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -22933,7 +22875,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -24182,12 +24124,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -24259,13 +24199,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									  "PUBLIC_SEMI_PUBLIC", "AGRICULTURAL", "COMMERCIAL", "TRANSPORTATION", "INDUSTRIAL" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -24395,7 +24333,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -25644,12 +25582,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -25721,13 +25657,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									  "PUBLIC_SEMI_PUBLIC", "AGRICULTURAL", "COMMERCIAL", "TRANSPORTATION", "INDUSTRIAL" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -25857,7 +25791,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -27143,12 +27077,10 @@
 					],
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -27220,13 +27152,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									  "PUBLIC_SEMI_PUBLIC", "AGRICULTURAL"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -27293,12 +27223,10 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["COMMERCIAL"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -27365,12 +27293,10 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["TRANSPORTATION", "INDUSTRIAL", "RECREATIONAL" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -27500,7 +27426,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -28892,12 +28818,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -28969,13 +28893,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "AGRICULTURAL" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -29105,7 +29027,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -30360,12 +30282,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -30437,13 +30357,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -30573,7 +30491,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -31828,12 +31746,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -31905,13 +31821,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -32041,7 +31955,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -33296,12 +33210,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -33373,13 +33285,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -33509,7 +33419,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -34764,12 +34674,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -34841,13 +34749,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -34977,7 +34883,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -36232,12 +36138,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -36309,13 +36213,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -36445,7 +36347,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -37700,12 +37602,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -37772,13 +37672,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -37908,7 +37806,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -39032,12 +38930,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -39104,13 +39000,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -39240,7 +39134,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -40362,77 +40256,154 @@
 							"max": 0
 						}
 					},
-					"siteCoverage": {
-						"mandatory": true,
+					"siteCoverage": [
+					{
 						"type": "SLAB",
-						"valueType": "DOUBLE",
+						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
-                                "max": 14.99,
-                                "type": "SLAB",
-                                "useVariable": "plotArea",
-                                "value": [
-                                    {
-                                        "min": 0,
-                                        "max": 99999999,
-                                        "percentage": 100
-                                    }
+								"max": 14.99,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"value": [
+									{
+										"min": 0,
+										"max": 1000,
+										"percentage": 60
+									},
+									{
+										"min": 1000.01,
+										"max": 999999999,
+										"percentage": 50
+									}
 								]
 							},
 							{
-                                "min": 15,
-                                "max": 23.99,
-                                "type": "SLAB",
-                                "useVariable": "plotArea",
-                                "value": [
-                                    {
-                                        "min": 0,
-                                        "max": 8000,
-                                        "percentage": 40
-                                    },
+								"min": 15,
+								"max": 23.99,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"value": [
 									{
-                                        "min": 8000,
-                                        "max": 999999999,
-                                        "percentage": 100
-                                    }
-						]
-					},
+										"min": 0,
+										"max": 8000,
+										"percentage": 40
+									},
+									{
+										"min": 8000,
+										"max": 999999999,
+										"percentage": 50
+									}
+								]
+							},
 							{
-                                "min": 24,
-                                "max": 29.99,
-                                "type": "SLAB",
-                                "useVariable": "plotArea",
-                                "value": [
-                                    {
-                                        "min": 0,
-                                        "max": 10000,
-                                        "percentage": 40
-                                    },
+								"min": 24,
+								"max": 29.99,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"value": [
 									{
-                                        "min": 10000,
-                                        "max": 999999999,
-                                        "percentage": 100
-                                    }
+										"min": 0,
+										"max": 10000,
+										"percentage": 40
+									},
+									{
+										"min": 10000,
+										"max": 999999999,
+										"percentage": 50
+									}
+								]
+							},
+							{
+								"min": 30,
+								"max": 999999999,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"value": [
+									{
+										"min": 0,
+										"max": 999999999,
+										"percentage": 40
+									}
+								]
+							}
 						]
 					},
 					{
-                                "min": 30,
-                                "max": 999999999,
-                                "type": "SLAB",
-                                "useVariable": "plotArea",
-                                "value": [
-                                    {
-                                        "min": 0,
-                                        "max": 999999999,
-                                        "percentage": 40
-                                    }
+						"type": "SLAB",
+						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
+									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION" ],
+						"useVariable": "buildingHeight",
+						"unit": "%",
+						"value": [
+							{
+								"min": 0,
+								"max": 14.99,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"value": [
+									{
+										"min": 0,
+										"max": 99999999,
+										"percentage": 100
+									}
+								]
+							},
+							{
+								"min": 15,
+								"max": 23.99,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"value": [
+									{
+										"min": 0,
+										"max": 8000,
+										"percentage": 40
+									},
+									{
+										"min": 8000,
+										"max": 999999999,
+										"percentage": 100
+									}
+								]
+							},
+							{
+								"min": 24,
+								"max": 29.99,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"value": [
+									{
+										"min": 0,
+										"max": 10000,
+										"percentage": 40
+									},
+									{
+										"min": 10000,
+										"max": 999999999,
+										"percentage": 100
+									}
+								]
+							},
+							{
+								"min": 30,
+								"max": 999999999,
+								"type": "SLAB",
+								"useVariable": "plotArea",
+								"value": [
+									{
+										"min": 0,
+										"max": 999999999,
+										"percentage": 40
+									}
+								]
+							}
 						]
 					}
-					]
-				},
+					],
 					"basementSetback": {
 						"type": "MAP",
                         "valueType": "OBJECT",
@@ -40496,7 +40467,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -41750,11 +41721,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -41883,7 +41852,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -43148,12 +43117,16 @@
                         "value": 0.4
                     },
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
-						"value": 40
+						"unit": "%",
+                        "value": [
+                            {
+                            "min": 0,
+                            "max": 999999999,
+						    "percentage": 40
+                            }
+                        ]
 					},
 					"basementSetback": {
 						"type": "MAP",
@@ -43218,7 +43191,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -44453,12 +44426,16 @@
                         "value": 0.4
                     },
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
-						"value": 40
+						"unit": "%",
+                        "value": [
+                            {
+                            "min": 0,
+                            "max": 999999999,
+						    "percentage": 40
+                            }
+                        ]
 					},
 					"basementSetback": {
 						"type": "MAP",
@@ -44523,7 +44500,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -45748,12 +45725,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -45825,13 +45800,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -45961,7 +45934,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -47216,13 +47189,11 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -47352,7 +47323,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -48552,13 +48523,11 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -48688,7 +48657,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -49888,13 +49857,11 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -49961,12 +49928,10 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["AGRICULTURAL" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -50096,7 +50061,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -51296,13 +51261,11 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -51432,7 +51395,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -52632,13 +52595,11 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -52768,7 +52729,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -53968,13 +53929,11 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -54104,7 +54063,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -55304,13 +55263,11 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -55440,7 +55397,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -56532,13 +56489,11 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -56668,7 +56623,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -57749,12 +57704,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -57826,13 +57779,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -57962,7 +57913,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -59217,13 +59168,11 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -59353,7 +59302,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -60553,12 +60502,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -60630,13 +60577,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -60766,7 +60711,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -61847,12 +61792,10 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -61924,13 +61867,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -62060,7 +62001,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -63315,13 +63256,11 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -63451,7 +63390,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -64651,13 +64590,11 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -64787,7 +64724,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -66231,12 +66168,10 @@
 					],
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["MIXED_USE"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -66308,13 +66243,11 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", "COMMERCIAL",
 									  "PUBLIC_SEMI_PUBLIC", "AGRICULTURAL"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -66381,12 +66314,10 @@
 						]
 					},
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["TRANSPORTATION", "INDUSTRIAL", "RECREATIONAL" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -66516,7 +66447,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -67938,12 +67869,10 @@
 					},
 					"siteCoverage": [
 						{
-							"mandatory": true,
 							"type": "SLAB",
-							"valueType": "DOUBLE",
 							"landUse": ["MIXED_USE"],
 							"useVariable": "buildingHeight",
-							"unit": "percent",
+							"unit": "%",
 							"value": [
 								{
 									"min": 0,
@@ -68015,13 +67944,11 @@
 							]
 						},
 						{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE", "AGRICULTURAL"],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -68086,7 +68013,7 @@
 								]
 							}
 						]
-					}
+						}
 					],
 					"basementSetback": {
 						"type": "MAP",
@@ -68151,7 +68078,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -69569,13 +69496,11 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -69705,7 +69630,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -71112,13 +71037,11 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -71248,7 +71171,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
@@ -72359,13 +72282,11 @@
 					},
 					"siteCoverage": [
 					{
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"landUse": ["RESIDENTIAL_R1", "RESIDENTIAL_R2", "RESIDENTIAL_R3", "RESIDENTIAL_R4", "RESIDENTIAL_R5", 
 									"COMMERCIAL", "INDUSTRIAL", "TRANSPORTATION", "MIXED_USE" ],
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -72495,7 +72416,7 @@
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "DOUBLE",
-						"unit": "percent",
+						"unit": "m",
 						"value": [
 							{
 								"min": 0.0,
