@@ -2518,52 +2518,14 @@
 							}
 						}
 					},
-					"parking": {
+			"parking": {
 						"mandatory": true,
 						"type": "SLAB",
 						"valueType": "OBJECT",
 						"value": [
 							{
-								"min": 0,
-								"max": 100,
-								"twoWheelerSpaces": 2,
-								"ECS": 0
-							},
-							{
-								"min": 101,
-								"max": 150,
-								"twoWheelerSpaces": 0,
-								"ECS": 1
-							},
-							{
-								"min": 151,
-								"max": 200,
-								"twoWheelerSpaces": 0,
-								"ECS": 1
-							},
-							{
-								"min": 201,
-								"max": 300,
-								"twoWheelerSpaces": 0,
-								"ECS": 2
-							},
-							{
-								"min": 301,
-								"max": 500,
-								"twoWheelerSpaces": 0,
-								"ECS": 3
-							},
-							{
-								"min": 501,
-								"max": 1000,
-								"twoWheelerSpaces": 0,
-								"ECS": 3
-							},
-							{
-								"min": 1001,
-								"max": 9999999999,
-								"twoWheelerSpaces": 0,
-								"ECS": 3
+								"divideBy": 0,
+								"min": 0
 							}
 						]
 					},
