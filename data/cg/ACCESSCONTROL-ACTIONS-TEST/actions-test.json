@@ -21279,6 +21279,92 @@
       "serviceCode": "layout-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8901251,
+      "name": "plinth document CheckList Create",
+      "url": "/plinth-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "plinth-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901252,
+      "name": "plinth document CheckList update",
+      "url": "/plinth-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "plinth-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901253,
+      "name": "plinth document CheckList search",
+      "url": "/plinth-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "plinth-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901254,
+      "name": "occupancy Calculator",
+      "url": "/occupancy-calculator/v1/_calculate",
+      "parentModule": "",
+      "displayName": "occupancy Calculator",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "occupancy-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901255,
+      "name": "occupancy document CheckList Create",
+      "url": "/occupancy-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "occupancy-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901256,
+      "name": "occupancy document CheckList update",
+      "url": "/occupancy-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "occupancy-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901257,
+      "name": "occupancy document CheckList search",
+      "url": "/occupancy-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "occupancy-services",
+      "code": "null",
+      "path": ""
     }
+
+
   ]
 }

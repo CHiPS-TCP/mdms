@@ -3,7 +3,7 @@
   "moduleName": "PLINTH",
   "CheckList": [
     {
-      "WFState": "L1_VERIFICATION",
+      "WFState": "L2_VERIFICATION",
       "questions": [
         {
           "question": "IS_LOCATION_AS_PER_APPROVED_LAYOUT_OF_TOWN_AND_COUNTRY_PLANNING_DEPARTMENT",
