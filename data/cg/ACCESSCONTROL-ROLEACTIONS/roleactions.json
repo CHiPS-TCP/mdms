@@ -40738,6 +40738,204 @@
       "actionid": 8901250,
       "actioncode": "",
       "tenantid": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8901243,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8901253,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8901253,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L1_VERIFIER",
+      "actionid": 8901251,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L2_VERIFIER",
+      "actionid": 8901251,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L3_VERIFIER",
+      "actionid": 8901251,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L1_VERIFIER",
+      "actionid": 8901252,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L2_VERIFIER",
+      "actionid": 8901252,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "PLINTH_L3_VERIFIER",
+      "actionid": 8901252,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8901238,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8901254,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8901254,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "OCC_MORE_L1_VERIFIER",
+      "actionid": "8901255",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_MORE_L2_VERIFIER",
+      "actionid": "8901255",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_MORE_L3_VERIFIER",
+      "actionid": "8901255",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_ZERO_L1_VERIFIER",
+      "actionid": "8901255",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_ZERO_L2_VERIFIER",
+      "actionid": "8901255",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_ZERO_L3_VERIFIER",
+      "actionid": "8901255",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_UNDER_L1_VERIFIER",
+      "actionid": "8901255",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_UNDER_L2_VERIFIER",
+      "actionid": "8901255",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_UNDER_L3_VERIFIER",
+      "actionid": "8901255",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_MORE_L1_VERIFIER",
+      "actionid": "8901256",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_MORE_L2_VERIFIER",
+      "actionid": "8901256",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_MORE_L3_VERIFIER",
+      "actionid": "8901256",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_ZERO_L1_VERIFIER",
+      "actionid": "8901256",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_ZERO_L2_VERIFIER",
+      "actionid": "8901256",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_ZERO_L3_VERIFIER",
+      "actionid": "8901256",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_UNDER_L1_VERIFIER",
+      "actionid": "8901256",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_UNDER_L2_VERIFIER",
+      "actionid": "8901256",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "OCC_UNDER_L3_VERIFIER",
+      "actionid": "8901256",
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8901257,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8901257,
+      "actioncode": "",
+      "tenantid": "cg"
     }
   ]
 }
