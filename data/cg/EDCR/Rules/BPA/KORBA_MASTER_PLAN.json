@@ -27,11 +27,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -1827,11 +1825,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -3583,11 +3579,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -5339,11 +5333,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -7095,11 +7087,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -8851,11 +8841,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -10607,11 +10595,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -12122,11 +12108,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -13637,11 +13621,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -15152,11 +15134,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -16667,11 +16647,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -18182,11 +18160,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -19697,11 +19673,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -21212,11 +21186,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -22727,11 +22699,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -24242,11 +24212,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -25757,11 +25725,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -27272,11 +27238,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -28787,11 +28751,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -30302,11 +30264,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -31809,11 +31769,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -33316,11 +33274,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -34823,11 +34779,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -36330,11 +36284,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -37837,11 +37789,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -41840,11 +41790,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -43347,11 +43295,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -44865,13 +44811,17 @@
                         "value": 0.4
                     },
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
-						"value": 40
-				},
+						"unit": "%",
+                        "value": [
+                            {
+                            "min": 0,
+                            "max": 999999999,
+						    "percentage": 40
+                            }
+                        ]
+					},
 					"basementSetback": {
 						"type": "MAP",
                         "valueType": "OBJECT",
@@ -46190,13 +46140,17 @@
                         "value": 0.4
                     },
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
-						"value": 40
-				},
+						"unit": "%",
+                        "value": [
+                            {
+                            "min": 0,
+                            "max": 999999999,
+						    "percentage": 40
+                            }
+                        ]
+					},
 					"basementSetback": {
 						"type": "MAP",
                         "valueType": "OBJECT",
@@ -47504,11 +47458,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -49011,11 +48963,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -50339,11 +50289,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -51667,11 +51615,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -52995,11 +52941,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -54323,11 +54267,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -55651,11 +55593,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -56979,11 +56919,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -58307,11 +58245,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -59590,11 +59526,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -61097,11 +61031,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -62425,11 +62357,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -63708,11 +63638,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -65215,11 +65143,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -66543,11 +66469,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -68299,11 +68223,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -70055,11 +69977,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -71811,11 +71731,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -73326,11 +73244,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
@@ -74609,11 +74525,9 @@
 						}
 					},
 					"siteCoverage": {
-						"mandatory": true,
 						"type": "SLAB",
-						"valueType": "DOUBLE",
 						"useVariable": "buildingHeight",
-						"unit": "percent",
+						"unit": "%",
 						"value": [
 							{
 								"min": 0,
