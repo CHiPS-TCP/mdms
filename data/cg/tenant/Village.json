@@ -4370,6 +4370,12 @@
       "active": true,
       "villages": [
         {
+          "code": "PAAHANDA",
+          "name": "Paahanda",
+          "active": true,
+          "villageCode": "443755"
+        },
+        {
           "code": "BALODABAZAR",
           "name": "Balodabazar",
           "active": true,
@@ -4508,12 +4514,6 @@
       "tehsilCode": "LAVAN",
       "active": true,
       "villages": [
-        {
-          "code": "PAHANDA",
-          "name": "Pahanda",
-          "active": true,
-          "villageCode": "443849"
-        },
         {
           "code": "LAVAN",
           "name": "Lavan",
