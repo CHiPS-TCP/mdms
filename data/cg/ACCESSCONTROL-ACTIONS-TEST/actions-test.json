@@ -21033,6 +21033,22 @@
       "rightIcon": ""
     },
     {
+      "id": 8853156,
+      "name": "Kibana Dashboard BPA",
+      "url": "url",
+      "displayName": "BPA",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "Kibana Dashboard",
+      "code": "null",
+      "path": "KibanaDashboard.BPA",
+      "navigationURL": "/kibana-v2/app/dashboards?auth_provider_hint=anonymous1#/view/f4ad73e0-e346-11f1-a3a2-abea12905e9e?_g=()&_a=()",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
       "id": 8901235,
       "name": "create amalgamation application",
       "url": "/amalgamation-services/v1/amalgamation/_create",
