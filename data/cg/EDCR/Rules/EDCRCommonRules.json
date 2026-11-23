@@ -23259,7 +23259,7 @@
 								"min": 0,
 								"max": 999999999,
 								"normal": 1,
-								"purchasable": 1
+								"purchasable": 0
 							}
 						]
 					},
@@ -23580,7 +23580,7 @@
 						"type": "SLAB",
 						"valueType": "OBJECT",
 						"proposedSubOccupancy": ["A-R", "A-AF", "A-LB", "A-DNS" ,"A-H", "A-GH" , "A-IT", "B-E", "B-E1", "B-E2", "B-E3", "B-NS", 
-						 "B-PS", "B-SS", "B-CO", "C-I", "C-H1", "C-H2", "D-AS", "D-AS1", "D-AS2", "D-MCH", "D-CA", "D-M", "E-OB", "F-C", 
+						 "B-PS", "B-SS", "B-CO", "D-AS", "D-AS1", "D-AS2", "D-MCH", "D-CA", "D-M", "E-OB", "F-C", 
 						 "F-C1", "F-C2", "F-C3", "F-SE", "F-SE", "F-RT", "F-HM", "F-SWG", "G-I", "G-WI", "G-CI", "G-GI", "G-SI", "G-OI",
 						 "G-SIT", "G-GIF", "H-A1", "H-A1C", "H-A1I", "H-A2", "H-A2C", "H-A2I", "I-H", "I-M", "I-HP", "J-J", "K-RE",
 						 "L-PA", "L-GP", "L-CC"],
@@ -23589,7 +23589,21 @@
 								"min": 0,
 								"max": 999999999,
 								"normal": 0.15,
-								"purchasable": 0.05
+								"purchasable": 0
+							}
+						]
+					},
+					{
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"proposedSubOccupancy": ["C-I", "C-H1", "C-H2"],
+						"value": [
+							{
+								"min": 0,
+								"max": 999999999,
+								"normal": 1,
+								"purchasable": 0
 							}
 						]
 					},
