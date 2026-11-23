@@ -5694,6 +5694,13 @@
               "active": true,
               "halkaNumber": "00021",
               "riNumber": "04"
+            },
+            {
+              "code": "PAAHANDA",
+              "name": "Paahanda",
+              "active": true,
+              "halkaNumber": "00010",
+              "riNumber": "03"
             }
           ]
         },
@@ -5702,13 +5709,6 @@
           "name": "Lavan",
           "active": true,
           "villages": [
-            {
-              "code": "PAHANDA",
-              "name": "Pahanda",
-              "active": true,
-              "halkaNumber": "00010",
-              "riNumber": "03"
-            }
           ]
         }
       ]
