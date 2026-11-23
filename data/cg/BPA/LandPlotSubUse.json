@@ -3437,7 +3437,7 @@
         },
         {
           "plotUse": "COMMERCIAL_PLOTTING",
-          "code": "Commercial Plotting",
+          "code": "Commercial Plotting (C)",
           "subUses": [
             "COMMERCIAL_PLOTTING (F-C)"
           ]
