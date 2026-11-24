@@ -1,7 +1,7 @@
 {
     "tenantId": "cg",
     "moduleName": "DEMOLITION",
-    "LayoutType": [
+    "DemolitionType": [
 
         {
          "code": "OBPAS_NOC",
