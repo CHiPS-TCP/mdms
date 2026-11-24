@@ -876,6 +876,18 @@
     {
       "format": "LT-PAY2/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "amalgamation.pay2.receipt.id"
+    },
+    {
+      "format": "CG/[DISTRICT.CODE]/TNCP/PL1/[cy:yyyy]/[SEQ_EG_DEMOLITION_APP_[TENANT_ID]]",
+      "idname": "demolition.application.number"
+    },
+    {
+      "format": "CG/[DISTRICT.CODE]/TNCP/PLC1/[cy:yyyy]/[SEQ_EG_DEMOLITION_APPVL_[TENANT_ID]]",
+      "idname": "demolition.approval.number"
+    },
+    {
+      "format": "LT-PAY1/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "demolition.pay1.receipt.id"
     }
   ]
 }
