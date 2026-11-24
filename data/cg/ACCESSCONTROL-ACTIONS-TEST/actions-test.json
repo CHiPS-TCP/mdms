@@ -21050,7 +21050,7 @@
       "serviceCode": "Kibana Dashboard",
       "code": "null",
       "path": "KibanaDashboard.BPA",
-      "navigationURL": "/kibana-v2/app/dashboards?auth_provider_hint=anonymous1#/view/f4ad73e0-e346-11f1-a3a2-abea12905e9e?_g=()&_a=()",
+      "navigationURL": "/kibana-v2/app/dashboards?auth_provider_hint=anonymous1#/view/06d31b20-e3ff-11f1-a2ab-f57f54ebf9de?_g=(time:(from:now-30d%2Fd,to:now))&_a=()",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
