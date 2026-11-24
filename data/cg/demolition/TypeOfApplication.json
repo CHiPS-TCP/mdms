@@ -1,0 +1,21 @@
+{
+  "tenantId": "cg",
+  "moduleName": "DEMOLITION",
+  "TypeOfApplication": [
+    {
+      "name": "New",
+      "code": "NEW",
+      "active": true
+    },
+    {
+      "name": "Amendment",
+      "code": "AMENDMENT",
+      "active": true
+    },
+    {
+      "name": "Revalidation",
+      "code": "REVALIDATION",
+      "active": true
+    }
+  ]
+}

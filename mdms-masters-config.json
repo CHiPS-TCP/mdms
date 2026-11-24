@@ -1028,5 +1028,12 @@
       "isStateLevel": true,
       "uniqueKeys": []
     }
+  },
+  "demolition": {
+    "ChargesType": {
+      "masterName": "ChargesType",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code", "$name"]
+    }
   }
 }

@@ -8323,6 +8323,16 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "DEMOLITION.PAY1",
+      "name": "DEMOLITION PROCESSING FEE",
+      "code": "DEMOLITION_PROCESSING_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }
