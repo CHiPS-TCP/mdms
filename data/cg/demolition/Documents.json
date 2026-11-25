@@ -1,95 +1,46 @@
 {
   "tenantId": "cg",
   "moduleName": "DEMOLITION",
-  "LayoutDocuments": [
+  "DemolitionDocuments": [
     {
-      "code": "OWNER.NAZUL_NOC",
+      "code": "OWNER.LAND_OWNERSHIP_DOCUMENTS",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
-      "description": "OWNER.NAZUL_NOC_DESCRIPTION",
+      "description": "OWNER.LAND_OWNERSHIP_DOCUMENTS_DESCRIPTION",
       "order": 1
     },
     {
-      "code": "OWNER.COLONIZER_REG_CERTIFICATE",
+      "code": "OWNER.B1_KHASRA",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
-      "description": "OWNER.COLONIZER_REG_CERTIFICATE_DESCRIPTION",
+      "description": "OWNER.B1_KHASRA_DESCRIPTION",
       "order": 2
     },
     {
-      "code": "OWNER.DRAWING_PARKING_SERVICE_PLAN",
+      "code": "OWNER.KHASRA_MAP",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.DRAWING_PARKING_SERVICE_PLAN_DESCRIPTION",
+      "description": "OWNER.KHASRA_MAP_DESCRIPTION",
       "order": 3
     },
     {
-      "code": "OWNER.DRAWING_APPROACH_ROAD",
+      "code": "OWNER.DRAWING_KEY_SITE_LAYOUT_BUILDING_SERVICE_PLAN",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.DRAWING_APPROACH_ROAD_DESCRIPTION",
+      "description": "OWNER.DRAWING_KEY_SITE_LAYOUT_BUILDING_SERVICE_PLAN_DESCRIPTION",
       "order": 4
     },
     {
-      "code": "OWNER.SURVEY_PLAN_MAP",
+      "code": "OWNER.OWNERS_AFFIDAVIT",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SURVEY_PLAN_MAP_DESCRIPTION",
+      "description": "OWNER.OWNERS_AFFIDAVIT_DESCRIPTION",
       "order": 5
-    },
-    {
-      "code": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.SUPERIMPOSED_LAYOUT_KHASRA_MAP_DESCRIPTION",
-      "order": 6
-    },
-
-    {
-      "code": "OWNER.ADDITIONAL_DOCUMENTS",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.ADDITIONAL_DOCUMENTS_DESCRIPTION",
-      "order": 7
-    },
-    {
-      "code": "OWNER.B1_KHASRA_DETAILS",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.B1_KHASRA_DETAILS_DESCRIPTION",
-      "order": 8
-    },
-    {
-      "code": "OWNER.AGREEMENT_OWNER_DEVELOPER",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.AGREEMENT_OWNER_DEVELOPER_DESCRIPTION",
-      "order": 9
-    },
-    {
-      "code": "OWNER.SIGNATORY_AUTHORIZATION_DOCUMENT",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.SIGNATORY_AUTHORIZATION_DOCUMENT_DESCRIPTION",
-      "order": 10
-    },
-    {
-      "code": "OWNER.SELF_DECLARATION_BY_SIGNATORY",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.SELF_DECLARATION_BY_SIGNATORY_DESCRIPTION",
-      "order": 11
     },
     {
       "code": "OWNER.SITEPHOTOGRAPHONE",
@@ -97,7 +48,7 @@
       "required": true,
       "active": true,
       "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION",
-      "order": 12
+      "order": 6
     },
     {
       "code": "OWNER.SITEPHOTOGRAPHTWO",
@@ -105,23 +56,31 @@
       "required": true,
       "active": true,
       "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION",
-      "order": 13
+      "order": 7
     },
-	{
-	  "code": "OWNER.SITEPHOTOGRAPHTHREE",
-	  "documentType": "OWNER",
-	  "required": true,
-	  "active": true,
-	  "description": "OWNER.SITEPHOTOGRAPHTHREE.SITEPHOTOGRAPHTHREE_DESCRIPTION",
-	  "order": 14
-	},
-	{
-	  "code": "OWNER.SITEPHOTOGRAPHFOUR",
-	  "documentType": "OWNER",
-	  "required": true,
-	  "active": true,
-	  "description": "OWNER.SITEPHOTOGRAPHFOUR.SITEPHOTOGRAPHFOUR_DESCRIPTION",
-	  "order": 15
-	}
+    {
+      "code": "OWNER.SITEPHOTOGRAPHTHREE",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.SITEPHOTOGRAPHTHREE.SITEPHOTOGRAPHTHREE_DESCRIPTION",
+      "order": 8
+    },
+    {
+      "code": "OWNER.SITEPHOTOGRAPHFOUR",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.SITEPHOTOGRAPHFOUR.SITEPHOTOGRAPHFOUR_DESCRIPTION",
+      "order": 9
+    },
+    {
+      "code": "OWNER.ADDITIONAL_DOCUMENTS",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.ADDITIONAL_DOCUMENTS_DESCRIPTION",
+      "order": 10
+    }
   ]
 }
