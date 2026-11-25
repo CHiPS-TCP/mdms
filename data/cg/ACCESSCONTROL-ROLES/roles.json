@@ -1034,6 +1034,24 @@
       "name": "AMALGAMATION_D3_VERIFIER",
       "description": "OBPAS AMALGAMATION workflow Approver",
       "groupId": "034"
+    },
+    {
+      "code": "DEMOLITION_L1_VERIFIER",
+      "name": "DEMOLITION_L1_VERIFIER",
+      "description": "OBPAS DEMOLITION workflow Approver",
+      "groupId": "035"
+    },
+    {
+      "code": "DEMOLITION_L2_VERIFIER",
+      "name": "DEMOLITION_L2_VERIFIER",
+      "description": "OBPAS DEMOLITION workflow Approver",
+      "groupId": "035"
+    },
+    {
+      "code": "DEMOLITION_L3_VERIFIER",
+      "name": "DEMOLITION_L3_VERIFIER",
+      "description": "OBPAS DEMOLITION workflow Approver",
+      "groupId": "035"
     }
   ]
 }

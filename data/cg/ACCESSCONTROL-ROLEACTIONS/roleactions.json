@@ -40957,6 +40957,170 @@
       "actionid": 8901257,
       "actioncode": "",
       "tenantid": "cg"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 8901258,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 8901258,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 8901258,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 8901258,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_QUALITY_AUDITOR",
+      "actionid": 8901258,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GEO_HYDROLOGIST",
+      "actionid": 8901258,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GEO_TECHNICAL_ENGINEER",
+      "actionid": 8901258,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_FIRE_OFFICER",
+      "actionid": 8901258,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_CONSTRUCTION_ENGINEER",
+      "actionid": 8901258,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_STRUCTURALENGINEER",
+      "actionid": 8901258,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_CONSTRUCTION_MANAGEMENT_AGENCY",
+      "actionid": 8901258,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_QUALITY_AUDIT_AGENCY",
+      "actionid": 8901258,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_GROUP_OR_AGENCY",
+      "actionid": 8901258,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8901260,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "DEMOLITION_L1_VERIFIER",
+      "actionid": 8901260,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "DEMOLITION_L2_VERIFIER",
+      "actionid": 8901260,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "DEMOLITION_L3_VERIFIER",
+      "actionid": 8901260,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8901259,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8901259,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8901261,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8901261,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8901262,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8901262,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8901263,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8901264,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8901264,
+      "actioncode": "",
+      "tenantid": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8901265,
+      "actioncode": "",
+      "tenantid": "cg"
     }
+
+
   ]
 }

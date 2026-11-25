@@ -21379,8 +21379,99 @@
       "serviceCode": "occupancy-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8901258,
+      "name": "demolition create",
+      "url": "/demolition-services/v1/demolition/_create",
+      "displayName": "demolition create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "demolition-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901259,
+      "name": "demolition search",
+      "url": "/demolition-services/v1/demolition/_search",
+      "displayName": "demolition search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "demolition-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901260,
+      "name": "demolition update",
+      "url": "/demolition-services/v1/demolition/_update",
+      "displayName": "demolition update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "demolition-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901261,
+      "name": "demolition calculate",
+      "url": "/demolition-calculator/v1/_calculate",
+      "displayName": "demolition calculate",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "demolition-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901262,
+      "name": "Demolition Collection Search Reciept",
+      "url": "/collection-services/payments/DEMOLITION.PAY1/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901263,
+      "name": "Demolition checklist create",
+      "url": "/demolition-services/v1/checklist/_create",
+      "displayName": "Demolition checklist create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "demolition-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901264,
+      "name": "Demolition checklist search",
+      "url": "/demolition-services/v1/checklist/_search",
+      "displayName": "Demolition checklist search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "demolition-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901265,
+      "name": "Demolition checklist update",
+      "url": "/demolition-services/v1/checklist/_update",
+      "displayName": "Demolition checklist update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "demolition-services",
+      "code": "null",
+      "path": ""
     }
-
 
   ]
 }

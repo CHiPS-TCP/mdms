@@ -171,6 +171,11 @@
       "groupId": "034",
       "groupName": "AMALGAMATION Service",
       "description": "Roles related to Amalgamation"
+    },
+    {
+      "groupId": "035",
+      "groupName": "DEMOLITION Service",
+      "description": "Roles related to Demolition"
     }
   ]
 }
