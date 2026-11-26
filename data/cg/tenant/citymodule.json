@@ -8742,6 +8742,21 @@
       ]
     },
     {
+      "module": "Demolition",
+      "code": "Demolition",
+      "order": 8,
+      "active": true,
+      "access": "VIEW_DEMOLITION_CARD",
+      "tenants": [
+        {
+          "code": "cg.testing"
+        },
+        {
+          "code": "cg.tcp"
+        }
+      ]
+    },
+    {
       "module": "NOC",
       "code": "NOC",
       "order": 23,
