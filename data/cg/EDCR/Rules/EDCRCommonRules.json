@@ -78837,7 +78837,13 @@
 						"value": [
 							{
 								"min": 0,
-								"max": 1000,
+								"max": 499.99,
+								"normal": 1.8,
+								"purchasable": 0
+							},
+							{
+								"min": 500,
+								"max": 999.99,
 								"normal": 2,
 								"purchasable": 0
 							},
@@ -78966,7 +78972,13 @@
 						"value": [
 							{
 								"min": 0,
-								"max": 1000,
+								"max": 499.99,
+								"normal": 1.8,
+								"purchasable": 0
+							},
+							{
+								"min": 500,
+								"max": 999.99,
 								"normal": 2,
 								"purchasable": 0
 							},
@@ -79224,7 +79236,13 @@
 						"value": [
 							{
 								"min": 0,
-								"max": 1000,
+								"max": 499.99,
+								"normal": 1.8,
+								"purchasable": 0
+							},
+							{
+								"min": 500,
+								"max": 999.99,
 								"normal": 2,
 								"purchasable": 0
 							},
@@ -79353,7 +79371,13 @@
 						"value": [
 							{
 								"min": 0,
-								"max": 1000,
+								"max": 499.99,
+								"normal": 1.8,
+								"purchasable": 0
+							},
+							{
+								"min": 500,
+								"max": 999.99,
 								"normal": 2,
 								"purchasable": 0
 							},
