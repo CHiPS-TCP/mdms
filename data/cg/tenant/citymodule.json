@@ -8757,6 +8757,21 @@
       ]
     },
     {
+      "module": "Reports",
+      "code": "Reports",
+      "order": 9,
+      "active": true,
+      "access": "VIEW_REPORT_CARD",
+      "tenants": [
+        {
+          "code": "cg.testing"
+        },
+        {
+          "code": "cg.tcp"
+        }
+      ]
+    },
+    {
       "module": "NOC",
       "code": "NOC",
       "order": 23,
