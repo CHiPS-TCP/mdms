@@ -21258,14 +21258,14 @@
       "serviceCode": "LAYOUTREPORTS",
       "code": "null",
       "path": "LAYOUT Reports.Recent Applications Report",
-      "navigationURL": "report/rainmaker-obpas_layout/LayoutApplicationRecentReport",
+      "navigationURL": "report/rainmaker-obpas_layout/ApplicationDetailReportlayout",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
     {
       "id": 8900924,
       "name": "Layout Recent Applications Report",
-      "url": "/report/rainmaker-obpas_layout/LayoutApplicationRecentReport/metadata/_get",
+      "url": "/report/rainmaker-obpas_layout/ApplicationDetailReportlayout/metadata/_get",
       "displayName": "Recent Applications Report",
       "orderNumber": 1,
       "enabled": true,
@@ -21276,7 +21276,7 @@
     {
       "id": 8900925,
       "name": "Layout Recent Applications Report",
-      "url": "/report/rainmaker-obpas_layout/LayoutApplicationRecentReport/_get",
+      "url": "/report/rainmaker-obpas_layout/ApplicationDetailReportlayout/_get",
       "displayName": "Recent Applications Report",
       "orderNumber": 1,
       "enabled": true,
