@@ -2,10 +2,10 @@
   "tenantId": "cg",
   "moduleName": "BPA",
   "CheckList": [
+
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "LOW",
       "WFState": "L2_VERIFICATION",
       "questions": [
         {
@@ -254,5 +254,6 @@
         }
       ]
     }
+
   ]
 }
