@@ -2,7 +2,22 @@
 	"tenantId": "cg",
 	"moduleName": "occupancy",
 	"ChargesType": [
-
+		{
+			"code": "102",
+			"name": "OCCUPANCY",
+			"fromFY": "2025-26",
+			"startingDate": 1743465600000,
+			"endingDate": 1775001599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "Regularisation penalty fee",
+					"rate": 0.0,
+					"taxHeadCode": "REGULARISATION_PENALTY_FEE",
+					"applicable": true
+				}
+			]
+		},
 		{
 			"code": "102",
 			"name": "OCCUPANCY",
