@@ -1,7 +1,7 @@
 
 {
   "tenantId": "cg",
-  "moduleName": "NOC",
+  "moduleName": "OCCUPANCY",
   "Documents": [
     {
       "code": "OWNER.AUTHORIZATIONLETTER",
