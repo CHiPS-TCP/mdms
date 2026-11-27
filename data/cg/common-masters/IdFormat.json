@@ -878,11 +878,11 @@
       "idname": "amalgamation.pay2.receipt.id"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/PL1/[cy:yyyy]/[SEQ_EG_DEMOLITION_APP_[TENANT_ID]]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/DM1/[cy:yyyy]/[SEQ_EG_DEMOLITION_APP_[TENANT_ID]]",
       "idname": "demolition.application.number"
     },
     {
-      "format": "CG/[DISTRICT.CODE]/TNCP/PLC1/[cy:yyyy]/[SEQ_EG_DEMOLITION_APPVL_[TENANT_ID]]",
+      "format": "CG/[DISTRICT.CODE]/TNCP/DMC1/[cy:yyyy]/[SEQ_EG_DEMOLITION_APPVL_[TENANT_ID]]",
       "idname": "demolition.approval.number"
     },
     {
